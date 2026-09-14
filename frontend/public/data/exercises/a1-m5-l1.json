@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m5-l1",
+  "exercises": [
+    {
+      "id": "ex_a1_m5_l1_01",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Continuous — Form):",
+      "options": [
+        "I am busy now.",
+        "I XXX busy now.",
+        "No correct form.",
+        "now. busy am I"
+      ],
+      "answer": "I am busy now.",
+      "explanation": "This follows the pattern taught in Present Continuous — Form."
+    },
+    {
+      "id": "ex_a1_m5_l1_02",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Present Continuous — Form\"?",
+      "options": [
+        "now",
+        "at the moment",
+        "cook",
+        "xyzabc"
+      ],
+      "answer": "now",
+      "explanation": "\"now\" (agora) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l1_03",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ the moment I am studying.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Am/is/are + verb-ing for actions NOW."
+    },
+    {
+      "id": "ex_a1_m5_l1_04",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "fill_blank",
+      "question": "Complete: I am busy ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m5_l1_05",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "fill_blank",
+      "question": "Complete: ___ the moment I am studying.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Am/is/are + verb-ing for actions NOW."
+    },
+    {
+      "id": "ex_a1_m5_l1_06",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "fill_blank",
+      "question": "Complete: ___ is cooking dinner.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l1_07",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "true_false",
+      "question": "True or false: \"I am busy now.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l1_08",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "true_false",
+      "question": "True or false: I WRONG busy now. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l1_09",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "now",
+          "right": "agora"
+        },
+        {
+          "left": "at the moment",
+          "right": "no momento"
+        },
+        {
+          "left": "cook",
+          "right": "cozinhar"
+        },
+        {
+          "left": "read",
+          "right": "ler"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l1_10",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "now",
+          "right": "agora"
+        },
+        {
+          "left": "at the moment",
+          "right": "no momento"
+        },
+        {
+          "left": "cook",
+          "right": "cozinhar"
+        },
+        {
+          "left": "read",
+          "right": "ler"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m5_l1_11",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"I WRONG busy now.\"",
+      "answer": "I am busy now.",
+      "answers": [
+        "I am busy now."
+      ],
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l1_12",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"cook\"?",
+      "options": [
+        "cozinhar",
+        "agora",
+        "no momento",
+        "none of these"
+      ],
+      "answer": "cozinhar",
+      "explanation": "\"cook\" means \"cozinhar\"."
+    }
+  ]
+}

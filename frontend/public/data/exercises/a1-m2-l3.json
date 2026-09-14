@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m2-l3",
+  "exercises": [
+    {
+      "id": "ex_a1_m2_l3_01",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Plural Nouns):",
+      "options": [
+        "I have two cats.",
+        "I XXX two cats.",
+        "No correct form.",
+        "cats. two have I"
+      ],
+      "answer": "I have two cats.",
+      "explanation": "This follows the pattern taught in Plural Nouns."
+    },
+    {
+      "id": "ex_a1_m2_l3_02",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Plural Nouns\"?",
+      "options": [
+        "child",
+        "children",
+        "person",
+        "xyzabc"
+      ],
+      "answer": "child",
+      "explanation": "\"child\" (criança) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l3_03",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ children play outside.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Most nouns add -s for plural. Learn high-frequency irregular plurals. Verb agreement: one book → it is; two books → they are."
+    },
+    {
+      "id": "ex_a1_m2_l3_04",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "fill_blank",
+      "question": "Complete: The ___ is happy.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m2_l3_05",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "fill_blank",
+      "question": "Complete: ___ children play outside.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Most nouns add -s for plural. Learn high-frequency irregular plurals. Verb agreement: one book → it is; two books → they"
+    },
+    {
+      "id": "ex_a1_m2_l3_06",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "fill_blank",
+      "question": "Complete: ___ person waits.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l3_07",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "true_false",
+      "question": "True or false: \"I have two cats.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l3_08",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "true_false",
+      "question": "True or false: Two childs is grammatically correct.",
+      "answer": false,
+      "explanation": "Child has irregular plural."
+    },
+    {
+      "id": "ex_a1_m2_l3_09",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "child",
+          "right": "criança"
+        },
+        {
+          "left": "children",
+          "right": "crianças"
+        },
+        {
+          "left": "person",
+          "right": "pessoa"
+        },
+        {
+          "left": "people",
+          "right": "pessoas"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l3_10",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "child",
+          "right": "criança"
+        },
+        {
+          "left": "children",
+          "right": "crianças"
+        },
+        {
+          "left": "person",
+          "right": "pessoa"
+        },
+        {
+          "left": "people",
+          "right": "pessoas"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m2_l3_11",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"Two childs\"",
+      "answer": "Two children",
+      "answers": [
+        "Two children"
+      ],
+      "explanation": "Child has irregular plural."
+    },
+    {
+      "id": "ex_a1_m2_l3_12",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"person\"?",
+      "options": [
+        "pessoa",
+        "criança",
+        "crianças",
+        "none of these"
+      ],
+      "answer": "pessoa",
+      "explanation": "\"person\" means \"pessoa\"."
+    }
+  ]
+}

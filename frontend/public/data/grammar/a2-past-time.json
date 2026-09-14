@@ -1,0 +1,26 @@
+{
+  "id": "a2-past-time",
+  "level": "A2",
+  "title": "Past Time Expressions",
+  "topic": "past_time",
+  "summary": "Last + period: last month, last year | … ago: three years ago | In + past year: in 2019 | On + past day: on Monday (fini",
+  "rule": "Last + period: last month, last year | … ago: three years ago | In + past year: in 2019 | On + past day: on Monday (finished)",
+  "examples": [
+    "I started gym last month.",
+    "They moved last year.",
+    "In 2020 we stayed home."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I started gym last month.",
+      "correct": "I started gym last month.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m1-l4"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

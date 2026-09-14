@@ -1,0 +1,220 @@
+{
+  "id": "a1-m4-l3",
+  "moduleId": "a1-m4",
+  "level": "A1",
+  "order": 3,
+  "title": "Present Simple — Questions",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use present simple — questions.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can ask yes/no and wh- questions in present simple.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"present simple — questions\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Present Simple — Questions?"
+    ]
+  },
+  "explanation": "Do you…? / Does he…?\n\nWhere do you live? | What does she do?\n\nShort answers: Yes, I do. / No, she doesn't.\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-present-simple-q",
+    "title": "Present Simple — Questions",
+    "rule": "Do you…? / Does he…?",
+    "examples": [
+      {
+        "sentence": "Do you speak English?",
+        "note": "do"
+      },
+      {
+        "sentence": "Does she live here?",
+        "note": "does"
+      },
+      {
+        "sentence": "What do you do?",
+        "note": "what"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "do",
+      "translation": "auxiliar (pergunta)",
+      "partOfSpeech": "auxiliary",
+      "example": "Do you speak English?",
+      "collocations": []
+    },
+    {
+      "word": "does",
+      "translation": "auxiliar (ele/ela)",
+      "partOfSpeech": "auxiliary",
+      "example": "Does she live here?",
+      "collocations": []
+    },
+    {
+      "word": "what",
+      "translation": "o que",
+      "partOfSpeech": "pronoun",
+      "example": "What do you do?",
+      "collocations": []
+    },
+    {
+      "word": "when",
+      "translation": "quando",
+      "partOfSpeech": "adverb",
+      "example": "When do they start?",
+      "collocations": []
+    },
+    {
+      "word": "why",
+      "translation": "por que",
+      "partOfSpeech": "adverb",
+      "example": "Why do you study English?",
+      "collocations": []
+    },
+    {
+      "word": "where",
+      "translation": "onde",
+      "partOfSpeech": "adverb",
+      "example": "Where do you work?",
+      "collocations": []
+    },
+    {
+      "word": "often",
+      "translation": "frequentemente",
+      "partOfSpeech": "adverb",
+      "example": "How often do you travel?",
+      "collocations": []
+    },
+    {
+      "word": "start",
+      "translation": "começar",
+      "partOfSpeech": "verb",
+      "example": "Work starts at nine.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Present Simple — Questions",
+      "sentences": [
+        "Do you speak English?",
+        "Does she live here?",
+        "What do you do?",
+        "When do they start?"
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m4_l3_01",
+    "ex_a1_m4_l3_02",
+    "ex_a1_m4_l3_03",
+    "ex_a1_m4_l3_04",
+    "ex_a1_m4_l3_05",
+    "ex_a1_m4_l3_06",
+    "ex_a1_m4_l3_07",
+    "ex_a1_m4_l3_08",
+    "ex_a1_m4_l3_09",
+    "ex_a1_m4_l3_10",
+    "ex_a1_m4_l3_11",
+    "ex_a1_m4_l3_12"
+  ],
+  "reading": {
+    "title": "Present Simple — Questions — Reading",
+    "text": "Every day, people use present simple — questions in conversation. Do you speak English? Does she live here? What do you do? This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "do",
+        "explanation": "Focus word: do.",
+        "options": [
+          "do",
+          "does",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"does\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "auxiliar (ele",
+        "explanation": "auxiliar (ele/ela)"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using present simple — questions.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "Do you speak English? Does she live here? What do you do?"
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-present-simple-q"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_do"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_does"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_what"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_when"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_why"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_where"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m4_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m4_l3_10"
+    }
+  ],
+  "checkpointId": "a1-m4-l3-checkpoint",
+  "tutorHints": [
+    "Focus on Present Simple — Questions with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m4-l3.json",
+  "exercisesRef": "exercises/a1-m4-l3.json",
+  "grammarRef": "grammar/a1-present-simple-q.json",
+  "checkpointRef": "assessments/a1-m4-l3-checkpoint.json"
+}

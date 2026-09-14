@@ -1,0 +1,208 @@
+{
+  "id": "a2-m1-l4",
+  "moduleId": "a2-m1",
+  "level": "A2",
+  "order": 4,
+  "title": "Past Time Expressions",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use past time expressions accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can use time expressions with the past simple naturally.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about past time expressions. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use past time expressions?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Last + period: last month, last year | … ago: three years ago | In + past year: in 2019 | On + past day: on Monday (finished)\n\nNo present perfect yet — focus on finished time.",
+  "grammar": {
+    "ruleId": "a2-past-time",
+    "title": "Past Time Expressions",
+    "rule": "Last + period: last month, last year | … ago: three years ago | In + past year: in 2019 | On + past day: on Monday (finished)",
+    "examples": [
+      {
+        "sentence": "I started gym last month.",
+        "note": "last month"
+      },
+      {
+        "sentence": "They moved last year.",
+        "note": "last year"
+      },
+      {
+        "sentence": "In 2020 we stayed home.",
+        "note": "in 2020"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "last month",
+      "translation": "mês passado",
+      "partOfSpeech": "phrase",
+      "example": "I started gym last month.",
+      "collocations": []
+    },
+    {
+      "word": "last year",
+      "translation": "ano passado",
+      "partOfSpeech": "phrase",
+      "example": "They moved last year.",
+      "collocations": []
+    },
+    {
+      "word": "in 2020",
+      "translation": "em 2020",
+      "partOfSpeech": "phrase",
+      "example": "In 2020 we stayed home.",
+      "collocations": []
+    },
+    {
+      "word": "once",
+      "translation": "uma vez",
+      "partOfSpeech": "adverb",
+      "example": "I met him once.",
+      "collocations": []
+    },
+    {
+      "word": "then",
+      "translation": "então / depois",
+      "partOfSpeech": "adverb",
+      "example": "We ate, then we left.",
+      "collocations": []
+    },
+    {
+      "word": "suddenly",
+      "translation": "de repente",
+      "partOfSpeech": "adverb",
+      "example": "Suddenly it rained.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Past Time Expressions",
+      "sentences": [
+        "I started gym last month.",
+        "They moved last year.",
+        "In 2020 we stayed home.",
+        "I met him once."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m1_l4_01",
+    "ex_a2_m1_l4_02",
+    "ex_a2_m1_l4_03",
+    "ex_a2_m1_l4_04",
+    "ex_a2_m1_l4_05",
+    "ex_a2_m1_l4_06",
+    "ex_a2_m1_l4_07",
+    "ex_a2_m1_l4_08",
+    "ex_a2_m1_l4_09",
+    "ex_a2_m1_l4_10",
+    "ex_a2_m1_l4_11",
+    "ex_a2_m1_l4_12"
+  ],
+  "reading": {
+    "title": "Past Time Expressions in Context",
+    "text": "In 2019 I lived in Lisbon. Last year I moved to Porto. Three months ago I changed jobs. At first it was difficult, but then I adapted.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "past time expressions",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"last month\" mean?",
+        "type": "short_answer",
+        "answer": "mês passado",
+        "explanation": "mês passado"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "They moved last year.",
+        "explanation": "They moved last year.",
+        "options": [
+          "They moved last year.",
+          "month. last gym started I",
+          "No sentence fits.",
+          "In 2020 we stayed home."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using past time expressions. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "I started gym last month. They moved last year. In 2020 we stayed home. I met him once."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-past-time"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_last_month"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_last_year"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_in_2020"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_once"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_then"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_suddenly"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m1_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m1_l4_10"
+    }
+  ],
+  "checkpointId": "a2-m1-l4-checkpoint",
+  "tutorHints": [
+    "Target structure: Past Time Expressions.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m1-l4.json",
+  "exercisesRef": "exercises/a2-m1-l4.json",
+  "grammarRef": "grammar/a2-past-time.json",
+  "checkpointRef": "assessments/a2-m1-l4-checkpoint.json"
+}

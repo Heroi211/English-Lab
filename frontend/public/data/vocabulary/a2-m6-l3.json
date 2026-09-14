@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m6-l3",
+  "level": "A2",
+  "topic": "for_since",
+  "items": [
+    {
+      "id": "vocab_since",
+      "word": "since",
+      "translation": "desde",
+      "partOfSpeech": "preposition",
+      "level": "A2",
+      "topic": "for_since",
+      "example": "Since last year.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_for",
+      "word": "for",
+      "translation": "por / durante",
+      "partOfSpeech": "preposition",
+      "level": "A2",
+      "topic": "for_since",
+      "example": "For two hours.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_how_long",
+      "word": "how long",
+      "translation": "há quanto tempo",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "for_since",
+      "example": "How long have you known her?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_duration",
+      "word": "duration",
+      "translation": "duração",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "for_since",
+      "example": "The duration of the contract.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

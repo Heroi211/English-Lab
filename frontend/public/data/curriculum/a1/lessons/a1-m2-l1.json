@@ -1,0 +1,216 @@
+{
+  "id": "a1-m2-l1",
+  "moduleId": "a1-m2",
+  "level": "A1",
+  "order": 1,
+  "title": "Possessive Adjectives",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use my, your, his, her, its, our, their before nouns.",
+    "Distinguish his vs her.",
+    "Talk about ownership."
+  ],
+  "canDo": "I can use possessive adjectives to say who owns something.",
+  "warmUp": {
+    "title": "Posse",
+    "prompt": "Como dizemos \"meu livro\", \"seu carro\", \"a casa deles\" em inglês?",
+    "reflectionQuestions": [
+      "What is the difference between he and his?"
+    ]
+  },
+  "explanation": "Possessive adjectives show ownership. They come BEFORE a noun.\n\nmy (meu/minha) | your (seu/sua) | his (dele) | her (dela) | its (de algo) | our (nosso) | their (deles)\n\nExample: This is my phone. That is her bag.\n\nDo NOT use articles with possessives: ✗ the my book → ✓ my book",
+  "grammar": {
+    "ruleId": "a1-possessives",
+    "title": "Possessive Adjectives",
+    "rule": "Possessive adjectives replace articles before nouns: my book, her car. Match the owner: his = a man/boy, her = a woman/girl, their = plural.",
+    "examples": [
+      {
+        "sentence": "This is my house.",
+        "note": "First person"
+      },
+      {
+        "sentence": "Their children are young.",
+        "note": "Plural owners"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "my",
+      "translation": "meu/minha",
+      "partOfSpeech": "determiner",
+      "example": "This is my book.",
+      "collocations": []
+    },
+    {
+      "word": "your",
+      "translation": "seu/sua",
+      "partOfSpeech": "determiner",
+      "example": "Is this your pen?",
+      "collocations": []
+    },
+    {
+      "word": "his",
+      "translation": "dele",
+      "partOfSpeech": "determiner",
+      "example": "His car is red.",
+      "collocations": []
+    },
+    {
+      "word": "her",
+      "translation": "dela",
+      "partOfSpeech": "determiner",
+      "example": "Her name is Sofia.",
+      "collocations": []
+    },
+    {
+      "word": "our",
+      "translation": "nosso/nossa",
+      "partOfSpeech": "determiner",
+      "example": "Our class is fun.",
+      "collocations": []
+    },
+    {
+      "word": "their",
+      "translation": "deles/delas",
+      "partOfSpeech": "determiner",
+      "example": "Their dog is big.",
+      "collocations": []
+    },
+    {
+      "word": "bag",
+      "translation": "bolsa / mochila",
+      "partOfSpeech": "noun",
+      "example": "This is her bag.",
+      "collocations": []
+    },
+    {
+      "word": "phone",
+      "translation": "telefone / celular",
+      "partOfSpeech": "noun",
+      "example": "My phone is new.",
+      "collocations": []
+    },
+    {
+      "word": "house",
+      "translation": "casa",
+      "partOfSpeech": "noun",
+      "example": "Our house is small.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Lost and found",
+      "sentences": [
+        "Is this your umbrella?",
+        "No, it is not my umbrella. It is her umbrella."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m2_l1_01",
+    "ex_a1_m2_l1_02",
+    "ex_a1_m2_l1_03",
+    "ex_a1_m2_l1_04",
+    "ex_a1_m2_l1_05",
+    "ex_a1_m2_l1_06",
+    "ex_a1_m2_l1_07",
+    "ex_a1_m2_l1_08",
+    "ex_a1_m2_l1_09",
+    "ex_a1_m2_l1_10",
+    "ex_a1_m2_l1_11",
+    "ex_a1_m2_l1_12"
+  ],
+  "reading": {
+    "title": "Whose Is This?",
+    "text": "In the classroom, the teacher finds three items: a blue pen, a red notebook, and a green water bottle. \"Whose pen is this?\" she asks. Marco says: \"It is my pen.\" Lucia says: \"The notebook is her notebook — it has Sofia's name.\" The water bottle is their water bottle — Tom and Ana share it.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Whose pen is it?",
+        "type": "short_answer",
+        "answer": "Marco's / Marco",
+        "explanation": "Marco says it is my pen."
+      },
+      {
+        "id": "r2",
+        "question": "Whose notebook is it?",
+        "type": "short_answer",
+        "answer": "Sofia's / Sofia",
+        "explanation": "Lucia says it is her notebook — Sofia's name."
+      },
+      {
+        "id": "r3",
+        "question": "Do Tom and Ana share the bottle?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "It is their water bottle."
+      },
+      {
+        "id": "r4",
+        "question": "What colour is the pen?",
+        "type": "multiple_choice",
+        "answer": "blue",
+        "explanation": "A blue pen.",
+        "options": [
+          "red",
+          "blue",
+          "green",
+          "black"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Describe 4 things you and your family have. Use my, his, her, our, or their.",
+    "minWords": 25,
+    "modelAnswer": "My laptop is old. My sister's room is big — her room is blue. Our car is white. Their apartment is near the park."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-possessives"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_my"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_your"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_his"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_her"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_our"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_their"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m2_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m2_l1_10"
+    }
+  ],
+  "checkpointId": "a1-m2-l1-checkpoint",
+  "tutorHints": [
+    "Contrast she/her and he/his on the board."
+  ],
+  "vocabularyRef": "vocabulary/a1-m2-l1.json",
+  "exercisesRef": "exercises/a1-m2-l1.json",
+  "grammarRef": "grammar/a1-possessives.json",
+  "checkpointRef": "assessments/a1-m2-l1-checkpoint.json"
+}

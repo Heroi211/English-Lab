@@ -1,0 +1,247 @@
+{
+  "id": "a1-m1-l3",
+  "moduleId": "a1-m1",
+  "level": "A1",
+  "order": 3,
+  "title": "Greetings & Polite Expressions",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use common greetings for different times of day.",
+    "Say goodbye politely.",
+    "Use please, thank you, and excuse me appropriately."
+  ],
+  "canDo": "I can greet people, say goodbye, and use basic polite expressions.",
+  "warmUp": {
+    "title": "Cumprimentos",
+    "prompt": "Como você cumprimenta alguém de manhã? À noite? Em português temos várias formas — em inglês também!",
+    "reflectionQuestions": [
+      "What do you say in the morning?",
+      "How do you say \"com licença\"?"
+    ]
+  },
+  "explanation": "Greetings depend on time and formality.\n\nMorning: Good morning! | Afternoon: Good afternoon! | Evening/night: Good evening! / Good night! (goodbye)\n\nInformal: Hi! / Hello! / Hey!\n\nPolite: Please | Thank you / Thanks | You're welcome | Excuse me | Sorry\n\nGoodbye: Bye! / Goodbye! / See you later! / See you tomorrow!",
+  "grammar": {
+    "ruleId": "a1-greetings",
+    "title": "Greetings & Politeness",
+    "rule": "Good morning/afternoon/evening + name is friendly and polite. Good night is usually a farewell, not a greeting. Please goes before or after a request: Please help me. / Help me, please.",
+    "examples": [
+      {
+        "sentence": "Good morning, Mr. Silva!",
+        "note": "Formal morning"
+      },
+      {
+        "sentence": "Excuse me, is this seat free?",
+        "note": "Polite question"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "good morning",
+      "translation": "bom dia",
+      "partOfSpeech": "phrase",
+      "example": "Good morning, everyone!",
+      "collocations": []
+    },
+    {
+      "word": "good afternoon",
+      "translation": "boa tarde",
+      "partOfSpeech": "phrase",
+      "example": "Good afternoon, Ms. Costa.",
+      "collocations": []
+    },
+    {
+      "word": "good evening",
+      "translation": "boa noite (chegada)",
+      "partOfSpeech": "phrase",
+      "example": "Good evening, welcome!",
+      "collocations": []
+    },
+    {
+      "word": "goodbye",
+      "translation": "adeus / tchau",
+      "partOfSpeech": "phrase",
+      "example": "Goodbye! See you tomorrow.",
+      "collocations": []
+    },
+    {
+      "word": "please",
+      "translation": "por favor",
+      "partOfSpeech": "adverb",
+      "example": "Can I have water, please?",
+      "collocations": []
+    },
+    {
+      "word": "thank you",
+      "translation": "obrigado(a)",
+      "partOfSpeech": "phrase",
+      "example": "Thank you for your help.",
+      "collocations": []
+    },
+    {
+      "word": "you're welcome",
+      "translation": "de nada",
+      "partOfSpeech": "phrase",
+      "example": "Thank you! — You're welcome.",
+      "collocations": []
+    },
+    {
+      "word": "excuse me",
+      "translation": "com licença / desculpe",
+      "partOfSpeech": "phrase",
+      "example": "Excuse me, where is the bathroom?",
+      "collocations": []
+    },
+    {
+      "word": "sorry",
+      "translation": "desculpe",
+      "partOfSpeech": "adjective",
+      "example": "Sorry, I am late.",
+      "collocations": []
+    },
+    {
+      "word": "see you later",
+      "translation": "até mais",
+      "partOfSpeech": "phrase",
+      "example": "Bye! See you later!",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "At a café",
+      "dialogue": [
+        {
+          "speaker": "Waiter",
+          "text": "Good afternoon!"
+        },
+        {
+          "speaker": "Customer",
+          "text": "Good afternoon. A coffee, please."
+        },
+        {
+          "speaker": "Waiter",
+          "text": "Here you are."
+        },
+        {
+          "speaker": "Customer",
+          "text": "Thank you!"
+        }
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m1_l3_01",
+    "ex_a1_m1_l3_02",
+    "ex_a1_m1_l3_03",
+    "ex_a1_m1_l3_04",
+    "ex_a1_m1_l3_05",
+    "ex_a1_m1_l3_06",
+    "ex_a1_m1_l3_07",
+    "ex_a1_m1_l3_08",
+    "ex_a1_m1_l3_09",
+    "ex_a1_m1_l3_10",
+    "ex_a1_m1_l3_11",
+    "ex_a1_m1_l3_12"
+  ],
+  "reading": {
+    "title": "A Busy Morning",
+    "text": "At 8 a.m., Ana arrives at work. She says \"Good morning!\" to her colleague Tom. Tom says \"Good morning, Ana!\" At lunch, they say \"Good afternoon!\" to the new intern, Sofia. Sofia says \"Nice to meet you!\" At 6 p.m., Ana says \"Goodbye, everyone! See you tomorrow!\" Tom says \"Bye, Ana! Have a good evening!\"",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What does Ana say at 8 a.m.?",
+        "type": "short_answer",
+        "answer": "Good morning",
+        "explanation": "She says Good morning!",
+        "acceptableAnswers": [
+          "Good morning!",
+          "Good morning"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "What does Sofia say when she meets people?",
+        "type": "short_answer",
+        "answer": "Nice to meet you",
+        "explanation": "Sofia says Nice to meet you!"
+      },
+      {
+        "id": "r3",
+        "question": "Does Ana say goodbye at 6 p.m.?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Ana says Goodbye, everyone!"
+      },
+      {
+        "id": "r4",
+        "question": "When do they say Good afternoon?",
+        "type": "multiple_choice",
+        "answer": "At lunch",
+        "explanation": "At lunch they say Good afternoon!",
+        "options": [
+          "At 8 a.m.",
+          "At lunch",
+          "At 6 p.m.",
+          "At night"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short dialogue (6 lines) between two people meeting at a language school. Include a greeting, please/thank you, and goodbye.",
+    "minWords": 30,
+    "rubricHints": [
+      "Use at least two greetings.",
+      "Include please or thank you."
+    ],
+    "modelAnswer": "A: Good morning! B: Good morning! A: Is this seat free, please? B: Yes, it is. A: Thank you! B: You're welcome. A: Goodbye! B: See you later!"
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-greetings"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_good_morning"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_good_afternoon"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_good_evening"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_goodbye"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_please"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_thank_you"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m1_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m1_l3_10"
+    }
+  ],
+  "checkpointId": "a1-m1-l3-checkpoint",
+  "tutorHints": [
+    "Role-play greetings at different times.",
+    "Explain Good night = leaving, not arriving."
+  ],
+  "vocabularyRef": "vocabulary/a1-m1-l3.json",
+  "exercisesRef": "exercises/a1-m1-l3.json",
+  "grammarRef": "grammar/a1-greetings.json",
+  "checkpointRef": "assessments/a1-m1-l3-checkpoint.json"
+}

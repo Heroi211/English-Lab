@@ -1,0 +1,148 @@
+{
+  "id": "a1-m8-module-test",
+  "kind": "module",
+  "moduleId": "a1-m8",
+  "level": "A1",
+  "title": "Daily Life — Module Test",
+  "description": "Test your knowledge of the whole module: Daily Life. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use daily life in everyday A1 communication.",
+  "questions": [
+    {
+      "id": "mt_a1_m8_01",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Family Members):",
+      "options": [
+        "My mother is a nurse.",
+        "My mother XXX a nurse.",
+        "No correct form.",
+        "nurse. a is mother My"
+      ],
+      "answer": "My mother is a nurse.",
+      "explanation": "This follows the pattern taught in Family Members."
+    },
+    {
+      "id": "mt_a1_m8_02",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Home & Furniture\"?",
+      "options": [
+        "sofa",
+        "cupboard",
+        "shelf",
+        "xyzabc"
+      ],
+      "answer": "sofa",
+      "explanation": "\"sofa\" (sofá) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a1_m8_03",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": "a1-food-drink",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is at noon.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Like/love/hate + noun or -ing: I like pizza. | I don't eat meat."
+    },
+    {
+      "id": "mt_a1_m8_04",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "fill_blank",
+      "question": "Complete: I ___ at 6.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a1_m8_05",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "true_false",
+      "question": "True or false: \"My mother is a nurse.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a1_m8_06",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": "a1-home-furniture",
+      "type": "true_false",
+      "question": "True or false: The sofa WRONG comfortable. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "mt_a1_m8_07",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "breakfast",
+          "right": "café da manhã"
+        },
+        {
+          "left": "lunch",
+          "right": "almoço"
+        },
+        {
+          "left": "dinner",
+          "right": "jantar"
+        },
+        {
+          "left": "rice",
+          "right": "arroz"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a1_m8_08",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "wake up",
+          "right": "acordar"
+        },
+        {
+          "left": "get up",
+          "right": "levantar(-se)"
+        },
+        {
+          "left": "go to work",
+          "right": "ir trabalhar"
+        },
+        {
+          "left": "finish",
+          "right": "terminar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

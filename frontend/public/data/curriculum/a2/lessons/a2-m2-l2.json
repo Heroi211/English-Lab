@@ -1,0 +1,197 @@
+{
+  "id": "a2-m2-l2",
+  "moduleId": "a2-m2",
+  "level": "A2",
+  "order": 2,
+  "title": "Future with Going To",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use future with going to accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can use going to for plans and evidence-based predictions.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about future with going to. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use future with going to?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Am/is/are + going to + verb.\n\nPlans: I am going to study medicine. | Evidence: Look — he is going to fall!",
+  "grammar": {
+    "ruleId": "a2-future-going-to",
+    "title": "Future with Going To",
+    "rule": "Am/is/are + going to + verb.",
+    "examples": [
+      {
+        "sentence": "We are going to move.",
+        "note": "going to"
+      },
+      {
+        "sentence": "What is your plan?",
+        "note": "plan"
+      },
+      {
+        "sentence": "I intend to apply.",
+        "note": "intend"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "going to",
+      "translation": "ir (futuro planeado)",
+      "partOfSpeech": "phrase",
+      "example": "We are going to move.",
+      "collocations": []
+    },
+    {
+      "word": "plan",
+      "translation": "plano",
+      "partOfSpeech": "noun",
+      "example": "What is your plan?",
+      "collocations": []
+    },
+    {
+      "word": "intend",
+      "translation": "pretender",
+      "partOfSpeech": "verb",
+      "example": "I intend to apply.",
+      "collocations": []
+    },
+    {
+      "word": "prepare",
+      "translation": "preparar",
+      "partOfSpeech": "verb",
+      "example": "She is preparing dinner.",
+      "collocations": []
+    },
+    {
+      "word": "trip",
+      "translation": "viagem",
+      "partOfSpeech": "noun",
+      "example": "We are planning a trip.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Future with Going To",
+      "sentences": [
+        "We are going to move.",
+        "What is your plan?",
+        "I intend to apply.",
+        "She is preparing dinner."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m2_l2_01",
+    "ex_a2_m2_l2_02",
+    "ex_a2_m2_l2_03",
+    "ex_a2_m2_l2_04",
+    "ex_a2_m2_l2_05",
+    "ex_a2_m2_l2_06",
+    "ex_a2_m2_l2_07",
+    "ex_a2_m2_l2_08",
+    "ex_a2_m2_l2_09",
+    "ex_a2_m2_l2_10",
+    "ex_a2_m2_l2_11",
+    "ex_a2_m2_l2_12"
+  ],
+  "reading": {
+    "title": "Future with Going To in Context",
+    "text": "Next year I am going to change jobs. We are going to visit my grandparents in July. Watch out! That box is going to fall. They aren't going to finish today.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "future with going to",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"going to\" mean?",
+        "type": "short_answer",
+        "answer": "ir (futuro planeado)",
+        "explanation": "ir (futuro planeado)"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "What is your plan?",
+        "explanation": "What is your plan?",
+        "options": [
+          "What is your plan?",
+          "move. to going are We",
+          "No sentence fits.",
+          "I intend to apply."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using future with going to. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "We are going to move. What is your plan? I intend to apply. She is preparing dinner."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-future-going-to"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_going_to"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_plan"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_intend"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_prepare"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_trip"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m2_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m2_l2_10"
+    }
+  ],
+  "checkpointId": "a2-m2-l2-checkpoint",
+  "tutorHints": [
+    "Target structure: Future with Going To.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m2-l2.json",
+  "exercisesRef": "exercises/a2-m2-l2.json",
+  "grammarRef": "grammar/a2-future-going-to.json",
+  "checkpointRef": "assessments/a2-m2-l2-checkpoint.json"
+}

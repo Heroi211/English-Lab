@@ -1,0 +1,96 @@
+{
+  "id": "a2-m7-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m7-l4",
+  "moduleId": "a2-m7",
+  "level": "A2",
+  "title": "Lesson 4 Checkpoint — Mixed Conditionals Intro",
+  "description": "Show what you learned about mixed conditionals intro. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can recognize when a condition refers to present/future result (A2 preview).",
+  "questions": [
+    {
+      "id": "cp_a2_m7_l4_01",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Mixed Conditionals Intro):",
+      "options": [
+        "A real possibility.",
+        "A real possibility.",
+        "No correct form.",
+        "possibility. real A"
+      ],
+      "answer": "A real possibility.",
+      "explanation": "This follows the pattern taught in Mixed Conditionals Intro."
+    },
+    {
+      "id": "cp_a2_m7_l4_02",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "fill_blank",
+      "question": "Complete: A ___ possibility.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m7_l4_03",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "true_false",
+      "question": "True or false: \"A real possibility.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m7_l4_04",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Mixed Conditionals Intro\"?",
+      "options": [
+        "real",
+        "unreal",
+        "likely",
+        "xyzabc"
+      ],
+      "answer": "real",
+      "explanation": "\"real\" (real) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m7_l4_05",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "real",
+          "right": "real"
+        },
+        {
+          "left": "unreal",
+          "right": "irreal"
+        },
+        {
+          "left": "likely",
+          "right": "provável"
+        },
+        {
+          "left": "unlikely",
+          "right": "improvável"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

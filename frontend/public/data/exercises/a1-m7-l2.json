@@ -1,0 +1,203 @@
+{
+  "lessonId": "a1-m7-l2",
+  "exercises": [
+    {
+      "id": "ex_a1_m7_l2_01",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": "a1-telling-time",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Telling the Time):",
+      "options": [
+        "It is three o'clock.",
+        "It XXX three o'clock.",
+        "No correct form.",
+        "o'clock. three is It"
+      ],
+      "answer": "It is three o'clock.",
+      "explanation": "This follows the pattern taught in Telling the Time."
+    },
+    {
+      "id": "ex_a1_m7_l2_02",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Telling the Time\"?",
+      "options": [
+        "o'clock",
+        "half past",
+        "quarter past",
+        "xyzabc"
+      ],
+      "answer": "o'clock",
+      "explanation": "\"o'clock\" (em ponto) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l2_03",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": "a1-telling-time",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ past two.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "What time is it? — It is half past three. / 3:30"
+    },
+    {
+      "id": "ex_a1_m7_l2_04",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": "a1-telling-time",
+      "type": "fill_blank",
+      "question": "Complete: It is three ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m7_l2_05",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": "a1-telling-time",
+      "type": "fill_blank",
+      "question": "Complete: ___ past two.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "What time is it? — It is half past three. / 3:30"
+    },
+    {
+      "id": "ex_a1_m7_l2_06",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": "a1-telling-time",
+      "type": "fill_blank",
+      "question": "Complete: ___ past ten.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l2_07",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": "a1-telling-time",
+      "type": "true_false",
+      "question": "True or false: \"It is three o'clock.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l2_08",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": "a1-telling-time",
+      "type": "true_false",
+      "question": "True or false: It WRONG three o'clock. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l2_09",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "o'clock",
+          "right": "em ponto"
+        },
+        {
+          "left": "half past",
+          "right": "e meia"
+        },
+        {
+          "left": "quarter past",
+          "right": "e quinze"
+        },
+        {
+          "left": "quarter to",
+          "right": "menos quarto"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l2_10",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": "a1-telling-time",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "o'clock",
+          "right": "em ponto"
+        },
+        {
+          "left": "half past",
+          "right": "e meia"
+        },
+        {
+          "left": "quarter past",
+          "right": "e quinze"
+        },
+        {
+          "left": "quarter to",
+          "right": "menos quarto"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m7_l2_11",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": "a1-telling-time",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "o'clock",
+        "is",
+        "three",
+        "It"
+      ],
+      "answer": [
+        "It",
+        "is",
+        "three",
+        "o'clock"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l2_12",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"quarter past\"?",
+      "options": [
+        "e quinze",
+        "em ponto",
+        "e meia",
+        "none of these"
+      ],
+      "answer": "e quinze",
+      "explanation": "\"quarter past\" means \"e quinze\"."
+    }
+  ]
+}

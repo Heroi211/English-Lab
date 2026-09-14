@@ -1,0 +1,27 @@
+{
+  "id": "a1-imperatives",
+  "level": "A1",
+  "title": "Imperatives",
+  "topic": "imperatives",
+  "summary": "Base verb for orders: Stop! Sit down. Open the book.",
+  "rule": "Base verb for orders: Stop! Sit down. Open the book.",
+  "examples": [
+    "Stop!",
+    "Please wait.",
+    "Open the door."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Stop!",
+      "correct": "Stop!",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m6-l4"
+  ],
+  "tutorHints": [
+    "Focus on Imperatives with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

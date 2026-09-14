@@ -1,0 +1,67 @@
+{
+  "lessonId": "a2-m8-l3",
+  "level": "A2",
+  "topic": "collocations",
+  "items": [
+    {
+      "id": "vocab_make_a_mistake",
+      "word": "make a mistake",
+      "translation": "cometer um erro",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "collocations",
+      "example": "Everyone makes mistakes.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_do_homework",
+      "word": "do homework",
+      "translation": "fazer lição de casa",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "collocations",
+      "example": "I do homework after dinner.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_heavy_rain",
+      "word": "heavy rain",
+      "translation": "chuva forte",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "collocations",
+      "example": "Heavy rain expected.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_fast_food",
+      "word": "fast food",
+      "translation": "comida rápida",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "collocations",
+      "example": "Avoid too much fast food.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_strong_coffee",
+      "word": "strong coffee",
+      "translation": "café forte",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "collocations",
+      "example": "I prefer strong coffee.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

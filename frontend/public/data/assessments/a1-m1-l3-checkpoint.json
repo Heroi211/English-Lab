@@ -1,0 +1,96 @@
+{
+  "id": "a1-m1-l3-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m1-l3",
+  "moduleId": "a1-m1",
+  "level": "A1",
+  "title": "Lesson 3 Checkpoint — Greetings & Polite Expressions",
+  "description": "Show what you learned about greetings & polite expressions. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can greet people, say goodbye, and use basic polite expressions.",
+  "questions": [
+    {
+      "id": "cp_a1_m1_l3_01",
+      "level": "A1",
+      "topic": "greetings",
+      "ruleId": "a1-greetings",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Greetings & Polite Expressions):",
+      "options": [
+        "Good morning, Mr. Silva!",
+        "Good morning, Mr. Silva!",
+        "No correct form.",
+        "Silva! Mr. morning, Good"
+      ],
+      "answer": "Good morning, Mr. Silva!",
+      "explanation": "This follows the pattern taught in Greetings & Politeness."
+    },
+    {
+      "id": "cp_a1_m1_l3_02",
+      "level": "A1",
+      "topic": "greetings",
+      "ruleId": "a1-greetings",
+      "type": "fill_blank",
+      "question": "Complete: ___, everyone!",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m1_l3_03",
+      "level": "A1",
+      "topic": "greetings",
+      "ruleId": "a1-greetings",
+      "type": "true_false",
+      "question": "True or false: \"Good morning, Mr. Silva!\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m1_l3_04",
+      "level": "A1",
+      "topic": "greetings",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Greetings & Polite Expressions\"?",
+      "options": [
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "xyzabc"
+      ],
+      "answer": "good morning",
+      "explanation": "\"good morning\" (bom dia) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m1_l3_05",
+      "level": "A1",
+      "topic": "greetings",
+      "ruleId": "a1-greetings",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "good morning",
+          "right": "bom dia"
+        },
+        {
+          "left": "good afternoon",
+          "right": "boa tarde"
+        },
+        {
+          "left": "good evening",
+          "right": "boa noite (chegada)"
+        },
+        {
+          "left": "goodbye",
+          "right": "adeus"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

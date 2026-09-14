@@ -1,0 +1,96 @@
+{
+  "id": "a2-m1-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m1-l4",
+  "moduleId": "a2-m1",
+  "level": "A2",
+  "title": "Lesson 4 Checkpoint — Past Time Expressions",
+  "description": "Show what you learned about past time expressions. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use time expressions with the past simple naturally.",
+  "questions": [
+    {
+      "id": "cp_a2_m1_l4_01",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Past Time Expressions):",
+      "options": [
+        "I started gym last month.",
+        "I started gym last month.",
+        "No correct form.",
+        "month. last gym started I"
+      ],
+      "answer": "I started gym last month.",
+      "explanation": "This follows the pattern taught in Past Time Expressions."
+    },
+    {
+      "id": "cp_a2_m1_l4_02",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "fill_blank",
+      "question": "Complete: I started gym ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m1_l4_03",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "true_false",
+      "question": "True or false: \"I started gym last month.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m1_l4_04",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Past Time Expressions\"?",
+      "options": [
+        "last month",
+        "last year",
+        "in 2020",
+        "xyzabc"
+      ],
+      "answer": "last month",
+      "explanation": "\"last month\" (mês passado) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m1_l4_05",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "last month",
+          "right": "mês passado"
+        },
+        {
+          "left": "last year",
+          "right": "ano passado"
+        },
+        {
+          "left": "in 2020",
+          "right": "em 2020"
+        },
+        {
+          "left": "once",
+          "right": "uma vez"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

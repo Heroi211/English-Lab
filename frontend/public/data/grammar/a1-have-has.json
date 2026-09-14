@@ -1,0 +1,25 @@
+{
+  "id": "a1-have-has",
+  "level": "A1",
+  "title": "Have / Has",
+  "topic": "have_has",
+  "summary": "Have with I, you, we, they. Has with he, she, it. Questions and negatives use do/does + base have: Does he have a bike?",
+  "rule": "Have with I, you, we, they. Has with he, she, it. Questions and negatives use do/does + base have: Does he have a bike?",
+  "examples": [
+    "We have a small car.",
+    "She has long hair."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "He have a dog.",
+      "correct": "He has a dog.",
+      "explanation": "Third person singular → has."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m3-l2"
+  ],
+  "tutorHints": [
+    "Drill has with he/she/it every lesson until automatic."
+  ]
+}

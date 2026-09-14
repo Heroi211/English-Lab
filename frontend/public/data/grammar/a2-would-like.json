@@ -1,0 +1,26 @@
+{
+  "id": "a2-would-like",
+  "level": "A2",
+  "title": "Would Like",
+  "topic": "would_like",
+  "summary": "Would like + noun / to + verb: I'd like a tea. | Would you like…?",
+  "rule": "Would like + noun / to + verb: I'd like a tea. | Would you like…?",
+  "examples": [
+    "I would like the bill.",
+    "Are you ready to order?",
+    "I prefer tea."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I would like the bill.",
+      "correct": "I would like the bill.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m5-l4"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lessonId": "a1-m7-l4",
+  "level": "A1",
+  "topic": "schedules",
+  "items": [
+    {
+      "id": "vocab_appointment",
+      "word": "appointment",
+      "translation": "compromisso / consulta",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "schedules",
+      "example": "I have an appointment at 3.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_schedule",
+      "word": "schedule",
+      "translation": "agenda / horário",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "schedules",
+      "example": "What is your schedule?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_meet",
+      "word": "meet",
+      "translation": "encontrar(-se)",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "schedules",
+      "example": "Let's meet at noon.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_available",
+      "word": "available",
+      "translation": "disponível",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "topic": "schedules",
+      "example": "Are you available tomorrow?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_cancel",
+      "word": "cancel",
+      "translation": "cancelar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "schedules",
+      "example": "I need to cancel.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_confirm",
+      "word": "confirm",
+      "translation": "confirmar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "schedules",
+      "example": "Please confirm the time.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a1-questions-to-be",
+  "level": "A1",
+  "title": "Questions with To Be",
+  "topic": "questions_to_be",
+  "summary": "Invert am/is/are and the subject for yes/no questions. Wh- questions start with What, Where, Who, How, etc. + am/is/are ",
+  "rule": "Invert am/is/are and the subject for yes/no questions. Wh- questions start with What, Where, Who, How, etc. + am/is/are + subject.",
+  "table": {
+    "headers": [
+      "Type",
+      "Example"
+    ],
+    "rows": [
+      [
+        "Yes/No",
+        "Are they students?"
+      ],
+      [
+        "What",
+        "What is your job?"
+      ],
+      [
+        "Where",
+        "Where are you from?"
+      ],
+      [
+        "Who",
+        "Who is she?"
+      ],
+      [
+        "How",
+        "How old are you?"
+      ]
+    ]
+  },
+  "examples": [
+    "Where are you from? — I am from Brazil.",
+    "Is he your brother? — Yes, he is."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Where you are from?",
+      "correct": "Where are you from?",
+      "explanation": "Invert verb and subject in questions."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m1-l4"
+  ],
+  "tutorHints": [
+    "Practice inversion: You are → Are you?",
+    "Drill short answers with yes/no."
+  ]
+}

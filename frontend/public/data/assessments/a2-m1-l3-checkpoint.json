@@ -1,0 +1,96 @@
+{
+  "id": "a2-m1-l3-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m1-l3",
+  "moduleId": "a2-m1",
+  "level": "A2",
+  "title": "Lesson 3 Checkpoint — Past Simple — Questions & Negatives",
+  "description": "Show what you learned about past simple — questions & negatives. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can ask and answer past simple questions and make negatives.",
+  "questions": [
+    {
+      "id": "cp_a2_m1_l3_01",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "ruleId": "a2-past-simple-q-neg",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Past Simple — Questions & Negatives):",
+      "options": [
+        "Did you enjoy it?",
+        "Did you enjoy it?",
+        "No correct form.",
+        "it? enjoy you Did"
+      ],
+      "answer": "Did you enjoy it?",
+      "explanation": "This follows the pattern taught in Past Simple — Questions & Negatives."
+    },
+    {
+      "id": "cp_a2_m1_l3_02",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "ruleId": "a2-past-simple-q-neg",
+      "type": "fill_blank",
+      "question": "Complete: ___ you enjoy it?",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m1_l3_03",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "ruleId": "a2-past-simple-q-neg",
+      "type": "true_false",
+      "question": "True or false: \"Did you enjoy it?\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m1_l3_04",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Past Simple — Questions & Negatives\"?",
+      "options": [
+        "did",
+        "didn't",
+        "when",
+        "xyzabc"
+      ],
+      "answer": "did",
+      "explanation": "\"did\" (auxiliar passado) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m1_l3_05",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "ruleId": "a2-past-simple-q-neg",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "did",
+          "right": "auxiliar passado"
+        },
+        {
+          "left": "didn't",
+          "right": "não (passado)"
+        },
+        {
+          "left": "when",
+          "right": "quando"
+        },
+        {
+          "left": "why",
+          "right": "por que"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

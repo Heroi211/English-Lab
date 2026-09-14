@@ -1,0 +1,27 @@
+{
+  "id": "a1-present-continuous",
+  "level": "A1",
+  "title": "Present Continuous — Form",
+  "topic": "present_continuous_form",
+  "summary": "Am/is/are + verb-ing for actions NOW.",
+  "rule": "Am/is/are + verb-ing for actions NOW.",
+  "examples": [
+    "I am busy now.",
+    "At the moment I am studying.",
+    "She is cooking dinner."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I WRONG busy now.",
+      "correct": "I am busy now.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m5-l1"
+  ],
+  "tutorHints": [
+    "Focus on Present Continuous — Form with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

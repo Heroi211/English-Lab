@@ -1,0 +1,39 @@
+{
+  "levels": [
+    {
+      "id": "a1",
+      "cefr": "A1",
+      "title": "Foundation",
+      "description": "Build the core of English: basic grammar, essential vocabulary, and simple communication for everyday situations.",
+      "modulesRef": "curriculum/a1/modules.json",
+      "order": 1
+    },
+    {
+      "id": "a2",
+      "cefr": "A2",
+      "title": "Consolidation",
+      "description": "Expand basic structures and begin producing language with greater independence.",
+      "modulesRef": null,
+      "modules": [],
+      "order": 2
+    },
+    {
+      "id": "b1",
+      "cefr": "B1",
+      "title": "Intermediate",
+      "description": "Handle most everyday situations and express opinions on familiar topics.",
+      "modulesRef": null,
+      "modules": [],
+      "order": 3
+    },
+    {
+      "id": "b2",
+      "cefr": "B2",
+      "title": "Upper Intermediate",
+      "description": "Interact with fluency, understand main ideas of complex texts, and produce clear detailed writing.",
+      "modulesRef": null,
+      "modules": [],
+      "order": 4
+    }
+  ]
+}

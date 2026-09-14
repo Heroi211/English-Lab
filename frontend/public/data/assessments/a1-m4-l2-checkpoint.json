@@ -1,0 +1,96 @@
+{
+  "id": "a1-m4-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m4-l2",
+  "moduleId": "a1-m4",
+  "level": "A1",
+  "title": "Lesson 2 Checkpoint — Present Simple — Negative",
+  "description": "Show what you learned about present simple — negative. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can make negative sentences in present simple.",
+  "questions": [
+    {
+      "id": "cp_a1_m4_l2_01",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Simple — Negative):",
+      "options": [
+        "I don't understand.",
+        "I don't understand.",
+        "No correct form.",
+        "understand. don't I"
+      ],
+      "answer": "I don't understand.",
+      "explanation": "This follows the pattern taught in Present Simple — Negative."
+    },
+    {
+      "id": "cp_a1_m4_l2_02",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "fill_blank",
+      "question": "Complete: I ___ understand.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m4_l2_03",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "true_false",
+      "question": "True or false: \"I don't understand.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m4_l2_04",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Present Simple — Negative\"?",
+      "options": [
+        "don't",
+        "doesn't",
+        "understand",
+        "xyzabc"
+      ],
+      "answer": "don't",
+      "explanation": "\"don't\" (não (auxiliar)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m4_l2_05",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "don't",
+          "right": "não (auxiliar)"
+        },
+        {
+          "left": "doesn't",
+          "right": "não (ele"
+        },
+        {
+          "left": "understand",
+          "right": "entender"
+        },
+        {
+          "left": "play",
+          "right": "jogar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

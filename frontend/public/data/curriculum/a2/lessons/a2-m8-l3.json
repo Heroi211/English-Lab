@@ -1,0 +1,197 @@
+{
+  "id": "a2-m8-l3",
+  "moduleId": "a2-m8",
+  "level": "A2",
+  "order": 3,
+  "title": "Collocations",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use collocations accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can use natural word pairs: make a mistake, do homework, heavy rain.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about collocations. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use collocations?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Make vs do: make a decision, do your best\n\nStrong tea, heavy traffic, fast food",
+  "grammar": {
+    "ruleId": "a2-collocations",
+    "title": "Collocations",
+    "rule": "Make vs do: make a decision, do your best",
+    "examples": [
+      {
+        "sentence": "Everyone makes mistakes.",
+        "note": "make a mistake"
+      },
+      {
+        "sentence": "I do homework after dinner.",
+        "note": "do homework"
+      },
+      {
+        "sentence": "Heavy rain expected.",
+        "note": "heavy rain"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "make a mistake",
+      "translation": "cometer um erro",
+      "partOfSpeech": "phrase",
+      "example": "Everyone makes mistakes.",
+      "collocations": []
+    },
+    {
+      "word": "do homework",
+      "translation": "fazer lição de casa",
+      "partOfSpeech": "phrase",
+      "example": "I do homework after dinner.",
+      "collocations": []
+    },
+    {
+      "word": "heavy rain",
+      "translation": "chuva forte",
+      "partOfSpeech": "phrase",
+      "example": "Heavy rain expected.",
+      "collocations": []
+    },
+    {
+      "word": "fast food",
+      "translation": "comida rápida",
+      "partOfSpeech": "phrase",
+      "example": "Avoid too much fast food.",
+      "collocations": []
+    },
+    {
+      "word": "strong coffee",
+      "translation": "café forte",
+      "partOfSpeech": "phrase",
+      "example": "I prefer strong coffee.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Collocations",
+      "sentences": [
+        "Everyone makes mistakes.",
+        "I do homework after dinner.",
+        "Heavy rain expected.",
+        "Avoid too much fast food."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m8_l3_01",
+    "ex_a2_m8_l3_02",
+    "ex_a2_m8_l3_03",
+    "ex_a2_m8_l3_04",
+    "ex_a2_m8_l3_05",
+    "ex_a2_m8_l3_06",
+    "ex_a2_m8_l3_07",
+    "ex_a2_m8_l3_08",
+    "ex_a2_m8_l3_09",
+    "ex_a2_m8_l3_10",
+    "ex_a2_m8_l3_11",
+    "ex_a2_m8_l3_12"
+  ],
+  "reading": {
+    "title": "Collocations in Context",
+    "text": "I made a mistake on the form. She did her best in the interview. There was heavy rain and traffic was terrible.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "collocations",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"make a mistake\" mean?",
+        "type": "short_answer",
+        "answer": "cometer um erro",
+        "explanation": "cometer um erro"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "I do homework after dinner.",
+        "explanation": "I do homework after dinner.",
+        "options": [
+          "I do homework after dinner.",
+          "mistakes. makes Everyone",
+          "No sentence fits.",
+          "Heavy rain expected."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using collocations. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "Everyone makes mistakes. I do homework after dinner. Heavy rain expected. Avoid too much fast food."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-collocations"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_make_a_mistake"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_do_homework"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_heavy_rain"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_fast_food"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_strong_coffee"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m8_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m8_l3_10"
+    }
+  ],
+  "checkpointId": "a2-m8-l3-checkpoint",
+  "tutorHints": [
+    "Target structure: Collocations.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m8-l3.json",
+  "exercisesRef": "exercises/a2-m8-l3.json",
+  "grammarRef": "grammar/a2-collocations.json",
+  "checkpointRef": "assessments/a2-m8-l3-checkpoint.json"
+}

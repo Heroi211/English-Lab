@@ -1,0 +1,96 @@
+{
+  "id": "a2-m1-l1-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m1-l1",
+  "moduleId": "a2-m1",
+  "level": "A2",
+  "title": "Lesson 1 Checkpoint — Past Simple — Regular Verbs",
+  "description": "Show what you learned about past simple — regular verbs. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can talk about finished past actions using regular -ed verbs.",
+  "questions": [
+    {
+      "id": "cp_a2_m1_l1_01",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Past Simple — Regular Verbs):",
+      "options": [
+        "I worked yesterday.",
+        "I worked yesterday.",
+        "No correct form.",
+        "yesterday. worked I"
+      ],
+      "answer": "I worked yesterday.",
+      "explanation": "This follows the pattern taught in Past Simple — Regular Verbs."
+    },
+    {
+      "id": "cp_a2_m1_l1_02",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "fill_blank",
+      "question": "Complete: I worked ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m1_l1_03",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "true_false",
+      "question": "True or false: \"I worked yesterday.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m1_l1_04",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Past Simple — Regular Verbs\"?",
+      "options": [
+        "yesterday",
+        "last week",
+        "ago",
+        "xyzabc"
+      ],
+      "answer": "yesterday",
+      "explanation": "\"yesterday\" (ontem) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m1_l1_05",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "yesterday",
+          "right": "ontem"
+        },
+        {
+          "left": "last week",
+          "right": "semana passada"
+        },
+        {
+          "left": "ago",
+          "right": "atrás"
+        },
+        {
+          "left": "finished",
+          "right": "terminado"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

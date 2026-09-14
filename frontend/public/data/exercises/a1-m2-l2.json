@@ -1,0 +1,203 @@
+{
+  "lessonId": "a1-m2-l2",
+  "exercises": [
+    {
+      "id": "ex_a1_m2_l2_01",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Articles a / an / the):",
+      "options": [
+        "I need a pen.",
+        "I need a pen.",
+        "No correct form.",
+        "pen. a need I"
+      ],
+      "answer": "I need a pen.",
+      "explanation": "This follows the pattern taught in Articles a / an / the."
+    },
+    {
+      "id": "ex_a1_m2_l2_02",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Articles a / an / the\"?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "xyzabc"
+      ],
+      "answer": "a",
+      "explanation": "\"a\" (um/uma) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l2_03",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is an artist.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which one. No article with plural g"
+    },
+    {
+      "id": "ex_a1_m2_l2_04",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "fill_blank",
+      "question": "Complete: I have ___ cat.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m2_l2_05",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "fill_blank",
+      "question": "Complete: ___ is an artist.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which"
+    },
+    {
+      "id": "ex_a1_m2_l2_06",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "fill_blank",
+      "question": "Complete: ___ cat is black.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l2_07",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "true_false",
+      "question": "True or false: \"I need a pen.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l2_08",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "true_false",
+      "question": "True or false: I am engineer. is grammatically correct.",
+      "answer": false,
+      "explanation": "Jobs need a/an."
+    },
+    {
+      "id": "ex_a1_m2_l2_09",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "a",
+          "right": "um"
+        },
+        {
+          "left": "an",
+          "right": "um"
+        },
+        {
+          "left": "the",
+          "right": "o"
+        },
+        {
+          "left": "book",
+          "right": "livro"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l2_10",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "a",
+          "right": "um"
+        },
+        {
+          "left": "an",
+          "right": "um"
+        },
+        {
+          "left": "the",
+          "right": "o"
+        },
+        {
+          "left": "book",
+          "right": "livro"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m2_l2_11",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "cat",
+        "a",
+        "have",
+        "I"
+      ],
+      "answer": [
+        "I",
+        "have",
+        "a",
+        "cat"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l2_12",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"the\"?",
+      "options": [
+        "o/a/os/as",
+        "um/uma",
+        "um/uma (vogal)",
+        "none of these"
+      ],
+      "answer": "o/a/os/as",
+      "explanation": "\"the\" means \"o/a/os/as\"."
+    }
+  ]
+}

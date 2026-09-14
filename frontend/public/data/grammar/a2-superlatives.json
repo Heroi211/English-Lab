@@ -1,0 +1,26 @@
+{
+  "id": "a2-superlatives",
+  "level": "A2",
+  "title": "Superlatives",
+  "topic": "superlatives",
+  "summary": "The + -est (the oldest) or the most + adj (the most interesting).",
+  "rule": "The + -est (the oldest) or the most + adj (the most interesting).",
+  "examples": [
+    "This is the best pizza in town.",
+    "The worst film ever.",
+    "The most popular song."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This is the best pizza in town.",
+      "correct": "This is the best pizza in town.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m3-l2"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

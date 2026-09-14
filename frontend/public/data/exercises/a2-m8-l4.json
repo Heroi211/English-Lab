@@ -1,0 +1,205 @@
+{
+  "lessonId": "a2-m8-l4",
+  "exercises": [
+    {
+      "id": "ex_a2_m8_l4_01",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Review & Useful Idioms):",
+      "options": [
+        "A joke breaks the ice.",
+        "A joke breaks the ice.",
+        "No correct form.",
+        "ice. the breaks joke A"
+      ],
+      "answer": "A joke breaks the ice.",
+      "explanation": "This follows the pattern taught in Review & Useful Idioms."
+    },
+    {
+      "id": "ex_a2_m8_l4_02",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Review & Useful Idioms\"?",
+      "options": [
+        "break the ice",
+        "piece of cake",
+        "under the weather",
+        "xyzabc"
+      ],
+      "answer": "break the ice",
+      "explanation": "\"break the ice\" (quebrar o gelo) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l4_03",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ test was a piece of cake.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Break the ice, piece of cake, under the weather (intro level)"
+    },
+    {
+      "id": "ex_a2_m8_l4_04",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "fill_blank",
+      "question": "Complete: A joke breaks the ice.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m8_l4_05",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "fill_blank",
+      "question": "Complete: ___ test was a piece of cake.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Break the ice, piece of cake, under the weather (intro level)"
+    },
+    {
+      "id": "ex_a2_m8_l4_06",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "fill_blank",
+      "question": "Complete: ___ feel under the weather.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l4_07",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "true_false",
+      "question": "True or false: \"A joke breaks the ice.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l4_08",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "true_false",
+      "question": "True or false: A joke breaks the ice. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l4_09",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "break the ice",
+          "right": "quebrar o gelo"
+        },
+        {
+          "left": "piece of cake",
+          "right": "muito fácil"
+        },
+        {
+          "left": "under the weather",
+          "right": "indisposto"
+        },
+        {
+          "left": "review",
+          "right": "revisar"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l4_10",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "break the ice",
+          "right": "quebrar o gelo"
+        },
+        {
+          "left": "piece of cake",
+          "right": "muito fácil"
+        },
+        {
+          "left": "under the weather",
+          "right": "indisposto"
+        },
+        {
+          "left": "review",
+          "right": "revisar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m8_l4_11",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "ice",
+        "A",
+        "joke",
+        "breaks",
+        "the"
+      ],
+      "answer": [
+        "A",
+        "joke",
+        "breaks",
+        "the",
+        "ice"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l4_12",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"under the weather\"?",
+      "options": [
+        "indisposto",
+        "quebrar o gelo",
+        "muito fácil",
+        "none of these"
+      ],
+      "answer": "indisposto",
+      "explanation": "\"under the weather\" means \"indisposto\"."
+    }
+  ]
+}

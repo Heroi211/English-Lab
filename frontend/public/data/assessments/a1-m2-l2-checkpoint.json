@@ -1,0 +1,96 @@
+{
+  "id": "a1-m2-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m2-l2",
+  "moduleId": "a1-m2",
+  "level": "A1",
+  "title": "Lesson 2 Checkpoint — Articles a / an / the",
+  "description": "Show what you learned about articles a / an / the. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use a, an, and the in common noun phrases.",
+  "questions": [
+    {
+      "id": "cp_a1_m2_l2_01",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Articles a / an / the):",
+      "options": [
+        "I need a pen.",
+        "I need a pen.",
+        "No correct form.",
+        "pen. a need I"
+      ],
+      "answer": "I need a pen.",
+      "explanation": "This follows the pattern taught in Articles a / an / the."
+    },
+    {
+      "id": "cp_a1_m2_l2_02",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "fill_blank",
+      "question": "Complete: I have ___ cat.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m2_l2_03",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "true_false",
+      "question": "True or false: \"I need a pen.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m2_l2_04",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Articles a / an / the\"?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "xyzabc"
+      ],
+      "answer": "a",
+      "explanation": "\"a\" (um/uma) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m2_l2_05",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "a",
+          "right": "um"
+        },
+        {
+          "left": "an",
+          "right": "um"
+        },
+        {
+          "left": "the",
+          "right": "o"
+        },
+        {
+          "left": "book",
+          "right": "livro"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

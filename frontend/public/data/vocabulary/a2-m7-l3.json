@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m7-l3",
+  "level": "A2",
+  "topic": "conditional_context",
+  "items": [
+    {
+      "id": "vocab_receive",
+      "word": "receive",
+      "translation": "receber",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "conditional_context",
+      "example": "When we receive approval…",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_approve",
+      "word": "approve",
+      "translation": "aprovar",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "conditional_context",
+      "example": "If they approve the budget…",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_negotiate",
+      "word": "negotiate",
+      "translation": "negociar",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "conditional_context",
+      "example": "We can negotiate if…",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_deadline",
+      "word": "deadline",
+      "translation": "prazo",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "conditional_context",
+      "example": "Meet the deadline.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

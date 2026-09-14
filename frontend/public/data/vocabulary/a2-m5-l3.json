@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m5-l3",
+  "level": "A2",
+  "topic": "must_have_to",
+  "items": [
+    {
+      "id": "vocab_must",
+      "word": "must",
+      "translation": "dever (obrigação)",
+      "partOfSpeech": "modal",
+      "level": "A2",
+      "topic": "must_have_to",
+      "example": "You must wear a seatbelt.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_have_to",
+      "word": "have to",
+      "translation": "ter que",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "must_have_to",
+      "example": "I have to finish today.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_mustn_t",
+      "word": "mustn't",
+      "translation": "proibido",
+      "partOfSpeech": "modal",
+      "level": "A2",
+      "topic": "must_have_to",
+      "example": "You mustn't smoke here.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_don_t_have_to",
+      "word": "don't have to",
+      "translation": "não precisa",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "must_have_to",
+      "example": "You don't have to pay.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

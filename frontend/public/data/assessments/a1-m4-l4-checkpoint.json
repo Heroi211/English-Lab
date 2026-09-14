@@ -1,0 +1,96 @@
+{
+  "id": "a1-m4-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m4-l4",
+  "moduleId": "a1-m4",
+  "level": "A1",
+  "title": "Lesson 4 Checkpoint — Adverbs of Frequency",
+  "description": "Show what you learned about adverbs of frequency. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use always, usually, sometimes, never with present simple.",
+  "questions": [
+    {
+      "id": "cp_a1_m4_l4_01",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "ruleId": "a1-adverbs-frequency",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Adverbs of Frequency):",
+      "options": [
+        "I always drink water.",
+        "I always drink water.",
+        "No correct form.",
+        "water. drink always I"
+      ],
+      "answer": "I always drink water.",
+      "explanation": "This follows the pattern taught in Adverbs of Frequency."
+    },
+    {
+      "id": "cp_a1_m4_l4_02",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "ruleId": "a1-adverbs-frequency",
+      "type": "fill_blank",
+      "question": "Complete: I ___ drink water.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m4_l4_03",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "ruleId": "a1-adverbs-frequency",
+      "type": "true_false",
+      "question": "True or false: \"I always drink water.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m4_l4_04",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Adverbs of Frequency\"?",
+      "options": [
+        "always",
+        "usually",
+        "often",
+        "xyzabc"
+      ],
+      "answer": "always",
+      "explanation": "\"always\" (sempre) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m4_l4_05",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "ruleId": "a1-adverbs-frequency",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "always",
+          "right": "sempre"
+        },
+        {
+          "left": "usually",
+          "right": "geralmente"
+        },
+        {
+          "left": "often",
+          "right": "frequentemente"
+        },
+        {
+          "left": "sometimes",
+          "right": "às vezes"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

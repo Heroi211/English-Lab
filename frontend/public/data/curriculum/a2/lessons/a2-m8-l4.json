@@ -1,0 +1,186 @@
+{
+  "id": "a2-m8-l4",
+  "moduleId": "a2-m8",
+  "level": "A2",
+  "order": 4,
+  "title": "Review & Useful Idioms",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use review & useful idioms accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can understand basic idioms and review A2 lexis.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about review & useful idioms. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use review & useful idioms?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Break the ice, piece of cake, under the weather (intro level)\n\nReview phrasals and collocations from the module",
+  "grammar": {
+    "ruleId": "a2-idioms",
+    "title": "Review & Useful Idioms",
+    "rule": "Break the ice, piece of cake, under the weather (intro level)",
+    "examples": [
+      {
+        "sentence": "A joke breaks the ice.",
+        "note": "break the ice"
+      },
+      {
+        "sentence": "The test was a piece of cake.",
+        "note": "piece of cake"
+      },
+      {
+        "sentence": "I feel under the weather.",
+        "note": "under the weather"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "break the ice",
+      "translation": "quebrar o gelo",
+      "partOfSpeech": "idiom",
+      "example": "A joke breaks the ice.",
+      "collocations": []
+    },
+    {
+      "word": "piece of cake",
+      "translation": "muito fácil",
+      "partOfSpeech": "idiom",
+      "example": "The test was a piece of cake.",
+      "collocations": []
+    },
+    {
+      "word": "under the weather",
+      "translation": "indisposto",
+      "partOfSpeech": "idiom",
+      "example": "I feel under the weather.",
+      "collocations": []
+    },
+    {
+      "word": "review",
+      "translation": "revisar",
+      "partOfSpeech": "verb",
+      "example": "Let us review the vocabulary.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Review & Useful Idioms",
+      "sentences": [
+        "A joke breaks the ice.",
+        "The test was a piece of cake.",
+        "I feel under the weather.",
+        "Let us review the vocabulary."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m8_l4_01",
+    "ex_a2_m8_l4_02",
+    "ex_a2_m8_l4_03",
+    "ex_a2_m8_l4_04",
+    "ex_a2_m8_l4_05",
+    "ex_a2_m8_l4_06",
+    "ex_a2_m8_l4_07",
+    "ex_a2_m8_l4_08",
+    "ex_a2_m8_l4_09",
+    "ex_a2_m8_l4_10",
+    "ex_a2_m8_l4_11",
+    "ex_a2_m8_l4_12"
+  ],
+  "reading": {
+    "title": "Review & Useful Idioms in Context",
+    "text": "At the start of the meeting, a short game broke the ice. The setup was a piece of cake. Two colleagues were under the weather and joined online. Time to review before the module test.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "review & useful idioms",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"break the ice\" mean?",
+        "type": "short_answer",
+        "answer": "quebrar o gelo",
+        "explanation": "quebrar o gelo"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "The test was a piece of cake.",
+        "explanation": "The test was a piece of cake.",
+        "options": [
+          "The test was a piece of cake.",
+          "ice. the breaks joke A",
+          "No sentence fits.",
+          "I feel under the weather."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using review & useful idioms. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "A joke breaks the ice. The test was a piece of cake. I feel under the weather. Let us review the vocabulary."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-idioms"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_break_the_ice"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_piece_of_cake"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_under_the_weather"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_review"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m8_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m8_l4_10"
+    }
+  ],
+  "checkpointId": "a2-m8-l4-checkpoint",
+  "tutorHints": [
+    "Target structure: Review & Useful Idioms.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m8-l4.json",
+  "exercisesRef": "exercises/a2-m8-l4.json",
+  "grammarRef": "grammar/a2-idioms.json",
+  "checkpointRef": "assessments/a2-m8-l4-checkpoint.json"
+}

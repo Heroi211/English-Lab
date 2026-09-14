@@ -1,0 +1,27 @@
+{
+  "id": "a1-present-simple-q",
+  "level": "A1",
+  "title": "Present Simple — Questions",
+  "topic": "present_simple_q",
+  "summary": "Do you…? / Does he…?",
+  "rule": "Do you…? / Does he…?",
+  "examples": [
+    "Do you speak English?",
+    "Does she live here?",
+    "What do you do?"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Do you speak English?",
+      "correct": "Do you speak English?",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m4-l3"
+  ],
+  "tutorHints": [
+    "Focus on Present Simple — Questions with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

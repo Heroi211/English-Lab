@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m4-l1",
+  "exercises": [
+    {
+      "id": "ex_a1_m4_l1_01",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Simple — Affirmative):",
+      "options": [
+        "I work in an office.",
+        "I work in an office.",
+        "No correct form.",
+        "office. an in work I"
+      ],
+      "answer": "I work in an office.",
+      "explanation": "This follows the pattern taught in Present Simple — Affirmative."
+    },
+    {
+      "id": "ex_a1_m4_l1_02",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Present Simple — Affirmative\"?",
+      "options": [
+        "work",
+        "live",
+        "like",
+        "xyzabc"
+      ],
+      "answer": "work",
+      "explanation": "\"work\" (trabalhar) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l1_03",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ live in London.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Daily routines and permanent situations: add -s for he/she/it."
+    },
+    {
+      "id": "ex_a1_m4_l1_04",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "fill_blank",
+      "question": "Complete: I ___ in an office.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m4_l1_05",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "fill_blank",
+      "question": "Complete: ___ live in London.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Daily routines and permanent situations: add -s for he/she/it."
+    },
+    {
+      "id": "ex_a1_m4_l1_06",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "fill_blank",
+      "question": "Complete: ___ likes music.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l1_07",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "true_false",
+      "question": "True or false: \"I work in an office.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l1_08",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "true_false",
+      "question": "True or false: I WRONG in an office. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l1_09",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "work",
+          "right": "trabalhar"
+        },
+        {
+          "left": "live",
+          "right": "morar"
+        },
+        {
+          "left": "like",
+          "right": "gostar"
+        },
+        {
+          "left": "every day",
+          "right": "todos os dias"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l1_10",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "work",
+          "right": "trabalhar"
+        },
+        {
+          "left": "live",
+          "right": "morar"
+        },
+        {
+          "left": "like",
+          "right": "gostar"
+        },
+        {
+          "left": "every day",
+          "right": "todos os dias"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m4_l1_11",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"I WRONG in an office.\"",
+      "answer": "I work in an office.",
+      "answers": [
+        "I work in an office."
+      ],
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l1_12",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"like\"?",
+      "options": [
+        "gostar",
+        "trabalhar",
+        "morar",
+        "none of these"
+      ],
+      "answer": "gostar",
+      "explanation": "\"like\" means \"gostar\"."
+    }
+  ]
+}

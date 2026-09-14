@@ -1,0 +1,148 @@
+{
+  "id": "a1-m1-module-test",
+  "kind": "module",
+  "moduleId": "a1-m1",
+  "level": "A1",
+  "title": "Foundations — Module Test",
+  "description": "Test your knowledge of the whole module: Foundations. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can introduce myself and talk about basic personal information.",
+  "questions": [
+    {
+      "id": "mt_a1_m1_01",
+      "level": "A1",
+      "topic": "verb_to_be",
+      "ruleId": "a1-verb-to-be",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Verb To Be & Introductions):",
+      "options": [
+        "I am Gabriel. I am from Brazil.",
+        "I XXX Gabriel. I am from Brazil.",
+        "No correct form.",
+        "Brazil. from am I Gabriel. am I"
+      ],
+      "answer": "I am Gabriel. I am from Brazil.",
+      "explanation": "This follows the pattern taught in The Verb To Be — Present Simple."
+    },
+    {
+      "id": "mt_a1_m1_02",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Subject Pronouns\"?",
+      "options": [
+        "I",
+        "you",
+        "he",
+        "xyzabc"
+      ],
+      "answer": "I",
+      "explanation": "\"I\" (eu) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a1_m1_03",
+      "level": "A1",
+      "topic": "greetings",
+      "ruleId": "a1-greetings",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ afternoon, Ms. Costa.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Good morning/afternoon/evening + name is friendly and polite. Good night is usually a farewell, not a greeting. Please goes before or after a request:"
+    },
+    {
+      "id": "mt_a1_m1_04",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "fill_blank",
+      "question": "Complete: ___ is your name?",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a1_m1_05",
+      "level": "A1",
+      "topic": "verb_to_be",
+      "ruleId": "a1-verb-to-be",
+      "type": "true_false",
+      "question": "True or false: \"I am Gabriel. I am from Brazil.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a1_m1_06",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": "a1-subject-pronouns",
+      "type": "true_false",
+      "question": "True or false: Her is a teacher.",
+      "answer": false,
+      "explanation": "Her is possessive/object; use she as subject."
+    },
+    {
+      "id": "mt_a1_m1_07",
+      "level": "A1",
+      "topic": "greetings",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "good morning",
+          "right": "bom dia"
+        },
+        {
+          "left": "good afternoon",
+          "right": "boa tarde"
+        },
+        {
+          "left": "good evening",
+          "right": "boa noite (chegada)"
+        },
+        {
+          "left": "goodbye",
+          "right": "adeus"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a1_m1_08",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "what",
+          "right": "o que"
+        },
+        {
+          "left": "where",
+          "right": "onde"
+        },
+        {
+          "left": "who",
+          "right": "quem"
+        },
+        {
+          "left": "how",
+          "right": "como"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

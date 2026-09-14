@@ -1,0 +1,209 @@
+{
+  "id": "a1-m3-l4",
+  "moduleId": "a1-m3",
+  "level": "A1",
+  "order": 4,
+  "title": "Describing a Place",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Combine there is/are with have/has.",
+    "Use prepositions in, on, at for location.",
+    "Describe a room or town in a short paragraph."
+  ],
+  "canDo": "I can describe a place combining existence, possession, and location.",
+  "warmUp": {
+    "title": "Descrever lugares",
+    "prompt": "Descreva sua sala de aula em português em 3 frases. Agora tente usar there is/are e have.",
+    "reflectionQuestions": [
+      "What is on your desk?"
+    ]
+  },
+  "explanation": "Combine structures:\n• There is a desk in my room. | I have a lamp on the desk.\n• Prepositions: in (dentro), on (em cima), at (em/ponto), under (debaixo), next to (ao lado)\n\nIn the bedroom there is a bed. My phone is on the table. The cat is under the chair.",
+  "grammar": {
+    "ruleId": "a1-describing-places",
+    "title": "Describing Places",
+    "rule": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the door.",
+    "examples": [
+      {
+        "sentence": "There is a mirror on the wall.",
+        "note": "there + preposition"
+      },
+      {
+        "sentence": "She has keys in her bag.",
+        "note": "have + preposition"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "in",
+      "translation": "em / dentro de",
+      "partOfSpeech": "preposition",
+      "example": "The keys are in the bag.",
+      "collocations": []
+    },
+    {
+      "word": "on",
+      "translation": "em / sobre",
+      "partOfSpeech": "preposition",
+      "example": "The cup is on the table.",
+      "collocations": []
+    },
+    {
+      "word": "under",
+      "translation": "debaixo de",
+      "partOfSpeech": "preposition",
+      "example": "The cat is under the bed.",
+      "collocations": []
+    },
+    {
+      "word": "next to",
+      "translation": "ao lado de",
+      "partOfSpeech": "preposition",
+      "example": "The bank is next to the pharmacy.",
+      "collocations": []
+    },
+    {
+      "word": "desk",
+      "translation": "escrivaninha / mesa",
+      "partOfSpeech": "noun",
+      "example": "My laptop is on the desk.",
+      "collocations": []
+    },
+    {
+      "word": "bed",
+      "translation": "cama",
+      "partOfSpeech": "noun",
+      "example": "There is a bed in the room.",
+      "collocations": []
+    },
+    {
+      "word": "wall",
+      "translation": "parede",
+      "partOfSpeech": "noun",
+      "example": "There is a clock on the wall.",
+      "collocations": []
+    },
+    {
+      "word": "street",
+      "translation": "rua",
+      "partOfSpeech": "noun",
+      "example": "There are two cafés on my street.",
+      "collocations": []
+    },
+    {
+      "word": "building",
+      "translation": "prédio / edifício",
+      "partOfSpeech": "noun",
+      "example": "Our building has ten floors.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "sentences": [
+        "There is a supermarket at the end of the street.",
+        "In my bag I have a wallet and some keys."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m3_l4_01",
+    "ex_a1_m3_l4_02",
+    "ex_a1_m3_l4_03",
+    "ex_a1_m3_l4_04",
+    "ex_a1_m3_l4_05",
+    "ex_a1_m3_l4_06",
+    "ex_a1_m3_l4_07",
+    "ex_a1_m3_l4_08",
+    "ex_a1_m3_l4_09",
+    "ex_a1_m3_l4_10",
+    "ex_a1_m3_l4_11",
+    "ex_a1_m3_l4_12"
+  ],
+  "reading": {
+    "title": "My Favourite Café",
+    "text": "There is a small café next to my office. There are five tables inside. On the wall there are beautiful photos. The owner has a friendly dog. The dog is usually under one table. I have coffee there every morning. There isn't much noise — it is a quiet place.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Where is the café?",
+        "type": "short_answer",
+        "answer": "next to my office",
+        "explanation": "A small café next to my office."
+      },
+      {
+        "id": "r2",
+        "question": "What is on the wall?",
+        "type": "short_answer",
+        "answer": "photos",
+        "explanation": "Beautiful photos on the wall."
+      },
+      {
+        "id": "r3",
+        "question": "Where is the dog usually?",
+        "type": "short_answer",
+        "answer": "under a table",
+        "explanation": "The dog is usually under one table."
+      },
+      {
+        "id": "r4",
+        "question": "Is the café noisy?",
+        "type": "true_false",
+        "answer": false,
+        "explanation": "There isn't much noise — quiet place."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Describe your favourite place (8 sentences): use there is/are, have/has, and at least 3 prepositions.",
+    "minWords": 40,
+    "modelAnswer": "There is a park near my house. There are many trees and a lake. On weekends I have picnics there. My friends have bikes. We sit on the grass under a big tree. There are no shops in the park, but there is a café at the entrance."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-describing-places"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_in"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_on"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_under"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_next_to"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_desk"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_bed"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m3_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m3_l4_10"
+    }
+  ],
+  "checkpointId": "a1-m3-l4-checkpoint",
+  "tutorHints": [
+    "Draw a room plan for there is + prepositions."
+  ],
+  "vocabularyRef": "vocabulary/a1-m3-l4.json",
+  "exercisesRef": "exercises/a1-m3-l4.json",
+  "grammarRef": "grammar/a1-describing-places.json",
+  "checkpointRef": "assessments/a1-m3-l4-checkpoint.json"
+}

@@ -1,0 +1,67 @@
+{
+  "lessonId": "a2-m2-l2",
+  "level": "A2",
+  "topic": "future_going_to",
+  "items": [
+    {
+      "id": "vocab_going_to",
+      "word": "going to",
+      "translation": "ir (futuro planeado)",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "future_going_to",
+      "example": "We are going to move.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_plan",
+      "word": "plan",
+      "translation": "plano",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "future_going_to",
+      "example": "What is your plan?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_intend",
+      "word": "intend",
+      "translation": "pretender",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "future_going_to",
+      "example": "I intend to apply.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_prepare",
+      "word": "prepare",
+      "translation": "preparar",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "future_going_to",
+      "example": "She is preparing dinner.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_trip",
+      "word": "trip",
+      "translation": "viagem",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "future_going_to",
+      "example": "We are planning a trip.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

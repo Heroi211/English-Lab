@@ -1,0 +1,103 @@
+{
+  "lessonId": "a1-m4-l3",
+  "level": "A1",
+  "topic": "present_simple_q",
+  "items": [
+    {
+      "id": "vocab_do",
+      "word": "do",
+      "translation": "auxiliar (pergunta)",
+      "partOfSpeech": "auxiliary",
+      "level": "A1",
+      "topic": "present_simple_q",
+      "example": "Do you speak English?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_does",
+      "word": "does",
+      "translation": "auxiliar (ele/ela)",
+      "partOfSpeech": "auxiliary",
+      "level": "A1",
+      "topic": "present_simple_q",
+      "example": "Does she live here?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_what",
+      "word": "what",
+      "translation": "o que",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "topic": "present_simple_q",
+      "example": "What do you do?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_when",
+      "word": "when",
+      "translation": "quando",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "present_simple_q",
+      "example": "When do they start?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_why",
+      "word": "why",
+      "translation": "por que",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "present_simple_q",
+      "example": "Why do you study English?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_where",
+      "word": "where",
+      "translation": "onde",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "present_simple_q",
+      "example": "Where do you work?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_often",
+      "word": "often",
+      "translation": "frequentemente",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "present_simple_q",
+      "example": "How often do you travel?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_start",
+      "word": "start",
+      "translation": "começar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_q",
+      "example": "Work starts at nine.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

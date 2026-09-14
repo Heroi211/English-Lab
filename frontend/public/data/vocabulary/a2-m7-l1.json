@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m7-l1",
+  "level": "A2",
+  "topic": "first_conditional",
+  "items": [
+    {
+      "id": "vocab_if",
+      "word": "if",
+      "translation": "se",
+      "partOfSpeech": "conjunction",
+      "level": "A2",
+      "topic": "first_conditional",
+      "example": "If you need help, call me.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_unless",
+      "word": "unless",
+      "translation": "a menos que",
+      "partOfSpeech": "conjunction",
+      "level": "A2",
+      "topic": "first_conditional",
+      "example": "Unless it rains, we will go.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_probably",
+      "word": "probably",
+      "translation": "provavelmente",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "first_conditional",
+      "example": "It will probably work.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_condition",
+      "word": "condition",
+      "translation": "condição",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "first_conditional",
+      "example": "On one condition.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

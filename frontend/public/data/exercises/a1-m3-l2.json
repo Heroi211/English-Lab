@@ -1,0 +1,203 @@
+{
+  "lessonId": "a1-m3-l2",
+  "exercises": [
+    {
+      "id": "ex_a1_m3_l2_01",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Have / Has):",
+      "options": [
+        "We have a small car.",
+        "We XXX a small car.",
+        "No correct form.",
+        "car. small a have We"
+      ],
+      "answer": "We have a small car.",
+      "explanation": "This follows the pattern taught in Have / Has."
+    },
+    {
+      "id": "ex_a1_m3_l2_02",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Have / Has\"?",
+      "options": [
+        "have",
+        "has",
+        "brother",
+        "xyzabc"
+      ],
+      "answer": "have",
+      "explanation": "\"have\" (ter) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l2_03",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ has a cat.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Have with I, you, we, they. Has with he, she, it. Questions and negatives use do/does + base have: Does he have a bike?"
+    },
+    {
+      "id": "ex_a1_m3_l2_04",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "fill_blank",
+      "question": "Complete: I ___ a bike.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m3_l2_05",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "fill_blank",
+      "question": "Complete: ___ has a cat.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Have with I, you, we, they. Has with he, she, it. Questions and negatives use do/does + base have: Does he have a bike?"
+    },
+    {
+      "id": "ex_a1_m3_l2_06",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "fill_blank",
+      "question": "Complete: ___ have one brother.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l2_07",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "true_false",
+      "question": "True or false: \"We have a small car.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l2_08",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "true_false",
+      "question": "True or false: He have a dog. is grammatically correct.",
+      "answer": false,
+      "explanation": "Third person singular → has."
+    },
+    {
+      "id": "ex_a1_m3_l2_09",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "have",
+          "right": "ter"
+        },
+        {
+          "left": "has",
+          "right": "tem (ele"
+        },
+        {
+          "left": "brother",
+          "right": "irmão"
+        },
+        {
+          "left": "sister",
+          "right": "irmã"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l2_10",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "have",
+          "right": "ter"
+        },
+        {
+          "left": "has",
+          "right": "tem (ele"
+        },
+        {
+          "left": "brother",
+          "right": "irmão"
+        },
+        {
+          "left": "sister",
+          "right": "irmã"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m3_l2_11",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "a",
+        "bike",
+        "have",
+        "I"
+      ],
+      "answer": [
+        "I",
+        "have",
+        "a",
+        "bike"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l2_12",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"brother\"?",
+      "options": [
+        "irmão",
+        "ter",
+        "tem (ele/ela)",
+        "none of these"
+      ],
+      "answer": "irmão",
+      "explanation": "\"brother\" means \"irmão\"."
+    }
+  ]
+}

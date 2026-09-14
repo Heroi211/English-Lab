@@ -1,0 +1,115 @@
+{
+  "lessonId": "a1-m2-l1",
+  "level": "A1",
+  "topic": "possessives",
+  "items": [
+    {
+      "id": "vocab_my",
+      "word": "my",
+      "translation": "meu/minha",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "possessives",
+      "example": "This is my book.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_your",
+      "word": "your",
+      "translation": "seu/sua",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "possessives",
+      "example": "Is this your pen?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_his",
+      "word": "his",
+      "translation": "dele",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "possessives",
+      "example": "His car is red.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_her",
+      "word": "her",
+      "translation": "dela",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "possessives",
+      "example": "Her name is Sofia.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_our",
+      "word": "our",
+      "translation": "nosso/nossa",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "possessives",
+      "example": "Our class is fun.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_their",
+      "word": "their",
+      "translation": "deles/delas",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "possessives",
+      "example": "Their dog is big.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_bag",
+      "word": "bag",
+      "translation": "bolsa / mochila",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "possessives",
+      "example": "This is her bag.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_phone",
+      "word": "phone",
+      "translation": "telefone / celular",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "possessives",
+      "example": "My phone is new.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_house",
+      "word": "house",
+      "translation": "casa",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "possessives",
+      "example": "Our house is small.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a2-future-going-to",
+  "level": "A2",
+  "title": "Future with Going To",
+  "topic": "future_going_to",
+  "summary": "Am/is/are + going to + verb.",
+  "rule": "Am/is/are + going to + verb.",
+  "examples": [
+    "We are going to move.",
+    "What is your plan?",
+    "I intend to apply."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We are going to move.",
+      "correct": "We are going to move.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m2-l2"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

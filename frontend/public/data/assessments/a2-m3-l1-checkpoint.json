@@ -1,0 +1,96 @@
+{
+  "id": "a2-m3-l1-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m3-l1",
+  "moduleId": "a2-m3",
+  "level": "A2",
+  "title": "Lesson 1 Checkpoint — Comparatives",
+  "description": "Show what you learned about comparatives. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can compare two things using comparatives.",
+  "questions": [
+    {
+      "id": "cp_a2_m3_l1_01",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Comparatives):",
+      "options": [
+        "This option is better.",
+        "This option XXX better.",
+        "No correct form.",
+        "better. is option This"
+      ],
+      "answer": "This option is better.",
+      "explanation": "This follows the pattern taught in Comparatives."
+    },
+    {
+      "id": "cp_a2_m3_l1_02",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "fill_blank",
+      "question": "Complete: This option is ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m3_l1_03",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "true_false",
+      "question": "True or false: \"This option is better.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m3_l1_04",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Comparatives\"?",
+      "options": [
+        "better",
+        "worse",
+        "than",
+        "xyzabc"
+      ],
+      "answer": "better",
+      "explanation": "\"better\" (melhor) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m3_l1_05",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "better",
+          "right": "melhor"
+        },
+        {
+          "left": "worse",
+          "right": "pior"
+        },
+        {
+          "left": "than",
+          "right": "do que"
+        },
+        {
+          "left": "cheaper",
+          "right": "mais barato"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

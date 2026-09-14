@@ -1,0 +1,117 @@
+{
+  "lessonId": "a1-m3-l3",
+  "level": "A1",
+  "topic": "some_any",
+  "items": [
+    {
+      "id": "vocab_some",
+      "word": "some",
+      "translation": "alguns / um pouco de",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "some_any",
+      "example": "I bought some bread.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_any",
+      "word": "any",
+      "translation": "algum / nenhum",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "some_any",
+      "example": "Are there any messages?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_water",
+      "word": "water",
+      "translation": "água",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "some_any",
+      "example": "Can I have some water?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_bread",
+      "word": "bread",
+      "translation": "pão",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "some_any",
+      "example": "There is some bread.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_sugar",
+      "word": "sugar",
+      "translation": "açúcar",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "some_any",
+      "example": "We don't need any sugar.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_egg",
+      "word": "egg",
+      "translation": "ovo",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "some_any",
+      "example": "Are there any eggs?",
+      "collocations": [
+        "eggs"
+      ],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_help",
+      "word": "help",
+      "translation": "ajuda",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "some_any",
+      "example": "I need some help.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_message",
+      "word": "message",
+      "translation": "mensagem",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "some_any",
+      "example": "Do you have any messages?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_fridge",
+      "word": "fridge",
+      "translation": "geladeira",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "some_any",
+      "example": "There is milk in the fridge.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

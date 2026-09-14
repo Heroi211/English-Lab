@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m2-l4",
+  "level": "A2",
+  "topic": "plans_vs_predictions",
+  "items": [
+    {
+      "id": "vocab_decision",
+      "word": "decision",
+      "translation": "decisão",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "plans_vs_predictions",
+      "example": "It was a quick decision.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_evidence",
+      "word": "evidence",
+      "translation": "evidência",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "plans_vs_predictions",
+      "example": "There is evidence of rain.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_spontaneous",
+      "word": "spontaneous",
+      "translation": "espontâneo",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "plans_vs_predictions",
+      "example": "A spontaneous offer.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_fixed",
+      "word": "fixed",
+      "translation": "fixo / marcado",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "plans_vs_predictions",
+      "example": "A fixed appointment.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

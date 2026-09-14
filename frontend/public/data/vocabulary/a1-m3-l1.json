@@ -1,0 +1,115 @@
+{
+  "lessonId": "a1-m3-l1",
+  "level": "A1",
+  "topic": "there_is_are",
+  "items": [
+    {
+      "id": "vocab_there_is",
+      "word": "there is",
+      "translation": "há / tem (singular)",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "there_is_are",
+      "example": "There is a café on this street.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_there_are",
+      "word": "there are",
+      "translation": "há / existem",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "there_is_are",
+      "example": "There are many parks here.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_room",
+      "word": "room",
+      "translation": "quarto / sala",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "there_is_are",
+      "example": "There is a bed in the room.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_table",
+      "word": "table",
+      "translation": "mesa",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "there_is_are",
+      "example": "There is a lamp on the table.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_chair",
+      "word": "chair",
+      "translation": "cadeira",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "there_is_are",
+      "example": "There are four chairs.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_window",
+      "word": "window",
+      "translation": "janela",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "there_is_are",
+      "example": "There is a big window.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_kitchen",
+      "word": "kitchen",
+      "translation": "cozinha",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "there_is_are",
+      "example": "There is a fridge in the kitchen.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_any",
+      "word": "any",
+      "translation": "algum / nenhum (?)",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "there_is_are",
+      "example": "Are there any questions?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_some",
+      "word": "some",
+      "translation": "alguns / algumas",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "there_is_are",
+      "example": "There are some apples.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

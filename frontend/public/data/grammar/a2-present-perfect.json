@@ -1,0 +1,26 @@
+{
+  "id": "a2-present-perfect",
+  "level": "A2",
+  "title": "Present Perfect Form",
+  "topic": "present_perfect_form",
+  "summary": "Have/has + past participle: I have finished. | She has lived here for years.",
+  "rule": "Have/has + past participle: I have finished. | She has lived here for years.",
+  "examples": [
+    "I have been to Chile.",
+    "She has done the work.",
+    "Learn the past participle."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I WRONG been to Chile.",
+      "correct": "I have been to Chile.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m6-l1"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a1-telling-time",
+  "level": "A1",
+  "title": "Telling the Time",
+  "topic": "telling_time",
+  "summary": "What time is it? — It is half past three. / 3:30",
+  "rule": "What time is it? — It is half past three. / 3:30",
+  "examples": [
+    "It is three o'clock.",
+    "Half past two.",
+    "Quarter past ten."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "It WRONG three o'clock.",
+      "correct": "It is three o'clock.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m7-l2"
+  ],
+  "tutorHints": [
+    "Focus on Telling the Time with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

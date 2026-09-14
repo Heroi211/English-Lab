@@ -1,0 +1,103 @@
+{
+  "lessonId": "a1-m2-l4",
+  "level": "A1",
+  "topic": "demonstratives",
+  "items": [
+    {
+      "id": "vocab_this",
+      "word": "this",
+      "translation": "este/esta/isto",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "demonstratives",
+      "example": "This is my bag.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_that",
+      "word": "that",
+      "translation": "esse/essa/isso/aquele",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "demonstratives",
+      "example": "That is a tall building.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_these",
+      "word": "these",
+      "translation": "estes/estas",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "demonstratives",
+      "example": "These shoes are new.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_those",
+      "word": "those",
+      "translation": "esses/aqueles",
+      "partOfSpeech": "determiner",
+      "level": "A1",
+      "topic": "demonstratives",
+      "example": "Those mountains are beautiful.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_near",
+      "word": "near",
+      "translation": "perto",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "topic": "demonstratives",
+      "example": "The café is near here.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_far",
+      "word": "far",
+      "translation": "longe",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "topic": "demonstratives",
+      "example": "The station is far.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_here",
+      "word": "here",
+      "translation": "aqui",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "demonstratives",
+      "example": "Come here, please.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_there",
+      "word": "there",
+      "translation": "lá / ali",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "demonstratives",
+      "example": "Look over there.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

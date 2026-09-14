@@ -1,0 +1,96 @@
+{
+  "id": "a2-m8-l1-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m8-l1",
+  "moduleId": "a2-m8",
+  "level": "A2",
+  "title": "Lesson 1 Checkpoint — Common Phrasal Verbs 1",
+  "description": "Show what you learned about common phrasal verbs 1. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can understand and use get up, turn on, look for, pick up.",
+  "questions": [
+    {
+      "id": "cp_a2_m8_l1_01",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "ruleId": "a2-phrasals-1",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Common Phrasal Verbs 1):",
+      "options": [
+        "I get up at six.",
+        "I get up at six.",
+        "No correct form.",
+        "six. at up get I"
+      ],
+      "answer": "I get up at six.",
+      "explanation": "This follows the pattern taught in Common Phrasal Verbs 1."
+    },
+    {
+      "id": "cp_a2_m8_l1_02",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "ruleId": "a2-phrasals-1",
+      "type": "fill_blank",
+      "question": "Complete: I ___ at six.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m8_l1_03",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "ruleId": "a2-phrasals-1",
+      "type": "true_false",
+      "question": "True or false: \"I get up at six.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m8_l1_04",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Common Phrasal Verbs 1\"?",
+      "options": [
+        "get up",
+        "turn on",
+        "look for",
+        "xyzabc"
+      ],
+      "answer": "get up",
+      "explanation": "\"get up\" (levantar-se) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m8_l1_05",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "ruleId": "a2-phrasals-1",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "get up",
+          "right": "levantar-se"
+        },
+        {
+          "left": "turn on",
+          "right": "ligar"
+        },
+        {
+          "left": "look for",
+          "right": "procurar"
+        },
+        {
+          "left": "pick up",
+          "right": "buscar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

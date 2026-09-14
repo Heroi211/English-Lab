@@ -1,0 +1,26 @@
+{
+  "id": "a2-for-since",
+  "level": "A2",
+  "title": "For & Since",
+  "topic": "for_since",
+  "summary": "Since + point (since 2020, since Monday) | For + period (for three years)",
+  "rule": "Since + point (since 2020, since Monday) | For + period (for three years)",
+  "examples": [
+    "Since last year.",
+    "For two hours.",
+    "How long have you known her?"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Since last year.",
+      "correct": "Since last year.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m6-l3"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

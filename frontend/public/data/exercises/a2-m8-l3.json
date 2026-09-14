@@ -1,0 +1,195 @@
+{
+  "lessonId": "a2-m8-l3",
+  "exercises": [
+    {
+      "id": "ex_a2_m8_l3_01",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Collocations):",
+      "options": [
+        "Everyone makes mistakes.",
+        "Everyone makes mistakes.",
+        "No correct form.",
+        "mistakes. makes Everyone"
+      ],
+      "answer": "Everyone makes mistakes.",
+      "explanation": "This follows the pattern taught in Collocations."
+    },
+    {
+      "id": "ex_a2_m8_l3_02",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Collocations\"?",
+      "options": [
+        "make a mistake",
+        "do homework",
+        "heavy rain",
+        "xyzabc"
+      ],
+      "answer": "make a mistake",
+      "explanation": "\"make a mistake\" (cometer um erro) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l3_03",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ do homework after dinner.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Make vs do: make a decision, do your best"
+    },
+    {
+      "id": "ex_a2_m8_l3_04",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "fill_blank",
+      "question": "Complete: Everyone makes mistakes.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m8_l3_05",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "fill_blank",
+      "question": "Complete: ___ do homework after dinner.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Make vs do: make a decision, do your best"
+    },
+    {
+      "id": "ex_a2_m8_l3_06",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "fill_blank",
+      "question": "Complete: ___ rain expected.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l3_07",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "true_false",
+      "question": "True or false: \"Everyone makes mistakes.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l3_08",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "true_false",
+      "question": "True or false: Everyone makes mistakes. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l3_09",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "make a mistake",
+          "right": "cometer um erro"
+        },
+        {
+          "left": "do homework",
+          "right": "fazer lição de casa"
+        },
+        {
+          "left": "heavy rain",
+          "right": "chuva forte"
+        },
+        {
+          "left": "fast food",
+          "right": "comida rápida"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l3_10",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "make a mistake",
+          "right": "cometer um erro"
+        },
+        {
+          "left": "do homework",
+          "right": "fazer lição de casa"
+        },
+        {
+          "left": "heavy rain",
+          "right": "chuva forte"
+        },
+        {
+          "left": "fast food",
+          "right": "comida rápida"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m8_l3_11",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"Everyone makes mistakes.\"",
+      "answer": "Everyone makes mistakes.",
+      "answers": [
+        "Everyone makes mistakes."
+      ],
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l3_12",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"heavy rain\"?",
+      "options": [
+        "chuva forte",
+        "cometer um erro",
+        "fazer lição de casa",
+        "none of these"
+      ],
+      "answer": "chuva forte",
+      "explanation": "\"heavy rain\" means \"chuva forte\"."
+    }
+  ]
+}

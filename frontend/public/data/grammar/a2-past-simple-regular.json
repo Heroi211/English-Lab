@@ -1,0 +1,26 @@
+{
+  "id": "a2-past-simple-regular",
+  "level": "A2",
+  "title": "Past Simple — Regular Verbs",
+  "topic": "past_simple_regular",
+  "summary": "Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/.",
+  "rule": "Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/.",
+  "examples": [
+    "I worked yesterday.",
+    "We visited Rome last week.",
+    "Two days ago."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I worked yesterday.",
+      "correct": "I worked yesterday.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m1-l1"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

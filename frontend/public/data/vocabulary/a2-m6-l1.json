@@ -1,0 +1,67 @@
+{
+  "lessonId": "a2-m6-l1",
+  "level": "A2",
+  "topic": "present_perfect_form",
+  "items": [
+    {
+      "id": "vocab_have_been",
+      "word": "have been",
+      "translation": "esteve / esteve em",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "example": "I have been to Chile.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_has_done",
+      "word": "has done",
+      "translation": "fez",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "example": "She has done the work.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_past_participle",
+      "word": "past participle",
+      "translation": "particípio passado",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "example": "Learn the past participle.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_experience",
+      "word": "experience",
+      "translation": "experiência",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "example": "An interesting experience.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_already",
+      "word": "already",
+      "translation": "já",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "example": "I have already eaten.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

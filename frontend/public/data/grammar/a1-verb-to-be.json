@@ -1,0 +1,57 @@
+{
+  "id": "a1-verb-to-be",
+  "level": "A1",
+  "title": "The Verb To Be (am / is / are)",
+  "topic": "verb_to_be",
+  "summary": "Use am, is, or are to describe identity, nationality, age, feelings, and location. Match the form to the subject pronoun.",
+  "rule": "The verb to be has three forms in the present: am (I), is (he/she/it), and are (you/we/they). Use it for names, jobs, nationality, age, feelings, and location. In questions, move the verb before the subject: Are you…? Is she…? In negatives, add not after the verb: I am not, she is not / isn't, they are not / aren't.",
+  "forms": {
+    "affirmative": [
+      { "subject": "I", "form": "am", "contraction": "I'm", "example": "I am Gabriel. / I'm Gabriel." },
+      { "subject": "You", "form": "are", "contraction": "You're", "example": "You are my friend. / You're my friend." },
+      { "subject": "He / She / It", "form": "is", "contraction": "He's / She's / It's", "example": "She is a student. / She's a student." },
+      { "subject": "We / They", "form": "are", "contraction": "We're / They're", "example": "We are from Brazil. / We're from Brazil." }
+    ],
+    "negative": [
+      { "subject": "I", "form": "am not", "contraction": "I'm not", "example": "I am not tired." },
+      { "subject": "He / She / It", "form": "is not", "contraction": "isn't", "example": "He isn't at home." },
+      { "subject": "You / We / They", "form": "are not", "contraction": "aren't", "example": "They aren't students." }
+    ],
+    "questions": [
+      { "pattern": "Am I …?", "example": "Am I late?", "shortAnswer": "Yes, you are. / No, you aren't." },
+      { "pattern": "Are you …?", "example": "Are you from São Paulo?", "shortAnswer": "Yes, I am. / No, I'm not." },
+      { "pattern": "Is he/she/it …?", "example": "Is she a teacher?", "shortAnswer": "Yes, she is. / No, she isn't." },
+      { "pattern": "Are we/they …?", "example": "Are they students?", "shortAnswer": "Yes, they are. / No, they aren't." }
+    ]
+  },
+  "examples": [
+    "I am Ana. I am 25 years old.",
+    "He is from Canada. He is a doctor.",
+    "We are happy today.",
+    "Are you Brazilian? — Yes, I am.",
+    "She isn't at work. She is at home."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I is a student.",
+      "correct": "I am a student.",
+      "explanation": "Always use am with I, never is or are."
+    },
+    {
+      "incorrect": "She are my sister.",
+      "correct": "She is my sister.",
+      "explanation": "Use is with he, she, and it."
+    },
+    {
+      "incorrect": "They is from Rio.",
+      "correct": "They are from Rio.",
+      "explanation": "Use are with they, we, and you."
+    }
+  ],
+  "relatedLessons": ["a1-m1-l1"],
+  "tutorHints": [
+    "If the learner mixes up am/is/are, ask them to identify the subject pronoun first, then choose the matching form.",
+    "Contractions (I'm, she's, they're) are very common in speech — mention them but don't require them in early writing.",
+    "Age uses to be in English: 'I am 30' (not 'I have 30 years'). This is a common transfer error from Portuguese."
+  ]
+}

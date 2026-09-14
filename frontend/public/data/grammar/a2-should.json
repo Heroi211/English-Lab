@@ -1,0 +1,26 @@
+{
+  "id": "a2-should",
+  "level": "A2",
+  "title": "Should / Shouldn't",
+  "topic": "should",
+  "summary": "Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired.",
+  "rule": "Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired.",
+  "examples": [
+    "You should see a doctor.",
+    "You shouldn't skip meals.",
+    "Take my advice."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "You WRONG see a doctor.",
+      "correct": "You should see a doctor.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m5-l2"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "lessonId": "a2-m6-l2",
+  "exercises": [
+    {
+      "id": "ex_a2_m6_l2_01",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Ever & Never):",
+      "options": [
+        "Have you ever been abroad?",
+        "XXX you ever been abroad?",
+        "No correct form.",
+        "abroad? been ever you Have"
+      ],
+      "answer": "Have you ever been abroad?",
+      "explanation": "This follows the pattern taught in Ever & Never."
+    },
+    {
+      "id": "ex_a2_m6_l2_02",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Ever & Never\"?",
+      "options": [
+        "ever",
+        "never",
+        "before",
+        "xyzabc"
+      ],
+      "answer": "ever",
+      "explanation": "\"ever\" (alguma vez) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l2_03",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ have never flown.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Have you ever…? | I have never…"
+    },
+    {
+      "id": "ex_a2_m6_l2_04",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "fill_blank",
+      "question": "Complete: Have you ___ been abroad?",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m6_l2_05",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "fill_blank",
+      "question": "Complete: ___ have never flown.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Have you ever…? | I have never…"
+    },
+    {
+      "id": "ex_a2_m6_l2_06",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "fill_blank",
+      "question": "Complete: ___ like this before.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l2_07",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "true_false",
+      "question": "True or false: \"Have you ever been abroad?\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l2_08",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "true_false",
+      "question": "True or false: WRONG you ever been abroad? is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l2_09",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "ever",
+          "right": "alguma vez"
+        },
+        {
+          "left": "never",
+          "right": "nunca"
+        },
+        {
+          "left": "before",
+          "right": "antes"
+        },
+        {
+          "left": "yet",
+          "right": "ainda (?)"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l2_10",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "ever",
+          "right": "alguma vez"
+        },
+        {
+          "left": "never",
+          "right": "nunca"
+        },
+        {
+          "left": "before",
+          "right": "antes"
+        },
+        {
+          "left": "yet",
+          "right": "ainda (?)"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m6_l2_11",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "ever",
+        "you",
+        "Have",
+        "abroad",
+        "been"
+      ],
+      "answer": [
+        "Have",
+        "you",
+        "ever",
+        "been",
+        "abroad"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l2_12",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"before\"?",
+      "options": [
+        "antes",
+        "alguma vez",
+        "nunca",
+        "none of these"
+      ],
+      "answer": "antes",
+      "explanation": "\"before\" means \"antes\"."
+    }
+  ]
+}

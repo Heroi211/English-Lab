@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m8-l2",
+  "level": "A2",
+  "topic": "phrasals_2",
+  "items": [
+    {
+      "id": "vocab_take_off",
+      "word": "take off",
+      "translation": "tirar / decolar",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "example": "The plane takes off at noon.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_put_on",
+      "word": "put on",
+      "translation": "vestir / colocar",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "example": "Put on your jacket.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_run_out_of",
+      "word": "run out of",
+      "translation": "ficar sem",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "example": "We ran out of milk.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_find_out",
+      "word": "find out",
+      "translation": "descobrir",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "example": "I found out the truth.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

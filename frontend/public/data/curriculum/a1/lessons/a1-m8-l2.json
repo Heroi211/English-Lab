@@ -1,0 +1,206 @@
+{
+  "id": "a1-m8-l2",
+  "moduleId": "a1-m8",
+  "level": "A1",
+  "order": 2,
+  "title": "Home & Furniture",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use home & furniture.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can name rooms and furniture and describe my home.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"home & furniture\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Home & Furniture?"
+    ]
+  },
+  "explanation": "Living room, bedroom, bathroom, sofa, cupboard, shelf.\n\nThere is/are + furniture in rooms.\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-home-furniture",
+    "title": "Home & Furniture",
+    "rule": "Living room, bedroom, bathroom, sofa, cupboard, shelf.",
+    "examples": [
+      {
+        "sentence": "The sofa is comfortable.",
+        "note": "sofa"
+      },
+      {
+        "sentence": "Plates are in the cupboard.",
+        "note": "cupboard"
+      },
+      {
+        "sentence": "Books are on the shelf.",
+        "note": "shelf"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "sofa",
+      "translation": "sofá",
+      "partOfSpeech": "noun",
+      "example": "The sofa is comfortable.",
+      "collocations": []
+    },
+    {
+      "word": "cupboard",
+      "translation": "armário",
+      "partOfSpeech": "noun",
+      "example": "Plates are in the cupboard.",
+      "collocations": []
+    },
+    {
+      "word": "shelf",
+      "translation": "prateleira",
+      "partOfSpeech": "noun",
+      "example": "Books are on the shelf.",
+      "collocations": []
+    },
+    {
+      "word": "mirror",
+      "translation": "espelho",
+      "partOfSpeech": "noun",
+      "example": "There is a mirror in the bathroom.",
+      "collocations": []
+    },
+    {
+      "word": "shower",
+      "translation": "chuveiro / banho",
+      "partOfSpeech": "noun",
+      "example": "The shower is hot.",
+      "collocations": []
+    },
+    {
+      "word": "garden",
+      "translation": "jardim",
+      "partOfSpeech": "noun",
+      "example": "We have a small garden.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Home & Furniture",
+      "sentences": [
+        "The sofa is comfortable.",
+        "Plates are in the cupboard.",
+        "Books are on the shelf.",
+        "There is a mirror in the bathroom."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m8_l2_01",
+    "ex_a1_m8_l2_02",
+    "ex_a1_m8_l2_03",
+    "ex_a1_m8_l2_04",
+    "ex_a1_m8_l2_05",
+    "ex_a1_m8_l2_06",
+    "ex_a1_m8_l2_07",
+    "ex_a1_m8_l2_08",
+    "ex_a1_m8_l2_09",
+    "ex_a1_m8_l2_10",
+    "ex_a1_m8_l2_11",
+    "ex_a1_m8_l2_12"
+  ],
+  "reading": {
+    "title": "Home & Furniture — Reading",
+    "text": "Every day, people use home & furniture in conversation. The sofa is comfortable. Plates are in the cupboard. Books are on the shelf. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "sofa",
+        "explanation": "Focus word: sofa.",
+        "options": [
+          "sofa",
+          "cupboard",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"cupboard\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "armário",
+        "explanation": "armário"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using home & furniture.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "The sofa is comfortable. Plates are in the cupboard. Books are on the shelf."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-home-furniture"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_sofa"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_cupboard"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_shelf"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_mirror"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_shower"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_garden"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m8_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m8_l2_10"
+    }
+  ],
+  "checkpointId": "a1-m8-l2-checkpoint",
+  "tutorHints": [
+    "Focus on Home & Furniture with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m8-l2.json",
+  "exercisesRef": "exercises/a1-m8-l2.json",
+  "grammarRef": "grammar/a1-home-furniture.json",
+  "checkpointRef": "assessments/a1-m8-l2-checkpoint.json"
+}

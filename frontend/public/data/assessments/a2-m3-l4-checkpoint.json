@@ -1,0 +1,96 @@
+{
+  "id": "a2-m3-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m3-l4",
+  "moduleId": "a2-m3",
+  "level": "A2",
+  "title": "Lesson 4 Checkpoint — Too & Enough",
+  "description": "Show what you learned about too & enough. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use too and enough with adjectives and nouns.",
+  "questions": [
+    {
+      "id": "cp_a2_m3_l4_01",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Too & Enough):",
+      "options": [
+        "Too late to change.",
+        "Too late to change.",
+        "No correct form.",
+        "change. to late Too"
+      ],
+      "answer": "Too late to change.",
+      "explanation": "This follows the pattern taught in Too & Enough."
+    },
+    {
+      "id": "cp_a2_m3_l4_02",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "fill_blank",
+      "question": "Complete: ___ late to change.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m3_l4_03",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "true_false",
+      "question": "True or false: \"Too late to change.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m3_l4_04",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Too & Enough\"?",
+      "options": [
+        "too",
+        "enough",
+        "plenty",
+        "xyzabc"
+      ],
+      "answer": "too",
+      "explanation": "\"too\" (demais / muito (excesso)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m3_l4_05",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "too",
+          "right": "demais"
+        },
+        {
+          "left": "enough",
+          "right": "suficiente"
+        },
+        {
+          "left": "plenty",
+          "right": "bastante"
+        },
+        {
+          "left": "almost",
+          "right": "quase"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

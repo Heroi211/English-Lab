@@ -1,0 +1,195 @@
+{
+  "lessonId": "a2-m5-l3",
+  "exercises": [
+    {
+      "id": "ex_a2_m5_l3_01",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Must / Have To):",
+      "options": [
+        "You must wear a seatbelt.",
+        "You must wear a seatbelt.",
+        "No correct form.",
+        "seatbelt. a wear must You"
+      ],
+      "answer": "You must wear a seatbelt.",
+      "explanation": "This follows the pattern taught in Must / Have To."
+    },
+    {
+      "id": "ex_a2_m5_l3_02",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Must / Have To\"?",
+      "options": [
+        "must",
+        "have to",
+        "mustn't",
+        "xyzabc"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" (dever (obrigação)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l3_03",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ have to finish today.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Must = speaker obligation/rules | Have to = external rules"
+    },
+    {
+      "id": "ex_a2_m5_l3_04",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "fill_blank",
+      "question": "Complete: You ___ wear a seatbelt.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m5_l3_05",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "fill_blank",
+      "question": "Complete: ___ have to finish today.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Must = speaker obligation/rules | Have to = external rules"
+    },
+    {
+      "id": "ex_a2_m5_l3_06",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "fill_blank",
+      "question": "Complete: ___ mustn't smoke here.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l3_07",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "true_false",
+      "question": "True or false: \"You must wear a seatbelt.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l3_08",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "true_false",
+      "question": "True or false: You must wear a seatbelt. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l3_09",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "must",
+          "right": "dever (obrigação)"
+        },
+        {
+          "left": "have to",
+          "right": "ter que"
+        },
+        {
+          "left": "mustn't",
+          "right": "proibido"
+        },
+        {
+          "left": "don't have to",
+          "right": "não precisa"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l3_10",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "must",
+          "right": "dever (obrigação)"
+        },
+        {
+          "left": "have to",
+          "right": "ter que"
+        },
+        {
+          "left": "mustn't",
+          "right": "proibido"
+        },
+        {
+          "left": "don't have to",
+          "right": "não precisa"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m5_l3_11",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"You must wear a seatbelt.\"",
+      "answer": "You must wear a seatbelt.",
+      "answers": [
+        "You must wear a seatbelt."
+      ],
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l3_12",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"mustn't\"?",
+      "options": [
+        "proibido",
+        "dever (obrigação)",
+        "ter que",
+        "none of these"
+      ],
+      "answer": "proibido",
+      "explanation": "\"mustn't\" means \"proibido\"."
+    }
+  ]
+}

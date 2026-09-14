@@ -1,0 +1,205 @@
+{
+  "lessonId": "a2-m5-l4",
+  "exercises": [
+    {
+      "id": "ex_a2_m5_l4_01",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Would Like):",
+      "options": [
+        "I would like the bill.",
+        "I would like the bill.",
+        "No correct form.",
+        "bill. the like would I"
+      ],
+      "answer": "I would like the bill.",
+      "explanation": "This follows the pattern taught in Would Like."
+    },
+    {
+      "id": "ex_a2_m5_l4_02",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Would Like\"?",
+      "options": [
+        "would like",
+        "order",
+        "prefer",
+        "xyzabc"
+      ],
+      "answer": "would like",
+      "explanation": "\"would like\" (gostaria) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l4_03",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ you ready to order?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Would like + noun / to + verb: I'd like a tea. | Would you like…?"
+    },
+    {
+      "id": "ex_a2_m5_l4_04",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "fill_blank",
+      "question": "Complete: I ___ the bill.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m5_l4_05",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "fill_blank",
+      "question": "Complete: ___ you ready to order?",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Would like + noun / to + verb: I'd like a tea. | Would you like…?"
+    },
+    {
+      "id": "ex_a2_m5_l4_06",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "fill_blank",
+      "question": "Complete: ___ prefer tea.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l4_07",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "true_false",
+      "question": "True or false: \"I would like the bill.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l4_08",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "true_false",
+      "question": "True or false: I would like the bill. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l4_09",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "would like",
+          "right": "gostaria"
+        },
+        {
+          "left": "order",
+          "right": "pedir"
+        },
+        {
+          "left": "prefer",
+          "right": "preferir"
+        },
+        {
+          "left": "something",
+          "right": "algo"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l4_10",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "would like",
+          "right": "gostaria"
+        },
+        {
+          "left": "order",
+          "right": "pedir"
+        },
+        {
+          "left": "prefer",
+          "right": "preferir"
+        },
+        {
+          "left": "something",
+          "right": "algo"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m5_l4_11",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "I",
+        "would",
+        "bill",
+        "the",
+        "like"
+      ],
+      "answer": [
+        "I",
+        "would",
+        "like",
+        "the",
+        "bill"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l4_12",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"prefer\"?",
+      "options": [
+        "preferir",
+        "gostaria",
+        "pedir / pedido",
+        "none of these"
+      ],
+      "answer": "preferir",
+      "explanation": "\"prefer\" means \"preferir\"."
+    }
+  ]
+}

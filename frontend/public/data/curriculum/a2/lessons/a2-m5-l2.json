@@ -1,0 +1,186 @@
+{
+  "id": "a2-m5-l2",
+  "moduleId": "a2-m5",
+  "level": "A2",
+  "order": 2,
+  "title": "Should / Shouldn't",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use should / shouldn't accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can give advice with should and shouldn't.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about should / shouldn't. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use should / shouldn't?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired.\n\nAdvice, recommendation — not strong obligation.",
+  "grammar": {
+    "ruleId": "a2-should",
+    "title": "Should / Shouldn't",
+    "rule": "Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired.",
+    "examples": [
+      {
+        "sentence": "You should see a doctor.",
+        "note": "should"
+      },
+      {
+        "sentence": "You shouldn't skip meals.",
+        "note": "shouldn't"
+      },
+      {
+        "sentence": "Take my advice.",
+        "note": "advice"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "should",
+      "translation": "deveria",
+      "partOfSpeech": "modal",
+      "example": "You should see a doctor.",
+      "collocations": []
+    },
+    {
+      "word": "shouldn't",
+      "translation": "não deveria",
+      "partOfSpeech": "modal",
+      "example": "You shouldn't skip meals.",
+      "collocations": []
+    },
+    {
+      "word": "advice",
+      "translation": "conselho",
+      "partOfSpeech": "noun",
+      "example": "Take my advice.",
+      "collocations": []
+    },
+    {
+      "word": "recommend",
+      "translation": "recomendar",
+      "partOfSpeech": "verb",
+      "example": "I recommend this book.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Should / Shouldn't",
+      "sentences": [
+        "You should see a doctor.",
+        "You shouldn't skip meals.",
+        "Take my advice.",
+        "I recommend this book."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m5_l2_01",
+    "ex_a2_m5_l2_02",
+    "ex_a2_m5_l2_03",
+    "ex_a2_m5_l2_04",
+    "ex_a2_m5_l2_05",
+    "ex_a2_m5_l2_06",
+    "ex_a2_m5_l2_07",
+    "ex_a2_m5_l2_08",
+    "ex_a2_m5_l2_09",
+    "ex_a2_m5_l2_10",
+    "ex_a2_m5_l2_11",
+    "ex_a2_m5_l2_12"
+  ],
+  "reading": {
+    "title": "Should / Shouldn't in Context",
+    "text": "You look ill — you should go home. You shouldn't drink coffee at night. What should I wear to the interview?",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "should / shouldn't",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"should\" mean?",
+        "type": "short_answer",
+        "answer": "deveria",
+        "explanation": "deveria"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "You shouldn't skip meals.",
+        "explanation": "You shouldn't skip meals.",
+        "options": [
+          "You shouldn't skip meals.",
+          "doctor. a see should You",
+          "No sentence fits.",
+          "Take my advice."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using should / shouldn't. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "You should see a doctor. You shouldn't skip meals. Take my advice. I recommend this book."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-should"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_should"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_shouldn_t"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_advice"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_recommend"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m5_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m5_l2_10"
+    }
+  ],
+  "checkpointId": "a2-m5-l2-checkpoint",
+  "tutorHints": [
+    "Target structure: Should / Shouldn't.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m5-l2.json",
+  "exercisesRef": "exercises/a2-m5-l2.json",
+  "grammarRef": "grammar/a2-should.json",
+  "checkpointRef": "assessments/a2-m5-l2-checkpoint.json"
+}

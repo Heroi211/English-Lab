@@ -1,0 +1,197 @@
+{
+  "id": "a2-m8-l1",
+  "moduleId": "a2-m8",
+  "level": "A2",
+  "order": 1,
+  "title": "Common Phrasal Verbs 1",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use common phrasal verbs 1 accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can understand and use get up, turn on, look for, pick up.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about common phrasal verbs 1. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use common phrasal verbs 1?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Separable/inseparable basics: turn on the light / turn the light on\n\nGet up, wake up, go out, come back",
+  "grammar": {
+    "ruleId": "a2-phrasals-1",
+    "title": "Common Phrasal Verbs 1",
+    "rule": "Separable/inseparable basics: turn on the light / turn the light on",
+    "examples": [
+      {
+        "sentence": "I get up at six.",
+        "note": "get up"
+      },
+      {
+        "sentence": "Turn on the TV.",
+        "note": "turn on"
+      },
+      {
+        "sentence": "I am looking for my keys.",
+        "note": "look for"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "get up",
+      "translation": "levantar-se",
+      "partOfSpeech": "phrasal verb",
+      "example": "I get up at six.",
+      "collocations": []
+    },
+    {
+      "word": "turn on",
+      "translation": "ligar",
+      "partOfSpeech": "phrasal verb",
+      "example": "Turn on the TV.",
+      "collocations": []
+    },
+    {
+      "word": "look for",
+      "translation": "procurar",
+      "partOfSpeech": "phrasal verb",
+      "example": "I am looking for my keys.",
+      "collocations": []
+    },
+    {
+      "word": "pick up",
+      "translation": "buscar / pegar",
+      "partOfSpeech": "phrasal verb",
+      "example": "Pick up the children at 3.",
+      "collocations": []
+    },
+    {
+      "word": "go out",
+      "translation": "sair",
+      "partOfSpeech": "phrasal verb",
+      "example": "We go out on Fridays.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Common Phrasal Verbs 1",
+      "sentences": [
+        "I get up at six.",
+        "Turn on the TV.",
+        "I am looking for my keys.",
+        "Pick up the children at 3."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m8_l1_01",
+    "ex_a2_m8_l1_02",
+    "ex_a2_m8_l1_03",
+    "ex_a2_m8_l1_04",
+    "ex_a2_m8_l1_05",
+    "ex_a2_m8_l1_06",
+    "ex_a2_m8_l1_07",
+    "ex_a2_m8_l1_08",
+    "ex_a2_m8_l1_09",
+    "ex_a2_m8_l1_10",
+    "ex_a2_m8_l1_11",
+    "ex_a2_m8_l1_12"
+  ],
+  "reading": {
+    "title": "Common Phrasal Verbs 1 in Context",
+    "text": "I get up early and look for my shoes. Turn on the heater — it is cold. Can you pick up milk on your way home?",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "common phrasal verbs 1",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"get up\" mean?",
+        "type": "short_answer",
+        "answer": "levantar-se",
+        "explanation": "levantar-se"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "Turn on the TV.",
+        "explanation": "Turn on the TV.",
+        "options": [
+          "Turn on the TV.",
+          "six. at up get I",
+          "No sentence fits.",
+          "I am looking for my keys."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using common phrasal verbs 1. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "I get up at six. Turn on the TV. I am looking for my keys. Pick up the children at 3."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-phrasals-1"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_get_up"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_turn_on"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_look_for"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_pick_up"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_go_out"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m8_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m8_l1_10"
+    }
+  ],
+  "checkpointId": "a2-m8-l1-checkpoint",
+  "tutorHints": [
+    "Target structure: Common Phrasal Verbs 1.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m8-l1.json",
+  "exercisesRef": "exercises/a2-m8-l1.json",
+  "grammarRef": "grammar/a2-phrasals-1.json",
+  "checkpointRef": "assessments/a2-m8-l1-checkpoint.json"
+}

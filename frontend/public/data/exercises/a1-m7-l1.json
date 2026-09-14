@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m7-l1",
+  "exercises": [
+    {
+      "id": "ex_a1_m7_l1_01",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Numbers & Dates):",
+      "options": [
+        "Write the number here.",
+        "Write the number here.",
+        "No correct form.",
+        "here. number the Write"
+      ],
+      "answer": "Write the number here.",
+      "explanation": "This follows the pattern taught in Numbers & Dates."
+    },
+    {
+      "id": "ex_a1_m7_l1_02",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Numbers & Dates\"?",
+      "options": [
+        "number",
+        "first",
+        "second",
+        "xyzabc"
+      ],
+      "answer": "number",
+      "explanation": "\"number\" (número) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l1_03",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ first of May.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Cardinal: twenty-one, one hundred"
+    },
+    {
+      "id": "ex_a1_m7_l1_04",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "fill_blank",
+      "question": "Complete: Write the ___ here.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m7_l1_05",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "fill_blank",
+      "question": "Complete: ___ first of May.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Cardinal: twenty-one, one hundred"
+    },
+    {
+      "id": "ex_a1_m7_l1_06",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "fill_blank",
+      "question": "Complete: ___ floor.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l1_07",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "true_false",
+      "question": "True or false: \"Write the number here.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l1_08",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "true_false",
+      "question": "True or false: Write the number here. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l1_09",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "number",
+          "right": "número"
+        },
+        {
+          "left": "first",
+          "right": "primeiro"
+        },
+        {
+          "left": "second",
+          "right": "segundo"
+        },
+        {
+          "left": "third",
+          "right": "terceiro"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l1_10",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "number",
+          "right": "número"
+        },
+        {
+          "left": "first",
+          "right": "primeiro"
+        },
+        {
+          "left": "second",
+          "right": "segundo"
+        },
+        {
+          "left": "third",
+          "right": "terceiro"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m7_l1_11",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"Write the number here.\"",
+      "answer": "Write the number here.",
+      "answers": [
+        "Write the number here."
+      ],
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l1_12",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"second\"?",
+      "options": [
+        "segundo",
+        "número",
+        "primeiro",
+        "none of these"
+      ],
+      "answer": "segundo",
+      "explanation": "\"second\" means \"segundo\"."
+    }
+  ]
+}

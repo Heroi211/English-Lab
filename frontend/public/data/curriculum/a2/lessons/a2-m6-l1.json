@@ -1,0 +1,197 @@
+{
+  "id": "a2-m6-l1",
+  "moduleId": "a2-m6",
+  "level": "A2",
+  "order": 1,
+  "title": "Present Perfect Form",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use present perfect form accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can form present perfect with have/has + past participle.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about present perfect form. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use present perfect form?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Have/has + past participle: I have finished. | She has lived here for years.\n\nPast participle: regular -ed, irregular tables",
+  "grammar": {
+    "ruleId": "a2-present-perfect",
+    "title": "Present Perfect Form",
+    "rule": "Have/has + past participle: I have finished. | She has lived here for years.",
+    "examples": [
+      {
+        "sentence": "I have been to Chile.",
+        "note": "have been"
+      },
+      {
+        "sentence": "She has done the work.",
+        "note": "has done"
+      },
+      {
+        "sentence": "Learn the past participle.",
+        "note": "past participle"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "have been",
+      "translation": "esteve / esteve em",
+      "partOfSpeech": "phrase",
+      "example": "I have been to Chile.",
+      "collocations": []
+    },
+    {
+      "word": "has done",
+      "translation": "fez",
+      "partOfSpeech": "phrase",
+      "example": "She has done the work.",
+      "collocations": []
+    },
+    {
+      "word": "past participle",
+      "translation": "particípio passado",
+      "partOfSpeech": "noun",
+      "example": "Learn the past participle.",
+      "collocations": []
+    },
+    {
+      "word": "experience",
+      "translation": "experiência",
+      "partOfSpeech": "noun",
+      "example": "An interesting experience.",
+      "collocations": []
+    },
+    {
+      "word": "already",
+      "translation": "já",
+      "partOfSpeech": "adverb",
+      "example": "I have already eaten.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Present Perfect Form",
+      "sentences": [
+        "I have been to Chile.",
+        "She has done the work.",
+        "Learn the past participle.",
+        "An interesting experience."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m6_l1_01",
+    "ex_a2_m6_l1_02",
+    "ex_a2_m6_l1_03",
+    "ex_a2_m6_l1_04",
+    "ex_a2_m6_l1_05",
+    "ex_a2_m6_l1_06",
+    "ex_a2_m6_l1_07",
+    "ex_a2_m6_l1_08",
+    "ex_a2_m6_l1_09",
+    "ex_a2_m6_l1_10",
+    "ex_a2_m6_l1_11",
+    "ex_a2_m6_l1_12"
+  ],
+  "reading": {
+    "title": "Present Perfect Form in Context",
+    "text": "I have worked here since 2022. She has never tried sushi. We have just arrived — sorry we're late.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "present perfect form",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"have been\" mean?",
+        "type": "short_answer",
+        "answer": "esteve",
+        "explanation": "esteve / esteve em"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "She has done the work.",
+        "explanation": "She has done the work.",
+        "options": [
+          "She has done the work.",
+          "Chile. to been have I",
+          "No sentence fits.",
+          "Learn the past participle."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using present perfect form. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "I have been to Chile. She has done the work. Learn the past participle. An interesting experience."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-present-perfect"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_have_been"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_has_done"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_past_participle"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_experience"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_already"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m6_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m6_l1_10"
+    }
+  ],
+  "checkpointId": "a2-m6-l1-checkpoint",
+  "tutorHints": [
+    "Target structure: Present Perfect Form.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m6-l1.json",
+  "exercisesRef": "exercises/a2-m6-l1.json",
+  "grammarRef": "grammar/a2-present-perfect.json",
+  "checkpointRef": "assessments/a2-m6-l1-checkpoint.json"
+}

@@ -1,0 +1,209 @@
+{
+  "lessonId": "a1-m5-l4",
+  "exercises": [
+    {
+      "id": "ex_a1_m5_l4_01",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Describing Pictures):",
+      "options": [
+        "In the picture there is a park.",
+        "In the picture there XXX a park.",
+        "No correct form.",
+        "park. a is there picture the In"
+      ],
+      "answer": "In the picture there is a park.",
+      "explanation": "This follows the pattern taught in Describing Pictures."
+    },
+    {
+      "id": "ex_a1_m5_l4_02",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Describing Pictures\"?",
+      "options": [
+        "picture",
+        "photo",
+        "wear",
+        "xyzabc"
+      ],
+      "answer": "picture",
+      "explanation": "\"picture\" (imagem / foto) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l4_03",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ at this photo.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "In the picture, a man is walking. Two children are playing."
+    },
+    {
+      "id": "ex_a1_m5_l4_04",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "fill_blank",
+      "question": "Complete: In the ___ there is a park.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m5_l4_05",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "fill_blank",
+      "question": "Complete: ___ at this photo.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "In the picture, a man is walking. Two children are playing."
+    },
+    {
+      "id": "ex_a1_m5_l4_06",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "fill_blank",
+      "question": "Complete: ___ is wearing a red dress.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l4_07",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "true_false",
+      "question": "True or false: \"In the picture there is a park.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l4_08",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "true_false",
+      "question": "True or false: In the picture there WRONG a park. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l4_09",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "picture",
+          "right": "imagem"
+        },
+        {
+          "left": "photo",
+          "right": "foto"
+        },
+        {
+          "left": "wear",
+          "right": "usar"
+        },
+        {
+          "left": "hold",
+          "right": "segurar"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l4_10",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "picture",
+          "right": "imagem"
+        },
+        {
+          "left": "photo",
+          "right": "foto"
+        },
+        {
+          "left": "wear",
+          "right": "usar"
+        },
+        {
+          "left": "hold",
+          "right": "segurar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m5_l4_11",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "In",
+        "a",
+        "the",
+        "picture",
+        "there",
+        "is",
+        "park"
+      ],
+      "answer": [
+        "In",
+        "the",
+        "picture",
+        "there",
+        "is",
+        "a",
+        "park"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l4_12",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"wear\"?",
+      "options": [
+        "usar / vestir",
+        "imagem / foto",
+        "foto",
+        "none of these"
+      ],
+      "answer": "usar / vestir",
+      "explanation": "\"wear\" means \"usar / vestir\"."
+    }
+  ]
+}

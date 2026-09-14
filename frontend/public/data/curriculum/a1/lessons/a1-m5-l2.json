@@ -1,0 +1,220 @@
+{
+  "id": "a1-m5-l2",
+  "moduleId": "a1-m5",
+  "level": "A1",
+  "order": 2,
+  "title": "Actions Happening Now",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use actions happening now.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can describe what is happening at the moment.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"actions happening now\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Actions Happening Now?"
+    ]
+  },
+  "explanation": "What are you doing? — I am watching TV.\n\nLook! It is raining.\n\nUse now, at the moment, today (temporary).\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-present-continuous-now",
+    "title": "Actions Happening Now",
+    "rule": "What are you doing? — I am watching TV.",
+    "examples": [
+      {
+        "sentence": "Look! It is snowing.",
+        "note": "look"
+      },
+      {
+        "sentence": "Right now I am talking.",
+        "note": "right now"
+      },
+      {
+        "sentence": "She is sitting near the window.",
+        "note": "sit"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "look",
+      "translation": "olhar / olhe",
+      "partOfSpeech": "verb",
+      "example": "Look! It is snowing.",
+      "collocations": []
+    },
+    {
+      "word": "right now",
+      "translation": "agora mesmo",
+      "partOfSpeech": "phrase",
+      "example": "Right now I am talking.",
+      "collocations": []
+    },
+    {
+      "word": "sit",
+      "translation": "sentar(-se)",
+      "partOfSpeech": "verb",
+      "example": "She is sitting near the window.",
+      "collocations": []
+    },
+    {
+      "word": "stand",
+      "translation": "ficar de pé",
+      "partOfSpeech": "verb",
+      "example": "He is standing in line.",
+      "collocations": []
+    },
+    {
+      "word": "talk",
+      "translation": "conversar",
+      "partOfSpeech": "verb",
+      "example": "They are talking.",
+      "collocations": []
+    },
+    {
+      "word": "watch",
+      "translation": "assistir",
+      "partOfSpeech": "verb",
+      "example": "I am watching a film.",
+      "collocations": []
+    },
+    {
+      "word": "drive",
+      "translation": "dirigir",
+      "partOfSpeech": "verb",
+      "example": "He is driving to work.",
+      "collocations": []
+    },
+    {
+      "word": "shop",
+      "translation": "fazer compras",
+      "partOfSpeech": "verb",
+      "example": "We are shopping.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Actions Happening Now",
+      "sentences": [
+        "Look! It is snowing.",
+        "Right now I am talking.",
+        "She is sitting near the window.",
+        "He is standing in line."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m5_l2_01",
+    "ex_a1_m5_l2_02",
+    "ex_a1_m5_l2_03",
+    "ex_a1_m5_l2_04",
+    "ex_a1_m5_l2_05",
+    "ex_a1_m5_l2_06",
+    "ex_a1_m5_l2_07",
+    "ex_a1_m5_l2_08",
+    "ex_a1_m5_l2_09",
+    "ex_a1_m5_l2_10",
+    "ex_a1_m5_l2_11",
+    "ex_a1_m5_l2_12"
+  ],
+  "reading": {
+    "title": "Actions Happening Now — Reading",
+    "text": "Every day, people use actions happening now in conversation. Look! It is snowing. Right now I am talking. She is sitting near the window. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "look",
+        "explanation": "Focus word: look.",
+        "options": [
+          "look",
+          "right now",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"right now\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "agora mesmo",
+        "explanation": "agora mesmo"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using actions happening now.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "Look! It is snowing. Right now I am talking. She is sitting near the window."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-present-continuous-now"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_look"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_right_now"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_sit"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_stand"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_talk"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_watch"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m5_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m5_l2_10"
+    }
+  ],
+  "checkpointId": "a1-m5-l2-checkpoint",
+  "tutorHints": [
+    "Focus on Actions Happening Now with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m5-l2.json",
+  "exercisesRef": "exercises/a1-m5-l2.json",
+  "grammarRef": "grammar/a1-present-continuous-now.json",
+  "checkpointRef": "assessments/a1-m5-l2-checkpoint.json"
+}

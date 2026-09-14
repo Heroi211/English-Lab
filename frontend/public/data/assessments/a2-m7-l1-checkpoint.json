@@ -1,0 +1,96 @@
+{
+  "id": "a2-m7-l1-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m7-l1",
+  "moduleId": "a2-m7",
+  "level": "A2",
+  "title": "Lesson 1 Checkpoint — If + Present, Will",
+  "description": "Show what you learned about if + present, will. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use the first conditional for real future possibilities.",
+  "questions": [
+    {
+      "id": "cp_a2_m7_l1_01",
+      "level": "A2",
+      "topic": "first_conditional",
+      "ruleId": "a2-first-conditional",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (If + Present, Will):",
+      "options": [
+        "If you need help, call me.",
+        "If you need help, call me.",
+        "No correct form.",
+        "me. call help, need you If"
+      ],
+      "answer": "If you need help, call me.",
+      "explanation": "This follows the pattern taught in If + Present, Will."
+    },
+    {
+      "id": "cp_a2_m7_l1_02",
+      "level": "A2",
+      "topic": "first_conditional",
+      "ruleId": "a2-first-conditional",
+      "type": "fill_blank",
+      "question": "Complete: ___ you need help, call me.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m7_l1_03",
+      "level": "A2",
+      "topic": "first_conditional",
+      "ruleId": "a2-first-conditional",
+      "type": "true_false",
+      "question": "True or false: \"If you need help, call me.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m7_l1_04",
+      "level": "A2",
+      "topic": "first_conditional",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"If + Present, Will\"?",
+      "options": [
+        "if",
+        "unless",
+        "probably",
+        "xyzabc"
+      ],
+      "answer": "if",
+      "explanation": "\"if\" (se) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m7_l1_05",
+      "level": "A2",
+      "topic": "first_conditional",
+      "ruleId": "a2-first-conditional",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "if",
+          "right": "se"
+        },
+        {
+          "left": "unless",
+          "right": "a menos que"
+        },
+        {
+          "left": "probably",
+          "right": "provavelmente"
+        },
+        {
+          "left": "condition",
+          "right": "condição"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

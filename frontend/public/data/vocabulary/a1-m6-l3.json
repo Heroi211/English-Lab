@@ -1,0 +1,91 @@
+{
+  "lessonId": "a1-m6-l3",
+  "level": "A1",
+  "topic": "directions",
+  "items": [
+    {
+      "id": "vocab_straight",
+      "word": "straight",
+      "translation": "reto / em frente",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "directions",
+      "example": "Go straight ahead.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_turn",
+      "word": "turn",
+      "translation": "virar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "directions",
+      "example": "Turn left at the traffic lights.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_left",
+      "word": "left",
+      "translation": "esquerda",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "directions",
+      "example": "On the left.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_right",
+      "word": "right",
+      "translation": "direita",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "directions",
+      "example": "On the right.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_map",
+      "word": "map",
+      "translation": "mapa",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "directions",
+      "example": "Use a map on your phone.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_lost",
+      "word": "lost",
+      "translation": "perdido",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "topic": "directions",
+      "example": "I am lost.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_near",
+      "word": "near",
+      "translation": "perto",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "topic": "directions",
+      "example": "Is it near here?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

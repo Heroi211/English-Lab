@@ -1,0 +1,79 @@
+{
+  "lessonId": "a1-m8-l2",
+  "level": "A1",
+  "topic": "home_furniture",
+  "items": [
+    {
+      "id": "vocab_sofa",
+      "word": "sofa",
+      "translation": "sofá",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "home_furniture",
+      "example": "The sofa is comfortable.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_cupboard",
+      "word": "cupboard",
+      "translation": "armário",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "home_furniture",
+      "example": "Plates are in the cupboard.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_shelf",
+      "word": "shelf",
+      "translation": "prateleira",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "home_furniture",
+      "example": "Books are on the shelf.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_mirror",
+      "word": "mirror",
+      "translation": "espelho",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "home_furniture",
+      "example": "There is a mirror in the bathroom.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_shower",
+      "word": "shower",
+      "translation": "chuveiro / banho",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "home_furniture",
+      "example": "The shower is hot.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_garden",
+      "word": "garden",
+      "translation": "jardim",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "home_furniture",
+      "example": "We have a small garden.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

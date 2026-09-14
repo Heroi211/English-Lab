@@ -1,0 +1,225 @@
+{
+  "id": "a1-m1-l2",
+  "moduleId": "a1-m1",
+  "level": "A1",
+  "order": 2,
+  "title": "Subject Pronouns",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Identify and use subject pronouns I, you, he, she, it, we, they.",
+    "Replace nouns with correct pronouns.",
+    "Avoid common gender and number mistakes."
+  ],
+  "canDo": "I can use subject pronouns correctly in simple sentences.",
+  "warmUp": {
+    "title": "Pronomes em português",
+    "prompt": "Em português usamos eu, você, ele, ela… Quais são as palavras equivalentes em inglês? Tente traduzir: \"Ele é meu amigo.\"",
+    "reflectionQuestions": [
+      "Who is \"I\" in a sentence?",
+      "When do we use they?"
+    ]
+  },
+  "explanation": "Subject pronouns replace the name of a person or thing as the subject of a sentence.\n\nI = eu | you = você/vocês | he = ele | she = ela | it = ele/ela (coisas/animais) | we = nós | they = eles/elas\n\nExample: Maria is a student. → She is a student.\n\nUse they for plural or when gender is unknown: They are my friends.",
+  "grammar": {
+    "ruleId": "a1-subject-pronouns",
+    "title": "Subject Pronouns",
+    "rule": "Subject pronouns come before the verb. I and you are the same for singular and plural in English. He = male, she = female, it = things/animals. They = plural.",
+    "examples": [
+      {
+        "sentence": "I am Brazilian.",
+        "note": "First person"
+      },
+      {
+        "sentence": "She is my sister.",
+        "note": "Female"
+      },
+      {
+        "sentence": "They are students.",
+        "note": "Plural"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "I",
+      "translation": "eu",
+      "partOfSpeech": "pronoun",
+      "example": "I am a student.",
+      "collocations": []
+    },
+    {
+      "word": "you",
+      "translation": "você / vocês",
+      "partOfSpeech": "pronoun",
+      "example": "You are my friend.",
+      "collocations": []
+    },
+    {
+      "word": "he",
+      "translation": "ele",
+      "partOfSpeech": "pronoun",
+      "example": "He is a doctor.",
+      "collocations": []
+    },
+    {
+      "word": "she",
+      "translation": "ela",
+      "partOfSpeech": "pronoun",
+      "example": "She is from Chile.",
+      "collocations": []
+    },
+    {
+      "word": "it",
+      "translation": "ele/ela (coisa)",
+      "partOfSpeech": "pronoun",
+      "example": "It is a book.",
+      "collocations": []
+    },
+    {
+      "word": "we",
+      "translation": "nós",
+      "partOfSpeech": "pronoun",
+      "example": "We are in class.",
+      "collocations": []
+    },
+    {
+      "word": "they",
+      "translation": "eles/elas",
+      "partOfSpeech": "pronoun",
+      "example": "They are happy.",
+      "collocations": []
+    },
+    {
+      "word": "person",
+      "translation": "pessoa",
+      "partOfSpeech": "noun",
+      "example": "She is a nice person.",
+      "collocations": [
+        "every person"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "context": "Replacing nouns",
+      "sentences": [
+        "Pedro is tall. He is tall.",
+        "Ana and I are friends. We are friends.",
+        "The books are new. They are new."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m1_l2_01",
+    "ex_a1_m1_l2_02",
+    "ex_a1_m1_l2_03",
+    "ex_a1_m1_l2_04",
+    "ex_a1_m1_l2_05",
+    "ex_a1_m1_l2_06",
+    "ex_a1_m1_l2_07",
+    "ex_a1_m1_l2_08",
+    "ex_a1_m1_l2_09",
+    "ex_a1_m1_l2_10",
+    "ex_a1_m1_l2_11",
+    "ex_a1_m1_l2_12"
+  ],
+  "reading": {
+    "title": "My Classmates",
+    "text": "I am in an English class. I am Laura. I am from Argentina. Next to me is Marco. He is from Italy. He is friendly. The teacher is Ms. Lee. She is from Korea. We are a small group. My classmates and I are happy.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Where is Marco from?",
+        "type": "short_answer",
+        "answer": "Italy",
+        "explanation": "Marco is from Italy.",
+        "acceptableAnswers": [
+          "Italy"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Who is the teacher?",
+        "type": "short_answer",
+        "answer": "Ms. Lee",
+        "explanation": "Ms. Lee is the teacher."
+      },
+      {
+        "id": "r3",
+        "question": "Are they a big group?",
+        "type": "true_false",
+        "answer": false,
+        "explanation": "We are a small group."
+      },
+      {
+        "id": "r4",
+        "question": "Who is Laura?",
+        "type": "multiple_choice",
+        "answer": "The writer / student from Argentina",
+        "explanation": "Laura says I am from Argentina.",
+        "options": [
+          "The teacher",
+          "The writer / student from Argentina",
+          "Marco",
+          "Ms. Lee"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 5 sentences about three people you know. Use a name + pronoun pattern (e.g. My brother is… He is…).",
+    "minWords": 25,
+    "rubricHints": [
+      "Use he/she/they correctly.",
+      "One sentence with we or I."
+    ],
+    "modelAnswer": "My mother is Ana. She is a nurse. My father is Carlos. He is an engineer. We are a happy family."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-subject-pronouns"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_i"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_you"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_he"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_she"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_it"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_we"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m1_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m1_l2_10"
+    }
+  ],
+  "checkpointId": "a1-m1-l2-checkpoint",
+  "tutorHints": [
+    "Drill I/you/he/she/it/we/they with gestures.",
+    "Contrast she vs her early to prevent later errors."
+  ],
+  "vocabularyRef": "vocabulary/a1-m1-l2.json",
+  "exercisesRef": "exercises/a1-m1-l2.json",
+  "grammarRef": "grammar/a1-subject-pronouns.json",
+  "checkpointRef": "assessments/a1-m1-l2-checkpoint.json"
+}

@@ -1,0 +1,353 @@
+{
+  "id": "diagnostic",
+  "kind": "diagnostic",
+  "title": "English Journey Diagnostic Test",
+  "description": "This test mixes A1 and A2 topics to estimate your starting level. There is no pass/fail score — answer honestly to get the best placement.",
+  "passingScore": 0,
+  "totalQuestions": 20,
+  "notes": "Each question includes an estimatedBand (A1 or A2) based on topic difficulty. Score A1 questions separately from A2 questions to estimate placement.",
+  "questions": [
+    {
+      "id": "diag_01",
+      "level": "A1",
+      "topic": "verb_to_be",
+      "ruleId": "a1-verb-to-be",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Verb To Be & Introductions):",
+      "options": [
+        "I am Gabriel. I am from Brazil.",
+        "I XXX Gabriel. I am from Brazil.",
+        "No correct form.",
+        "Brazil. from am I Gabriel. am I"
+      ],
+      "answer": "I am Gabriel. I am from Brazil.",
+      "explanation": "This follows the pattern taught in The Verb To Be — Present Simple.",
+      "estimatedBand": "A1"
+    },
+    {
+      "id": "diag_02",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Questions with To Be\"?",
+      "options": [
+        "what",
+        "where",
+        "who",
+        "xyzabc"
+      ],
+      "answer": "what",
+      "explanation": "\"what\" (o que / qual) is key vocabulary for this lesson.",
+      "estimatedBand": "A1"
+    },
+    {
+      "id": "diag_03",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ children play outside.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Most nouns add -s for plural. Learn high-frequency irregular plurals. Verb agreement: one book → it is; two books → they are.",
+      "estimatedBand": "A1"
+    },
+    {
+      "id": "diag_04",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "fill_blank",
+      "question": "Complete: I ___ a bike.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap.",
+      "estimatedBand": "A1"
+    },
+    {
+      "id": "diag_05",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "fill_blank",
+      "question": "Complete: ___ live in London.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Daily routines and permanent situations: add -s for he/she/it.",
+      "estimatedBand": "A1"
+    },
+    {
+      "id": "diag_06",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "ruleId": "a1-adverbs-frequency",
+      "type": "fill_blank",
+      "question": "Complete: ___ often meet on Fridays.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson.",
+      "estimatedBand": "A1"
+    },
+    {
+      "id": "diag_07",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "true_false",
+      "question": "True or false: \"Smoking is a bad habit.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson.",
+      "estimatedBand": "A1"
+    },
+    {
+      "id": "diag_08",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "ruleId": "a1-prepositions-place",
+      "type": "true_false",
+      "question": "True or false: The garden WRONG behind the house. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson.",
+      "estimatedBand": "A1"
+    },
+    {
+      "id": "diag_09",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "number",
+          "right": "número"
+        },
+        {
+          "left": "first",
+          "right": "primeiro"
+        },
+        {
+          "left": "second",
+          "right": "segundo"
+        },
+        {
+          "left": "third",
+          "right": "terceiro"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson.",
+      "estimatedBand": "A1"
+    },
+    {
+      "id": "diag_10",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "appointment",
+          "right": "compromisso"
+        },
+        {
+          "left": "schedule",
+          "right": "agenda"
+        },
+        {
+          "left": "meet",
+          "right": "encontrar(-se)"
+        },
+        {
+          "left": "available",
+          "right": "disponível"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic.",
+      "estimatedBand": "A1"
+    },
+    {
+      "id": "diag_11",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Past Simple — Regular Verbs):",
+      "options": [
+        "I worked yesterday.",
+        "I worked yesterday.",
+        "No correct form.",
+        "yesterday. worked I"
+      ],
+      "answer": "I worked yesterday.",
+      "explanation": "This follows the pattern taught in Past Simple — Regular Verbs.",
+      "estimatedBand": "A2"
+    },
+    {
+      "id": "diag_12",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Past Time Expressions\"?",
+      "options": [
+        "last month",
+        "last year",
+        "in 2020",
+        "xyzabc"
+      ],
+      "answer": "last month",
+      "explanation": "\"last month\" (mês passado) is key vocabulary for this lesson.",
+      "estimatedBand": "A2"
+    },
+    {
+      "id": "diag_13",
+      "level": "A2",
+      "topic": "present_for_future",
+      "ruleId": "a2-present-for-future",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ are flying on Tuesday.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6.",
+      "estimatedBand": "A2"
+    },
+    {
+      "id": "diag_14",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "fill_blank",
+      "question": "Complete: This is ___ pizza in town.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap.",
+      "estimatedBand": "A2"
+    },
+    {
+      "id": "diag_15",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "fill_blank",
+      "question": "Complete: ___ many tickets?",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Many + plural countables | Much + uncountables (mainly ?/−)",
+      "estimatedBand": "A2"
+    },
+    {
+      "id": "diag_16",
+      "level": "A2",
+      "topic": "countability",
+      "ruleId": "a2-countability",
+      "type": "fill_blank",
+      "question": "Complete: ___ furniture.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson.",
+      "estimatedBand": "A2"
+    },
+    {
+      "id": "diag_17",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "true_false",
+      "question": "True or false: \"You must wear a seatbelt.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson.",
+      "estimatedBand": "A2"
+    },
+    {
+      "id": "diag_18",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "true_false",
+      "question": "True or false: WRONG you ever been abroad? is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson.",
+      "estimatedBand": "A2"
+    },
+    {
+      "id": "diag_19",
+      "level": "A2",
+      "topic": "first_conditional",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "if",
+          "right": "se"
+        },
+        {
+          "left": "unless",
+          "right": "a menos que"
+        },
+        {
+          "left": "probably",
+          "right": "provavelmente"
+        },
+        {
+          "left": "condition",
+          "right": "condição"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson.",
+      "estimatedBand": "A2"
+    },
+    {
+      "id": "diag_20",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "real",
+          "right": "real"
+        },
+        {
+          "left": "unreal",
+          "right": "irreal"
+        },
+        {
+          "left": "likely",
+          "right": "provável"
+        },
+        {
+          "left": "unlikely",
+          "right": "improvável"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic.",
+      "estimatedBand": "A2"
+    }
+  ]
+}

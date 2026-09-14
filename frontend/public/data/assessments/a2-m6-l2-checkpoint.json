@@ -1,0 +1,96 @@
+{
+  "id": "a2-m6-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m6-l2",
+  "moduleId": "a2-m6",
+  "level": "A2",
+  "title": "Lesson 2 Checkpoint — Ever & Never",
+  "description": "Show what you learned about ever & never. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can ask about life experiences with ever and never.",
+  "questions": [
+    {
+      "id": "cp_a2_m6_l2_01",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Ever & Never):",
+      "options": [
+        "Have you ever been abroad?",
+        "XXX you ever been abroad?",
+        "No correct form.",
+        "abroad? been ever you Have"
+      ],
+      "answer": "Have you ever been abroad?",
+      "explanation": "This follows the pattern taught in Ever & Never."
+    },
+    {
+      "id": "cp_a2_m6_l2_02",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "fill_blank",
+      "question": "Complete: Have you ___ been abroad?",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m6_l2_03",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "true_false",
+      "question": "True or false: \"Have you ever been abroad?\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m6_l2_04",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Ever & Never\"?",
+      "options": [
+        "ever",
+        "never",
+        "before",
+        "xyzabc"
+      ],
+      "answer": "ever",
+      "explanation": "\"ever\" (alguma vez) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m6_l2_05",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "ever",
+          "right": "alguma vez"
+        },
+        {
+          "left": "never",
+          "right": "nunca"
+        },
+        {
+          "left": "before",
+          "right": "antes"
+        },
+        {
+          "left": "yet",
+          "right": "ainda (?)"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

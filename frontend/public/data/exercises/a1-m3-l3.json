@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m3-l3",
+  "exercises": [
+    {
+      "id": "ex_a1_m3_l3_01",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Some & Any):",
+      "options": [
+        "There is some milk in the fridge.",
+        "There XXX some milk in the fridge.",
+        "No correct form.",
+        "fridge. the in milk some is There"
+      ],
+      "answer": "There is some milk in the fridge.",
+      "explanation": "This follows the pattern taught in Some & Any."
+    },
+    {
+      "id": "ex_a1_m3_l3_02",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Some & Any\"?",
+      "options": [
+        "some",
+        "any",
+        "water",
+        "xyzabc"
+      ],
+      "answer": "some",
+      "explanation": "\"some\" (alguns / um pouco de) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l3_03",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ there any messages?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Some in positive statements. Any in questions and negative statements. Some in polite offers and requests."
+    },
+    {
+      "id": "ex_a1_m3_l3_04",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "fill_blank",
+      "question": "Complete: I bought ___ bread.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m3_l3_05",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "fill_blank",
+      "question": "Complete: ___ there any messages?",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Some in positive statements. Any in questions and negative statements. Some in polite offers and requests."
+    },
+    {
+      "id": "ex_a1_m3_l3_06",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "fill_blank",
+      "question": "Complete: ___ I have some water?",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l3_07",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "true_false",
+      "question": "True or false: \"There is some milk in the fridge.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l3_08",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "true_false",
+      "question": "True or false: Do you have some brothers? is grammatically correct.",
+      "answer": false,
+      "explanation": "In neutral questions, use any."
+    },
+    {
+      "id": "ex_a1_m3_l3_09",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "some",
+          "right": "alguns"
+        },
+        {
+          "left": "any",
+          "right": "algum"
+        },
+        {
+          "left": "water",
+          "right": "água"
+        },
+        {
+          "left": "bread",
+          "right": "pão"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l3_10",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "some",
+          "right": "alguns"
+        },
+        {
+          "left": "any",
+          "right": "algum"
+        },
+        {
+          "left": "water",
+          "right": "água"
+        },
+        {
+          "left": "bread",
+          "right": "pão"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m3_l3_11",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"Do you have some brothers?\"",
+      "answer": "Do you have any brothers?",
+      "answers": [
+        "Do you have any brothers?"
+      ],
+      "explanation": "In neutral questions, use any."
+    },
+    {
+      "id": "ex_a1_m3_l3_12",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"water\"?",
+      "options": [
+        "água",
+        "alguns / um pouco de",
+        "algum / nenhum",
+        "none of these"
+      ],
+      "answer": "água",
+      "explanation": "\"water\" means \"água\"."
+    }
+  ]
+}

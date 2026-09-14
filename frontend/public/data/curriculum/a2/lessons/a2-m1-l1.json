@@ -1,0 +1,222 @@
+{
+  "id": "a2-m1-l1",
+  "moduleId": "a2-m1",
+  "level": "A2",
+  "order": 1,
+  "title": "Past Simple — Regular Verbs",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use past simple — regular verbs accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can talk about finished past actions using regular -ed verbs.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about past simple — regular verbs. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use past simple — regular verbs?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/.\n\nI worked yesterday. | She played tennis last week.\n\nTime words: yesterday, last night, ago, in 2020.",
+  "grammar": {
+    "ruleId": "a2-past-simple-regular",
+    "title": "Past Simple — Regular Verbs",
+    "rule": "Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/.",
+    "examples": [
+      {
+        "sentence": "I worked yesterday.",
+        "note": "yesterday"
+      },
+      {
+        "sentence": "We visited Rome last week.",
+        "note": "last week"
+      },
+      {
+        "sentence": "Two days ago.",
+        "note": "ago"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "yesterday",
+      "translation": "ontem",
+      "partOfSpeech": "adverb",
+      "example": "I worked yesterday.",
+      "collocations": []
+    },
+    {
+      "word": "last week",
+      "translation": "semana passada",
+      "partOfSpeech": "phrase",
+      "example": "We visited Rome last week.",
+      "collocations": []
+    },
+    {
+      "word": "ago",
+      "translation": "atrás",
+      "partOfSpeech": "adverb",
+      "example": "Two days ago.",
+      "collocations": []
+    },
+    {
+      "word": "finished",
+      "translation": "terminado",
+      "partOfSpeech": "adjective",
+      "example": "The film finished at 10.",
+      "collocations": []
+    },
+    {
+      "word": "walked",
+      "translation": "caminhou",
+      "partOfSpeech": "verb",
+      "example": "They walked to school.",
+      "collocations": []
+    },
+    {
+      "word": "cleaned",
+      "translation": "limpou",
+      "partOfSpeech": "verb",
+      "example": "I cleaned the kitchen.",
+      "collocations": []
+    },
+    {
+      "word": "watched",
+      "translation": "assistiu",
+      "partOfSpeech": "verb",
+      "example": "She watched TV.",
+      "collocations": []
+    },
+    {
+      "word": "studied",
+      "translation": "estudou",
+      "partOfSpeech": "verb",
+      "example": "He studied for the test.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Past Simple — Regular Verbs",
+      "sentences": [
+        "I worked yesterday.",
+        "We visited Rome last week.",
+        "Two days ago.",
+        "The film finished at 10."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m1_l1_01",
+    "ex_a2_m1_l1_02",
+    "ex_a2_m1_l1_03",
+    "ex_a2_m1_l1_04",
+    "ex_a2_m1_l1_05",
+    "ex_a2_m1_l1_06",
+    "ex_a2_m1_l1_07",
+    "ex_a2_m1_l1_08",
+    "ex_a2_m1_l1_09",
+    "ex_a2_m1_l1_10",
+    "ex_a2_m1_l1_11",
+    "ex_a2_m1_l1_12"
+  ],
+  "reading": {
+    "title": "Past Simple — Regular Verbs in Context",
+    "text": "Last Saturday I cleaned my apartment and watched a film. My friends called me in the evening. We talked for an hour about our trip last year. It was a quiet but nice day.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "past simple — regular verbs",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"yesterday\" mean?",
+        "type": "short_answer",
+        "answer": "ontem",
+        "explanation": "ontem"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "We visited Rome last week.",
+        "explanation": "We visited Rome last week.",
+        "options": [
+          "We visited Rome last week.",
+          "yesterday. worked I",
+          "No sentence fits.",
+          "Two days ago."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using past simple — regular verbs. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "I worked yesterday. We visited Rome last week. Two days ago. The film finished at 10."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-past-simple-regular"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_yesterday"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_last_week"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_ago"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_finished"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_walked"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_cleaned"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m1_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m1_l1_10"
+    }
+  ],
+  "checkpointId": "a2-m1-l1-checkpoint",
+  "tutorHints": [
+    "Target structure: Past Simple — Regular Verbs.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m1-l1.json",
+  "exercisesRef": "exercises/a2-m1-l1.json",
+  "grammarRef": "grammar/a2-past-simple-regular.json",
+  "checkpointRef": "assessments/a2-m1-l1-checkpoint.json"
+}

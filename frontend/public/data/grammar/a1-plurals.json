@@ -1,0 +1,25 @@
+{
+  "id": "a1-plurals",
+  "level": "A1",
+  "title": "Plural Nouns",
+  "topic": "plurals",
+  "summary": "Most nouns add -s for plural. Learn high-frequency irregular plurals. Verb agreement: one book → it is; two books → they",
+  "rule": "Most nouns add -s for plural. Learn high-frequency irregular plurals. Verb agreement: one book → it is; two books → they are.",
+  "examples": [
+    "I have two cats.",
+    "The children are in the park."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Two childs",
+      "correct": "Two children",
+      "explanation": "Child has irregular plural."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m2-l3"
+  ],
+  "tutorHints": [
+    "Group irregular plurals for memorization."
+  ]
+}

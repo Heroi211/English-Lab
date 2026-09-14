@@ -1,0 +1,67 @@
+{
+  "lessonId": "a2-m8-l1",
+  "level": "A2",
+  "topic": "phrasals_1",
+  "items": [
+    {
+      "id": "vocab_get_up",
+      "word": "get up",
+      "translation": "levantar-se",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "example": "I get up at six.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_turn_on",
+      "word": "turn on",
+      "translation": "ligar",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "example": "Turn on the TV.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_look_for",
+      "word": "look for",
+      "translation": "procurar",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "example": "I am looking for my keys.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_pick_up",
+      "word": "pick up",
+      "translation": "buscar / pegar",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "example": "Pick up the children at 3.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_go_out",
+      "word": "go out",
+      "translation": "sair",
+      "partOfSpeech": "phrasal verb",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "example": "We go out on Fridays.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "lessonId": "a1-m1-l3",
+  "level": "A1",
+  "topic": "greetings",
+  "items": [
+    {
+      "id": "vocab_good_morning",
+      "word": "good morning",
+      "translation": "bom dia",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "greetings",
+      "example": "Good morning, everyone!",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_good_afternoon",
+      "word": "good afternoon",
+      "translation": "boa tarde",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "greetings",
+      "example": "Good afternoon, Ms. Costa.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_good_evening",
+      "word": "good evening",
+      "translation": "boa noite (chegada)",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "greetings",
+      "example": "Good evening, welcome!",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_goodbye",
+      "word": "goodbye",
+      "translation": "adeus / tchau",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "greetings",
+      "example": "Goodbye! See you tomorrow.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_please",
+      "word": "please",
+      "translation": "por favor",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "greetings",
+      "example": "Can I have water, please?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_thank_you",
+      "word": "thank you",
+      "translation": "obrigado(a)",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "greetings",
+      "example": "Thank you for your help.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_you_re_welcome",
+      "word": "you're welcome",
+      "translation": "de nada",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "greetings",
+      "example": "Thank you! — You're welcome.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_excuse_me",
+      "word": "excuse me",
+      "translation": "com licença / desculpe",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "greetings",
+      "example": "Excuse me, where is the bathroom?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_sorry",
+      "word": "sorry",
+      "translation": "desculpe",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "topic": "greetings",
+      "example": "Sorry, I am late.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_see_you_later",
+      "word": "see you later",
+      "translation": "até mais",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "greetings",
+      "example": "Bye! See you later!",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

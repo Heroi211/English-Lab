@@ -1,0 +1,25 @@
+{
+  "id": "a1-possessives",
+  "level": "A1",
+  "title": "Possessive Adjectives",
+  "topic": "possessives",
+  "summary": "Possessive adjectives replace articles before nouns: my book, her car. Match the owner: his = a man/boy, her = a woman/g",
+  "rule": "Possessive adjectives replace articles before nouns: my book, her car. Match the owner: his = a man/boy, her = a woman/girl, their = plural.",
+  "examples": [
+    "This is my house.",
+    "Their children are young."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She name is Ana.",
+      "correct": "Her name is Ana.",
+      "explanation": "Use her (possessive), not she (subject)."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m2-l1"
+  ],
+  "tutorHints": [
+    "Contrast she/her and he/his on the board."
+  ]
+}

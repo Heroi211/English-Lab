@@ -1,0 +1,103 @@
+{
+  "lessonId": "a2-m1-l1",
+  "level": "A2",
+  "topic": "past_simple_regular",
+  "items": [
+    {
+      "id": "vocab_yesterday",
+      "word": "yesterday",
+      "translation": "ontem",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "example": "I worked yesterday.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_last_week",
+      "word": "last week",
+      "translation": "semana passada",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "example": "We visited Rome last week.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_ago",
+      "word": "ago",
+      "translation": "atrás",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "example": "Two days ago.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_finished",
+      "word": "finished",
+      "translation": "terminado",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "example": "The film finished at 10.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_walked",
+      "word": "walked",
+      "translation": "caminhou",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "example": "They walked to school.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_cleaned",
+      "word": "cleaned",
+      "translation": "limpou",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "example": "I cleaned the kitchen.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_watched",
+      "word": "watched",
+      "translation": "assistiu",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "example": "She watched TV.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_studied",
+      "word": "studied",
+      "translation": "estudou",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "example": "He studied for the test.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

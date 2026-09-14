@@ -1,0 +1,26 @@
+{
+  "id": "a2-much-many",
+  "level": "A2",
+  "title": "Much & Many",
+  "topic": "much_many",
+  "summary": "Many + plural countables | Much + uncountables (mainly ?/−)",
+  "rule": "Many + plural countables | Much + uncountables (mainly ?/−)",
+  "examples": [
+    "How much sugar?",
+    "How many tickets?",
+    "A lot of traffic."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "How much sugar?",
+      "correct": "How much sugar?",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m4-l1"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

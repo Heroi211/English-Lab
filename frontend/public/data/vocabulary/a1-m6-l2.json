@@ -1,0 +1,91 @@
+{
+  "lessonId": "a1-m6-l2",
+  "level": "A1",
+  "topic": "prepositions_place",
+  "items": [
+    {
+      "id": "vocab_behind",
+      "word": "behind",
+      "translation": "atrás de",
+      "partOfSpeech": "preposition",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "example": "The garden is behind the house.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_in_front_of",
+      "word": "in front of",
+      "translation": "na frente de",
+      "partOfSpeech": "preposition",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "example": "The car is in front of the building.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_between",
+      "word": "between",
+      "translation": "entre",
+      "partOfSpeech": "preposition",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "example": "The bank is between the café and the pharmacy.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_opposite",
+      "word": "opposite",
+      "translation": "em frente a",
+      "partOfSpeech": "preposition",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "example": "The school is opposite the park.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_above",
+      "word": "above",
+      "translation": "acima de",
+      "partOfSpeech": "preposition",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "example": "The picture is above the sofa.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_below",
+      "word": "below",
+      "translation": "abaixo de",
+      "partOfSpeech": "preposition",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "example": "The shop is below our apartment.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_corner",
+      "word": "corner",
+      "translation": "canto / esquina",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "example": "Turn at the corner.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

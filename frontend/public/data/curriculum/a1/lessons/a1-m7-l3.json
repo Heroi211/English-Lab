@@ -1,0 +1,206 @@
+{
+  "id": "a1-m7-l3",
+  "moduleId": "a1-m7",
+  "level": "A1",
+  "order": 3,
+  "title": "Days, Months & Seasons",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use days, months & seasons.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can name days, months, and seasons.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"days, months & seasons\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Days, Months & Seasons?"
+    ]
+  },
+  "explanation": "On Monday | In January | In summer\n\nCapital letters for days and months.\n\nMy birthday is in June, on the 12th.\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-days-months",
+    "title": "Days, Months & Seasons",
+    "rule": "On Monday | In January | In summer",
+    "examples": [
+      {
+        "sentence": "On Monday I have class.",
+        "note": "Monday"
+      },
+      {
+        "sentence": "Friday is my favourite day.",
+        "note": "Friday"
+      },
+      {
+        "sentence": "In January it is hot in Brazil.",
+        "note": "January"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "Monday",
+      "translation": "segunda-feira",
+      "partOfSpeech": "noun",
+      "example": "On Monday I have class.",
+      "collocations": []
+    },
+    {
+      "word": "Friday",
+      "translation": "sexta-feira",
+      "partOfSpeech": "noun",
+      "example": "Friday is my favourite day.",
+      "collocations": []
+    },
+    {
+      "word": "January",
+      "translation": "janeiro",
+      "partOfSpeech": "noun",
+      "example": "In January it is hot in Brazil.",
+      "collocations": []
+    },
+    {
+      "word": "summer",
+      "translation": "verão",
+      "partOfSpeech": "noun",
+      "example": "In summer we travel.",
+      "collocations": []
+    },
+    {
+      "word": "winter",
+      "translation": "inverno",
+      "partOfSpeech": "noun",
+      "example": "Winter is cold in Canada.",
+      "collocations": []
+    },
+    {
+      "word": "weekend",
+      "translation": "fim de semana",
+      "partOfSpeech": "noun",
+      "example": "On the weekend I rest.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Days, Months & Seasons",
+      "sentences": [
+        "On Monday I have class.",
+        "Friday is my favourite day.",
+        "In January it is hot in Brazil.",
+        "In summer we travel."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m7_l3_01",
+    "ex_a1_m7_l3_02",
+    "ex_a1_m7_l3_03",
+    "ex_a1_m7_l3_04",
+    "ex_a1_m7_l3_05",
+    "ex_a1_m7_l3_06",
+    "ex_a1_m7_l3_07",
+    "ex_a1_m7_l3_08",
+    "ex_a1_m7_l3_09",
+    "ex_a1_m7_l3_10",
+    "ex_a1_m7_l3_11",
+    "ex_a1_m7_l3_12"
+  ],
+  "reading": {
+    "title": "Days, Months & Seasons — Reading",
+    "text": "Every day, people use days, months & seasons in conversation. On Monday I have class. Friday is my favourite day. In January it is hot in Brazil. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "Monday",
+        "explanation": "Focus word: Monday.",
+        "options": [
+          "Monday",
+          "Friday",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"Friday\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "sexta-feira",
+        "explanation": "sexta-feira"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using days, months & seasons.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "On Monday I have class. Friday is my favourite day. In January it is hot in Brazil."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-days-months"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_monday"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_friday"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_january"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_summer"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_winter"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_weekend"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m7_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m7_l3_10"
+    }
+  ],
+  "checkpointId": "a1-m7-l3-checkpoint",
+  "tutorHints": [
+    "Focus on Days, Months & Seasons with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m7-l3.json",
+  "exercisesRef": "exercises/a1-m7-l3.json",
+  "grammarRef": "grammar/a1-days-months.json",
+  "checkpointRef": "assessments/a1-m7-l3-checkpoint.json"
+}

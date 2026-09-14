@@ -1,0 +1,148 @@
+{
+  "id": "a2-m6-module-test",
+  "kind": "module",
+  "moduleId": "a2-m6",
+  "level": "A2",
+  "title": "Present Perfect Intro — Module Test",
+  "description": "Test your knowledge of the whole module: Present Perfect Intro. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use present perfect intro confidently at A2 level.",
+  "questions": [
+    {
+      "id": "mt_a2_m6_01",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Perfect Form):",
+      "options": [
+        "I have been to Chile.",
+        "I XXX been to Chile.",
+        "No correct form.",
+        "Chile. to been have I"
+      ],
+      "answer": "I have been to Chile.",
+      "explanation": "This follows the pattern taught in Present Perfect Form."
+    },
+    {
+      "id": "mt_a2_m6_02",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Ever & Never\"?",
+      "options": [
+        "ever",
+        "never",
+        "before",
+        "xyzabc"
+      ],
+      "answer": "ever",
+      "explanation": "\"ever\" (alguma vez) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a2_m6_03",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": "a2-for-since",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ two hours.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Since + point (since 2020, since Monday) | For + period (for three years)"
+    },
+    {
+      "id": "mt_a2_m6_04",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "fill_blank",
+      "question": "Complete: I have ___ sent the email.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a2_m6_05",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "true_false",
+      "question": "True or false: \"I have been to Chile.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a2_m6_06",
+      "level": "A2",
+      "topic": "ever_never",
+      "ruleId": "a2-ever-never",
+      "type": "true_false",
+      "question": "True or false: WRONG you ever been abroad? is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "mt_a2_m6_07",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "since",
+          "right": "desde"
+        },
+        {
+          "left": "for",
+          "right": "por"
+        },
+        {
+          "left": "how long",
+          "right": "há quanto tempo"
+        },
+        {
+          "left": "duration",
+          "right": "duração"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a2_m6_08",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "just",
+          "right": "acabar de"
+        },
+        {
+          "left": "already",
+          "right": "já"
+        },
+        {
+          "left": "yet",
+          "right": "ainda"
+        },
+        {
+          "left": "recent",
+          "right": "recente"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

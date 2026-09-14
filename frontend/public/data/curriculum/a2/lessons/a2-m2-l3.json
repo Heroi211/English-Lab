@@ -1,0 +1,186 @@
+{
+  "id": "a2-m2-l3",
+  "moduleId": "a2-m2",
+  "level": "A2",
+  "order": 3,
+  "title": "Present Continuous for Future",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use present continuous for future accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can use present continuous for fixed future arrangements.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about present continuous for future. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use present continuous for future?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6.\n\nOften with time expression: tomorrow, on Friday.",
+  "grammar": {
+    "ruleId": "a2-present-for-future",
+    "title": "Present Continuous for Future",
+    "rule": "Am/is/are + -ing for arranged future: I am meeting John at 6.",
+    "examples": [
+      {
+        "sentence": "I am meeting the team at 3.",
+        "note": "meeting"
+      },
+      {
+        "sentence": "We are flying on Tuesday.",
+        "note": "flying"
+      },
+      {
+        "sentence": "It is a firm arrangement.",
+        "note": "arrangement"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "meeting",
+      "translation": "reunião / encontro",
+      "partOfSpeech": "noun",
+      "example": "I am meeting the team at 3.",
+      "collocations": []
+    },
+    {
+      "word": "flying",
+      "translation": "voando / viajar de avião",
+      "partOfSpeech": "verb",
+      "example": "We are flying on Tuesday.",
+      "collocations": []
+    },
+    {
+      "word": "arrangement",
+      "translation": "combinado",
+      "partOfSpeech": "noun",
+      "example": "It is a firm arrangement.",
+      "collocations": []
+    },
+    {
+      "word": "calendar",
+      "translation": "calendário",
+      "partOfSpeech": "noun",
+      "example": "Check your calendar.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Present Continuous for Future",
+      "sentences": [
+        "I am meeting the team at 3.",
+        "We are flying on Tuesday.",
+        "It is a firm arrangement.",
+        "Check your calendar."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m2_l3_01",
+    "ex_a2_m2_l3_02",
+    "ex_a2_m2_l3_03",
+    "ex_a2_m2_l3_04",
+    "ex_a2_m2_l3_05",
+    "ex_a2_m2_l3_06",
+    "ex_a2_m2_l3_07",
+    "ex_a2_m2_l3_08",
+    "ex_a2_m2_l3_09",
+    "ex_a2_m2_l3_10",
+    "ex_a2_m2_l3_11",
+    "ex_a2_m2_l3_12"
+  ],
+  "reading": {
+    "title": "Present Continuous for Future in Context",
+    "text": "I am having dinner with clients tomorrow. She is starting her new role on Monday. We are not working next Friday — it is a holiday.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "present continuous for future",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"meeting\" mean?",
+        "type": "short_answer",
+        "answer": "reunião",
+        "explanation": "reunião / encontro"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "We are flying on Tuesday.",
+        "explanation": "We are flying on Tuesday.",
+        "options": [
+          "We are flying on Tuesday.",
+          "3. at team the meeting am I",
+          "No sentence fits.",
+          "It is a firm arrangement."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using present continuous for future. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "I am meeting the team at 3. We are flying on Tuesday. It is a firm arrangement. Check your calendar."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-present-for-future"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_meeting"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_flying"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_arrangement"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_calendar"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m2_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m2_l3_10"
+    }
+  ],
+  "checkpointId": "a2-m2-l3-checkpoint",
+  "tutorHints": [
+    "Target structure: Present Continuous for Future.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m2-l3.json",
+  "exercisesRef": "exercises/a2-m2-l3.json",
+  "grammarRef": "grammar/a2-present-for-future.json",
+  "checkpointRef": "assessments/a2-m2-l3-checkpoint.json"
+}

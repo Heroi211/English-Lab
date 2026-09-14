@@ -1,0 +1,43 @@
+{
+  "lessonId": "a2-m7-l2",
+  "level": "A2",
+  "topic": "unless",
+  "items": [
+    {
+      "id": "vocab_as_long_as",
+      "word": "as long as",
+      "translation": "contanto que",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "unless",
+      "example": "As long as you try.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_provided",
+      "word": "provided",
+      "translation": "desde que",
+      "partOfSpeech": "conjunction",
+      "level": "A2",
+      "topic": "unless",
+      "example": "Provided you pay on time.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_otherwise",
+      "word": "otherwise",
+      "translation": "caso contrário",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "unless",
+      "example": "Hurry, otherwise you will be late.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m3-l4",
+  "level": "A2",
+  "topic": "too_enough",
+  "items": [
+    {
+      "id": "vocab_too",
+      "word": "too",
+      "translation": "demais / muito (excesso)",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "too_enough",
+      "example": "Too late to change.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_enough",
+      "word": "enough",
+      "translation": "suficiente",
+      "partOfSpeech": "determiner",
+      "level": "A2",
+      "topic": "too_enough",
+      "example": "We have enough chairs.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_plenty",
+      "word": "plenty",
+      "translation": "bastante",
+      "partOfSpeech": "pronoun",
+      "level": "A2",
+      "topic": "too_enough",
+      "example": "Plenty of time.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_almost",
+      "word": "almost",
+      "translation": "quase",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "too_enough",
+      "example": "Almost enough.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

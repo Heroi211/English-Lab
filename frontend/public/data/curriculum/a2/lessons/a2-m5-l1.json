@@ -1,0 +1,186 @@
+{
+  "id": "a2-m5-l1",
+  "moduleId": "a2-m5",
+  "level": "A2",
+  "order": 1,
+  "title": "Adverbs of Frequency (Review+)",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use adverbs of frequency (review+) accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can use frequency adverbs naturally in A2 discourse.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about adverbs of frequency (review+). How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use adverbs of frequency (review+)?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Always, usually, often, sometimes, rarely, never — position with one/two verbs.\n\nQuestions: How often do you…?",
+  "grammar": {
+    "ruleId": "a2-frequency",
+    "title": "Adverbs of Frequency (Review+)",
+    "rule": "Always, usually, often, sometimes, rarely, never — position with one/two verbs.",
+    "examples": [
+      {
+        "sentence": "I rarely eat fast food.",
+        "note": "rarely"
+      },
+      {
+        "sentence": "She walks every day.",
+        "note": "every day"
+      },
+      {
+        "sentence": "I travel once a month.",
+        "note": "once a month"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "rarely",
+      "translation": "raramente",
+      "partOfSpeech": "adverb",
+      "example": "I rarely eat fast food.",
+      "collocations": []
+    },
+    {
+      "word": "every day",
+      "translation": "todos os dias",
+      "partOfSpeech": "phrase",
+      "example": "She walks every day.",
+      "collocations": []
+    },
+    {
+      "word": "once a month",
+      "translation": "uma vez por mês",
+      "partOfSpeech": "phrase",
+      "example": "I travel once a month.",
+      "collocations": []
+    },
+    {
+      "word": "hardly ever",
+      "translation": "quase nunca",
+      "partOfSpeech": "phrase",
+      "example": "He hardly ever complains.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Adverbs of Frequency (Review+)",
+      "sentences": [
+        "I rarely eat fast food.",
+        "She walks every day.",
+        "I travel once a month.",
+        "He hardly ever complains."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m5_l1_01",
+    "ex_a2_m5_l1_02",
+    "ex_a2_m5_l1_03",
+    "ex_a2_m5_l1_04",
+    "ex_a2_m5_l1_05",
+    "ex_a2_m5_l1_06",
+    "ex_a2_m5_l1_07",
+    "ex_a2_m5_l1_08",
+    "ex_a2_m5_l1_09",
+    "ex_a2_m5_l1_10",
+    "ex_a2_m5_l1_11",
+    "ex_a2_m5_l1_12"
+  ],
+  "reading": {
+    "title": "Adverbs of Frequency (Review+) in Context",
+    "text": "I usually wake up early, but I rarely have time for breakfast. How often do you exercise? — About three times a week.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "adverbs of frequency (review+)",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"rarely\" mean?",
+        "type": "short_answer",
+        "answer": "raramente",
+        "explanation": "raramente"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "She walks every day.",
+        "explanation": "She walks every day.",
+        "options": [
+          "She walks every day.",
+          "food. fast eat rarely I",
+          "No sentence fits.",
+          "I travel once a month."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using adverbs of frequency (review+). Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "I rarely eat fast food. She walks every day. I travel once a month. He hardly ever complains."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-frequency"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_rarely"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_every_day"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_once_a_month"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_hardly_ever"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m5_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m5_l1_10"
+    }
+  ],
+  "checkpointId": "a2-m5-l1-checkpoint",
+  "tutorHints": [
+    "Target structure: Adverbs of Frequency (Review+).",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m5-l1.json",
+  "exercisesRef": "exercises/a2-m5-l1.json",
+  "grammarRef": "grammar/a2-frequency.json",
+  "checkpointRef": "assessments/a2-m5-l1-checkpoint.json"
+}

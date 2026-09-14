@@ -1,0 +1,26 @@
+{
+  "id": "a2-idioms",
+  "level": "A2",
+  "title": "Review & Useful Idioms",
+  "topic": "idioms_review",
+  "summary": "Break the ice, piece of cake, under the weather (intro level)",
+  "rule": "Break the ice, piece of cake, under the weather (intro level)",
+  "examples": [
+    "A joke breaks the ice.",
+    "The test was a piece of cake.",
+    "I feel under the weather."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "A joke breaks the ice.",
+      "correct": "A joke breaks the ice.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m8-l4"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

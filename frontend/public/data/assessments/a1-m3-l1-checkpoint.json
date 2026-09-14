@@ -1,0 +1,96 @@
+{
+  "id": "a1-m3-l1-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m3-l1",
+  "moduleId": "a1-m3",
+  "level": "A1",
+  "title": "Lesson 1 Checkpoint — There is / There are",
+  "description": "Show what you learned about there is / there are. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can say what exists in a place using there is and there are.",
+  "questions": [
+    {
+      "id": "cp_a1_m3_l1_01",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (There is / There are):",
+      "options": [
+        "There is a park near my house.",
+        "There XXX a park near my house.",
+        "No correct form.",
+        "house. my near park a is There"
+      ],
+      "answer": "There is a park near my house.",
+      "explanation": "This follows the pattern taught in There is / There are."
+    },
+    {
+      "id": "cp_a1_m3_l1_02",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "fill_blank",
+      "question": "Complete: ___ a café on this street.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m3_l1_03",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "true_false",
+      "question": "True or false: \"There is a park near my house.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m3_l1_04",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"There is / There are\"?",
+      "options": [
+        "there is",
+        "there are",
+        "room",
+        "xyzabc"
+      ],
+      "answer": "there is",
+      "explanation": "\"there is\" (há / tem (singular)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m3_l1_05",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "there is",
+          "right": "há"
+        },
+        {
+          "left": "there are",
+          "right": "há"
+        },
+        {
+          "left": "room",
+          "right": "quarto"
+        },
+        {
+          "left": "table",
+          "right": "mesa"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

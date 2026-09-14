@@ -1,0 +1,26 @@
+{
+  "id": "a2-past-simple-irregular",
+  "level": "A2",
+  "title": "Past Simple — Irregular Verbs",
+  "topic": "past_simple_irregular",
+  "summary": "High-frequency irregulars: go→went, see→saw, have→had, do→did, make→made, come→came, get→got, take→took.",
+  "rule": "High-frequency irregulars: go→went, see→saw, have→had, do→did, make→made, come→came, get→got, take→took.",
+  "examples": [
+    "We went to the cinema.",
+    "I saw Maria at the party.",
+    "They had a great time."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We WRONG to the cinema.",
+      "correct": "We went to the cinema.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m1-l2"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

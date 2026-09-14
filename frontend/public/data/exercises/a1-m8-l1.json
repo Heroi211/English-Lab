@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m8-l1",
+  "exercises": [
+    {
+      "id": "ex_a1_m8_l1_01",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Family Members):",
+      "options": [
+        "My mother is a nurse.",
+        "My mother XXX a nurse.",
+        "No correct form.",
+        "nurse. a is mother My"
+      ],
+      "answer": "My mother is a nurse.",
+      "explanation": "This follows the pattern taught in Family Members."
+    },
+    {
+      "id": "ex_a1_m8_l1_02",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Family Members\"?",
+      "options": [
+        "mother",
+        "father",
+        "parents",
+        "xyzabc"
+      ],
+      "answer": "mother",
+      "explanation": "\"mother\" (mãe) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l1_03",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ father works abroad.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Mother, father, parents, siblings, grandparents, husband, wife, son, daughter."
+    },
+    {
+      "id": "ex_a1_m8_l1_04",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "fill_blank",
+      "question": "Complete: My ___ is a nurse.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m8_l1_05",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "fill_blank",
+      "question": "Complete: ___ father works abroad.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Mother, father, parents, siblings, grandparents, husband, wife, son, daughter."
+    },
+    {
+      "id": "ex_a1_m8_l1_06",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "fill_blank",
+      "question": "Complete: ___ parents live in Recife.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l1_07",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "true_false",
+      "question": "True or false: \"My mother is a nurse.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l1_08",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "true_false",
+      "question": "True or false: My mother WRONG a nurse. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l1_09",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "mother",
+          "right": "mãe"
+        },
+        {
+          "left": "father",
+          "right": "pai"
+        },
+        {
+          "left": "parents",
+          "right": "pais"
+        },
+        {
+          "left": "brother",
+          "right": "irmão"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l1_10",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "mother",
+          "right": "mãe"
+        },
+        {
+          "left": "father",
+          "right": "pai"
+        },
+        {
+          "left": "parents",
+          "right": "pais"
+        },
+        {
+          "left": "brother",
+          "right": "irmão"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m8_l1_11",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": "a1-family",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"My mother WRONG a nurse.\"",
+      "answer": "My mother is a nurse.",
+      "answers": [
+        "My mother is a nurse."
+      ],
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l1_12",
+      "level": "A1",
+      "topic": "family",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"parents\"?",
+      "options": [
+        "pais",
+        "mãe",
+        "pai",
+        "none of these"
+      ],
+      "answer": "pais",
+      "explanation": "\"parents\" means \"pais\"."
+    }
+  ]
+}

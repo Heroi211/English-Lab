@@ -1,0 +1,96 @@
+{
+  "id": "a1-m5-l3-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m5-l3",
+  "moduleId": "a1-m5",
+  "level": "A1",
+  "title": "Lesson 3 Checkpoint — Present Simple vs Continuous",
+  "description": "Show what you learned about present simple vs continuous. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can choose present simple or continuous correctly.",
+  "questions": [
+    {
+      "id": "cp_a1_m5_l3_01",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Simple vs Continuous):",
+      "options": [
+        "Smoking is a bad habit.",
+        "Smoking XXX a bad habit.",
+        "No correct form.",
+        "habit. bad a is Smoking"
+      ],
+      "answer": "Smoking is a bad habit.",
+      "explanation": "This follows the pattern taught in Present Simple vs Continuous."
+    },
+    {
+      "id": "cp_a1_m5_l3_02",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "fill_blank",
+      "question": "Complete: Smoking is a bad ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m5_l3_03",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "true_false",
+      "question": "True or false: \"Smoking is a bad habit.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m5_l3_04",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Present Simple vs Continuous\"?",
+      "options": [
+        "habit",
+        "temporary",
+        "permanent",
+        "xyzabc"
+      ],
+      "answer": "habit",
+      "explanation": "\"habit\" (hábito) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m5_l3_05",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "habit",
+          "right": "hábito"
+        },
+        {
+          "left": "temporary",
+          "right": "temporário"
+        },
+        {
+          "left": "permanent",
+          "right": "permanente"
+        },
+        {
+          "left": "usually",
+          "right": "geralmente"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lessonId": "a1-m7-l1",
+  "level": "A1",
+  "topic": "numbers_dates",
+  "items": [
+    {
+      "id": "vocab_number",
+      "word": "number",
+      "translation": "número",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "example": "Write the number here.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_first",
+      "word": "first",
+      "translation": "primeiro",
+      "partOfSpeech": "ordinal",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "example": "The first of May.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_second",
+      "word": "second",
+      "translation": "segundo",
+      "partOfSpeech": "ordinal",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "example": "Second floor.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_third",
+      "word": "third",
+      "translation": "terceiro",
+      "partOfSpeech": "ordinal",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "example": "Third time.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_hundred",
+      "word": "hundred",
+      "translation": "cem",
+      "partOfSpeech": "number",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "example": "One hundred people.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_thousand",
+      "word": "thousand",
+      "translation": "mil",
+      "partOfSpeech": "number",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "example": "Two thousand euros.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_birthday",
+      "word": "birthday",
+      "translation": "aniversário",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "example": "My birthday is in April.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

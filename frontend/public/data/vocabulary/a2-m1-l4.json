@@ -1,0 +1,79 @@
+{
+  "lessonId": "a2-m1-l4",
+  "level": "A2",
+  "topic": "past_time",
+  "items": [
+    {
+      "id": "vocab_last_month",
+      "word": "last month",
+      "translation": "mês passado",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "past_time",
+      "example": "I started gym last month.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_last_year",
+      "word": "last year",
+      "translation": "ano passado",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "past_time",
+      "example": "They moved last year.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_in_2020",
+      "word": "in 2020",
+      "translation": "em 2020",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "past_time",
+      "example": "In 2020 we stayed home.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_once",
+      "word": "once",
+      "translation": "uma vez",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "past_time",
+      "example": "I met him once.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_then",
+      "word": "then",
+      "translation": "então / depois",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "past_time",
+      "example": "We ate, then we left.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_suddenly",
+      "word": "suddenly",
+      "translation": "de repente",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "past_time",
+      "example": "Suddenly it rained.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "lessonId": "a1-m3-l4",
+  "level": "A1",
+  "topic": "describing_places",
+  "items": [
+    {
+      "id": "vocab_in",
+      "word": "in",
+      "translation": "em / dentro de",
+      "partOfSpeech": "preposition",
+      "level": "A1",
+      "topic": "describing_places",
+      "example": "The keys are in the bag.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_on",
+      "word": "on",
+      "translation": "em / sobre",
+      "partOfSpeech": "preposition",
+      "level": "A1",
+      "topic": "describing_places",
+      "example": "The cup is on the table.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_under",
+      "word": "under",
+      "translation": "debaixo de",
+      "partOfSpeech": "preposition",
+      "level": "A1",
+      "topic": "describing_places",
+      "example": "The cat is under the bed.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_next_to",
+      "word": "next to",
+      "translation": "ao lado de",
+      "partOfSpeech": "preposition",
+      "level": "A1",
+      "topic": "describing_places",
+      "example": "The bank is next to the pharmacy.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_desk",
+      "word": "desk",
+      "translation": "escrivaninha / mesa",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "describing_places",
+      "example": "My laptop is on the desk.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_bed",
+      "word": "bed",
+      "translation": "cama",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "describing_places",
+      "example": "There is a bed in the room.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_wall",
+      "word": "wall",
+      "translation": "parede",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "describing_places",
+      "example": "There is a clock on the wall.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_street",
+      "word": "street",
+      "translation": "rua",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "describing_places",
+      "example": "There are two cafés on my street.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_building",
+      "word": "building",
+      "translation": "prédio / edifício",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "describing_places",
+      "example": "Our building has ten floors.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a1-greetings",
+  "level": "A1",
+  "title": "Greetings & Politeness",
+  "topic": "greetings",
+  "summary": "Good morning/afternoon/evening + name is friendly and polite. Good night is usually a farewell, not a greeting. Please g",
+  "rule": "Good morning/afternoon/evening + name is friendly and polite. Good night is usually a farewell, not a greeting. Please goes before or after a request: Please help me. / Help me, please.",
+  "examples": [
+    "Good morning, Mr. Silva!",
+    "Excuse me, is this seat free?"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Good night! (at 9 a.m.)",
+      "correct": "Good morning!",
+      "explanation": "Good night is for leaving at night."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m1-l3"
+  ],
+  "tutorHints": [
+    "Role-play greetings at different times.",
+    "Explain Good night = leaving, not arriving."
+  ]
+}

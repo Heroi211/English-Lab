@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m5-l4",
+  "level": "A2",
+  "topic": "would_like",
+  "items": [
+    {
+      "id": "vocab_would_like",
+      "word": "would like",
+      "translation": "gostaria",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "would_like",
+      "example": "I would like the bill.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_order",
+      "word": "order",
+      "translation": "pedir / pedido",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "would_like",
+      "example": "Are you ready to order?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_prefer",
+      "word": "prefer",
+      "translation": "preferir",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "would_like",
+      "example": "I prefer tea.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_something",
+      "word": "something",
+      "translation": "algo",
+      "partOfSpeech": "pronoun",
+      "level": "A2",
+      "topic": "would_like",
+      "example": "Something to drink?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

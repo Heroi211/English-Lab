@@ -1,0 +1,26 @@
+{
+  "id": "a2-frequency",
+  "level": "A2",
+  "title": "Adverbs of Frequency (Review+)",
+  "topic": "frequency_a2",
+  "summary": "Always, usually, often, sometimes, rarely, never — position with one/two verbs.",
+  "rule": "Always, usually, often, sometimes, rarely, never — position with one/two verbs.",
+  "examples": [
+    "I rarely eat fast food.",
+    "She walks every day.",
+    "I travel once a month."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I rarely eat fast food.",
+      "correct": "I rarely eat fast food.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m5-l1"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m4-l1",
+  "level": "A2",
+  "topic": "much_many",
+  "items": [
+    {
+      "id": "vocab_much",
+      "word": "much",
+      "translation": "muito (incontável)",
+      "partOfSpeech": "determiner",
+      "level": "A2",
+      "topic": "much_many",
+      "example": "How much sugar?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_many",
+      "word": "many",
+      "translation": "muitos",
+      "partOfSpeech": "determiner",
+      "level": "A2",
+      "topic": "much_many",
+      "example": "How many tickets?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_a_lot_of",
+      "word": "a lot of",
+      "translation": "muito / muitos",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "much_many",
+      "example": "A lot of traffic.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_how_much",
+      "word": "how much",
+      "translation": "quanto",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "much_many",
+      "example": "How much does it cost?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

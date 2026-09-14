@@ -1,0 +1,26 @@
+{
+  "id": "a2-containers",
+  "level": "A2",
+  "title": "Containers & Measures",
+  "topic": "containers",
+  "summary": "A bottle of water | A cup of tea | A piece of cake | A kilo of rice",
+  "rule": "A bottle of water | A cup of tea | A piece of cake | A kilo of rice",
+  "examples": [
+    "A bottle of water.",
+    "A cup of coffee.",
+    "A piece of bread."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "A bottle of water.",
+      "correct": "A bottle of water.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m4-l3"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

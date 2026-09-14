@@ -1,0 +1,26 @@
+{
+  "id": "a2-plans-predictions",
+  "level": "A2",
+  "title": "Plans vs Predictions",
+  "topic": "plans_vs_predictions",
+  "summary": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will",
+  "rule": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will",
+  "examples": [
+    "It was a quick decision.",
+    "There is evidence of rain.",
+    "A spontaneous offer."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "It was a quick decision.",
+      "correct": "It was a quick decision.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m2-l4"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

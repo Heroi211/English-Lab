@@ -1,0 +1,91 @@
+{
+  "lessonId": "a1-m5-l4",
+  "level": "A1",
+  "topic": "describing_pictures",
+  "items": [
+    {
+      "id": "vocab_picture",
+      "word": "picture",
+      "translation": "imagem / foto",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "example": "In the picture there is a park.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_photo",
+      "word": "photo",
+      "translation": "foto",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "example": "Look at this photo.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_wear",
+      "word": "wear",
+      "translation": "usar / vestir",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "example": "She is wearing a red dress.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_hold",
+      "word": "hold",
+      "translation": "segurar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "example": "He is holding a baby.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_smile",
+      "word": "smile",
+      "translation": "sorrir",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "example": "They are smiling.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_sun",
+      "word": "sun",
+      "translation": "sol",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "example": "The sun is shining.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_cloud",
+      "word": "cloud",
+      "translation": "nuvem",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "example": "Clouds are moving.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

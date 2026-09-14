@@ -1,0 +1,26 @@
+{
+  "id": "a2-phrasals-2",
+  "level": "A2",
+  "title": "Common Phrasal Verbs 2",
+  "topic": "phrasals_2",
+  "summary": "Take off (clothes/plane) | Put on | Run out of | Find out",
+  "rule": "Take off (clothes/plane) | Put on | Run out of | Find out",
+  "examples": [
+    "The plane takes off at noon.",
+    "Put on your jacket.",
+    "We ran out of milk."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The plane takes off at noon.",
+      "correct": "The plane takes off at noon.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m8-l2"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

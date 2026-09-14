@@ -1,0 +1,103 @@
+{
+  "lessonId": "a1-m5-l2",
+  "level": "A1",
+  "topic": "present_continuous_now",
+  "items": [
+    {
+      "id": "vocab_look",
+      "word": "look",
+      "translation": "olhar / olhe",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "example": "Look! It is snowing.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_right_now",
+      "word": "right now",
+      "translation": "agora mesmo",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "example": "Right now I am talking.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_sit",
+      "word": "sit",
+      "translation": "sentar(-se)",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "example": "She is sitting near the window.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_stand",
+      "word": "stand",
+      "translation": "ficar de pé",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "example": "He is standing in line.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_talk",
+      "word": "talk",
+      "translation": "conversar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "example": "They are talking.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_watch",
+      "word": "watch",
+      "translation": "assistir",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "example": "I am watching a film.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_drive",
+      "word": "drive",
+      "translation": "dirigir",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "example": "He is driving to work.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_shop",
+      "word": "shop",
+      "translation": "fazer compras",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "example": "We are shopping.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

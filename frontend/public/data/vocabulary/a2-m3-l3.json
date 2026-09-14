@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m3-l3",
+  "level": "A2",
+  "topic": "as_as",
+  "items": [
+    {
+      "id": "vocab_as",
+      "word": "as",
+      "translation": "tão … como",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "as_as",
+      "example": "As fast as possible.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_same",
+      "word": "same",
+      "translation": "mesmo",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "as_as",
+      "example": "The same price.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_equal",
+      "word": "equal",
+      "translation": "igual",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "as_as",
+      "example": "Equal opportunities.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_similar",
+      "word": "similar",
+      "translation": "similar",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "as_as",
+      "example": "Similar results.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

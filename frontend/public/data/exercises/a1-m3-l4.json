@@ -1,0 +1,209 @@
+{
+  "lessonId": "a1-m3-l4",
+  "exercises": [
+    {
+      "id": "ex_a1_m3_l4_01",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Describing a Place):",
+      "options": [
+        "There is a mirror on the wall.",
+        "There XXX a mirror on the wall.",
+        "No correct form.",
+        "wall. the on mirror a is There"
+      ],
+      "answer": "There is a mirror on the wall.",
+      "explanation": "This follows the pattern taught in Describing Places."
+    },
+    {
+      "id": "ex_a1_m3_l4_02",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Describing a Place\"?",
+      "options": [
+        "in",
+        "on",
+        "under",
+        "xyzabc"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" (em / dentro de) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l4_03",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ cup is on the table.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the door."
+    },
+    {
+      "id": "ex_a1_m3_l4_04",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "fill_blank",
+      "question": "Complete: The keys are ___ the bag.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m3_l4_05",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "fill_blank",
+      "question": "Complete: ___ cup is on the table.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, i"
+    },
+    {
+      "id": "ex_a1_m3_l4_06",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "fill_blank",
+      "question": "Complete: ___ cat is under the bed.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l4_07",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "true_false",
+      "question": "True or false: \"There is a mirror on the wall.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l4_08",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "true_false",
+      "question": "True or false: The book is in the table. is grammatically correct.",
+      "answer": false,
+      "explanation": "On for surfaces; in for enclosed spaces."
+    },
+    {
+      "id": "ex_a1_m3_l4_09",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "in",
+          "right": "em"
+        },
+        {
+          "left": "on",
+          "right": "em"
+        },
+        {
+          "left": "under",
+          "right": "debaixo de"
+        },
+        {
+          "left": "next to",
+          "right": "ao lado de"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l4_10",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "in",
+          "right": "em"
+        },
+        {
+          "left": "on",
+          "right": "em"
+        },
+        {
+          "left": "under",
+          "right": "debaixo de"
+        },
+        {
+          "left": "next to",
+          "right": "ao lado de"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m3_l4_11",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "a",
+        "There",
+        "the",
+        "book",
+        "on",
+        "table",
+        "is"
+      ],
+      "answer": [
+        "There",
+        "is",
+        "a",
+        "book",
+        "on",
+        "the",
+        "table"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l4_12",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"under\"?",
+      "options": [
+        "debaixo de",
+        "em / dentro de",
+        "em / sobre",
+        "none of these"
+      ],
+      "answer": "debaixo de",
+      "explanation": "\"under\" means \"debaixo de\"."
+    }
+  ]
+}

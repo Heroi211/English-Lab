@@ -1,0 +1,195 @@
+{
+  "lessonId": "a2-m6-l1",
+  "exercises": [
+    {
+      "id": "ex_a2_m6_l1_01",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Perfect Form):",
+      "options": [
+        "I have been to Chile.",
+        "I XXX been to Chile.",
+        "No correct form.",
+        "Chile. to been have I"
+      ],
+      "answer": "I have been to Chile.",
+      "explanation": "This follows the pattern taught in Present Perfect Form."
+    },
+    {
+      "id": "ex_a2_m6_l1_02",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Present Perfect Form\"?",
+      "options": [
+        "have been",
+        "has done",
+        "past participle",
+        "xyzabc"
+      ],
+      "answer": "have been",
+      "explanation": "\"have been\" (esteve / esteve em) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l1_03",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ has done the work.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Have/has + past participle: I have finished. | She has lived here for years."
+    },
+    {
+      "id": "ex_a2_m6_l1_04",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "fill_blank",
+      "question": "Complete: I ___ to Chile.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m6_l1_05",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "fill_blank",
+      "question": "Complete: ___ has done the work.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Have/has + past participle: I have finished. | She has lived here for years."
+    },
+    {
+      "id": "ex_a2_m6_l1_06",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "fill_blank",
+      "question": "Complete: ___ the past participle.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l1_07",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "true_false",
+      "question": "True or false: \"I have been to Chile.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l1_08",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "true_false",
+      "question": "True or false: I WRONG been to Chile. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l1_09",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "have been",
+          "right": "esteve"
+        },
+        {
+          "left": "has done",
+          "right": "fez"
+        },
+        {
+          "left": "past participle",
+          "right": "particípio passado"
+        },
+        {
+          "left": "experience",
+          "right": "experiência"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l1_10",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "have been",
+          "right": "esteve"
+        },
+        {
+          "left": "has done",
+          "right": "fez"
+        },
+        {
+          "left": "past participle",
+          "right": "particípio passado"
+        },
+        {
+          "left": "experience",
+          "right": "experiência"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m6_l1_11",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": "a2-present-perfect",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"I WRONG been to Chile.\"",
+      "answer": "I have been to Chile.",
+      "answers": [
+        "I have been to Chile."
+      ],
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l1_12",
+      "level": "A2",
+      "topic": "present_perfect_form",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"past participle\"?",
+      "options": [
+        "particípio passado",
+        "esteve / esteve em",
+        "fez",
+        "none of these"
+      ],
+      "answer": "particípio passado",
+      "explanation": "\"past participle\" means \"particípio passado\"."
+    }
+  ]
+}

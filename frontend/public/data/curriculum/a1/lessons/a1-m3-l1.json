@@ -1,0 +1,209 @@
+{
+  "id": "a1-m3-l1",
+  "moduleId": "a1-m3",
+  "level": "A1",
+  "order": 1,
+  "title": "There is / There are",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use there is + singular and there are + plural.",
+    "Form negatives and questions.",
+    "Describe rooms and places."
+  ],
+  "canDo": "I can say what exists in a place using there is and there are.",
+  "warmUp": {
+    "title": "Há / existe",
+    "prompt": "Em português: \"Tem um livro na mesa\" / \"Há três cadeiras\". Em inglês usamos There is / There are.",
+    "reflectionQuestions": [
+      "There is ou There are: two cats?"
+    ]
+  },
+  "explanation": "There is + singular: There is a book on the table.\nThere are + plural: There are three chairs.\n\nNegative: There isn't… / There aren't…\nQuestions: Is there…? / Are there…?\n\nUse there is/are to introduce what exists — different from have (possession).",
+  "grammar": {
+    "ruleId": "a1-there-is-are",
+    "title": "There is / There are",
+    "rule": "There is + singular noun. There are + plural noun. In questions, invert: Is there a bank near here? Are there any students?",
+    "examples": [
+      {
+        "sentence": "There is a park near my house.",
+        "note": "Singular"
+      },
+      {
+        "sentence": "There are two bathrooms.",
+        "note": "Plural"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "there is",
+      "translation": "há / tem (singular)",
+      "partOfSpeech": "phrase",
+      "example": "There is a café on this street.",
+      "collocations": []
+    },
+    {
+      "word": "there are",
+      "translation": "há / existem",
+      "partOfSpeech": "phrase",
+      "example": "There are many parks here.",
+      "collocations": []
+    },
+    {
+      "word": "room",
+      "translation": "quarto / sala",
+      "partOfSpeech": "noun",
+      "example": "There is a bed in the room.",
+      "collocations": []
+    },
+    {
+      "word": "table",
+      "translation": "mesa",
+      "partOfSpeech": "noun",
+      "example": "There is a lamp on the table.",
+      "collocations": []
+    },
+    {
+      "word": "chair",
+      "translation": "cadeira",
+      "partOfSpeech": "noun",
+      "example": "There are four chairs.",
+      "collocations": []
+    },
+    {
+      "word": "window",
+      "translation": "janela",
+      "partOfSpeech": "noun",
+      "example": "There is a big window.",
+      "collocations": []
+    },
+    {
+      "word": "kitchen",
+      "translation": "cozinha",
+      "partOfSpeech": "noun",
+      "example": "There is a fridge in the kitchen.",
+      "collocations": []
+    },
+    {
+      "word": "any",
+      "translation": "algum / nenhum (?)",
+      "partOfSpeech": "determiner",
+      "example": "Are there any questions?",
+      "collocations": []
+    },
+    {
+      "word": "some",
+      "translation": "alguns / algumas",
+      "partOfSpeech": "determiner",
+      "example": "There are some apples.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "sentences": [
+        "There is a TV in the living room.",
+        "There aren't any shops open today."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m3_l1_01",
+    "ex_a1_m3_l1_02",
+    "ex_a1_m3_l1_03",
+    "ex_a1_m3_l1_04",
+    "ex_a1_m3_l1_05",
+    "ex_a1_m3_l1_06",
+    "ex_a1_m3_l1_07",
+    "ex_a1_m3_l1_08",
+    "ex_a1_m3_l1_09",
+    "ex_a1_m3_l1_10",
+    "ex_a1_m3_l1_11",
+    "ex_a1_m3_l1_12"
+  ],
+  "reading": {
+    "title": "My New Apartment",
+    "text": "I love my new apartment! There is a big living room with a sofa and a TV. There are two bedrooms. In the kitchen, there is a new fridge and there are many cupboards. There isn't a garden, but there is a small balcony. There aren't any shops in the building, but there are two cafés on my street.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "How many bedrooms are there?",
+        "type": "short_answer",
+        "answer": "two / 2",
+        "explanation": "There are two bedrooms."
+      },
+      {
+        "id": "r2",
+        "question": "Is there a garden?",
+        "type": "true_false",
+        "answer": false,
+        "explanation": "There isn't a garden."
+      },
+      {
+        "id": "r3",
+        "question": "What is in the kitchen?",
+        "type": "short_answer",
+        "answer": "a fridge and cupboards",
+        "explanation": "A new fridge and many cupboards."
+      },
+      {
+        "id": "r4",
+        "question": "Are there shops in the building?",
+        "type": "true_false",
+        "answer": false,
+        "explanation": "There aren't any shops in the building."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Describe your home: 5 sentences with there is/are (include one negative).",
+    "minWords": 30,
+    "modelAnswer": "There are three rooms in my apartment. There is a small kitchen. There is a sofa in the living room. There aren't any pets. There are two windows in my bedroom."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-there-is-are"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_there_is"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_there_are"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_room"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_table"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_chair"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_window"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m3_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m3_l1_10"
+    }
+  ],
+  "checkpointId": "a1-m3-l1-checkpoint",
+  "tutorHints": [
+    "Contrast there is vs have: There is a cat vs I have a cat."
+  ],
+  "vocabularyRef": "vocabulary/a1-m3-l1.json",
+  "exercisesRef": "exercises/a1-m3-l1.json",
+  "grammarRef": "grammar/a1-there-is-are.json",
+  "checkpointRef": "assessments/a1-m3-l1-checkpoint.json"
+}

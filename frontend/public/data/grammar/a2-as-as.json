@@ -1,0 +1,26 @@
+{
+  "id": "a2-as-as",
+  "level": "A2",
+  "title": "As … As",
+  "topic": "as_as",
+  "summary": "Equal: as tall as | Not equal: not as/so expensive as",
+  "rule": "Equal: as tall as | Not equal: not as/so expensive as",
+  "examples": [
+    "As fast as possible.",
+    "The same price.",
+    "Equal opportunities."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "As fast as possible.",
+      "correct": "As fast as possible.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m3-l3"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

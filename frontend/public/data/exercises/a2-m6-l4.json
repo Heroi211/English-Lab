@@ -1,0 +1,207 @@
+{
+  "lessonId": "a2-m6-l4",
+  "exercises": [
+    {
+      "id": "ex_a2_m6_l4_01",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Just, Already & Yet):",
+      "options": [
+        "I have just sent the email.",
+        "I XXX just sent the email.",
+        "No correct form.",
+        "email. the sent just have I"
+      ],
+      "answer": "I have just sent the email.",
+      "explanation": "This follows the pattern taught in Just, Already & Yet."
+    },
+    {
+      "id": "ex_a2_m6_l4_02",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Just, Already & Yet\"?",
+      "options": [
+        "just",
+        "already",
+        "yet",
+        "xyzabc"
+      ],
+      "answer": "just",
+      "explanation": "\"just\" (acabar de) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l4_03",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ have already left.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Just = very recent | Already = before expected | Yet = until now (?/−)"
+    },
+    {
+      "id": "ex_a2_m6_l4_04",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "fill_blank",
+      "question": "Complete: I have ___ sent the email.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m6_l4_05",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "fill_blank",
+      "question": "Complete: ___ have already left.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Just = very recent | Already = before expected | Yet = until now (?/−)"
+    },
+    {
+      "id": "ex_a2_m6_l4_06",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "fill_blank",
+      "question": "Complete: ___ you replied yet?",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l4_07",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "true_false",
+      "question": "True or false: \"I have just sent the email.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l4_08",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "true_false",
+      "question": "True or false: I WRONG just sent the email. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l4_09",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "just",
+          "right": "acabar de"
+        },
+        {
+          "left": "already",
+          "right": "já"
+        },
+        {
+          "left": "yet",
+          "right": "ainda"
+        },
+        {
+          "left": "recent",
+          "right": "recente"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l4_10",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "just",
+          "right": "acabar de"
+        },
+        {
+          "left": "already",
+          "right": "já"
+        },
+        {
+          "left": "yet",
+          "right": "ainda"
+        },
+        {
+          "left": "recent",
+          "right": "recente"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m6_l4_11",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "the",
+        "sent",
+        "email",
+        "just",
+        "have",
+        "I"
+      ],
+      "answer": [
+        "I",
+        "have",
+        "just",
+        "sent",
+        "the",
+        "email"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l4_12",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"yet\"?",
+      "options": [
+        "ainda",
+        "acabar de",
+        "já",
+        "none of these"
+      ],
+      "answer": "ainda",
+      "explanation": "\"yet\" means \"ainda\"."
+    }
+  ]
+}

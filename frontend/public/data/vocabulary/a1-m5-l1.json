@@ -1,0 +1,115 @@
+{
+  "lessonId": "a1-m5-l1",
+  "level": "A1",
+  "topic": "present_continuous_form",
+  "items": [
+    {
+      "id": "vocab_now",
+      "word": "now",
+      "translation": "agora",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "example": "I am busy now.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_at_the_moment",
+      "word": "at the moment",
+      "translation": "no momento",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "example": "At the moment I am studying.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_cook",
+      "word": "cook",
+      "translation": "cozinhar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "example": "She is cooking dinner.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_read",
+      "word": "read",
+      "translation": "ler",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "example": "He is reading a book.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_write",
+      "word": "write",
+      "translation": "escrever",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "example": "I am writing an email.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_listen",
+      "word": "listen",
+      "translation": "ouvir / escutar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "example": "They are listening to music.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_wait",
+      "word": "wait",
+      "translation": "esperar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "example": "We are waiting for the bus.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_rain",
+      "word": "rain",
+      "translation": "chover",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "example": "It is raining.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_today",
+      "word": "today",
+      "translation": "hoje",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "example": "Today I am working from home.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m5-l2",
+  "level": "A2",
+  "topic": "should",
+  "items": [
+    {
+      "id": "vocab_should",
+      "word": "should",
+      "translation": "deveria",
+      "partOfSpeech": "modal",
+      "level": "A2",
+      "topic": "should",
+      "example": "You should see a doctor.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_shouldn_t",
+      "word": "shouldn't",
+      "translation": "não deveria",
+      "partOfSpeech": "modal",
+      "level": "A2",
+      "topic": "should",
+      "example": "You shouldn't skip meals.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_advice",
+      "word": "advice",
+      "translation": "conselho",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "should",
+      "example": "Take my advice.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_recommend",
+      "word": "recommend",
+      "translation": "recomendar",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "should",
+      "example": "I recommend this book.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

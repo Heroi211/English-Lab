@@ -1,0 +1,25 @@
+{
+  "id": "a1-articles",
+  "level": "A1",
+  "title": "Articles a / an / the",
+  "topic": "articles",
+  "summary": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which",
+  "rule": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which one. No article with plural generics in general statements.",
+  "examples": [
+    "I need a pen.",
+    "The pen on the desk is blue."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I am engineer.",
+      "correct": "I am an engineer.",
+      "explanation": "Jobs need a/an."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m2-l2"
+  ],
+  "tutorHints": [
+    "Teach sound not spelling: a university, an hour."
+  ]
+}

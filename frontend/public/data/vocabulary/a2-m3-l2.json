@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m3-l2",
+  "level": "A2",
+  "topic": "superlatives",
+  "items": [
+    {
+      "id": "vocab_the_best",
+      "word": "the best",
+      "translation": "o melhor",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "superlatives",
+      "example": "This is the best pizza in town.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_the_worst",
+      "word": "the worst",
+      "translation": "o pior",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "superlatives",
+      "example": "The worst film ever.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_the_most",
+      "word": "the most",
+      "translation": "o mais",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "superlatives",
+      "example": "The most popular song.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_in_the_world",
+      "word": "in the world",
+      "translation": "no mundo",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "superlatives",
+      "example": "Famous in the world.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

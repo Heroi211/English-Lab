@@ -1,0 +1,96 @@
+{
+  "id": "a2-m6-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m6-l4",
+  "moduleId": "a2-m6",
+  "level": "A2",
+  "title": "Lesson 4 Checkpoint — Just, Already & Yet",
+  "description": "Show what you learned about just, already & yet. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use just, already, and yet in present perfect contexts.",
+  "questions": [
+    {
+      "id": "cp_a2_m6_l4_01",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Just, Already & Yet):",
+      "options": [
+        "I have just sent the email.",
+        "I XXX just sent the email.",
+        "No correct form.",
+        "email. the sent just have I"
+      ],
+      "answer": "I have just sent the email.",
+      "explanation": "This follows the pattern taught in Just, Already & Yet."
+    },
+    {
+      "id": "cp_a2_m6_l4_02",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "fill_blank",
+      "question": "Complete: I have ___ sent the email.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m6_l4_03",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "true_false",
+      "question": "True or false: \"I have just sent the email.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m6_l4_04",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Just, Already & Yet\"?",
+      "options": [
+        "just",
+        "already",
+        "yet",
+        "xyzabc"
+      ],
+      "answer": "just",
+      "explanation": "\"just\" (acabar de) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m6_l4_05",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "ruleId": "a2-just-already-yet",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "just",
+          "right": "acabar de"
+        },
+        {
+          "left": "already",
+          "right": "já"
+        },
+        {
+          "left": "yet",
+          "right": "ainda"
+        },
+        {
+          "left": "recent",
+          "right": "recente"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a2-first-conditional",
+  "level": "A2",
+  "title": "If + Present, Will",
+  "topic": "first_conditional",
+  "summary": "If + present simple, will + base: If it rains, I will stay home.",
+  "rule": "If + present simple, will + base: If it rains, I will stay home.",
+  "examples": [
+    "If you need help, call me.",
+    "Unless it rains, we will go.",
+    "It will probably work."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "If you need help, call me.",
+      "correct": "If you need help, call me.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m7-l1"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

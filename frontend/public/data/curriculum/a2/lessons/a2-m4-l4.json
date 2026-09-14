@@ -1,0 +1,197 @@
+{
+  "id": "a2-m4-l4",
+  "moduleId": "a2-m4",
+  "level": "A2",
+  "order": 4,
+  "title": "Countable vs Uncountable",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use countable vs uncountable accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can classify nouns and choose correct quantifiers.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about countable vs uncountable. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use countable vs uncountable?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Countable: one apple, two apples | Uncountable: rice, information (no plural *informations)\n\nSome/any/a lot of work with both; much/many depend on type",
+  "grammar": {
+    "ruleId": "a2-countability",
+    "title": "Countable vs Uncountable",
+    "rule": "Countable: one apple, two apples | Uncountable: rice, information (no plural *informations)",
+    "examples": [
+      {
+        "sentence": "Useful information.",
+        "note": "information"
+      },
+      {
+        "sentence": "Good advice.",
+        "note": "advice"
+      },
+      {
+        "sentence": "Modern furniture.",
+        "note": "furniture"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "information",
+      "translation": "informação",
+      "partOfSpeech": "noun",
+      "example": "Useful information.",
+      "collocations": []
+    },
+    {
+      "word": "advice",
+      "translation": "conselho",
+      "partOfSpeech": "noun",
+      "example": "Good advice.",
+      "collocations": []
+    },
+    {
+      "word": "furniture",
+      "translation": "mobília",
+      "partOfSpeech": "noun",
+      "example": "Modern furniture.",
+      "collocations": []
+    },
+    {
+      "word": "news",
+      "translation": "notícia(s)",
+      "partOfSpeech": "noun",
+      "example": "Good news!",
+      "collocations": []
+    },
+    {
+      "word": "bread",
+      "translation": "pão",
+      "partOfSpeech": "noun",
+      "example": "Fresh bread.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Countable vs Uncountable",
+      "sentences": [
+        "Useful information.",
+        "Good advice.",
+        "Modern furniture.",
+        "Good news!"
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m4_l4_01",
+    "ex_a2_m4_l4_02",
+    "ex_a2_m4_l4_03",
+    "ex_a2_m4_l4_04",
+    "ex_a2_m4_l4_05",
+    "ex_a2_m4_l4_06",
+    "ex_a2_m4_l4_07",
+    "ex_a2_m4_l4_08",
+    "ex_a2_m4_l4_09",
+    "ex_a2_m4_l4_10",
+    "ex_a2_m4_l4_11",
+    "ex_a2_m4_l4_12"
+  ],
+  "reading": {
+    "title": "Countable vs Uncountable in Context",
+    "text": "Can I give you some advice? The furniture is new. There isn't much information on the website. These chairs are comfortable — we need many chairs for the event.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "countable vs uncountable",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"information\" mean?",
+        "type": "short_answer",
+        "answer": "informação",
+        "explanation": "informação"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "Good advice.",
+        "explanation": "Good advice.",
+        "options": [
+          "Good advice.",
+          "information. Useful",
+          "No sentence fits.",
+          "Modern furniture."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using countable vs uncountable. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "Useful information. Good advice. Modern furniture. Good news!"
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-countability"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_information"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_advice"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_furniture"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_news"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_bread"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m4_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m4_l4_10"
+    }
+  ],
+  "checkpointId": "a2-m4-l4-checkpoint",
+  "tutorHints": [
+    "Target structure: Countable vs Uncountable.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m4-l4.json",
+  "exercisesRef": "exercises/a2-m4-l4.json",
+  "grammarRef": "grammar/a2-countability.json",
+  "checkpointRef": "assessments/a2-m4-l4-checkpoint.json"
+}

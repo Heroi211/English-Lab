@@ -1,0 +1,27 @@
+{
+  "id": "a1-present-simple-aff",
+  "level": "A1",
+  "title": "Present Simple — Affirmative",
+  "topic": "present_simple_aff",
+  "summary": "Daily routines and permanent situations: add -s for he/she/it.",
+  "rule": "Daily routines and permanent situations: add -s for he/she/it.",
+  "examples": [
+    "I work in an office.",
+    "They live in London.",
+    "She likes music."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I WRONG in an office.",
+      "correct": "I work in an office.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m4-l1"
+  ],
+  "tutorHints": [
+    "Focus on Present Simple — Affirmative with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

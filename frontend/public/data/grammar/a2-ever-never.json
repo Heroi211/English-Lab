@@ -1,0 +1,26 @@
+{
+  "id": "a2-ever-never",
+  "level": "A2",
+  "title": "Ever & Never",
+  "topic": "ever_never",
+  "summary": "Have you ever…? | I have never…",
+  "rule": "Have you ever…? | I have never…",
+  "examples": [
+    "Have you ever been abroad?",
+    "I have never flown.",
+    "Not like this before."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "WRONG you ever been abroad?",
+      "correct": "Have you ever been abroad?",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m6-l2"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

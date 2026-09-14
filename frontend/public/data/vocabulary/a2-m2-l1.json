@@ -1,0 +1,79 @@
+{
+  "lessonId": "a2-m2-l1",
+  "level": "A2",
+  "topic": "future_will",
+  "items": [
+    {
+      "id": "vocab_will",
+      "word": "will",
+      "translation": "verbo futuro",
+      "partOfSpeech": "modal",
+      "level": "A2",
+      "topic": "future_will",
+      "example": "I will call you.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_won_t",
+      "word": "won't",
+      "translation": "não vai",
+      "partOfSpeech": "modal",
+      "level": "A2",
+      "topic": "future_will",
+      "example": "It won't take long.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_probably",
+      "word": "probably",
+      "translation": "provavelmente",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "future_will",
+      "example": "She will probably agree.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_maybe",
+      "word": "maybe",
+      "translation": "talvez",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "future_will",
+      "example": "Maybe we will travel.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_promise",
+      "word": "promise",
+      "translation": "prometer",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "future_will",
+      "example": "I promise I will be on time.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_predict",
+      "word": "predict",
+      "translation": "prever",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "future_will",
+      "example": "Experts predict growth.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

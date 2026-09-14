@@ -1,0 +1,96 @@
+{
+  "id": "a2-m5-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m5-l2",
+  "moduleId": "a2-m5",
+  "level": "A2",
+  "title": "Lesson 2 Checkpoint — Should / Shouldn't",
+  "description": "Show what you learned about should / shouldn't. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can give advice with should and shouldn't.",
+  "questions": [
+    {
+      "id": "cp_a2_m5_l2_01",
+      "level": "A2",
+      "topic": "should",
+      "ruleId": "a2-should",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Should / Shouldn't):",
+      "options": [
+        "You should see a doctor.",
+        "You should see a doctor.",
+        "No correct form.",
+        "doctor. a see should You"
+      ],
+      "answer": "You should see a doctor.",
+      "explanation": "This follows the pattern taught in Should / Shouldn't."
+    },
+    {
+      "id": "cp_a2_m5_l2_02",
+      "level": "A2",
+      "topic": "should",
+      "ruleId": "a2-should",
+      "type": "fill_blank",
+      "question": "Complete: You ___ see a doctor.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m5_l2_03",
+      "level": "A2",
+      "topic": "should",
+      "ruleId": "a2-should",
+      "type": "true_false",
+      "question": "True or false: \"You should see a doctor.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m5_l2_04",
+      "level": "A2",
+      "topic": "should",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Should / Shouldn't\"?",
+      "options": [
+        "should",
+        "shouldn't",
+        "advice",
+        "xyzabc"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" (deveria) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m5_l2_05",
+      "level": "A2",
+      "topic": "should",
+      "ruleId": "a2-should",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "should",
+          "right": "deveria"
+        },
+        {
+          "left": "shouldn't",
+          "right": "não deveria"
+        },
+        {
+          "left": "advice",
+          "right": "conselho"
+        },
+        {
+          "left": "recommend",
+          "right": "recomendar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

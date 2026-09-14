@@ -1,0 +1,148 @@
+{
+  "id": "a2-m2-module-test",
+  "kind": "module",
+  "moduleId": "a2-m2",
+  "level": "A2",
+  "title": "Future — Will & Going To — Module Test",
+  "description": "Test your knowledge of the whole module: Future — Will & Going To. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use future — will & going to confidently at A2 level.",
+  "questions": [
+    {
+      "id": "mt_a2_m2_01",
+      "level": "A2",
+      "topic": "future_will",
+      "ruleId": "a2-future-will",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Future with Will):",
+      "options": [
+        "I will call you.",
+        "I XXX call you.",
+        "No correct form.",
+        "you. call will I"
+      ],
+      "answer": "I will call you.",
+      "explanation": "This follows the pattern taught in Future with Will."
+    },
+    {
+      "id": "mt_a2_m2_02",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Future with Going To\"?",
+      "options": [
+        "going to",
+        "plan",
+        "intend",
+        "xyzabc"
+      ],
+      "answer": "going to",
+      "explanation": "\"going to\" (ir (futuro planeado)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a2_m2_03",
+      "level": "A2",
+      "topic": "present_for_future",
+      "ruleId": "a2-present-for-future",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ are flying on Tuesday.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6."
+    },
+    {
+      "id": "mt_a2_m2_04",
+      "level": "A2",
+      "topic": "plans_vs_predictions",
+      "ruleId": "a2-plans-predictions",
+      "type": "fill_blank",
+      "question": "Complete: It was a quick ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a2_m2_05",
+      "level": "A2",
+      "topic": "future_will",
+      "ruleId": "a2-future-will",
+      "type": "true_false",
+      "question": "True or false: \"I will call you.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a2_m2_06",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "true_false",
+      "question": "True or false: We are going to move. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "mt_a2_m2_07",
+      "level": "A2",
+      "topic": "present_for_future",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "meeting",
+          "right": "reunião"
+        },
+        {
+          "left": "flying",
+          "right": "voando"
+        },
+        {
+          "left": "arrangement",
+          "right": "combinado"
+        },
+        {
+          "left": "calendar",
+          "right": "calendário"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a2_m2_08",
+      "level": "A2",
+      "topic": "plans_vs_predictions",
+      "ruleId": "a2-plans-predictions",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "decision",
+          "right": "decisão"
+        },
+        {
+          "left": "evidence",
+          "right": "evidência"
+        },
+        {
+          "left": "spontaneous",
+          "right": "espontâneo"
+        },
+        {
+          "left": "fixed",
+          "right": "fixo"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a1-subject-pronouns",
+  "level": "A1",
+  "title": "Subject Pronouns",
+  "topic": "subject_pronouns",
+  "summary": "Subject pronouns come before the verb. I and you are the same for singular and plural in English. He = male, she = femal",
+  "rule": "Subject pronouns come before the verb. I and you are the same for singular and plural in English. He = male, she = female, it = things/animals. They = plural.",
+  "examples": [
+    "I am Brazilian.",
+    "She is my sister.",
+    "They are students."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Her is happy.",
+      "correct": "She is happy.",
+      "explanation": "Her is possessive/object; use she as subject."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m1-l2"
+  ],
+  "tutorHints": [
+    "Drill I/you/he/she/it/we/they with gestures.",
+    "Contrast she vs her early to prevent later errors."
+  ]
+}

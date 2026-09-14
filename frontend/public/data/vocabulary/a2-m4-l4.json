@@ -1,0 +1,67 @@
+{
+  "lessonId": "a2-m4-l4",
+  "level": "A2",
+  "topic": "countability",
+  "items": [
+    {
+      "id": "vocab_information",
+      "word": "information",
+      "translation": "informação",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "countability",
+      "example": "Useful information.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_advice",
+      "word": "advice",
+      "translation": "conselho",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "countability",
+      "example": "Good advice.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_furniture",
+      "word": "furniture",
+      "translation": "mobília",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "countability",
+      "example": "Modern furniture.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_news",
+      "word": "news",
+      "translation": "notícia(s)",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "countability",
+      "example": "Good news!",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_bread",
+      "word": "bread",
+      "translation": "pão",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "countability",
+      "example": "Fresh bread.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

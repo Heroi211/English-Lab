@@ -1,0 +1,25 @@
+{
+  "id": "a1-demonstratives",
+  "level": "A1",
+  "title": "Demonstratives",
+  "topic": "demonstratives",
+  "summary": "This/these = near the speaker. That/those = farther away. Match number: this/that + singular verb; these/those + plural ",
+  "rule": "This/these = near the speaker. That/those = farther away. Match number: this/that + singular verb; these/those + plural verb.",
+  "examples": [
+    "This is a pen.",
+    "Those buildings are old."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This are my books.",
+      "correct": "These are my books.",
+      "explanation": "Books = plural → these."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m2-l4"
+  ],
+  "tutorHints": [
+    "Use physical distance when demoing this vs that."
+  ]
+}

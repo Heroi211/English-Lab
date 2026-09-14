@@ -1,0 +1,96 @@
+{
+  "id": "a1-m5-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m5-l2",
+  "moduleId": "a1-m5",
+  "level": "A1",
+  "title": "Lesson 2 Checkpoint — Actions Happening Now",
+  "description": "Show what you learned about actions happening now. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can describe what is happening at the moment.",
+  "questions": [
+    {
+      "id": "cp_a1_m5_l2_01",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Actions Happening Now):",
+      "options": [
+        "Look! It is snowing.",
+        "Look! It XXX snowing.",
+        "No correct form.",
+        "snowing. is It Look!"
+      ],
+      "answer": "Look! It is snowing.",
+      "explanation": "This follows the pattern taught in Actions Happening Now."
+    },
+    {
+      "id": "cp_a1_m5_l2_02",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "fill_blank",
+      "question": "Complete: ___! It is snowing.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m5_l2_03",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "true_false",
+      "question": "True or false: \"Look! It is snowing.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m5_l2_04",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Actions Happening Now\"?",
+      "options": [
+        "look",
+        "right now",
+        "sit",
+        "xyzabc"
+      ],
+      "answer": "look",
+      "explanation": "\"look\" (olhar / olhe) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m5_l2_05",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "look",
+          "right": "olhar"
+        },
+        {
+          "left": "right now",
+          "right": "agora mesmo"
+        },
+        {
+          "left": "sit",
+          "right": "sentar(-se)"
+        },
+        {
+          "left": "stand",
+          "right": "ficar de pé"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

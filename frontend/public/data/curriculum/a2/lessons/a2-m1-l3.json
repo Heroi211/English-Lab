@@ -1,0 +1,215 @@
+{
+  "id": "a2-m1-l3",
+  "moduleId": "a2-m1",
+  "level": "A2",
+  "order": 3,
+  "title": "Past Simple — Questions & Negatives",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use past simple — questions & negatives accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can ask and answer past simple questions and make negatives.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about past simple — questions & negatives. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use past simple — questions & negatives?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Did + subject + base verb: Did you go? | She didn't come.\n\nWh- past: Where did you live? | What did he say?\n\nDid is the same for all persons.",
+  "grammar": {
+    "ruleId": "a2-past-simple-q-neg",
+    "title": "Past Simple — Questions & Negatives",
+    "rule": "Did + subject + base verb: Did you go? | She didn't come.",
+    "examples": [
+      {
+        "sentence": "Did you enjoy it?",
+        "note": "did"
+      },
+      {
+        "sentence": "I didn't know.",
+        "note": "didn't"
+      },
+      {
+        "sentence": "When did they arrive?",
+        "note": "when"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "did",
+      "translation": "auxiliar passado",
+      "partOfSpeech": "auxiliary",
+      "example": "Did you enjoy it?",
+      "collocations": []
+    },
+    {
+      "word": "didn't",
+      "translation": "não (passado)",
+      "partOfSpeech": "auxiliary",
+      "example": "I didn't know.",
+      "collocations": []
+    },
+    {
+      "word": "when",
+      "translation": "quando",
+      "partOfSpeech": "adverb",
+      "example": "When did they arrive?",
+      "collocations": []
+    },
+    {
+      "word": "why",
+      "translation": "por que",
+      "partOfSpeech": "adverb",
+      "example": "Why did she leave?",
+      "collocations": []
+    },
+    {
+      "word": "enjoy",
+      "translation": "aproveitar / gostar",
+      "partOfSpeech": "verb",
+      "example": "Did you enjoy the concert?",
+      "collocations": []
+    },
+    {
+      "word": "arrive",
+      "translation": "chegar",
+      "partOfSpeech": "verb",
+      "example": "They arrived late.",
+      "collocations": []
+    },
+    {
+      "word": "leave",
+      "translation": "sair / ir embora",
+      "partOfSpeech": "verb",
+      "example": "He left early.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Past Simple — Questions & Negatives",
+      "sentences": [
+        "Did you enjoy it?",
+        "I didn't know.",
+        "When did they arrive?",
+        "Why did she leave?"
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m1_l3_01",
+    "ex_a2_m1_l3_02",
+    "ex_a2_m1_l3_03",
+    "ex_a2_m1_l3_04",
+    "ex_a2_m1_l3_05",
+    "ex_a2_m1_l3_06",
+    "ex_a2_m1_l3_07",
+    "ex_a2_m1_l3_08",
+    "ex_a2_m1_l3_09",
+    "ex_a2_m1_l3_10",
+    "ex_a2_m1_l3_11",
+    "ex_a2_m1_l3_12"
+  ],
+  "reading": {
+    "title": "Past Simple — Questions & Negatives in Context",
+    "text": "Did you finish the report? I didn't finish mine because the internet stopped. When did the meeting start? It started at nine. Why did the client leave early?",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "past simple — questions & negatives",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"did\" mean?",
+        "type": "short_answer",
+        "answer": "auxiliar passado",
+        "explanation": "auxiliar passado"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "I didn't know.",
+        "explanation": "I didn't know.",
+        "options": [
+          "I didn't know.",
+          "it? enjoy you Did",
+          "No sentence fits.",
+          "When did they arrive?"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using past simple — questions & negatives. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "Did you enjoy it? I didn't know. When did they arrive? Why did she leave?"
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-past-simple-q-neg"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_did"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_didn_t"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_when"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_why"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_enjoy"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_arrive"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m1_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m1_l3_10"
+    }
+  ],
+  "checkpointId": "a2-m1-l3-checkpoint",
+  "tutorHints": [
+    "Target structure: Past Simple — Questions & Negatives.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m1-l3.json",
+  "exercisesRef": "exercises/a2-m1-l3.json",
+  "grammarRef": "grammar/a2-past-simple-q-neg.json",
+  "checkpointRef": "assessments/a2-m1-l3-checkpoint.json"
+}

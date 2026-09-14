@@ -1,0 +1,205 @@
+{
+  "lessonId": "a2-m1-l4",
+  "exercises": [
+    {
+      "id": "ex_a2_m1_l4_01",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Past Time Expressions):",
+      "options": [
+        "I started gym last month.",
+        "I started gym last month.",
+        "No correct form.",
+        "month. last gym started I"
+      ],
+      "answer": "I started gym last month.",
+      "explanation": "This follows the pattern taught in Past Time Expressions."
+    },
+    {
+      "id": "ex_a2_m1_l4_02",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Past Time Expressions\"?",
+      "options": [
+        "last month",
+        "last year",
+        "in 2020",
+        "xyzabc"
+      ],
+      "answer": "last month",
+      "explanation": "\"last month\" (mês passado) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l4_03",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ moved last year.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Last + period: last month, last year | … ago: three years ago | In + past year: in 2019 | On + past day: on Monday (finished)"
+    },
+    {
+      "id": "ex_a2_m1_l4_04",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "fill_blank",
+      "question": "Complete: I started gym ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m1_l4_05",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "fill_blank",
+      "question": "Complete: ___ moved last year.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Last + period: last month, last year | … ago: three years ago | In + past year: in 2019 | On + past day: on Monday (fini"
+    },
+    {
+      "id": "ex_a2_m1_l4_06",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "fill_blank",
+      "question": "Complete: ___ 2020 we stayed home.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l4_07",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "true_false",
+      "question": "True or false: \"I started gym last month.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l4_08",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "true_false",
+      "question": "True or false: I started gym last month. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l4_09",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "last month",
+          "right": "mês passado"
+        },
+        {
+          "left": "last year",
+          "right": "ano passado"
+        },
+        {
+          "left": "in 2020",
+          "right": "em 2020"
+        },
+        {
+          "left": "once",
+          "right": "uma vez"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l4_10",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "last month",
+          "right": "mês passado"
+        },
+        {
+          "left": "last year",
+          "right": "ano passado"
+        },
+        {
+          "left": "in 2020",
+          "right": "em 2020"
+        },
+        {
+          "left": "once",
+          "right": "uma vez"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m1_l4_11",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "gym",
+        "started",
+        "month",
+        "last",
+        "I"
+      ],
+      "answer": [
+        "I",
+        "started",
+        "gym",
+        "last",
+        "month"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l4_12",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"in 2020\"?",
+      "options": [
+        "em 2020",
+        "mês passado",
+        "ano passado",
+        "none of these"
+      ],
+      "answer": "em 2020",
+      "explanation": "\"in 2020\" means \"em 2020\"."
+    }
+  ]
+}

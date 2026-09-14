@@ -1,0 +1,27 @@
+{
+  "id": "a1-adverbs-frequency",
+  "level": "A1",
+  "title": "Adverbs of Frequency",
+  "topic": "adverbs_frequency",
+  "summary": "Adverbs go BEFORE main verb: I always brush my teeth.",
+  "rule": "Adverbs go BEFORE main verb: I always brush my teeth.",
+  "examples": [
+    "I always drink water.",
+    "She usually walks.",
+    "We often meet on Fridays."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I always drink water.",
+      "correct": "I always drink water.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m4-l4"
+  ],
+  "tutorHints": [
+    "Focus on Adverbs of Frequency with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

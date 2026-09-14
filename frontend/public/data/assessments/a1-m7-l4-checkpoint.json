@@ -1,0 +1,96 @@
+{
+  "id": "a1-m7-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m7-l4",
+  "moduleId": "a1-m7",
+  "level": "A1",
+  "title": "Lesson 4 Checkpoint — Schedules & Appointments",
+  "description": "Show what you learned about schedules & appointments. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can talk about schedules and make appointments.",
+  "questions": [
+    {
+      "id": "cp_a1_m7_l4_01",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Schedules & Appointments):",
+      "options": [
+        "I have an appointment at 3.",
+        "I XXX an appointment at 3.",
+        "No correct form.",
+        "3. at appointment an have I"
+      ],
+      "answer": "I have an appointment at 3.",
+      "explanation": "This follows the pattern taught in Schedules & Appointments."
+    },
+    {
+      "id": "cp_a1_m7_l4_02",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "fill_blank",
+      "question": "Complete: I have an ___ at 3.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m7_l4_03",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "true_false",
+      "question": "True or false: \"I have an appointment at 3.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m7_l4_04",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Schedules & Appointments\"?",
+      "options": [
+        "appointment",
+        "schedule",
+        "meet",
+        "xyzabc"
+      ],
+      "answer": "appointment",
+      "explanation": "\"appointment\" (compromisso / consulta) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m7_l4_05",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "appointment",
+          "right": "compromisso"
+        },
+        {
+          "left": "schedule",
+          "right": "agenda"
+        },
+        {
+          "left": "meet",
+          "right": "encontrar(-se)"
+        },
+        {
+          "left": "available",
+          "right": "disponível"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

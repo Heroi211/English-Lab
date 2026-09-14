@@ -1,0 +1,96 @@
+{
+  "id": "a1-m3-l3-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m3-l3",
+  "moduleId": "a1-m3",
+  "level": "A1",
+  "title": "Lesson 3 Checkpoint — Some & Any",
+  "description": "Show what you learned about some & any. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use some and any with countable and uncountable nouns.",
+  "questions": [
+    {
+      "id": "cp_a1_m3_l3_01",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Some & Any):",
+      "options": [
+        "There is some milk in the fridge.",
+        "There XXX some milk in the fridge.",
+        "No correct form.",
+        "fridge. the in milk some is There"
+      ],
+      "answer": "There is some milk in the fridge.",
+      "explanation": "This follows the pattern taught in Some & Any."
+    },
+    {
+      "id": "cp_a1_m3_l3_02",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "fill_blank",
+      "question": "Complete: I bought ___ bread.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m3_l3_03",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "true_false",
+      "question": "True or false: \"There is some milk in the fridge.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m3_l3_04",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Some & Any\"?",
+      "options": [
+        "some",
+        "any",
+        "water",
+        "xyzabc"
+      ],
+      "answer": "some",
+      "explanation": "\"some\" (alguns / um pouco de) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m3_l3_05",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "some",
+          "right": "alguns"
+        },
+        {
+          "left": "any",
+          "right": "algum"
+        },
+        {
+          "left": "water",
+          "right": "água"
+        },
+        {
+          "left": "bread",
+          "right": "pão"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "a1-m5-module-test",
+  "kind": "module",
+  "moduleId": "a1-m5",
+  "level": "A1",
+  "title": "Present Continuous — Module Test",
+  "description": "Test your knowledge of the whole module: Present Continuous. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use present continuous in everyday A1 communication.",
+  "questions": [
+    {
+      "id": "mt_a1_m5_01",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Continuous — Form):",
+      "options": [
+        "I am busy now.",
+        "I XXX busy now.",
+        "No correct form.",
+        "now. busy am I"
+      ],
+      "answer": "I am busy now.",
+      "explanation": "This follows the pattern taught in Present Continuous — Form."
+    },
+    {
+      "id": "mt_a1_m5_02",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Actions Happening Now\"?",
+      "options": [
+        "look",
+        "right now",
+        "sit",
+        "xyzabc"
+      ],
+      "answer": "look",
+      "explanation": "\"look\" (olhar / olhe) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a1_m5_03",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is a temporary job.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Simple = habit/fact: I work in a bank."
+    },
+    {
+      "id": "mt_a1_m5_04",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "fill_blank",
+      "question": "Complete: In the ___ there is a park.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a1_m5_05",
+      "level": "A1",
+      "topic": "present_continuous_form",
+      "ruleId": "a1-present-continuous",
+      "type": "true_false",
+      "question": "True or false: \"I am busy now.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a1_m5_06",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "true_false",
+      "question": "True or false: Look! It WRONG snowing. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "mt_a1_m5_07",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "habit",
+          "right": "hábito"
+        },
+        {
+          "left": "temporary",
+          "right": "temporário"
+        },
+        {
+          "left": "permanent",
+          "right": "permanente"
+        },
+        {
+          "left": "usually",
+          "right": "geralmente"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a1_m5_08",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "picture",
+          "right": "imagem"
+        },
+        {
+          "left": "photo",
+          "right": "foto"
+        },
+        {
+          "left": "wear",
+          "right": "usar"
+        },
+        {
+          "left": "hold",
+          "right": "segurar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

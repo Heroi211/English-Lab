@@ -1,0 +1,203 @@
+{
+  "lessonId": "a1-m8-l2",
+  "exercises": [
+    {
+      "id": "ex_a1_m8_l2_01",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": "a1-home-furniture",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Home & Furniture):",
+      "options": [
+        "The sofa is comfortable.",
+        "The sofa XXX comfortable.",
+        "No correct form.",
+        "comfortable. is sofa The"
+      ],
+      "answer": "The sofa is comfortable.",
+      "explanation": "This follows the pattern taught in Home & Furniture."
+    },
+    {
+      "id": "ex_a1_m8_l2_02",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Home & Furniture\"?",
+      "options": [
+        "sofa",
+        "cupboard",
+        "shelf",
+        "xyzabc"
+      ],
+      "answer": "sofa",
+      "explanation": "\"sofa\" (sofá) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l2_03",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": "a1-home-furniture",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ are in the cupboard.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Living room, bedroom, bathroom, sofa, cupboard, shelf."
+    },
+    {
+      "id": "ex_a1_m8_l2_04",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": "a1-home-furniture",
+      "type": "fill_blank",
+      "question": "Complete: The ___ is comfortable.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m8_l2_05",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": "a1-home-furniture",
+      "type": "fill_blank",
+      "question": "Complete: ___ are in the cupboard.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Living room, bedroom, bathroom, sofa, cupboard, shelf."
+    },
+    {
+      "id": "ex_a1_m8_l2_06",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": "a1-home-furniture",
+      "type": "fill_blank",
+      "question": "Complete: ___ are on the shelf.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l2_07",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": "a1-home-furniture",
+      "type": "true_false",
+      "question": "True or false: \"The sofa is comfortable.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l2_08",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": "a1-home-furniture",
+      "type": "true_false",
+      "question": "True or false: The sofa WRONG comfortable. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l2_09",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "sofa",
+          "right": "sofá"
+        },
+        {
+          "left": "cupboard",
+          "right": "armário"
+        },
+        {
+          "left": "shelf",
+          "right": "prateleira"
+        },
+        {
+          "left": "mirror",
+          "right": "espelho"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l2_10",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": "a1-home-furniture",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "sofa",
+          "right": "sofá"
+        },
+        {
+          "left": "cupboard",
+          "right": "armário"
+        },
+        {
+          "left": "shelf",
+          "right": "prateleira"
+        },
+        {
+          "left": "mirror",
+          "right": "espelho"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m8_l2_11",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": "a1-home-furniture",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "The",
+        "comfortable",
+        "sofa",
+        "is"
+      ],
+      "answer": [
+        "The",
+        "sofa",
+        "is",
+        "comfortable"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l2_12",
+      "level": "A1",
+      "topic": "home_furniture",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"shelf\"?",
+      "options": [
+        "prateleira",
+        "sofá",
+        "armário",
+        "none of these"
+      ],
+      "answer": "prateleira",
+      "explanation": "\"shelf\" means \"prateleira\"."
+    }
+  ]
+}

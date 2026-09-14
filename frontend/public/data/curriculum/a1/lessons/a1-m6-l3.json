@@ -1,0 +1,213 @@
+{
+  "id": "a1-m6-l3",
+  "moduleId": "a1-m6",
+  "level": "A1",
+  "order": 3,
+  "title": "Giving Directions",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use giving directions.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can give and follow simple directions.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"giving directions\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Giving Directions?"
+    ]
+  },
+  "explanation": "Go straight. Turn left/right. It is on your left.\n\nExcuse me, where is the bank? — It is next to the post office.\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-directions",
+    "title": "Giving Directions",
+    "rule": "Go straight. Turn left/right. It is on your left.",
+    "examples": [
+      {
+        "sentence": "Go straight ahead.",
+        "note": "straight"
+      },
+      {
+        "sentence": "Turn left at the traffic lights.",
+        "note": "turn"
+      },
+      {
+        "sentence": "On the left.",
+        "note": "left"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "straight",
+      "translation": "reto / em frente",
+      "partOfSpeech": "adverb",
+      "example": "Go straight ahead.",
+      "collocations": []
+    },
+    {
+      "word": "turn",
+      "translation": "virar",
+      "partOfSpeech": "verb",
+      "example": "Turn left at the traffic lights.",
+      "collocations": []
+    },
+    {
+      "word": "left",
+      "translation": "esquerda",
+      "partOfSpeech": "noun",
+      "example": "On the left.",
+      "collocations": []
+    },
+    {
+      "word": "right",
+      "translation": "direita",
+      "partOfSpeech": "noun",
+      "example": "On the right.",
+      "collocations": []
+    },
+    {
+      "word": "map",
+      "translation": "mapa",
+      "partOfSpeech": "noun",
+      "example": "Use a map on your phone.",
+      "collocations": []
+    },
+    {
+      "word": "lost",
+      "translation": "perdido",
+      "partOfSpeech": "adjective",
+      "example": "I am lost.",
+      "collocations": []
+    },
+    {
+      "word": "near",
+      "translation": "perto",
+      "partOfSpeech": "adjective",
+      "example": "Is it near here?",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Giving Directions",
+      "sentences": [
+        "Go straight ahead.",
+        "Turn left at the traffic lights.",
+        "On the left.",
+        "On the right."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m6_l3_01",
+    "ex_a1_m6_l3_02",
+    "ex_a1_m6_l3_03",
+    "ex_a1_m6_l3_04",
+    "ex_a1_m6_l3_05",
+    "ex_a1_m6_l3_06",
+    "ex_a1_m6_l3_07",
+    "ex_a1_m6_l3_08",
+    "ex_a1_m6_l3_09",
+    "ex_a1_m6_l3_10",
+    "ex_a1_m6_l3_11",
+    "ex_a1_m6_l3_12"
+  ],
+  "reading": {
+    "title": "Giving Directions — Reading",
+    "text": "Every day, people use giving directions in conversation. Go straight ahead. Turn left at the traffic lights. On the left. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "straight",
+        "explanation": "Focus word: straight.",
+        "options": [
+          "straight",
+          "turn",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"turn\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "virar",
+        "explanation": "virar"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using giving directions.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "Go straight ahead. Turn left at the traffic lights. On the left."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-directions"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_straight"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_turn"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_left"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_right"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_map"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_lost"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m6_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m6_l3_10"
+    }
+  ],
+  "checkpointId": "a1-m6-l3-checkpoint",
+  "tutorHints": [
+    "Focus on Giving Directions with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m6-l3.json",
+  "exercisesRef": "exercises/a1-m6-l3.json",
+  "grammarRef": "grammar/a1-directions.json",
+  "checkpointRef": "assessments/a1-m6-l3-checkpoint.json"
+}

@@ -1,0 +1,241 @@
+{
+  "id": "a1-m1-l1",
+  "moduleId": "a1-m1",
+  "level": "A1",
+  "order": 1,
+  "title": "Verb To Be & Introductions",
+  "estimatedMinutes": 45,
+  "objectives": [
+    "Use am, is, and are correctly with subject pronouns (I, you, he, she, it, we, they).",
+    "Introduce yourself with your name, nationality, and job or role.",
+    "Ask and answer simple questions about personal information.",
+    "Form basic affirmative, negative, and question sentences with the verb to be."
+  ],
+  "canDo": "I can introduce myself and talk about basic personal information using the verb to be.",
+  "warmUp": {
+    "title": "Think before you start",
+    "prompt": "How do you introduce yourself in Portuguese? Try to say your name, where you are from, and what you do — now imagine saying the same things in English. In this lesson you will learn the most important verb in English: to be (ser / estar).",
+    "reflectionQuestions": [
+      "What is your name?",
+      "Where are you from?",
+      "Are you a student?"
+    ]
+  },
+  "explanation": "The verb to be is essential in English. We use it to say who we are, where we are from, our job, our age, and how we feel. In Portuguese you have two verbs (ser and estar), but in English there is one verb with three forms in the present: am, is, and are.\n\nKey pattern:\n• I am (I'm)\n• You / We / They are (You're / We're / They're)\n• He / She / It is (He's / She's / It's)\n\nCommon introduction phrases:\n• Hello! / Hi!\n• My name is… / I'm…\n• I am from…\n• I am a student / teacher / engineer.\n• Nice to meet you!\n\nTo ask about someone:\n• What is your name?\n• Where are you from?\n• Are you a student?\n\nShort answers: Yes, I am. / No, I'm not. / Yes, she is. / No, he isn't.",
+  "grammar": {
+    "ruleId": "a1-verb-to-be",
+    "title": "The Verb To Be — Present Simple",
+    "rule": "Use am with I; is with he, she, it; and are with you, we, they. Add not for negatives (I am not, she isn't, they aren't). In questions, put am/is/are before the subject.",
+    "table": {
+      "headers": ["Subject", "Affirmative", "Negative", "Question"],
+      "rows": [
+        ["I", "I am (I'm)", "I am not (I'm not)", "Am I…?"],
+        ["You", "You are (You're)", "You are not (You aren't)", "Are you…?"],
+        ["He / She / It", "He/She/It is", "He/She/It is not (isn't)", "Is he/she/it…?"],
+        ["We / They", "We/They are", "We/They are not (aren't)", "Are we/they…?"]
+      ]
+    },
+    "examples": [
+      {
+        "sentence": "I am Gabriel. I am from Brazil.",
+        "note": "Introduction + origin"
+      },
+      {
+        "sentence": "She is a teacher. She is not a doctor.",
+        "note": "Affirmative and negative"
+      },
+      {
+        "sentence": "Are you a student? — Yes, I am.",
+        "note": "Question and short answer"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "hello",
+      "translation": "olá",
+      "partOfSpeech": "interjection",
+      "example": "Hello! My name is Lucas.",
+      "collocations": ["say hello", "hello everyone"]
+    },
+    {
+      "word": "name",
+      "translation": "nome",
+      "partOfSpeech": "noun",
+      "example": "My name is Maria.",
+      "collocations": ["first name", "last name", "full name"]
+    },
+    {
+      "word": "from",
+      "translation": "de / ser de",
+      "partOfSpeech": "preposition",
+      "example": "I am from Brazil.",
+      "collocations": ["from Brazil", "where are you from"]
+    },
+    {
+      "word": "country",
+      "translation": "país",
+      "partOfSpeech": "noun",
+      "example": "Brazil is a big country.",
+      "collocations": ["home country", "foreign country"]
+    },
+    {
+      "word": "nationality",
+      "translation": "nacionalidade",
+      "partOfSpeech": "noun",
+      "example": "My nationality is Brazilian.",
+      "collocations": ["What is your nationality?"]
+    },
+    {
+      "word": "student",
+      "translation": "estudante",
+      "partOfSpeech": "noun",
+      "example": "I am a student of English.",
+      "collocations": ["English student", "university student"]
+    },
+    {
+      "word": "teacher",
+      "translation": "professor(a)",
+      "partOfSpeech": "noun",
+      "example": "She is an English teacher.",
+      "collocations": ["English teacher", "language teacher"]
+    },
+    {
+      "word": "years old",
+      "translation": "anos de idade",
+      "partOfSpeech": "phrase",
+      "example": "I am 28 years old.",
+      "collocations": ["How old are you?", "twenty years old"]
+    },
+    {
+      "word": "happy",
+      "translation": "feliz",
+      "partOfSpeech": "adjective",
+      "example": "We are happy to meet you.",
+      "collocations": ["very happy", "happy to meet you"]
+    },
+    {
+      "word": "nice",
+      "translation": "legal / prazer",
+      "partOfSpeech": "adjective",
+      "example": "Nice to meet you!",
+      "collocations": ["nice to meet you", "nice day"]
+    }
+  ],
+  "examples": [
+    {
+      "context": "Meeting someone new",
+      "dialogue": [
+        { "speaker": "Ana", "text": "Hello! My name is Ana." },
+        { "speaker": "Tom", "text": "Hi, Ana! I'm Tom. Nice to meet you." },
+        { "speaker": "Ana", "text": "Nice to meet you too, Tom." },
+        { "speaker": "Tom", "text": "Are you from Brazil?" },
+        { "speaker": "Ana", "text": "Yes, I am. I am from São Paulo." }
+      ]
+    },
+    {
+      "context": "Talking about work and age",
+      "sentences": [
+        "I am a student. I am 24 years old.",
+        "He is a doctor. He is from Canada.",
+        "They are teachers. They are not from the United States.",
+        "We are happy today."
+      ]
+    },
+    {
+      "context": "Asking questions",
+      "sentences": [
+        "What is your name?",
+        "Where are you from?",
+        "Are you a student?",
+        "Is she your teacher?",
+        "How old are you?"
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m1_l1_01",
+    "ex_a1_m1_l1_02",
+    "ex_a1_m1_l1_03",
+    "ex_a1_m1_l1_04",
+    "ex_a1_m1_l1_05",
+    "ex_a1_m1_l1_06",
+    "ex_a1_m1_l1_07",
+    "ex_a1_m1_l1_08",
+    "ex_a1_m1_l1_09",
+    "ex_a1_m1_l1_10",
+    "ex_a1_m1_l1_11",
+    "ex_a1_m1_l1_12"
+  ],
+  "reading": {
+    "title": "Meeting New Friends",
+    "text": "Hello! My name is Julia. I am 26 years old. I am from Rio de Janeiro, Brazil. I am a student of English. I am happy today because I am at an English class.\n\nThis is my classmate, Ken. He is from Tokyo, Japan. He is 27 years old. He is not a student — he is a software engineer. Ken and I are friends. We are not from the same country, but we are in the same class.\n\nOur teacher is Ms. Clark. She is from London. She is a very nice teacher. Today she asks us: \"Are you ready?\" We say: \"Yes, we are!\"",
+    "questions": [
+      {
+        "id": "read_q1",
+        "question": "Where is Julia from?",
+        "type": "short_answer",
+        "answer": "Rio de Janeiro, Brazil",
+        "acceptableAnswers": ["Rio de Janeiro", "Brazil", "Rio de Janeiro, Brazil", "She is from Rio de Janeiro, Brazil."],
+        "explanation": "The text says: I am from Rio de Janeiro, Brazil."
+      },
+      {
+        "id": "read_q2",
+        "question": "Is Ken a student?",
+        "type": "true_false",
+        "answer": false,
+        "explanation": "Ken is not a student — he is a software engineer."
+      },
+      {
+        "id": "read_q3",
+        "question": "How old is Ken?",
+        "type": "multiple_choice",
+        "options": ["26", "27", "28", "30"],
+        "answer": "27",
+        "explanation": "The text says Ken is 27 years old."
+      },
+      {
+        "id": "read_q4",
+        "question": "Where is Ms. Clark from?",
+        "type": "short_answer",
+        "answer": "London",
+        "acceptableAnswers": ["London", "She is from London.", "from London"],
+        "explanation": "Ms. Clark is from London."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short introduction about yourself (4–6 sentences). Include: your name, your nationality or city, your job or role (student, teacher, etc.), and one sentence about how you feel today. Use am, is, or are at least four times.",
+    "minWords": 30,
+    "rubricHints": [
+      "Start with a greeting: Hello! or Hi!",
+      "Use My name is… or I'm…",
+      "Use I am from… for your city or country.",
+      "Check am/is/are: I am, he/she is, we/they are.",
+      "End with Nice to meet you! or a similar closing phrase."
+    ],
+    "modelAnswer": "Hello! My name is Gabriel. I am from Brazil. I am a student of English. I am 30 years old. I am happy today because I am learning something new. Nice to meet you!"
+  },
+  "review": [
+    { "kind": "grammar", "ref": "a1-verb-to-be" },
+    { "kind": "vocab", "ref": "vocab_hello" },
+    { "kind": "vocab", "ref": "vocab_name" },
+    { "kind": "vocab", "ref": "vocab_from" },
+    { "kind": "vocab", "ref": "vocab_student" },
+    { "kind": "vocab", "ref": "vocab_nice" },
+    { "kind": "exercise", "ref": "ex_a1_m1_l1_01" },
+    { "kind": "exercise", "ref": "ex_a1_m1_l1_10" }
+  ],
+  "checkpointId": "a1-m1-l1-checkpoint",
+  "tutorHints": [
+    "This is the learner's first lesson. Keep explanations simple and use Portuguese support only when needed for clarity.",
+    "Common errors: I is…, She are…, and translating age as 'I have X years'. Remind them: I am X years old.",
+    "Encourage full introductions: name + origin + role. Model short dialogues if they ask for speaking practice.",
+    "If they confuse ser/estar from Portuguese, explain that English to be covers both in basic introductions.",
+    "Link mistakes back to rule a1-verb-to-be and suggest review items from this lesson."
+  ],
+  "vocabularyRef": "vocabulary/a1-m1-l1.json",
+  "exercisesRef": "exercises/a1-m1-l1.json",
+  "grammarRef": "grammar/a1-verb-to-be.json",
+  "checkpointRef": "assessments/a1-m1-l1-checkpoint.json"
+}

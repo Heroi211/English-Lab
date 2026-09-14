@@ -1,0 +1,96 @@
+{
+  "id": "a1-m2-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m2-l4",
+  "moduleId": "a1-m2",
+  "level": "A1",
+  "title": "Lesson 4 Checkpoint — Demonstratives",
+  "description": "Show what you learned about demonstratives. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can point to things near and far using this, that, these, and those.",
+  "questions": [
+    {
+      "id": "cp_a1_m2_l4_01",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Demonstratives):",
+      "options": [
+        "This is a pen.",
+        "This XXX a pen.",
+        "No correct form.",
+        "pen. a is This"
+      ],
+      "answer": "This is a pen.",
+      "explanation": "This follows the pattern taught in Demonstratives."
+    },
+    {
+      "id": "cp_a1_m2_l4_02",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "fill_blank",
+      "question": "Complete: ___ is my bag.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m2_l4_03",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "true_false",
+      "question": "True or false: \"This is a pen.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m2_l4_04",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Demonstratives\"?",
+      "options": [
+        "this",
+        "that",
+        "these",
+        "xyzabc"
+      ],
+      "answer": "this",
+      "explanation": "\"this\" (este/esta/isto) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m2_l4_05",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "this",
+          "right": "este"
+        },
+        {
+          "left": "that",
+          "right": "esse"
+        },
+        {
+          "left": "these",
+          "right": "estes"
+        },
+        {
+          "left": "those",
+          "right": "esses"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

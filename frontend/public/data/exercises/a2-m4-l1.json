@@ -1,0 +1,195 @@
+{
+  "lessonId": "a2-m4-l1",
+  "exercises": [
+    {
+      "id": "ex_a2_m4_l1_01",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Much & Many):",
+      "options": [
+        "How much sugar?",
+        "How much sugar?",
+        "No correct form.",
+        "sugar? much How"
+      ],
+      "answer": "How much sugar?",
+      "explanation": "This follows the pattern taught in Much & Many."
+    },
+    {
+      "id": "ex_a2_m4_l1_02",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Much & Many\"?",
+      "options": [
+        "much",
+        "many",
+        "a lot of",
+        "xyzabc"
+      ],
+      "answer": "much",
+      "explanation": "\"much\" (muito (incontável)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l1_03",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ many tickets?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Many + plural countables | Much + uncountables (mainly ?/−)"
+    },
+    {
+      "id": "ex_a2_m4_l1_04",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "fill_blank",
+      "question": "Complete: How ___ sugar?",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m4_l1_05",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "fill_blank",
+      "question": "Complete: ___ many tickets?",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Many + plural countables | Much + uncountables (mainly ?/−)"
+    },
+    {
+      "id": "ex_a2_m4_l1_06",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "fill_blank",
+      "question": "Complete: ___ lot of traffic.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l1_07",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "true_false",
+      "question": "True or false: \"How much sugar?\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l1_08",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "true_false",
+      "question": "True or false: How much sugar? is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l1_09",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "much",
+          "right": "muito (incontável)"
+        },
+        {
+          "left": "many",
+          "right": "muitos"
+        },
+        {
+          "left": "a lot of",
+          "right": "muito"
+        },
+        {
+          "left": "how much",
+          "right": "quanto"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l1_10",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "much",
+          "right": "muito (incontável)"
+        },
+        {
+          "left": "many",
+          "right": "muitos"
+        },
+        {
+          "left": "a lot of",
+          "right": "muito"
+        },
+        {
+          "left": "how much",
+          "right": "quanto"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m4_l1_11",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"How much sugar?\"",
+      "answer": "How much sugar?",
+      "answers": [
+        "How much sugar?"
+      ],
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l1_12",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"a lot of\"?",
+      "options": [
+        "muito / muitos",
+        "muito (incontável)",
+        "muitos",
+        "none of these"
+      ],
+      "answer": "muito / muitos",
+      "explanation": "\"a lot of\" means \"muito / muitos\"."
+    }
+  ]
+}

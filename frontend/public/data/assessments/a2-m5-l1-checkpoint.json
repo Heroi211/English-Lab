@@ -1,0 +1,96 @@
+{
+  "id": "a2-m5-l1-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m5-l1",
+  "moduleId": "a2-m5",
+  "level": "A2",
+  "title": "Lesson 1 Checkpoint — Adverbs of Frequency (Review+)",
+  "description": "Show what you learned about adverbs of frequency (review+). You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use frequency adverbs naturally in A2 discourse.",
+  "questions": [
+    {
+      "id": "cp_a2_m5_l1_01",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Adverbs of Frequency (Review+)):",
+      "options": [
+        "I rarely eat fast food.",
+        "I rarely eat fast food.",
+        "No correct form.",
+        "food. fast eat rarely I"
+      ],
+      "answer": "I rarely eat fast food.",
+      "explanation": "This follows the pattern taught in Adverbs of Frequency (Review+)."
+    },
+    {
+      "id": "cp_a2_m5_l1_02",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "fill_blank",
+      "question": "Complete: I ___ eat fast food.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m5_l1_03",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "true_false",
+      "question": "True or false: \"I rarely eat fast food.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m5_l1_04",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Adverbs of Frequency (Review+)\"?",
+      "options": [
+        "rarely",
+        "every day",
+        "once a month",
+        "xyzabc"
+      ],
+      "answer": "rarely",
+      "explanation": "\"rarely\" (raramente) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m5_l1_05",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "rarely",
+          "right": "raramente"
+        },
+        {
+          "left": "every day",
+          "right": "todos os dias"
+        },
+        {
+          "left": "once a month",
+          "right": "uma vez por mês"
+        },
+        {
+          "left": "hardly ever",
+          "right": "quase nunca"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m7-l3",
+  "exercises": [
+    {
+      "id": "ex_a1_m7_l3_01",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": "a1-days-months",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Days, Months & Seasons):",
+      "options": [
+        "On Monday I have class.",
+        "On Monday I XXX class.",
+        "No correct form.",
+        "class. have I Monday On"
+      ],
+      "answer": "On Monday I have class.",
+      "explanation": "This follows the pattern taught in Days, Months & Seasons."
+    },
+    {
+      "id": "ex_a1_m7_l3_02",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Days, Months & Seasons\"?",
+      "options": [
+        "Monday",
+        "Friday",
+        "January",
+        "xyzabc"
+      ],
+      "answer": "Monday",
+      "explanation": "\"Monday\" (segunda-feira) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l3_03",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": "a1-days-months",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is my favourite day.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "On Monday | In January | In summer"
+    },
+    {
+      "id": "ex_a1_m7_l3_04",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": "a1-days-months",
+      "type": "fill_blank",
+      "question": "Complete: On ___ I have class.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m7_l3_05",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": "a1-days-months",
+      "type": "fill_blank",
+      "question": "Complete: ___ is my favourite day.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "On Monday | In January | In summer"
+    },
+    {
+      "id": "ex_a1_m7_l3_06",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": "a1-days-months",
+      "type": "fill_blank",
+      "question": "Complete: ___ January it is hot in Brazil.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l3_07",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": "a1-days-months",
+      "type": "true_false",
+      "question": "True or false: \"On Monday I have class.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l3_08",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": "a1-days-months",
+      "type": "true_false",
+      "question": "True or false: On Monday I have class. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l3_09",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "Monday",
+          "right": "segunda-feira"
+        },
+        {
+          "left": "Friday",
+          "right": "sexta-feira"
+        },
+        {
+          "left": "January",
+          "right": "janeiro"
+        },
+        {
+          "left": "summer",
+          "right": "verão"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l3_10",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": "a1-days-months",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "Monday",
+          "right": "segunda-feira"
+        },
+        {
+          "left": "Friday",
+          "right": "sexta-feira"
+        },
+        {
+          "left": "January",
+          "right": "janeiro"
+        },
+        {
+          "left": "summer",
+          "right": "verão"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m7_l3_11",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": "a1-days-months",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"On Monday I have class.\"",
+      "answer": "On Monday I have class.",
+      "answers": [
+        "On Monday I have class."
+      ],
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l3_12",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"January\"?",
+      "options": [
+        "janeiro",
+        "segunda-feira",
+        "sexta-feira",
+        "none of these"
+      ],
+      "answer": "janeiro",
+      "explanation": "\"January\" means \"janeiro\"."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a2-countability",
+  "level": "A2",
+  "title": "Countable vs Uncountable",
+  "topic": "countability",
+  "summary": "Countable: one apple, two apples | Uncountable: rice, information (no plural *informations)",
+  "rule": "Countable: one apple, two apples | Uncountable: rice, information (no plural *informations)",
+  "examples": [
+    "Useful information.",
+    "Good advice.",
+    "Modern furniture."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Useful information.",
+      "correct": "Useful information.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m4-l4"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

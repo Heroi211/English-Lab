@@ -1,0 +1,26 @@
+{
+  "id": "a2-phrasals-1",
+  "level": "A2",
+  "title": "Common Phrasal Verbs 1",
+  "topic": "phrasals_1",
+  "summary": "Separable/inseparable basics: turn on the light / turn the light on",
+  "rule": "Separable/inseparable basics: turn on the light / turn the light on",
+  "examples": [
+    "I get up at six.",
+    "Turn on the TV.",
+    "I am looking for my keys."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I get up at six.",
+      "correct": "I get up at six.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m8-l1"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

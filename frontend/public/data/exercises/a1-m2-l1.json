@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m2-l1",
+  "exercises": [
+    {
+      "id": "ex_a1_m2_l1_01",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Possessive Adjectives):",
+      "options": [
+        "This is my house.",
+        "This XXX my house.",
+        "No correct form.",
+        "house. my is This"
+      ],
+      "answer": "This is my house.",
+      "explanation": "This follows the pattern taught in Possessive Adjectives."
+    },
+    {
+      "id": "ex_a1_m2_l1_02",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Possessive Adjectives\"?",
+      "options": [
+        "my",
+        "your",
+        "his",
+        "xyzabc"
+      ],
+      "answer": "my",
+      "explanation": "\"my\" (meu/minha) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l1_03",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ this your pen?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Possessive adjectives replace articles before nouns: my book, her car. Match the owner: his = a man/boy, her = a woman/girl, their = plural."
+    },
+    {
+      "id": "ex_a1_m2_l1_04",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "fill_blank",
+      "question": "Complete: This is ___ book.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m2_l1_05",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "fill_blank",
+      "question": "Complete: ___ this your pen?",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Possessive adjectives replace articles before nouns: my book, her car. Match the owner: his = a man/boy, her = a woman/g"
+    },
+    {
+      "id": "ex_a1_m2_l1_06",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "fill_blank",
+      "question": "Complete: ___ car is red.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l1_07",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "true_false",
+      "question": "True or false: \"This is my house.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l1_08",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "true_false",
+      "question": "True or false: She name is Ana. is grammatically correct.",
+      "answer": false,
+      "explanation": "Use her (possessive), not she (subject)."
+    },
+    {
+      "id": "ex_a1_m2_l1_09",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "my",
+          "right": "meu"
+        },
+        {
+          "left": "your",
+          "right": "seu"
+        },
+        {
+          "left": "his",
+          "right": "dele"
+        },
+        {
+          "left": "her",
+          "right": "dela"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l1_10",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "my",
+          "right": "meu"
+        },
+        {
+          "left": "your",
+          "right": "seu"
+        },
+        {
+          "left": "his",
+          "right": "dele"
+        },
+        {
+          "left": "her",
+          "right": "dela"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m2_l1_11",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"She name is Ana.\"",
+      "answer": "Her name is Ana.",
+      "answers": [
+        "Her name is Ana."
+      ],
+      "explanation": "Use her (possessive), not she (subject)."
+    },
+    {
+      "id": "ex_a1_m2_l1_12",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"his\"?",
+      "options": [
+        "dele",
+        "meu/minha",
+        "seu/sua",
+        "none of these"
+      ],
+      "answer": "dele",
+      "explanation": "\"his\" means \"dele\"."
+    }
+  ]
+}

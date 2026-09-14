@@ -1,0 +1,201 @@
+{
+  "lessonId": "a2-m7-l4",
+  "exercises": [
+    {
+      "id": "ex_a2_m7_l4_01",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Mixed Conditionals Intro):",
+      "options": [
+        "A real possibility.",
+        "A real possibility.",
+        "No correct form.",
+        "possibility. real A"
+      ],
+      "answer": "A real possibility.",
+      "explanation": "This follows the pattern taught in Mixed Conditionals Intro."
+    },
+    {
+      "id": "ex_a2_m7_l4_02",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Mixed Conditionals Intro\"?",
+      "options": [
+        "real",
+        "unreal",
+        "likely",
+        "xyzabc"
+      ],
+      "answer": "real",
+      "explanation": "\"real\" (real) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m7_l4_03",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ unreal dream.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Focus on first conditional; brief contrast: unreal conditions use past (If I had… — B1 preview)."
+    },
+    {
+      "id": "ex_a2_m7_l4_04",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "fill_blank",
+      "question": "Complete: A ___ possibility.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m7_l4_05",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "fill_blank",
+      "question": "Complete: ___ unreal dream.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Focus on first conditional; brief contrast: unreal conditions use past (If I had… — B1 preview)."
+    },
+    {
+      "id": "ex_a2_m7_l4_06",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "fill_blank",
+      "question": "Complete: ___ likely outcome.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m7_l4_07",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "true_false",
+      "question": "True or false: \"A real possibility.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m7_l4_08",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "true_false",
+      "question": "True or false: A real possibility. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m7_l4_09",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "real",
+          "right": "real"
+        },
+        {
+          "left": "unreal",
+          "right": "irreal"
+        },
+        {
+          "left": "likely",
+          "right": "provável"
+        },
+        {
+          "left": "unlikely",
+          "right": "improvável"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m7_l4_10",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "real",
+          "right": "real"
+        },
+        {
+          "left": "unreal",
+          "right": "irreal"
+        },
+        {
+          "left": "likely",
+          "right": "provável"
+        },
+        {
+          "left": "unlikely",
+          "right": "improvável"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m7_l4_11",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "possibility",
+        "real",
+        "A"
+      ],
+      "answer": [
+        "A",
+        "real",
+        "possibility"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m7_l4_12",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"likely\"?",
+      "options": [
+        "provável",
+        "real",
+        "irreal",
+        "none of these"
+      ],
+      "answer": "provável",
+      "explanation": "\"likely\" means \"provável\"."
+    }
+  ]
+}

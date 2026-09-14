@@ -1,0 +1,148 @@
+{
+  "id": "a2-m5-module-test",
+  "kind": "module",
+  "moduleId": "a2-m5",
+  "level": "A2",
+  "title": "Frequency & Modals — Module Test",
+  "description": "Test your knowledge of the whole module: Frequency & Modals. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use frequency & modals confidently at A2 level.",
+  "questions": [
+    {
+      "id": "mt_a2_m5_01",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Adverbs of Frequency (Review+)):",
+      "options": [
+        "I rarely eat fast food.",
+        "I rarely eat fast food.",
+        "No correct form.",
+        "food. fast eat rarely I"
+      ],
+      "answer": "I rarely eat fast food.",
+      "explanation": "This follows the pattern taught in Adverbs of Frequency (Review+)."
+    },
+    {
+      "id": "mt_a2_m5_02",
+      "level": "A2",
+      "topic": "should",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Should / Shouldn't\"?",
+      "options": [
+        "should",
+        "shouldn't",
+        "advice",
+        "xyzabc"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" (deveria) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a2_m5_03",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": "a2-must-have-to",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ have to finish today.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Must = speaker obligation/rules | Have to = external rules"
+    },
+    {
+      "id": "mt_a2_m5_04",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "fill_blank",
+      "question": "Complete: I ___ the bill.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a2_m5_05",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "true_false",
+      "question": "True or false: \"I rarely eat fast food.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a2_m5_06",
+      "level": "A2",
+      "topic": "should",
+      "ruleId": "a2-should",
+      "type": "true_false",
+      "question": "True or false: You WRONG see a doctor. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "mt_a2_m5_07",
+      "level": "A2",
+      "topic": "must_have_to",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "must",
+          "right": "dever (obrigação)"
+        },
+        {
+          "left": "have to",
+          "right": "ter que"
+        },
+        {
+          "left": "mustn't",
+          "right": "proibido"
+        },
+        {
+          "left": "don't have to",
+          "right": "não precisa"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a2_m5_08",
+      "level": "A2",
+      "topic": "would_like",
+      "ruleId": "a2-would-like",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "would like",
+          "right": "gostaria"
+        },
+        {
+          "left": "order",
+          "right": "pedir"
+        },
+        {
+          "left": "prefer",
+          "right": "preferir"
+        },
+        {
+          "left": "something",
+          "right": "algo"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

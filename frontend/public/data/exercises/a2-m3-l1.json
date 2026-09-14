@@ -1,0 +1,195 @@
+{
+  "lessonId": "a2-m3-l1",
+  "exercises": [
+    {
+      "id": "ex_a2_m3_l1_01",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Comparatives):",
+      "options": [
+        "This option is better.",
+        "This option XXX better.",
+        "No correct form.",
+        "better. is option This"
+      ],
+      "answer": "This option is better.",
+      "explanation": "This follows the pattern taught in Comparatives."
+    },
+    {
+      "id": "ex_a2_m3_l1_02",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Comparatives\"?",
+      "options": [
+        "better",
+        "worse",
+        "than",
+        "xyzabc"
+      ],
+      "answer": "better",
+      "explanation": "\"better\" (melhor) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l1_03",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is worse today.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me."
+    },
+    {
+      "id": "ex_a2_m3_l1_04",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "fill_blank",
+      "question": "Complete: This option is ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m3_l1_05",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "fill_blank",
+      "question": "Complete: ___ is worse today.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me."
+    },
+    {
+      "id": "ex_a2_m3_l1_06",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "fill_blank",
+      "question": "Complete: ___ than yesterday.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l1_07",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "true_false",
+      "question": "True or false: \"This option is better.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l1_08",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "true_false",
+      "question": "True or false: This option is better. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l1_09",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "better",
+          "right": "melhor"
+        },
+        {
+          "left": "worse",
+          "right": "pior"
+        },
+        {
+          "left": "than",
+          "right": "do que"
+        },
+        {
+          "left": "cheaper",
+          "right": "mais barato"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l1_10",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "better",
+          "right": "melhor"
+        },
+        {
+          "left": "worse",
+          "right": "pior"
+        },
+        {
+          "left": "than",
+          "right": "do que"
+        },
+        {
+          "left": "cheaper",
+          "right": "mais barato"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m3_l1_11",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"This option is better.\"",
+      "answer": "This option is better.",
+      "answers": [
+        "This option is better."
+      ],
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l1_12",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"than\"?",
+      "options": [
+        "do que",
+        "melhor",
+        "pior",
+        "none of these"
+      ],
+      "answer": "do que",
+      "explanation": "\"than\" means \"do que\"."
+    }
+  ]
+}

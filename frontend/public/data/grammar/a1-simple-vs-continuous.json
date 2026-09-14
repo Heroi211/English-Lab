@@ -1,0 +1,27 @@
+{
+  "id": "a1-simple-vs-continuous",
+  "level": "A1",
+  "title": "Present Simple vs Continuous",
+  "topic": "simple_vs_continuous",
+  "summary": "Simple = habit/fact: I work in a bank.",
+  "rule": "Simple = habit/fact: I work in a bank.",
+  "examples": [
+    "Smoking is a bad habit.",
+    "This is a temporary job.",
+    "She has a permanent contract."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Smoking WRONG a bad habit.",
+      "correct": "Smoking is a bad habit.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m5-l3"
+  ],
+  "tutorHints": [
+    "Focus on Present Simple vs Continuous with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

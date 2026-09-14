@@ -1,0 +1,27 @@
+{
+  "id": "a1-describing-pictures",
+  "level": "A1",
+  "title": "Describing Pictures",
+  "topic": "describing_pictures",
+  "summary": "In the picture, a man is walking. Two children are playing.",
+  "rule": "In the picture, a man is walking. Two children are playing.",
+  "examples": [
+    "In the picture there is a park.",
+    "Look at this photo.",
+    "She is wearing a red dress."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "In the picture there WRONG a park.",
+      "correct": "In the picture there is a park.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m5-l4"
+  ],
+  "tutorHints": [
+    "Focus on Describing Pictures with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

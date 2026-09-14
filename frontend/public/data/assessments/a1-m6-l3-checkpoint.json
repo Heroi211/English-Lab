@@ -1,0 +1,96 @@
+{
+  "id": "a1-m6-l3-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m6-l3",
+  "moduleId": "a1-m6",
+  "level": "A1",
+  "title": "Lesson 3 Checkpoint — Giving Directions",
+  "description": "Show what you learned about giving directions. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can give and follow simple directions.",
+  "questions": [
+    {
+      "id": "cp_a1_m6_l3_01",
+      "level": "A1",
+      "topic": "directions",
+      "ruleId": "a1-directions",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Giving Directions):",
+      "options": [
+        "Go straight ahead.",
+        "Go straight ahead.",
+        "No correct form.",
+        "ahead. straight Go"
+      ],
+      "answer": "Go straight ahead.",
+      "explanation": "This follows the pattern taught in Giving Directions."
+    },
+    {
+      "id": "cp_a1_m6_l3_02",
+      "level": "A1",
+      "topic": "directions",
+      "ruleId": "a1-directions",
+      "type": "fill_blank",
+      "question": "Complete: Go ___ ahead.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m6_l3_03",
+      "level": "A1",
+      "topic": "directions",
+      "ruleId": "a1-directions",
+      "type": "true_false",
+      "question": "True or false: \"Go straight ahead.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m6_l3_04",
+      "level": "A1",
+      "topic": "directions",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Giving Directions\"?",
+      "options": [
+        "straight",
+        "turn",
+        "left",
+        "xyzabc"
+      ],
+      "answer": "straight",
+      "explanation": "\"straight\" (reto / em frente) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m6_l3_05",
+      "level": "A1",
+      "topic": "directions",
+      "ruleId": "a1-directions",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "straight",
+          "right": "reto"
+        },
+        {
+          "left": "turn",
+          "right": "virar"
+        },
+        {
+          "left": "left",
+          "right": "esquerda"
+        },
+        {
+          "left": "right",
+          "right": "direita"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

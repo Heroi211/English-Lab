@@ -1,0 +1,27 @@
+{
+  "id": "a1-schedules",
+  "level": "A1",
+  "title": "Schedules & Appointments",
+  "topic": "schedules",
+  "summary": "What day? What time? — Let's meet on Friday at 2 p.m.",
+  "rule": "What day? What time? — Let's meet on Friday at 2 p.m.",
+  "examples": [
+    "I have an appointment at 3.",
+    "What is your schedule?",
+    "Let's meet at noon."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have an appointment at 3.",
+      "correct": "I have an appointment at 3.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m7-l4"
+  ],
+  "tutorHints": [
+    "Focus on Schedules & Appointments with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "id": "a1-m4-l2",
+  "moduleId": "a1-m4",
+  "level": "A1",
+  "order": 2,
+  "title": "Present Simple — Negative",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use present simple — negative.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can make negative sentences in present simple.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"present simple — negative\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Present Simple — Negative?"
+    ]
+  },
+  "explanation": "Use don't / doesn't + base verb.\n\nI don't like coffee. | She doesn't speak French.\n\nHe doesn't work on Sundays.\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-present-simple-neg",
+    "title": "Present Simple — Negative",
+    "rule": "Use don't / doesn't + base verb.",
+    "examples": [
+      {
+        "sentence": "I don't understand.",
+        "note": "don't"
+      },
+      {
+        "sentence": "He doesn't play tennis.",
+        "note": "doesn't"
+      },
+      {
+        "sentence": "Do you understand?",
+        "note": "understand"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "don't",
+      "translation": "não (auxiliar)",
+      "partOfSpeech": "auxiliary",
+      "example": "I don't understand.",
+      "collocations": []
+    },
+    {
+      "word": "doesn't",
+      "translation": "não (ele/ela)",
+      "partOfSpeech": "auxiliary",
+      "example": "He doesn't play tennis.",
+      "collocations": []
+    },
+    {
+      "word": "understand",
+      "translation": "entender",
+      "partOfSpeech": "verb",
+      "example": "Do you understand?",
+      "collocations": []
+    },
+    {
+      "word": "play",
+      "translation": "jogar / tocar",
+      "partOfSpeech": "verb",
+      "example": "They play football.",
+      "collocations": []
+    },
+    {
+      "word": "want",
+      "translation": "querer",
+      "partOfSpeech": "verb",
+      "example": "I don't want sugar.",
+      "collocations": []
+    },
+    {
+      "word": "need",
+      "translation": "precisar",
+      "partOfSpeech": "verb",
+      "example": "She needs help.",
+      "collocations": []
+    },
+    {
+      "word": "know",
+      "translation": "saber / conhecer",
+      "partOfSpeech": "verb",
+      "example": "I know the answer.",
+      "collocations": []
+    },
+    {
+      "word": "believe",
+      "translation": "acreditar",
+      "partOfSpeech": "verb",
+      "example": "I don't believe it.",
+      "collocations": []
+    },
+    {
+      "word": "cook",
+      "translation": "cozinhar",
+      "partOfSpeech": "verb",
+      "example": "He cooks dinner.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Present Simple — Negative",
+      "sentences": [
+        "I don't understand.",
+        "He doesn't play tennis.",
+        "Do you understand?",
+        "They play football."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m4_l2_01",
+    "ex_a1_m4_l2_02",
+    "ex_a1_m4_l2_03",
+    "ex_a1_m4_l2_04",
+    "ex_a1_m4_l2_05",
+    "ex_a1_m4_l2_06",
+    "ex_a1_m4_l2_07",
+    "ex_a1_m4_l2_08",
+    "ex_a1_m4_l2_09",
+    "ex_a1_m4_l2_10",
+    "ex_a1_m4_l2_11",
+    "ex_a1_m4_l2_12"
+  ],
+  "reading": {
+    "title": "Present Simple — Negative — Reading",
+    "text": "Every day, people use present simple — negative in conversation. I don't understand. He doesn't play tennis. Do you understand? This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "don't",
+        "explanation": "Focus word: don't.",
+        "options": [
+          "don't",
+          "doesn't",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"doesn't\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "não (ele",
+        "explanation": "não (ele/ela)"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using present simple — negative.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "I don't understand. He doesn't play tennis. Do you understand?"
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-present-simple-neg"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_don_t"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_doesn_t"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_understand"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_play"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_want"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_need"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m4_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m4_l2_10"
+    }
+  ],
+  "checkpointId": "a1-m4-l2-checkpoint",
+  "tutorHints": [
+    "Focus on Present Simple — Negative with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m4-l2.json",
+  "exercisesRef": "exercises/a1-m4-l2.json",
+  "grammarRef": "grammar/a1-present-simple-neg.json",
+  "checkpointRef": "assessments/a1-m4-l2-checkpoint.json"
+}

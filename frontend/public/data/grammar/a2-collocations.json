@@ -1,0 +1,26 @@
+{
+  "id": "a2-collocations",
+  "level": "A2",
+  "title": "Collocations",
+  "topic": "collocations",
+  "summary": "Make vs do: make a decision, do your best",
+  "rule": "Make vs do: make a decision, do your best",
+  "examples": [
+    "Everyone makes mistakes.",
+    "I do homework after dinner.",
+    "Heavy rain expected."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Everyone makes mistakes.",
+      "correct": "Everyone makes mistakes.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m8-l3"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

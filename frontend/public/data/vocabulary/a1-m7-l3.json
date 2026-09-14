@@ -1,0 +1,79 @@
+{
+  "lessonId": "a1-m7-l3",
+  "level": "A1",
+  "topic": "days_months",
+  "items": [
+    {
+      "id": "vocab_monday",
+      "word": "Monday",
+      "translation": "segunda-feira",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "days_months",
+      "example": "On Monday I have class.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_friday",
+      "word": "Friday",
+      "translation": "sexta-feira",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "days_months",
+      "example": "Friday is my favourite day.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_january",
+      "word": "January",
+      "translation": "janeiro",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "days_months",
+      "example": "In January it is hot in Brazil.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_summer",
+      "word": "summer",
+      "translation": "verão",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "days_months",
+      "example": "In summer we travel.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_winter",
+      "word": "winter",
+      "translation": "inverno",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "days_months",
+      "example": "Winter is cold in Canada.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_weekend",
+      "word": "weekend",
+      "translation": "fim de semana",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "days_months",
+      "example": "On the weekend I rest.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

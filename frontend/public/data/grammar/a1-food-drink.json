@@ -1,0 +1,27 @@
+{
+  "id": "a1-food-drink",
+  "level": "A1",
+  "title": "Food & Drink",
+  "topic": "food_drink",
+  "summary": "Like/love/hate + noun or -ing: I like pizza. | I don't eat meat.",
+  "rule": "Like/love/hate + noun or -ing: I like pizza. | I don't eat meat.",
+  "examples": [
+    "I have breakfast at 7.",
+    "Lunch is at noon.",
+    "We cook dinner together."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have breakfast at 7.",
+      "correct": "I have breakfast at 7.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m8-l3"
+  ],
+  "tutorHints": [
+    "Focus on Food & Drink with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

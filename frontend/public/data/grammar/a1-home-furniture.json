@@ -1,0 +1,27 @@
+{
+  "id": "a1-home-furniture",
+  "level": "A1",
+  "title": "Home & Furniture",
+  "topic": "home_furniture",
+  "summary": "Living room, bedroom, bathroom, sofa, cupboard, shelf.",
+  "rule": "Living room, bedroom, bathroom, sofa, cupboard, shelf.",
+  "examples": [
+    "The sofa is comfortable.",
+    "Plates are in the cupboard.",
+    "Books are on the shelf."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The sofa WRONG comfortable.",
+      "correct": "The sofa is comfortable.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m8-l2"
+  ],
+  "tutorHints": [
+    "Focus on Home & Furniture with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

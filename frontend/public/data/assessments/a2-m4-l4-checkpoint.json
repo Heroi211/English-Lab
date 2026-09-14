@@ -1,0 +1,96 @@
+{
+  "id": "a2-m4-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m4-l4",
+  "moduleId": "a2-m4",
+  "level": "A2",
+  "title": "Lesson 4 Checkpoint — Countable vs Uncountable",
+  "description": "Show what you learned about countable vs uncountable. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can classify nouns and choose correct quantifiers.",
+  "questions": [
+    {
+      "id": "cp_a2_m4_l4_01",
+      "level": "A2",
+      "topic": "countability",
+      "ruleId": "a2-countability",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Countable vs Uncountable):",
+      "options": [
+        "Useful information.",
+        "Useful information.",
+        "No correct form.",
+        "information. Useful"
+      ],
+      "answer": "Useful information.",
+      "explanation": "This follows the pattern taught in Countable vs Uncountable."
+    },
+    {
+      "id": "cp_a2_m4_l4_02",
+      "level": "A2",
+      "topic": "countability",
+      "ruleId": "a2-countability",
+      "type": "fill_blank",
+      "question": "Complete: Useful ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m4_l4_03",
+      "level": "A2",
+      "topic": "countability",
+      "ruleId": "a2-countability",
+      "type": "true_false",
+      "question": "True or false: \"Useful information.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m4_l4_04",
+      "level": "A2",
+      "topic": "countability",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Countable vs Uncountable\"?",
+      "options": [
+        "information",
+        "advice",
+        "furniture",
+        "xyzabc"
+      ],
+      "answer": "information",
+      "explanation": "\"information\" (informação) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m4_l4_05",
+      "level": "A2",
+      "topic": "countability",
+      "ruleId": "a2-countability",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "information",
+          "right": "informação"
+        },
+        {
+          "left": "advice",
+          "right": "conselho"
+        },
+        {
+          "left": "furniture",
+          "right": "mobília"
+        },
+        {
+          "left": "news",
+          "right": "notícia(s)"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

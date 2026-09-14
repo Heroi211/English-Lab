@@ -1,0 +1,208 @@
+{
+  "id": "a2-m2-l1",
+  "moduleId": "a2-m2",
+  "level": "A2",
+  "order": 1,
+  "title": "Future with Will",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use future with will accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can use will for predictions and instant decisions.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about future with will. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use future with will?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Will + base verb for all subjects. Contractions: I'll, she'll.\n\nPredictions: It will rain. | Spontaneous: I'll help you!\n\nNegative: won't | Question: Will you…?",
+  "grammar": {
+    "ruleId": "a2-future-will",
+    "title": "Future with Will",
+    "rule": "Will + base verb for all subjects. Contractions: I'll, she'll.",
+    "examples": [
+      {
+        "sentence": "I will call you.",
+        "note": "will"
+      },
+      {
+        "sentence": "It won't take long.",
+        "note": "won't"
+      },
+      {
+        "sentence": "She will probably agree.",
+        "note": "probably"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "will",
+      "translation": "verbo futuro",
+      "partOfSpeech": "modal",
+      "example": "I will call you.",
+      "collocations": []
+    },
+    {
+      "word": "won't",
+      "translation": "não vai",
+      "partOfSpeech": "modal",
+      "example": "It won't take long.",
+      "collocations": []
+    },
+    {
+      "word": "probably",
+      "translation": "provavelmente",
+      "partOfSpeech": "adverb",
+      "example": "She will probably agree.",
+      "collocations": []
+    },
+    {
+      "word": "maybe",
+      "translation": "talvez",
+      "partOfSpeech": "adverb",
+      "example": "Maybe we will travel.",
+      "collocations": []
+    },
+    {
+      "word": "promise",
+      "translation": "prometer",
+      "partOfSpeech": "verb",
+      "example": "I promise I will be on time.",
+      "collocations": []
+    },
+    {
+      "word": "predict",
+      "translation": "prever",
+      "partOfSpeech": "verb",
+      "example": "Experts predict growth.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Future with Will",
+      "sentences": [
+        "I will call you.",
+        "It won't take long.",
+        "She will probably agree.",
+        "Maybe we will travel."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m2_l1_01",
+    "ex_a2_m2_l1_02",
+    "ex_a2_m2_l1_03",
+    "ex_a2_m2_l1_04",
+    "ex_a2_m2_l1_05",
+    "ex_a2_m2_l1_06",
+    "ex_a2_m2_l1_07",
+    "ex_a2_m2_l1_08",
+    "ex_a2_m2_l1_09",
+    "ex_a2_m2_l1_10",
+    "ex_a2_m2_l1_11",
+    "ex_a2_m2_l1_12"
+  ],
+  "reading": {
+    "title": "Future with Will in Context",
+    "text": "Look at those clouds — it will rain soon. Don't worry, I'll lend you my umbrella. I think Brazil will win the match. She probably won't arrive before noon.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "future with will",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"will\" mean?",
+        "type": "short_answer",
+        "answer": "verbo futuro",
+        "explanation": "verbo futuro"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "It won't take long.",
+        "explanation": "It won't take long.",
+        "options": [
+          "It won't take long.",
+          "you. call will I",
+          "No sentence fits.",
+          "She will probably agree."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using future with will. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "I will call you. It won't take long. She will probably agree. Maybe we will travel."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-future-will"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_will"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_won_t"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_probably"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_maybe"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_promise"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_predict"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m2_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m2_l1_10"
+    }
+  ],
+  "checkpointId": "a2-m2-l1-checkpoint",
+  "tutorHints": [
+    "Target structure: Future with Will.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m2-l1.json",
+  "exercisesRef": "exercises/a2-m2-l1.json",
+  "grammarRef": "grammar/a2-future-will.json",
+  "checkpointRef": "assessments/a2-m2-l1-checkpoint.json"
+}

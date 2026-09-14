@@ -1,0 +1,205 @@
+{
+  "lessonId": "a2-m2-l2",
+  "exercises": [
+    {
+      "id": "ex_a2_m2_l2_01",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Future with Going To):",
+      "options": [
+        "We are going to move.",
+        "We XXX going to move.",
+        "No correct form.",
+        "move. to going are We"
+      ],
+      "answer": "We are going to move.",
+      "explanation": "This follows the pattern taught in Future with Going To."
+    },
+    {
+      "id": "ex_a2_m2_l2_02",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Future with Going To\"?",
+      "options": [
+        "going to",
+        "plan",
+        "intend",
+        "xyzabc"
+      ],
+      "answer": "going to",
+      "explanation": "\"going to\" (ir (futuro planeado)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m2_l2_03",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is your plan?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Am/is/are + going to + verb."
+    },
+    {
+      "id": "ex_a2_m2_l2_04",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "fill_blank",
+      "question": "Complete: We are ___ move.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m2_l2_05",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "fill_blank",
+      "question": "Complete: ___ is your plan?",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Am/is/are + going to + verb."
+    },
+    {
+      "id": "ex_a2_m2_l2_06",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "fill_blank",
+      "question": "Complete: ___ intend to apply.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m2_l2_07",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "true_false",
+      "question": "True or false: \"We are going to move.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m2_l2_08",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "true_false",
+      "question": "True or false: We are going to move. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m2_l2_09",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "going to",
+          "right": "ir (futuro planeado)"
+        },
+        {
+          "left": "plan",
+          "right": "plano"
+        },
+        {
+          "left": "intend",
+          "right": "pretender"
+        },
+        {
+          "left": "prepare",
+          "right": "preparar"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m2_l2_10",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "going to",
+          "right": "ir (futuro planeado)"
+        },
+        {
+          "left": "plan",
+          "right": "plano"
+        },
+        {
+          "left": "intend",
+          "right": "pretender"
+        },
+        {
+          "left": "prepare",
+          "right": "preparar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m2_l2_11",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "to",
+        "We",
+        "move",
+        "are",
+        "going"
+      ],
+      "answer": [
+        "We",
+        "are",
+        "going",
+        "to",
+        "move"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m2_l2_12",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"intend\"?",
+      "options": [
+        "pretender",
+        "ir (futuro planeado)",
+        "plano",
+        "none of these"
+      ],
+      "answer": "pretender",
+      "explanation": "\"intend\" means \"pretender\"."
+    }
+  ]
+}

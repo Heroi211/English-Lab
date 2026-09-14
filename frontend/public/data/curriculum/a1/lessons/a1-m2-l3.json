@@ -1,0 +1,230 @@
+{
+  "id": "a1-m2-l3",
+  "moduleId": "a1-m2",
+  "level": "A1",
+  "order": 3,
+  "title": "Plural Nouns",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Form regular plurals with -s and -es.",
+    "Learn common irregular plurals.",
+    "Use singular and plural correctly with there is/are preview."
+  ],
+  "canDo": "I can form and use regular and common irregular plural nouns.",
+  "warmUp": {
+    "title": "Plural em inglês",
+    "prompt": "Como formamos o plural em português? Em inglês a regra principal é +s, mas há exceções!",
+    "reflectionQuestions": [
+      "One child, two ___?",
+      "One mouse, two ___?"
+    ]
+  },
+  "explanation": "Regular plurals: add -s (book → books) | -es after s, x, ch, sh (box → boxes, watch → watches) | consonant + y → -ies (city → cities)\n\nIrregular: man → men, woman → women, child → children, person → people, tooth → teeth, foot → feet, mouse → mice\n\nThis/that + singular | These/those + plural",
+  "grammar": {
+    "ruleId": "a1-plurals",
+    "title": "Plural Nouns",
+    "rule": "Most nouns add -s for plural. Learn high-frequency irregular plurals. Verb agreement: one book → it is; two books → they are.",
+    "examples": [
+      {
+        "sentence": "I have two cats.",
+        "note": "Regular -s"
+      },
+      {
+        "sentence": "The children are in the park.",
+        "note": "Irregular"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "child",
+      "translation": "criança",
+      "partOfSpeech": "noun",
+      "example": "The child is happy.",
+      "collocations": [
+        "children"
+      ]
+    },
+    {
+      "word": "children",
+      "translation": "crianças",
+      "partOfSpeech": "noun",
+      "example": "The children play outside.",
+      "collocations": []
+    },
+    {
+      "word": "person",
+      "translation": "pessoa",
+      "partOfSpeech": "noun",
+      "example": "One person waits.",
+      "collocations": [
+        "people"
+      ]
+    },
+    {
+      "word": "people",
+      "translation": "pessoas",
+      "partOfSpeech": "noun",
+      "example": "Many people are here.",
+      "collocations": []
+    },
+    {
+      "word": "man",
+      "translation": "homem",
+      "partOfSpeech": "noun",
+      "example": "The man is tall.",
+      "collocations": [
+        "men"
+      ]
+    },
+    {
+      "word": "woman",
+      "translation": "mulher",
+      "partOfSpeech": "noun",
+      "example": "The woman is a doctor.",
+      "collocations": [
+        "women"
+      ]
+    },
+    {
+      "word": "box",
+      "translation": "caixa",
+      "partOfSpeech": "noun",
+      "example": "Open the box.",
+      "collocations": [
+        "boxes"
+      ]
+    },
+    {
+      "word": "city",
+      "translation": "cidade",
+      "partOfSpeech": "noun",
+      "example": "São Paulo is a big city.",
+      "collocations": [
+        "cities"
+      ]
+    },
+    {
+      "word": "tooth",
+      "translation": "dente",
+      "partOfSpeech": "noun",
+      "example": "My tooth hurts.",
+      "collocations": [
+        "teeth"
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "sentences": [
+        "One child, two children. One person, many people.",
+        "Three boxes and four watches."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m2_l3_01",
+    "ex_a1_m2_l3_02",
+    "ex_a1_m2_l3_03",
+    "ex_a1_m2_l3_04",
+    "ex_a1_m2_l3_05",
+    "ex_a1_m2_l3_06",
+    "ex_a1_m2_l3_07",
+    "ex_a1_m2_l3_08",
+    "ex_a1_m2_l3_09",
+    "ex_a1_m2_l3_10",
+    "ex_a1_m2_l3_11",
+    "ex_a1_m2_l3_12"
+  ],
+  "reading": {
+    "title": "The Park on Sunday",
+    "text": "On Sunday, many people go to the park. Two children play with a ball. Three dogs run near the lake. A man reads a book under a tree. Two women talk on a bench. The cities are busy, but the park is quiet and green.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "How many children play with a ball?",
+        "type": "short_answer",
+        "answer": "two / 2",
+        "explanation": "Two children play."
+      },
+      {
+        "id": "r2",
+        "question": "What do the dogs do?",
+        "type": "short_answer",
+        "answer": "run near the lake",
+        "explanation": "Three dogs run near the lake."
+      },
+      {
+        "id": "r3",
+        "question": "Is the park busy and noisy?",
+        "type": "true_false",
+        "answer": false,
+        "explanation": "The park is quiet and green."
+      },
+      {
+        "id": "r4",
+        "question": "How many women talk on a bench?",
+        "type": "multiple_choice",
+        "answer": "2",
+        "explanation": "Two women talk.",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Describe a family photo using singular and plural (at least 3 irregular plurals).",
+    "minWords": 30,
+    "modelAnswer": "In the photo there are four people: two men, two women, and three children. The children are happy. The men are my uncles."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-plurals"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_child"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_children"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_person"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_people"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_man"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_woman"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m2_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m2_l3_10"
+    }
+  ],
+  "checkpointId": "a1-m2-l3-checkpoint",
+  "tutorHints": [
+    "Group irregular plurals for memorization."
+  ],
+  "vocabularyRef": "vocabulary/a1-m2-l3.json",
+  "exercisesRef": "exercises/a1-m2-l3.json",
+  "grammarRef": "grammar/a1-plurals.json",
+  "checkpointRef": "assessments/a1-m2-l3-checkpoint.json"
+}

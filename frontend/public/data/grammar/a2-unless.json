@@ -1,0 +1,26 @@
+{
+  "id": "a2-unless",
+  "level": "A2",
+  "title": "Unless & As Long As",
+  "topic": "unless",
+  "summary": "Unless = if not | As long as = provided that",
+  "rule": "Unless = if not | As long as = provided that",
+  "examples": [
+    "As long as you try.",
+    "Provided you pay on time.",
+    "Hurry, otherwise you will be late."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "As long as you try.",
+      "correct": "As long as you try.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m7-l2"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

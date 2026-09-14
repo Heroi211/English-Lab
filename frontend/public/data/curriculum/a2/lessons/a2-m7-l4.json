@@ -1,0 +1,186 @@
+{
+  "id": "a2-m7-l4",
+  "moduleId": "a2-m7",
+  "level": "A2",
+  "order": 4,
+  "title": "Mixed Conditionals Intro",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use mixed conditionals intro accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can recognize when a condition refers to present/future result (A2 preview).",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about mixed conditionals intro. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use mixed conditionals intro?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Focus on first conditional; brief contrast: unreal conditions use past (If I had… — B1 preview).\n\nDon't over-teach — awareness only.",
+  "grammar": {
+    "ruleId": "a2-mixed-cond-intro",
+    "title": "Mixed Conditionals Intro",
+    "rule": "Focus on first conditional; brief contrast: unreal conditions use past (If I had… — B1 preview).",
+    "examples": [
+      {
+        "sentence": "A real possibility.",
+        "note": "real"
+      },
+      {
+        "sentence": "An unreal dream.",
+        "note": "unreal"
+      },
+      {
+        "sentence": "A likely outcome.",
+        "note": "likely"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "real",
+      "translation": "real",
+      "partOfSpeech": "adjective",
+      "example": "A real possibility.",
+      "collocations": []
+    },
+    {
+      "word": "unreal",
+      "translation": "irreal",
+      "partOfSpeech": "adjective",
+      "example": "An unreal dream.",
+      "collocations": []
+    },
+    {
+      "word": "likely",
+      "translation": "provável",
+      "partOfSpeech": "adjective",
+      "example": "A likely outcome.",
+      "collocations": []
+    },
+    {
+      "word": "unlikely",
+      "translation": "improvável",
+      "partOfSpeech": "adjective",
+      "example": "An unlikely event.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Mixed Conditionals Intro",
+      "sentences": [
+        "A real possibility.",
+        "An unreal dream.",
+        "A likely outcome.",
+        "An unlikely event."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m7_l4_01",
+    "ex_a2_m7_l4_02",
+    "ex_a2_m7_l4_03",
+    "ex_a2_m7_l4_04",
+    "ex_a2_m7_l4_05",
+    "ex_a2_m7_l4_06",
+    "ex_a2_m7_l4_07",
+    "ex_a2_m7_l4_08",
+    "ex_a2_m7_l4_09",
+    "ex_a2_m7_l4_10",
+    "ex_a2_m7_l4_11",
+    "ex_a2_m7_l4_12"
+  ],
+  "reading": {
+    "title": "Mixed Conditionals Intro in Context",
+    "text": "If I study every day, I will improve — real and likely. (Preview: If I were rich, I would travel — not A2 productive yet.) Choose first conditional for realistic plans.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "mixed conditionals intro",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"real\" mean?",
+        "type": "short_answer",
+        "answer": "real",
+        "explanation": "real"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "An unreal dream.",
+        "explanation": "An unreal dream.",
+        "options": [
+          "An unreal dream.",
+          "possibility. real A",
+          "No sentence fits.",
+          "A likely outcome."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using mixed conditionals intro. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "A real possibility. An unreal dream. A likely outcome. An unlikely event."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-mixed-cond-intro"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_real"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_unreal"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_likely"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_unlikely"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m7_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m7_l4_10"
+    }
+  ],
+  "checkpointId": "a2-m7-l4-checkpoint",
+  "tutorHints": [
+    "Target structure: Mixed Conditionals Intro.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m7-l4.json",
+  "exercisesRef": "exercises/a2-m7-l4.json",
+  "grammarRef": "grammar/a2-mixed-cond-intro.json",
+  "checkpointRef": "assessments/a2-m7-l4-checkpoint.json"
+}

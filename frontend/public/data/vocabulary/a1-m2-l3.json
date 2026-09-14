@@ -1,0 +1,129 @@
+{
+  "lessonId": "a1-m2-l3",
+  "level": "A1",
+  "topic": "plurals",
+  "items": [
+    {
+      "id": "vocab_child",
+      "word": "child",
+      "translation": "criança",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "plurals",
+      "example": "The child is happy.",
+      "collocations": [
+        "children"
+      ],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_children",
+      "word": "children",
+      "translation": "crianças",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "plurals",
+      "example": "The children play outside.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_person",
+      "word": "person",
+      "translation": "pessoa",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "plurals",
+      "example": "One person waits.",
+      "collocations": [
+        "people"
+      ],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_people",
+      "word": "people",
+      "translation": "pessoas",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "plurals",
+      "example": "Many people are here.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_man",
+      "word": "man",
+      "translation": "homem",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "plurals",
+      "example": "The man is tall.",
+      "collocations": [
+        "men"
+      ],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_woman",
+      "word": "woman",
+      "translation": "mulher",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "plurals",
+      "example": "The woman is a doctor.",
+      "collocations": [
+        "women"
+      ],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_box",
+      "word": "box",
+      "translation": "caixa",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "plurals",
+      "example": "Open the box.",
+      "collocations": [
+        "boxes"
+      ],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_city",
+      "word": "city",
+      "translation": "cidade",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "plurals",
+      "example": "São Paulo is a big city.",
+      "collocations": [
+        "cities"
+      ],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_tooth",
+      "word": "tooth",
+      "translation": "dente",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "plurals",
+      "example": "My tooth hurts.",
+      "collocations": [
+        "teeth"
+      ],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

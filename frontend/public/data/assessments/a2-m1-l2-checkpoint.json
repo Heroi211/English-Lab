@@ -1,0 +1,96 @@
+{
+  "id": "a2-m1-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m1-l2",
+  "moduleId": "a2-m1",
+  "level": "A2",
+  "title": "Lesson 2 Checkpoint — Past Simple — Irregular Verbs",
+  "description": "Show what you learned about past simple — irregular verbs. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use common irregular past forms.",
+  "questions": [
+    {
+      "id": "cp_a2_m1_l2_01",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Past Simple — Irregular Verbs):",
+      "options": [
+        "We went to the cinema.",
+        "We went to the cinema.",
+        "No correct form.",
+        "cinema. the to went We"
+      ],
+      "answer": "We went to the cinema.",
+      "explanation": "This follows the pattern taught in Past Simple — Irregular Verbs."
+    },
+    {
+      "id": "cp_a2_m1_l2_02",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "fill_blank",
+      "question": "Complete: We ___ to the cinema.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m1_l2_03",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "true_false",
+      "question": "True or false: \"We went to the cinema.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m1_l2_04",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Past Simple — Irregular Verbs\"?",
+      "options": [
+        "went",
+        "saw",
+        "had",
+        "xyzabc"
+      ],
+      "answer": "went",
+      "explanation": "\"went\" (foi) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m1_l2_05",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "went",
+          "right": "foi"
+        },
+        {
+          "left": "saw",
+          "right": "viu"
+        },
+        {
+          "left": "had",
+          "right": "teve"
+        },
+        {
+          "left": "did",
+          "right": "fez"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

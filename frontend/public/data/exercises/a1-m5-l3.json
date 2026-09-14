@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m5-l3",
+  "exercises": [
+    {
+      "id": "ex_a1_m5_l3_01",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Simple vs Continuous):",
+      "options": [
+        "Smoking is a bad habit.",
+        "Smoking XXX a bad habit.",
+        "No correct form.",
+        "habit. bad a is Smoking"
+      ],
+      "answer": "Smoking is a bad habit.",
+      "explanation": "This follows the pattern taught in Present Simple vs Continuous."
+    },
+    {
+      "id": "ex_a1_m5_l3_02",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Present Simple vs Continuous\"?",
+      "options": [
+        "habit",
+        "temporary",
+        "permanent",
+        "xyzabc"
+      ],
+      "answer": "habit",
+      "explanation": "\"habit\" (hábito) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l3_03",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is a temporary job.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Simple = habit/fact: I work in a bank."
+    },
+    {
+      "id": "ex_a1_m5_l3_04",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "fill_blank",
+      "question": "Complete: Smoking is a bad ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m5_l3_05",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "fill_blank",
+      "question": "Complete: ___ is a temporary job.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Simple = habit/fact: I work in a bank."
+    },
+    {
+      "id": "ex_a1_m5_l3_06",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "fill_blank",
+      "question": "Complete: ___ has a permanent contract.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l3_07",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "true_false",
+      "question": "True or false: \"Smoking is a bad habit.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l3_08",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "true_false",
+      "question": "True or false: Smoking WRONG a bad habit. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l3_09",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "habit",
+          "right": "hábito"
+        },
+        {
+          "left": "temporary",
+          "right": "temporário"
+        },
+        {
+          "left": "permanent",
+          "right": "permanente"
+        },
+        {
+          "left": "usually",
+          "right": "geralmente"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l3_10",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "habit",
+          "right": "hábito"
+        },
+        {
+          "left": "temporary",
+          "right": "temporário"
+        },
+        {
+          "left": "permanent",
+          "right": "permanente"
+        },
+        {
+          "left": "usually",
+          "right": "geralmente"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m5_l3_11",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": "a1-simple-vs-continuous",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"Smoking WRONG a bad habit.\"",
+      "answer": "Smoking is a bad habit.",
+      "answers": [
+        "Smoking is a bad habit."
+      ],
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l3_12",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"permanent\"?",
+      "options": [
+        "permanente",
+        "hábito",
+        "temporário",
+        "none of these"
+      ],
+      "answer": "permanente",
+      "explanation": "\"permanent\" means \"permanente\"."
+    }
+  ]
+}

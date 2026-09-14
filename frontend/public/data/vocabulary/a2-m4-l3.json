@@ -1,0 +1,67 @@
+{
+  "lessonId": "a2-m4-l3",
+  "level": "A2",
+  "topic": "containers",
+  "items": [
+    {
+      "id": "vocab_bottle",
+      "word": "bottle",
+      "translation": "garrafa",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "containers",
+      "example": "A bottle of water.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_cup",
+      "word": "cup",
+      "translation": "xícara",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "containers",
+      "example": "A cup of coffee.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_piece",
+      "word": "piece",
+      "translation": "pedaço / fatia",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "containers",
+      "example": "A piece of bread.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_kilo",
+      "word": "kilo",
+      "translation": "quilo",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "containers",
+      "example": "Two kilos of apples.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_packet",
+      "word": "packet",
+      "translation": "pacote",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "containers",
+      "example": "A packet of biscuits.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

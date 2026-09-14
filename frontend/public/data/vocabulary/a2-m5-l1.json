@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m5-l1",
+  "level": "A2",
+  "topic": "frequency_a2",
+  "items": [
+    {
+      "id": "vocab_rarely",
+      "word": "rarely",
+      "translation": "raramente",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "example": "I rarely eat fast food.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_every_day",
+      "word": "every day",
+      "translation": "todos os dias",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "example": "She walks every day.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_once_a_month",
+      "word": "once a month",
+      "translation": "uma vez por mês",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "example": "I travel once a month.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_hardly_ever",
+      "word": "hardly ever",
+      "translation": "quase nunca",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "example": "He hardly ever complains.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

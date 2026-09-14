@@ -1,0 +1,96 @@
+{
+  "id": "a1-m5-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m5-l4",
+  "moduleId": "a1-m5",
+  "level": "A1",
+  "title": "Lesson 4 Checkpoint — Describing Pictures",
+  "description": "Show what you learned about describing pictures. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can describe people and actions in a picture.",
+  "questions": [
+    {
+      "id": "cp_a1_m5_l4_01",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Describing Pictures):",
+      "options": [
+        "In the picture there is a park.",
+        "In the picture there XXX a park.",
+        "No correct form.",
+        "park. a is there picture the In"
+      ],
+      "answer": "In the picture there is a park.",
+      "explanation": "This follows the pattern taught in Describing Pictures."
+    },
+    {
+      "id": "cp_a1_m5_l4_02",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "fill_blank",
+      "question": "Complete: In the ___ there is a park.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m5_l4_03",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "true_false",
+      "question": "True or false: \"In the picture there is a park.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m5_l4_04",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Describing Pictures\"?",
+      "options": [
+        "picture",
+        "photo",
+        "wear",
+        "xyzabc"
+      ],
+      "answer": "picture",
+      "explanation": "\"picture\" (imagem / foto) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m5_l4_05",
+      "level": "A1",
+      "topic": "describing_pictures",
+      "ruleId": "a1-describing-pictures",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "picture",
+          "right": "imagem"
+        },
+        {
+          "left": "photo",
+          "right": "foto"
+        },
+        {
+          "left": "wear",
+          "right": "usar"
+        },
+        {
+          "left": "hold",
+          "right": "segurar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

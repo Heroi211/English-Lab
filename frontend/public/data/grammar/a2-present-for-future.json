@@ -1,0 +1,26 @@
+{
+  "id": "a2-present-for-future",
+  "level": "A2",
+  "title": "Present Continuous for Future",
+  "topic": "present_for_future",
+  "summary": "Am/is/are + -ing for arranged future: I am meeting John at 6.",
+  "rule": "Am/is/are + -ing for arranged future: I am meeting John at 6.",
+  "examples": [
+    "I am meeting the team at 3.",
+    "We are flying on Tuesday.",
+    "It is a firm arrangement."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I am meeting the team at 3.",
+      "correct": "I am meeting the team at 3.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m2-l3"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

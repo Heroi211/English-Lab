@@ -1,0 +1,197 @@
+{
+  "id": "a2-m3-l1",
+  "moduleId": "a2-m3",
+  "level": "A2",
+  "order": 1,
+  "title": "Comparatives",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use comparatives accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can compare two things using comparatives.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about comparatives. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use comparatives?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me.\n\nIrregular: good → better, bad → worse",
+  "grammar": {
+    "ruleId": "a2-comparatives",
+    "title": "Comparatives",
+    "rule": "Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me.",
+    "examples": [
+      {
+        "sentence": "This option is better.",
+        "note": "better"
+      },
+      {
+        "sentence": "Traffic is worse today.",
+        "note": "worse"
+      },
+      {
+        "sentence": "Cheaper than yesterday.",
+        "note": "than"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "better",
+      "translation": "melhor",
+      "partOfSpeech": "adjective",
+      "example": "This option is better.",
+      "collocations": []
+    },
+    {
+      "word": "worse",
+      "translation": "pior",
+      "partOfSpeech": "adjective",
+      "example": "Traffic is worse today.",
+      "collocations": []
+    },
+    {
+      "word": "than",
+      "translation": "do que",
+      "partOfSpeech": "conjunction",
+      "example": "Cheaper than yesterday.",
+      "collocations": []
+    },
+    {
+      "word": "cheaper",
+      "translation": "mais barato",
+      "partOfSpeech": "adjective",
+      "example": "The blue one is cheaper.",
+      "collocations": []
+    },
+    {
+      "word": "more expensive",
+      "translation": "mais caro",
+      "partOfSpeech": "phrase",
+      "example": "Flights are more expensive.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Comparatives",
+      "sentences": [
+        "This option is better.",
+        "Traffic is worse today.",
+        "Cheaper than yesterday.",
+        "The blue one is cheaper."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m3_l1_01",
+    "ex_a2_m3_l1_02",
+    "ex_a2_m3_l1_03",
+    "ex_a2_m3_l1_04",
+    "ex_a2_m3_l1_05",
+    "ex_a2_m3_l1_06",
+    "ex_a2_m3_l1_07",
+    "ex_a2_m3_l1_08",
+    "ex_a2_m3_l1_09",
+    "ex_a2_m3_l1_10",
+    "ex_a2_m3_l1_11",
+    "ex_a2_m3_l1_12"
+  ],
+  "reading": {
+    "title": "Comparatives in Context",
+    "text": "My phone is newer than yours, but your camera is better. Living in the centre is more expensive than the suburbs. Today traffic is worse than usual.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "comparatives",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"better\" mean?",
+        "type": "short_answer",
+        "answer": "melhor",
+        "explanation": "melhor"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "Traffic is worse today.",
+        "explanation": "Traffic is worse today.",
+        "options": [
+          "Traffic is worse today.",
+          "better. is option This",
+          "No sentence fits.",
+          "Cheaper than yesterday."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using comparatives. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "This option is better. Traffic is worse today. Cheaper than yesterday. The blue one is cheaper."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-comparatives"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_better"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_worse"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_than"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_cheaper"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_more_expensive"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m3_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m3_l1_10"
+    }
+  ],
+  "checkpointId": "a2-m3-l1-checkpoint",
+  "tutorHints": [
+    "Target structure: Comparatives.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m3-l1.json",
+  "exercisesRef": "exercises/a2-m3-l1.json",
+  "grammarRef": "grammar/a2-comparatives.json",
+  "checkpointRef": "assessments/a2-m3-l1-checkpoint.json"
+}

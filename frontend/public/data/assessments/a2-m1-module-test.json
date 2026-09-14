@@ -1,0 +1,148 @@
+{
+  "id": "a2-m1-module-test",
+  "kind": "module",
+  "moduleId": "a2-m1",
+  "level": "A2",
+  "title": "Past Simple — Module Test",
+  "description": "Test your knowledge of the whole module: Past Simple. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use past simple confidently at A2 level.",
+  "questions": [
+    {
+      "id": "mt_a2_m1_01",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Past Simple — Regular Verbs):",
+      "options": [
+        "I worked yesterday.",
+        "I worked yesterday.",
+        "No correct form.",
+        "yesterday. worked I"
+      ],
+      "answer": "I worked yesterday.",
+      "explanation": "This follows the pattern taught in Past Simple — Regular Verbs."
+    },
+    {
+      "id": "mt_a2_m1_02",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Past Simple — Irregular Verbs\"?",
+      "options": [
+        "went",
+        "saw",
+        "had",
+        "xyzabc"
+      ],
+      "answer": "went",
+      "explanation": "\"went\" (foi) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a2_m1_03",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "ruleId": "a2-past-simple-q-neg",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ didn't know.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Did + subject + base verb: Did you go? | She didn't come."
+    },
+    {
+      "id": "mt_a2_m1_04",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "fill_blank",
+      "question": "Complete: I started gym ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a2_m1_05",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "true_false",
+      "question": "True or false: \"I worked yesterday.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a2_m1_06",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "true_false",
+      "question": "True or false: We WRONG to the cinema. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "mt_a2_m1_07",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "did",
+          "right": "auxiliar passado"
+        },
+        {
+          "left": "didn't",
+          "right": "não (passado)"
+        },
+        {
+          "left": "when",
+          "right": "quando"
+        },
+        {
+          "left": "why",
+          "right": "por que"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a2_m1_08",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "last month",
+          "right": "mês passado"
+        },
+        {
+          "left": "last year",
+          "right": "ano passado"
+        },
+        {
+          "left": "in 2020",
+          "right": "em 2020"
+        },
+        {
+          "left": "once",
+          "right": "uma vez"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

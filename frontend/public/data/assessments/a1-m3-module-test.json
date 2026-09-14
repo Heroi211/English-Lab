@@ -1,0 +1,148 @@
+{
+  "id": "a1-m3-module-test",
+  "kind": "module",
+  "moduleId": "a1-m3",
+  "level": "A1",
+  "title": "Existence & Possession — Module Test",
+  "description": "Test your knowledge of the whole module: Existence & Possession. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can describe what exists in a place and what people have.",
+  "questions": [
+    {
+      "id": "mt_a1_m3_01",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (There is / There are):",
+      "options": [
+        "There is a park near my house.",
+        "There XXX a park near my house.",
+        "No correct form.",
+        "house. my near park a is There"
+      ],
+      "answer": "There is a park near my house.",
+      "explanation": "This follows the pattern taught in There is / There are."
+    },
+    {
+      "id": "mt_a1_m3_02",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Have / Has\"?",
+      "options": [
+        "have",
+        "has",
+        "brother",
+        "xyzabc"
+      ],
+      "answer": "have",
+      "explanation": "\"have\" (ter) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a1_m3_03",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": "a1-some-any",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ there any messages?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Some in positive statements. Any in questions and negative statements. Some in polite offers and requests."
+    },
+    {
+      "id": "mt_a1_m3_04",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "fill_blank",
+      "question": "Complete: The keys are ___ the bag.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a1_m3_05",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "true_false",
+      "question": "True or false: \"There is a park near my house.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a1_m3_06",
+      "level": "A1",
+      "topic": "have_has",
+      "ruleId": "a1-have-has",
+      "type": "true_false",
+      "question": "True or false: He have a dog. is grammatically correct.",
+      "answer": false,
+      "explanation": "Third person singular → has."
+    },
+    {
+      "id": "mt_a1_m3_07",
+      "level": "A1",
+      "topic": "some_any",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "some",
+          "right": "alguns"
+        },
+        {
+          "left": "any",
+          "right": "algum"
+        },
+        {
+          "left": "water",
+          "right": "água"
+        },
+        {
+          "left": "bread",
+          "right": "pão"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a1_m3_08",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "in",
+          "right": "em"
+        },
+        {
+          "left": "on",
+          "right": "em"
+        },
+        {
+          "left": "under",
+          "right": "debaixo de"
+        },
+        {
+          "left": "next to",
+          "right": "ao lado de"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

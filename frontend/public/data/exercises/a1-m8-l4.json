@@ -1,0 +1,205 @@
+{
+  "lessonId": "a1-m8-l4",
+  "exercises": [
+    {
+      "id": "ex_a1_m8_l4_01",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Daily Routine & Work):",
+      "options": [
+        "I wake up at 6.",
+        "I wake up at 6.",
+        "No correct form.",
+        "6. at up wake I"
+      ],
+      "answer": "I wake up at 6.",
+      "explanation": "This follows the pattern taught in Daily Routine & Work."
+    },
+    {
+      "id": "ex_a1_m8_l4_02",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Daily Routine & Work\"?",
+      "options": [
+        "wake up",
+        "get up",
+        "go to work",
+        "xyzabc"
+      ],
+      "answer": "wake up",
+      "explanation": "\"wake up\" (acordar) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l4_03",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ get up at 6:30.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Wake up, get up, have breakfast, go to work, finish, go to bed."
+    },
+    {
+      "id": "ex_a1_m8_l4_04",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "fill_blank",
+      "question": "Complete: I ___ at 6.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m8_l4_05",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "fill_blank",
+      "question": "Complete: ___ get up at 6:30.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Wake up, get up, have breakfast, go to work, finish, go to bed."
+    },
+    {
+      "id": "ex_a1_m8_l4_06",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "fill_blank",
+      "question": "Complete: ___ go to work by bus.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l4_07",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "true_false",
+      "question": "True or false: \"I wake up at 6.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l4_08",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "true_false",
+      "question": "True or false: I wake up at 6. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l4_09",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "wake up",
+          "right": "acordar"
+        },
+        {
+          "left": "get up",
+          "right": "levantar(-se)"
+        },
+        {
+          "left": "go to work",
+          "right": "ir trabalhar"
+        },
+        {
+          "left": "finish",
+          "right": "terminar"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l4_10",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "wake up",
+          "right": "acordar"
+        },
+        {
+          "left": "get up",
+          "right": "levantar(-se)"
+        },
+        {
+          "left": "go to work",
+          "right": "ir trabalhar"
+        },
+        {
+          "left": "finish",
+          "right": "terminar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m8_l4_11",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": "a1-daily-routine",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "6",
+        "at",
+        "up",
+        "wake",
+        "I"
+      ],
+      "answer": [
+        "I",
+        "wake",
+        "up",
+        "at",
+        "6"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l4_12",
+      "level": "A1",
+      "topic": "daily_routine",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"go to work\"?",
+      "options": [
+        "ir trabalhar",
+        "acordar",
+        "levantar(-se)",
+        "none of these"
+      ],
+      "answer": "ir trabalhar",
+      "explanation": "\"go to work\" means \"ir trabalhar\"."
+    }
+  ]
+}

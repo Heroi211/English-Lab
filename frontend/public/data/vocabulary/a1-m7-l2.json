@@ -1,0 +1,103 @@
+{
+  "lessonId": "a1-m7-l2",
+  "level": "A1",
+  "topic": "telling_time",
+  "items": [
+    {
+      "id": "vocab_o_clock",
+      "word": "o'clock",
+      "translation": "em ponto",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "telling_time",
+      "example": "It is three o'clock.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_half_past",
+      "word": "half past",
+      "translation": "e meia",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "telling_time",
+      "example": "Half past two.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_quarter_past",
+      "word": "quarter past",
+      "translation": "e quinze",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "telling_time",
+      "example": "Quarter past ten.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_quarter_to",
+      "word": "quarter to",
+      "translation": "menos quarto",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "telling_time",
+      "example": "Quarter to five.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_minute",
+      "word": "minute",
+      "translation": "minuto",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "telling_time",
+      "example": "Wait a minute.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_hour",
+      "word": "hour",
+      "translation": "hora",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "telling_time",
+      "example": "One hour.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_early",
+      "word": "early",
+      "translation": "cedo",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "topic": "telling_time",
+      "example": "I am early.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_late",
+      "word": "late",
+      "translation": "atrasado",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "topic": "telling_time",
+      "example": "Sorry I am late.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "a1-m7-l2",
+  "moduleId": "a1-m7",
+  "level": "A1",
+  "order": 2,
+  "title": "Telling the Time",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use telling the time.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can ask and tell the time.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"telling the time\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Telling the Time?"
+    ]
+  },
+  "explanation": "What time is it? — It is half past three. / 3:30\n\nQuarter past/to | o'clock\n\nAt + time: The class starts at 9 a.m.\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-telling-time",
+    "title": "Telling the Time",
+    "rule": "What time is it? — It is half past three. / 3:30",
+    "examples": [
+      {
+        "sentence": "It is three o'clock.",
+        "note": "o'clock"
+      },
+      {
+        "sentence": "Half past two.",
+        "note": "half past"
+      },
+      {
+        "sentence": "Quarter past ten.",
+        "note": "quarter past"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "o'clock",
+      "translation": "em ponto",
+      "partOfSpeech": "phrase",
+      "example": "It is three o'clock.",
+      "collocations": []
+    },
+    {
+      "word": "half past",
+      "translation": "e meia",
+      "partOfSpeech": "phrase",
+      "example": "Half past two.",
+      "collocations": []
+    },
+    {
+      "word": "quarter past",
+      "translation": "e quinze",
+      "partOfSpeech": "phrase",
+      "example": "Quarter past ten.",
+      "collocations": []
+    },
+    {
+      "word": "quarter to",
+      "translation": "menos quarto",
+      "partOfSpeech": "phrase",
+      "example": "Quarter to five.",
+      "collocations": []
+    },
+    {
+      "word": "minute",
+      "translation": "minuto",
+      "partOfSpeech": "noun",
+      "example": "Wait a minute.",
+      "collocations": []
+    },
+    {
+      "word": "hour",
+      "translation": "hora",
+      "partOfSpeech": "noun",
+      "example": "One hour.",
+      "collocations": []
+    },
+    {
+      "word": "early",
+      "translation": "cedo",
+      "partOfSpeech": "adjective",
+      "example": "I am early.",
+      "collocations": []
+    },
+    {
+      "word": "late",
+      "translation": "atrasado",
+      "partOfSpeech": "adjective",
+      "example": "Sorry I am late.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Telling the Time",
+      "sentences": [
+        "It is three o'clock.",
+        "Half past two.",
+        "Quarter past ten.",
+        "Quarter to five."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m7_l2_01",
+    "ex_a1_m7_l2_02",
+    "ex_a1_m7_l2_03",
+    "ex_a1_m7_l2_04",
+    "ex_a1_m7_l2_05",
+    "ex_a1_m7_l2_06",
+    "ex_a1_m7_l2_07",
+    "ex_a1_m7_l2_08",
+    "ex_a1_m7_l2_09",
+    "ex_a1_m7_l2_10",
+    "ex_a1_m7_l2_11",
+    "ex_a1_m7_l2_12"
+  ],
+  "reading": {
+    "title": "Telling the Time — Reading",
+    "text": "Every day, people use telling the time in conversation. It is three o'clock. Half past two. Quarter past ten. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "o'clock",
+        "explanation": "Focus word: o'clock.",
+        "options": [
+          "o'clock",
+          "half past",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"half past\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "e meia",
+        "explanation": "e meia"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using telling the time.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "It is three o'clock. Half past two. Quarter past ten."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-telling-time"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_o_clock"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_half_past"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_quarter_past"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_quarter_to"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_minute"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_hour"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m7_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m7_l2_10"
+    }
+  ],
+  "checkpointId": "a1-m7-l2-checkpoint",
+  "tutorHints": [
+    "Focus on Telling the Time with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m7-l2.json",
+  "exercisesRef": "exercises/a1-m7-l2.json",
+  "grammarRef": "grammar/a1-telling-time.json",
+  "checkpointRef": "assessments/a1-m7-l2-checkpoint.json"
+}

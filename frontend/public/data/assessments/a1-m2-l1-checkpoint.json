@@ -1,0 +1,96 @@
+{
+  "id": "a1-m2-l1-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m2-l1",
+  "moduleId": "a1-m2",
+  "level": "A1",
+  "title": "Lesson 1 Checkpoint — Possessive Adjectives",
+  "description": "Show what you learned about possessive adjectives. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use possessive adjectives to say who owns something.",
+  "questions": [
+    {
+      "id": "cp_a1_m2_l1_01",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Possessive Adjectives):",
+      "options": [
+        "This is my house.",
+        "This XXX my house.",
+        "No correct form.",
+        "house. my is This"
+      ],
+      "answer": "This is my house.",
+      "explanation": "This follows the pattern taught in Possessive Adjectives."
+    },
+    {
+      "id": "cp_a1_m2_l1_02",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "fill_blank",
+      "question": "Complete: This is ___ book.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m2_l1_03",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "true_false",
+      "question": "True or false: \"This is my house.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m2_l1_04",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Possessive Adjectives\"?",
+      "options": [
+        "my",
+        "your",
+        "his",
+        "xyzabc"
+      ],
+      "answer": "my",
+      "explanation": "\"my\" (meu/minha) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m2_l1_05",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "my",
+          "right": "meu"
+        },
+        {
+          "left": "your",
+          "right": "seu"
+        },
+        {
+          "left": "his",
+          "right": "dele"
+        },
+        {
+          "left": "her",
+          "right": "dela"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

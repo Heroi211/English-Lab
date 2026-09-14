@@ -1,0 +1,220 @@
+{
+  "id": "a1-m4-l4",
+  "moduleId": "a1-m4",
+  "level": "A1",
+  "order": 4,
+  "title": "Adverbs of Frequency",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use adverbs of frequency.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can use always, usually, sometimes, never with present simple.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"adverbs of frequency\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Adverbs of Frequency?"
+    ]
+  },
+  "explanation": "Adverbs go BEFORE main verb: I always brush my teeth.\nAFTER to be: She is usually late.\n\nAlways → never = 100% → 0%\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-adverbs-frequency",
+    "title": "Adverbs of Frequency",
+    "rule": "Adverbs go BEFORE main verb: I always brush my teeth.",
+    "examples": [
+      {
+        "sentence": "I always drink water.",
+        "note": "always"
+      },
+      {
+        "sentence": "She usually walks.",
+        "note": "usually"
+      },
+      {
+        "sentence": "We often meet on Fridays.",
+        "note": "often"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "always",
+      "translation": "sempre",
+      "partOfSpeech": "adverb",
+      "example": "I always drink water.",
+      "collocations": []
+    },
+    {
+      "word": "usually",
+      "translation": "geralmente",
+      "partOfSpeech": "adverb",
+      "example": "She usually walks.",
+      "collocations": []
+    },
+    {
+      "word": "often",
+      "translation": "frequentemente",
+      "partOfSpeech": "adverb",
+      "example": "We often meet on Fridays.",
+      "collocations": []
+    },
+    {
+      "word": "sometimes",
+      "translation": "às vezes",
+      "partOfSpeech": "adverb",
+      "example": "He sometimes cooks.",
+      "collocations": []
+    },
+    {
+      "word": "hardly ever",
+      "translation": "quase nunca",
+      "partOfSpeech": "adverb",
+      "example": "I hardly ever watch TV.",
+      "collocations": []
+    },
+    {
+      "word": "never",
+      "translation": "nunca",
+      "partOfSpeech": "adverb",
+      "example": "They never arrive late.",
+      "collocations": []
+    },
+    {
+      "word": "once a week",
+      "translation": "uma vez por semana",
+      "partOfSpeech": "phrase",
+      "example": "I go once a week.",
+      "collocations": []
+    },
+    {
+      "word": "twice",
+      "translation": "duas vezes",
+      "partOfSpeech": "adverb",
+      "example": "She calls twice a day.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Adverbs of Frequency",
+      "sentences": [
+        "I always drink water.",
+        "She usually walks.",
+        "We often meet on Fridays.",
+        "He sometimes cooks."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m4_l4_01",
+    "ex_a1_m4_l4_02",
+    "ex_a1_m4_l4_03",
+    "ex_a1_m4_l4_04",
+    "ex_a1_m4_l4_05",
+    "ex_a1_m4_l4_06",
+    "ex_a1_m4_l4_07",
+    "ex_a1_m4_l4_08",
+    "ex_a1_m4_l4_09",
+    "ex_a1_m4_l4_10",
+    "ex_a1_m4_l4_11",
+    "ex_a1_m4_l4_12"
+  ],
+  "reading": {
+    "title": "Adverbs of Frequency — Reading",
+    "text": "Every day, people use adverbs of frequency in conversation. I always drink water. She usually walks. We often meet on Fridays. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "always",
+        "explanation": "Focus word: always.",
+        "options": [
+          "always",
+          "usually",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"usually\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "geralmente",
+        "explanation": "geralmente"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using adverbs of frequency.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "I always drink water. She usually walks. We often meet on Fridays."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-adverbs-frequency"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_always"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_usually"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_often"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_sometimes"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_hardly_ever"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_never"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m4_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m4_l4_10"
+    }
+  ],
+  "checkpointId": "a1-m4-l4-checkpoint",
+  "tutorHints": [
+    "Focus on Adverbs of Frequency with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m4-l4.json",
+  "exercisesRef": "exercises/a1-m4-l4.json",
+  "grammarRef": "grammar/a1-adverbs-frequency.json",
+  "checkpointRef": "assessments/a1-m4-l4-checkpoint.json"
+}

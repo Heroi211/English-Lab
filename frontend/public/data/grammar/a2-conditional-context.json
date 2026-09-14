@@ -1,0 +1,26 @@
+{
+  "id": "a2-conditional-context",
+  "level": "A2",
+  "title": "Real Conditions in Context",
+  "topic": "conditional_context",
+  "summary": "Professional: If we receive payment, we will ship Monday.",
+  "rule": "Professional: If we receive payment, we will ship Monday.",
+  "examples": [
+    "When we receive approval…",
+    "If they approve the budget…",
+    "We can negotiate if…"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "When we receive approval…",
+      "correct": "When we receive approval…",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m7-l3"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

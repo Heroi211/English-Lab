@@ -1,0 +1,205 @@
+{
+  "lessonId": "a2-m1-l2",
+  "exercises": [
+    {
+      "id": "ex_a2_m1_l2_01",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Past Simple — Irregular Verbs):",
+      "options": [
+        "We went to the cinema.",
+        "We went to the cinema.",
+        "No correct form.",
+        "cinema. the to went We"
+      ],
+      "answer": "We went to the cinema.",
+      "explanation": "This follows the pattern taught in Past Simple — Irregular Verbs."
+    },
+    {
+      "id": "ex_a2_m1_l2_02",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Past Simple — Irregular Verbs\"?",
+      "options": [
+        "went",
+        "saw",
+        "had",
+        "xyzabc"
+      ],
+      "answer": "went",
+      "explanation": "\"went\" (foi) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l2_03",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ saw Maria at the party.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "High-frequency irregulars: go→went, see→saw, have→had, do→did, make→made, come→came, get→got, take→took."
+    },
+    {
+      "id": "ex_a2_m1_l2_04",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "fill_blank",
+      "question": "Complete: We ___ to the cinema.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m1_l2_05",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "fill_blank",
+      "question": "Complete: ___ saw Maria at the party.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "High-frequency irregulars: go→went, see→saw, have→had, do→did, make→made, come→came, get→got, take→took."
+    },
+    {
+      "id": "ex_a2_m1_l2_06",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "fill_blank",
+      "question": "Complete: ___ had a great time.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l2_07",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "true_false",
+      "question": "True or false: \"We went to the cinema.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l2_08",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "true_false",
+      "question": "True or false: We WRONG to the cinema. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l2_09",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "went",
+          "right": "foi"
+        },
+        {
+          "left": "saw",
+          "right": "viu"
+        },
+        {
+          "left": "had",
+          "right": "teve"
+        },
+        {
+          "left": "did",
+          "right": "fez"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l2_10",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "went",
+          "right": "foi"
+        },
+        {
+          "left": "saw",
+          "right": "viu"
+        },
+        {
+          "left": "had",
+          "right": "teve"
+        },
+        {
+          "left": "did",
+          "right": "fez"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m1_l2_11",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": "a2-past-simple-irregular",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "the",
+        "We",
+        "cinema",
+        "to",
+        "went"
+      ],
+      "answer": [
+        "We",
+        "went",
+        "to",
+        "the",
+        "cinema"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l2_12",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"had\"?",
+      "options": [
+        "teve",
+        "foi",
+        "viu",
+        "none of these"
+      ],
+      "answer": "teve",
+      "explanation": "\"had\" means \"teve\"."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "levels": [
+    {
+      "id": "a1",
+      "cefr": "A1",
+      "title": "Foundation",
+      "description": "Build core English from introductions to daily life — verb to be, present tenses, essential vocabulary, and simple communication.",
+      "order": 1,
+      "status": "available"
+    },
+    {
+      "id": "a2",
+      "cefr": "A2",
+      "title": "Consolidation",
+      "description": "Strengthen past and future tenses, comparisons, modals, present perfect intro, and everyday phrasal verbs.",
+      "order": 2,
+      "status": "available"
+    },
+    {
+      "id": "b1",
+      "cefr": "B1",
+      "title": "Independent Use",
+      "description": "Coming soon",
+      "order": 3,
+      "status": "coming_soon"
+    },
+    {
+      "id": "b2",
+      "cefr": "B2",
+      "title": "Upper Intermediate",
+      "description": "Coming soon",
+      "order": 4,
+      "status": "coming_soon"
+    }
+  ],
+  "modules": {
+    "a1": "/data/curriculum/a1/modules.json",
+    "a2": "/data/curriculum/a2/modules.json"
+  }
+}

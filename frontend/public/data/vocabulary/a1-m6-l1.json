@@ -1,0 +1,103 @@
+{
+  "lessonId": "a1-m6-l1",
+  "level": "A1",
+  "topic": "can_cant",
+  "items": [
+    {
+      "id": "vocab_can",
+      "word": "can",
+      "translation": "poder / saber",
+      "partOfSpeech": "modal",
+      "level": "A1",
+      "topic": "can_cant",
+      "example": "I can swim.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_can_t",
+      "word": "can't",
+      "translation": "não poder",
+      "partOfSpeech": "modal",
+      "level": "A1",
+      "topic": "can_cant",
+      "example": "I can't drive.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_swim",
+      "word": "swim",
+      "translation": "nadar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "can_cant",
+      "example": "Can you swim?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_drive",
+      "word": "drive",
+      "translation": "dirigir",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "can_cant",
+      "example": "She can drive.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_speak",
+      "word": "speak",
+      "translation": "falar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "can_cant",
+      "example": "He can speak three languages.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_cook",
+      "word": "cook",
+      "translation": "cozinhar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "can_cant",
+      "example": "Can you cook?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_play",
+      "word": "play",
+      "translation": "jogar / tocar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "can_cant",
+      "example": "They can play guitar.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_ability",
+      "word": "ability",
+      "translation": "habilidade",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "can_cant",
+      "example": "Reading is a useful ability.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

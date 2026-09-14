@@ -1,0 +1,197 @@
+{
+  "lessonId": "a1-m6-l4",
+  "exercises": [
+    {
+      "id": "ex_a1_m6_l4_01",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Imperatives):",
+      "options": [
+        "Stop!",
+        "Stop!",
+        "No correct form.",
+        "Stop!"
+      ],
+      "answer": "Stop!",
+      "explanation": "This follows the pattern taught in Imperatives."
+    },
+    {
+      "id": "ex_a1_m6_l4_02",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Imperatives\"?",
+      "options": [
+        "stop",
+        "wait",
+        "open",
+        "xyzabc"
+      ],
+      "answer": "stop",
+      "explanation": "\"stop\" (pare) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l4_03",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ wait.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Base verb for orders: Stop! Sit down. Open the book."
+    },
+    {
+      "id": "ex_a1_m6_l4_04",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "fill_blank",
+      "question": "Complete: ___!",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m6_l4_05",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "fill_blank",
+      "question": "Complete: ___ wait.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Base verb for orders: Stop! Sit down. Open the book."
+    },
+    {
+      "id": "ex_a1_m6_l4_06",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "fill_blank",
+      "question": "Complete: ___ the door.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l4_07",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "true_false",
+      "question": "True or false: \"Stop!\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l4_08",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "true_false",
+      "question": "True or false: Stop! is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l4_09",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "stop",
+          "right": "pare"
+        },
+        {
+          "left": "wait",
+          "right": "espere"
+        },
+        {
+          "left": "open",
+          "right": "abrir"
+        },
+        {
+          "left": "close",
+          "right": "fechar"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l4_10",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "stop",
+          "right": "pare"
+        },
+        {
+          "left": "wait",
+          "right": "espere"
+        },
+        {
+          "left": "open",
+          "right": "abrir"
+        },
+        {
+          "left": "close",
+          "right": "fechar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m6_l4_11",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "Stop"
+      ],
+      "answer": [
+        "Stop"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l4_12",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"open\"?",
+      "options": [
+        "abrir",
+        "pare",
+        "espere",
+        "none of these"
+      ],
+      "answer": "abrir",
+      "explanation": "\"open\" means \"abrir\"."
+    }
+  ]
+}

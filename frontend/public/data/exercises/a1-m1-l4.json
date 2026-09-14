@@ -1,0 +1,203 @@
+{
+  "lessonId": "a1-m1-l4",
+  "exercises": [
+    {
+      "id": "ex_a1_m1_l4_01",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Questions with To Be):",
+      "options": [
+        "Where are you from? — I am from Brazil.",
+        "Where XXX you from? — I am from Brazil.",
+        "No correct form.",
+        "Brazil. from am I — from? you are Where"
+      ],
+      "answer": "Where are you from? — I am from Brazil.",
+      "explanation": "This follows the pattern taught in Questions with To Be."
+    },
+    {
+      "id": "ex_a1_m1_l4_02",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Questions with To Be\"?",
+      "options": [
+        "what",
+        "where",
+        "who",
+        "xyzabc"
+      ],
+      "answer": "what",
+      "explanation": "\"what\" (o que / qual) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m1_l4_03",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ are you from?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Invert am/is/are and the subject for yes/no questions. Wh- questions start with What, Where, Who, How, etc. + am/is/are + subject."
+    },
+    {
+      "id": "ex_a1_m1_l4_04",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "fill_blank",
+      "question": "Complete: ___ is your name?",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m1_l4_05",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "fill_blank",
+      "question": "Complete: ___ are you from?",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Invert am/is/are and the subject for yes/no questions. Wh- questions start with What, Where, Who, How, etc. + am/is/are "
+    },
+    {
+      "id": "ex_a1_m1_l4_06",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "fill_blank",
+      "question": "Complete: ___ is she?",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m1_l4_07",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "true_false",
+      "question": "True or false: \"Where are you from? — I am from Brazil.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m1_l4_08",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "true_false",
+      "question": "True or false: Where you are from? is grammatically correct.",
+      "answer": false,
+      "explanation": "Invert verb and subject in questions."
+    },
+    {
+      "id": "ex_a1_m1_l4_09",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "what",
+          "right": "o que"
+        },
+        {
+          "left": "where",
+          "right": "onde"
+        },
+        {
+          "left": "who",
+          "right": "quem"
+        },
+        {
+          "left": "how",
+          "right": "como"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m1_l4_10",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "what",
+          "right": "o que"
+        },
+        {
+          "left": "where",
+          "right": "onde"
+        },
+        {
+          "left": "who",
+          "right": "quem"
+        },
+        {
+          "left": "how",
+          "right": "como"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m1_l4_11",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "Where",
+        "are",
+        "you",
+        "from"
+      ],
+      "answer": [
+        "Where",
+        "are",
+        "you",
+        "from"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m1_l4_12",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"who\"?",
+      "options": [
+        "quem",
+        "o que / qual",
+        "onde",
+        "none of these"
+      ],
+      "answer": "quem",
+      "explanation": "\"who\" means \"quem\"."
+    }
+  ]
+}

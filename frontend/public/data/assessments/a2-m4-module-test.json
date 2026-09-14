@@ -1,0 +1,148 @@
+{
+  "id": "a2-m4-module-test",
+  "kind": "module",
+  "moduleId": "a2-m4",
+  "level": "A2",
+  "title": "Quantity & Countability — Module Test",
+  "description": "Test your knowledge of the whole module: Quantity & Countability. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use quantity & countability confidently at A2 level.",
+  "questions": [
+    {
+      "id": "mt_a2_m4_01",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Much & Many):",
+      "options": [
+        "How much sugar?",
+        "How much sugar?",
+        "No correct form.",
+        "sugar? much How"
+      ],
+      "answer": "How much sugar?",
+      "explanation": "This follows the pattern taught in Much & Many."
+    },
+    {
+      "id": "mt_a2_m4_02",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Few & Little\"?",
+      "options": [
+        "few",
+        "little",
+        "a few",
+        "xyzabc"
+      ],
+      "answer": "few",
+      "explanation": "\"few\" (poucos) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a2_m4_03",
+      "level": "A2",
+      "topic": "containers",
+      "ruleId": "a2-containers",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ cup of coffee.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "A bottle of water | A cup of tea | A piece of cake | A kilo of rice"
+    },
+    {
+      "id": "mt_a2_m4_04",
+      "level": "A2",
+      "topic": "countability",
+      "ruleId": "a2-countability",
+      "type": "fill_blank",
+      "question": "Complete: Useful ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a2_m4_05",
+      "level": "A2",
+      "topic": "much_many",
+      "ruleId": "a2-much-many",
+      "type": "true_false",
+      "question": "True or false: \"How much sugar?\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a2_m4_06",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "true_false",
+      "question": "True or false: Few people came. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "mt_a2_m4_07",
+      "level": "A2",
+      "topic": "containers",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "bottle",
+          "right": "garrafa"
+        },
+        {
+          "left": "cup",
+          "right": "xícara"
+        },
+        {
+          "left": "piece",
+          "right": "pedaço"
+        },
+        {
+          "left": "kilo",
+          "right": "quilo"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a2_m4_08",
+      "level": "A2",
+      "topic": "countability",
+      "ruleId": "a2-countability",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "information",
+          "right": "informação"
+        },
+        {
+          "left": "advice",
+          "right": "conselho"
+        },
+        {
+          "left": "furniture",
+          "right": "mobília"
+        },
+        {
+          "left": "news",
+          "right": "notícia(s)"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

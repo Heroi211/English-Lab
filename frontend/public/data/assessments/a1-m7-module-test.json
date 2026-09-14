@@ -1,0 +1,148 @@
+{
+  "id": "a1-m7-module-test",
+  "kind": "module",
+  "moduleId": "a1-m7",
+  "level": "A1",
+  "title": "Time & Numbers — Module Test",
+  "description": "Test your knowledge of the whole module: Time & Numbers. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use time & numbers in everyday A1 communication.",
+  "questions": [
+    {
+      "id": "mt_a1_m7_01",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Numbers & Dates):",
+      "options": [
+        "Write the number here.",
+        "Write the number here.",
+        "No correct form.",
+        "here. number the Write"
+      ],
+      "answer": "Write the number here.",
+      "explanation": "This follows the pattern taught in Numbers & Dates."
+    },
+    {
+      "id": "mt_a1_m7_02",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Telling the Time\"?",
+      "options": [
+        "o'clock",
+        "half past",
+        "quarter past",
+        "xyzabc"
+      ],
+      "answer": "o'clock",
+      "explanation": "\"o'clock\" (em ponto) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a1_m7_03",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": "a1-days-months",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is my favourite day.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "On Monday | In January | In summer"
+    },
+    {
+      "id": "mt_a1_m7_04",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "fill_blank",
+      "question": "Complete: I have an ___ at 3.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a1_m7_05",
+      "level": "A1",
+      "topic": "numbers_dates",
+      "ruleId": "a1-numbers-dates",
+      "type": "true_false",
+      "question": "True or false: \"Write the number here.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a1_m7_06",
+      "level": "A1",
+      "topic": "telling_time",
+      "ruleId": "a1-telling-time",
+      "type": "true_false",
+      "question": "True or false: It WRONG three o'clock. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "mt_a1_m7_07",
+      "level": "A1",
+      "topic": "days_months",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "Monday",
+          "right": "segunda-feira"
+        },
+        {
+          "left": "Friday",
+          "right": "sexta-feira"
+        },
+        {
+          "left": "January",
+          "right": "janeiro"
+        },
+        {
+          "left": "summer",
+          "right": "verão"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a1_m7_08",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "appointment",
+          "right": "compromisso"
+        },
+        {
+          "left": "schedule",
+          "right": "agenda"
+        },
+        {
+          "left": "meet",
+          "right": "encontrar(-se)"
+        },
+        {
+          "left": "available",
+          "right": "disponível"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

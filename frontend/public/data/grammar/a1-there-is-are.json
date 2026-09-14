@@ -1,0 +1,25 @@
+{
+  "id": "a1-there-is-are",
+  "level": "A1",
+  "title": "There is / There are",
+  "topic": "there_is_are",
+  "summary": "There is + singular noun. There are + plural noun. In questions, invert: Is there a bank near here? Are there any studen",
+  "rule": "There is + singular noun. There are + plural noun. In questions, invert: Is there a bank near here? Are there any students?",
+  "examples": [
+    "There is a park near my house.",
+    "There are two bathrooms."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "There are a book.",
+      "correct": "There is a book.",
+      "explanation": "A book = singular → there is."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m3-l1"
+  ],
+  "tutorHints": [
+    "Contrast there is vs have: There is a cat vs I have a cat."
+  ]
+}

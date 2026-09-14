@@ -1,0 +1,195 @@
+{
+  "lessonId": "a2-m5-l1",
+  "exercises": [
+    {
+      "id": "ex_a2_m5_l1_01",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Adverbs of Frequency (Review+)):",
+      "options": [
+        "I rarely eat fast food.",
+        "I rarely eat fast food.",
+        "No correct form.",
+        "food. fast eat rarely I"
+      ],
+      "answer": "I rarely eat fast food.",
+      "explanation": "This follows the pattern taught in Adverbs of Frequency (Review+)."
+    },
+    {
+      "id": "ex_a2_m5_l1_02",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Adverbs of Frequency (Review+)\"?",
+      "options": [
+        "rarely",
+        "every day",
+        "once a month",
+        "xyzabc"
+      ],
+      "answer": "rarely",
+      "explanation": "\"rarely\" (raramente) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l1_03",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ walks every day.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Always, usually, often, sometimes, rarely, never — position with one/two verbs."
+    },
+    {
+      "id": "ex_a2_m5_l1_04",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "fill_blank",
+      "question": "Complete: I ___ eat fast food.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m5_l1_05",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "fill_blank",
+      "question": "Complete: ___ walks every day.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Always, usually, often, sometimes, rarely, never — position with one/two verbs."
+    },
+    {
+      "id": "ex_a2_m5_l1_06",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "fill_blank",
+      "question": "Complete: ___ travel once a month.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l1_07",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "true_false",
+      "question": "True or false: \"I rarely eat fast food.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l1_08",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "true_false",
+      "question": "True or false: I rarely eat fast food. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l1_09",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "rarely",
+          "right": "raramente"
+        },
+        {
+          "left": "every day",
+          "right": "todos os dias"
+        },
+        {
+          "left": "once a month",
+          "right": "uma vez por mês"
+        },
+        {
+          "left": "hardly ever",
+          "right": "quase nunca"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l1_10",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "rarely",
+          "right": "raramente"
+        },
+        {
+          "left": "every day",
+          "right": "todos os dias"
+        },
+        {
+          "left": "once a month",
+          "right": "uma vez por mês"
+        },
+        {
+          "left": "hardly ever",
+          "right": "quase nunca"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m5_l1_11",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": "a2-frequency",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"I rarely eat fast food.\"",
+      "answer": "I rarely eat fast food.",
+      "answers": [
+        "I rarely eat fast food."
+      ],
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m5_l1_12",
+      "level": "A2",
+      "topic": "frequency_a2",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"once a month\"?",
+      "options": [
+        "uma vez por mês",
+        "raramente",
+        "todos os dias",
+        "none of these"
+      ],
+      "answer": "uma vez por mês",
+      "explanation": "\"once a month\" means \"uma vez por mês\"."
+    }
+  ]
+}

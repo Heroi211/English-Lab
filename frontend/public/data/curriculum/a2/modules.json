@@ -1,0 +1,253 @@
+{
+  "levelId": "a2",
+  "modules": [
+    {
+      "id": "a2-m1",
+      "levelId": "a2",
+      "order": 1,
+      "title": "Past Simple",
+      "description": "Talk about finished actions and experiences in the past.",
+      "lessons": [
+        {
+          "id": "a2-m1-l1",
+          "order": 1,
+          "title": "Past Simple — Regular Verbs"
+        },
+        {
+          "id": "a2-m1-l2",
+          "order": 2,
+          "title": "Past Simple — Irregular Verbs"
+        },
+        {
+          "id": "a2-m1-l3",
+          "order": 3,
+          "title": "Past Simple — Questions & Negatives"
+        },
+        {
+          "id": "a2-m1-l4",
+          "order": 4,
+          "title": "Past Time Expressions"
+        }
+      ],
+      "assessmentId": "a2-m1-module-test",
+      "canDoSummary": "I can use past simple confidently at A2 level."
+    },
+    {
+      "id": "a2-m2",
+      "levelId": "a2",
+      "order": 2,
+      "title": "Future — Will & Going To",
+      "description": "Discuss plans, predictions, and spontaneous decisions.",
+      "lessons": [
+        {
+          "id": "a2-m2-l1",
+          "order": 1,
+          "title": "Future with Will"
+        },
+        {
+          "id": "a2-m2-l2",
+          "order": 2,
+          "title": "Future with Going To"
+        },
+        {
+          "id": "a2-m2-l3",
+          "order": 3,
+          "title": "Present Continuous for Future"
+        },
+        {
+          "id": "a2-m2-l4",
+          "order": 4,
+          "title": "Plans vs Predictions"
+        }
+      ],
+      "assessmentId": "a2-m2-module-test",
+      "canDoSummary": "I can use future — will & going to confidently at A2 level."
+    },
+    {
+      "id": "a2-m3",
+      "levelId": "a2",
+      "order": 3,
+      "title": "Comparatives & Superlatives",
+      "description": "Compare people, places, and things.",
+      "lessons": [
+        {
+          "id": "a2-m3-l1",
+          "order": 1,
+          "title": "Comparatives"
+        },
+        {
+          "id": "a2-m3-l2",
+          "order": 2,
+          "title": "Superlatives"
+        },
+        {
+          "id": "a2-m3-l3",
+          "order": 3,
+          "title": "As … As"
+        },
+        {
+          "id": "a2-m3-l4",
+          "order": 4,
+          "title": "Too & Enough"
+        }
+      ],
+      "assessmentId": "a2-m3-module-test",
+      "canDoSummary": "I can use comparatives & superlatives confidently at A2 level."
+    },
+    {
+      "id": "a2-m4",
+      "levelId": "a2",
+      "order": 4,
+      "title": "Quantity & Countability",
+      "description": "Talk about amounts with much, many, few, little.",
+      "lessons": [
+        {
+          "id": "a2-m4-l1",
+          "order": 1,
+          "title": "Much & Many"
+        },
+        {
+          "id": "a2-m4-l2",
+          "order": 2,
+          "title": "Few & Little"
+        },
+        {
+          "id": "a2-m4-l3",
+          "order": 3,
+          "title": "Containers & Measures"
+        },
+        {
+          "id": "a2-m4-l4",
+          "order": 4,
+          "title": "Countable vs Uncountable"
+        }
+      ],
+      "assessmentId": "a2-m4-module-test",
+      "canDoSummary": "I can use quantity & countability confidently at A2 level."
+    },
+    {
+      "id": "a2-m5",
+      "levelId": "a2",
+      "order": 5,
+      "title": "Frequency & Modals",
+      "description": "Express habits, obligation, advice, and preferences.",
+      "lessons": [
+        {
+          "id": "a2-m5-l1",
+          "order": 1,
+          "title": "Adverbs of Frequency (Review+)"
+        },
+        {
+          "id": "a2-m5-l2",
+          "order": 2,
+          "title": "Should / Shouldn't"
+        },
+        {
+          "id": "a2-m5-l3",
+          "order": 3,
+          "title": "Must / Have To"
+        },
+        {
+          "id": "a2-m5-l4",
+          "order": 4,
+          "title": "Would Like"
+        }
+      ],
+      "assessmentId": "a2-m5-module-test",
+      "canDoSummary": "I can use frequency & modals confidently at A2 level."
+    },
+    {
+      "id": "a2-m6",
+      "levelId": "a2",
+      "order": 6,
+      "title": "Present Perfect Intro",
+      "description": "Link past actions to the present.",
+      "lessons": [
+        {
+          "id": "a2-m6-l1",
+          "order": 1,
+          "title": "Present Perfect Form"
+        },
+        {
+          "id": "a2-m6-l2",
+          "order": 2,
+          "title": "Ever & Never"
+        },
+        {
+          "id": "a2-m6-l3",
+          "order": 3,
+          "title": "For & Since"
+        },
+        {
+          "id": "a2-m6-l4",
+          "order": 4,
+          "title": "Just, Already & Yet"
+        }
+      ],
+      "assessmentId": "a2-m6-module-test",
+      "canDoSummary": "I can use present perfect intro confidently at A2 level."
+    },
+    {
+      "id": "a2-m7",
+      "levelId": "a2",
+      "order": 7,
+      "title": "First Conditional",
+      "description": "Talk about real future possibilities.",
+      "lessons": [
+        {
+          "id": "a2-m7-l1",
+          "order": 1,
+          "title": "If + Present, Will"
+        },
+        {
+          "id": "a2-m7-l2",
+          "order": 2,
+          "title": "Unless & As Long As"
+        },
+        {
+          "id": "a2-m7-l3",
+          "order": 3,
+          "title": "Real Conditions in Context"
+        },
+        {
+          "id": "a2-m7-l4",
+          "order": 4,
+          "title": "Mixed Conditionals Intro"
+        }
+      ],
+      "assessmentId": "a2-m7-module-test",
+      "canDoSummary": "I can use first conditional confidently at A2 level."
+    },
+    {
+      "id": "a2-m8",
+      "levelId": "a2",
+      "order": 8,
+      "title": "Lexis & Phrasal Verbs",
+      "description": "Expand vocabulary with common phrasal verbs and collocations.",
+      "lessons": [
+        {
+          "id": "a2-m8-l1",
+          "order": 1,
+          "title": "Common Phrasal Verbs 1"
+        },
+        {
+          "id": "a2-m8-l2",
+          "order": 2,
+          "title": "Common Phrasal Verbs 2"
+        },
+        {
+          "id": "a2-m8-l3",
+          "order": 3,
+          "title": "Collocations"
+        },
+        {
+          "id": "a2-m8-l4",
+          "order": 4,
+          "title": "Review & Useful Idioms"
+        }
+      ],
+      "assessmentId": "a2-m8-module-test",
+      "canDoSummary": "I can use lexis & phrasal verbs confidently at A2 level."
+    }
+  ]
+}

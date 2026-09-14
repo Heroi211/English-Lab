@@ -1,0 +1,148 @@
+{
+  "id": "a1-m4-module-test",
+  "kind": "module",
+  "moduleId": "a1-m4",
+  "level": "A1",
+  "title": "Present Simple — Module Test",
+  "description": "Test your knowledge of the whole module: Present Simple. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use present simple in everyday A1 communication.",
+  "questions": [
+    {
+      "id": "mt_a1_m4_01",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Simple — Affirmative):",
+      "options": [
+        "I work in an office.",
+        "I work in an office.",
+        "No correct form.",
+        "office. an in work I"
+      ],
+      "answer": "I work in an office.",
+      "explanation": "This follows the pattern taught in Present Simple — Affirmative."
+    },
+    {
+      "id": "mt_a1_m4_02",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Present Simple — Negative\"?",
+      "options": [
+        "don't",
+        "doesn't",
+        "understand",
+        "xyzabc"
+      ],
+      "answer": "don't",
+      "explanation": "\"don't\" (não (auxiliar)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a1_m4_03",
+      "level": "A1",
+      "topic": "present_simple_q",
+      "ruleId": "a1-present-simple-q",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ she live here?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Do you…? / Does he…?"
+    },
+    {
+      "id": "mt_a1_m4_04",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "ruleId": "a1-adverbs-frequency",
+      "type": "fill_blank",
+      "question": "Complete: I ___ drink water.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a1_m4_05",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "true_false",
+      "question": "True or false: \"I work in an office.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a1_m4_06",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "true_false",
+      "question": "True or false: I don't understand. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "mt_a1_m4_07",
+      "level": "A1",
+      "topic": "present_simple_q",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "do",
+          "right": "auxiliar (pergunta)"
+        },
+        {
+          "left": "does",
+          "right": "auxiliar (ele"
+        },
+        {
+          "left": "what",
+          "right": "o que"
+        },
+        {
+          "left": "when",
+          "right": "quando"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a1_m4_08",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "ruleId": "a1-adverbs-frequency",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "always",
+          "right": "sempre"
+        },
+        {
+          "left": "usually",
+          "right": "geralmente"
+        },
+        {
+          "left": "often",
+          "right": "frequentemente"
+        },
+        {
+          "left": "sometimes",
+          "right": "às vezes"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "lessonId": "a2-m1-l1",
+  "exercises": [
+    {
+      "id": "ex_a2_m1_l1_01",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Past Simple — Regular Verbs):",
+      "options": [
+        "I worked yesterday.",
+        "I worked yesterday.",
+        "No correct form.",
+        "yesterday. worked I"
+      ],
+      "answer": "I worked yesterday.",
+      "explanation": "This follows the pattern taught in Past Simple — Regular Verbs."
+    },
+    {
+      "id": "ex_a2_m1_l1_02",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Past Simple — Regular Verbs\"?",
+      "options": [
+        "yesterday",
+        "last week",
+        "ago",
+        "xyzabc"
+      ],
+      "answer": "yesterday",
+      "explanation": "\"yesterday\" (ontem) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l1_03",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ visited Rome last week.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/."
+    },
+    {
+      "id": "ex_a2_m1_l1_04",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "fill_blank",
+      "question": "Complete: I worked ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m1_l1_05",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "fill_blank",
+      "question": "Complete: ___ visited Rome last week.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/."
+    },
+    {
+      "id": "ex_a2_m1_l1_06",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "fill_blank",
+      "question": "Complete: ___ days ago.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l1_07",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "true_false",
+      "question": "True or false: \"I worked yesterday.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l1_08",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "true_false",
+      "question": "True or false: I worked yesterday. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l1_09",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "yesterday",
+          "right": "ontem"
+        },
+        {
+          "left": "last week",
+          "right": "semana passada"
+        },
+        {
+          "left": "ago",
+          "right": "atrás"
+        },
+        {
+          "left": "finished",
+          "right": "terminado"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l1_10",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "yesterday",
+          "right": "ontem"
+        },
+        {
+          "left": "last week",
+          "right": "semana passada"
+        },
+        {
+          "left": "ago",
+          "right": "atrás"
+        },
+        {
+          "left": "finished",
+          "right": "terminado"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m1_l1_11",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"I worked yesterday.\"",
+      "answer": "I worked yesterday.",
+      "answers": [
+        "I worked yesterday."
+      ],
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m1_l1_12",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"ago\"?",
+      "options": [
+        "atrás",
+        "ontem",
+        "semana passada",
+        "none of these"
+      ],
+      "answer": "atrás",
+      "explanation": "\"ago\" means \"atrás\"."
+    }
+  ]
+}

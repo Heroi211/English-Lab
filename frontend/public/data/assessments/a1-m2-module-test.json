@@ -1,0 +1,148 @@
+{
+  "id": "a1-m2-module-test",
+  "kind": "module",
+  "moduleId": "a1-m2",
+  "level": "A1",
+  "title": "Building Blocks — Module Test",
+  "description": "Test your knowledge of the whole module: Building Blocks. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use possessives, articles, plurals, and demonstratives in simple sentences.",
+  "questions": [
+    {
+      "id": "mt_a1_m2_01",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Possessive Adjectives):",
+      "options": [
+        "This is my house.",
+        "This XXX my house.",
+        "No correct form.",
+        "house. my is This"
+      ],
+      "answer": "This is my house.",
+      "explanation": "This follows the pattern taught in Possessive Adjectives."
+    },
+    {
+      "id": "mt_a1_m2_02",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Articles a / an / the\"?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "xyzabc"
+      ],
+      "answer": "a",
+      "explanation": "\"a\" (um/uma) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a1_m2_03",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": "a1-plurals",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ children play outside.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Most nouns add -s for plural. Learn high-frequency irregular plurals. Verb agreement: one book → it is; two books → they are."
+    },
+    {
+      "id": "mt_a1_m2_04",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "fill_blank",
+      "question": "Complete: ___ is my bag.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a1_m2_05",
+      "level": "A1",
+      "topic": "possessives",
+      "ruleId": "a1-possessives",
+      "type": "true_false",
+      "question": "True or false: \"This is my house.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a1_m2_06",
+      "level": "A1",
+      "topic": "articles",
+      "ruleId": "a1-articles",
+      "type": "true_false",
+      "question": "True or false: I am engineer. is grammatically correct.",
+      "answer": false,
+      "explanation": "Jobs need a/an."
+    },
+    {
+      "id": "mt_a1_m2_07",
+      "level": "A1",
+      "topic": "plurals",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "child",
+          "right": "criança"
+        },
+        {
+          "left": "children",
+          "right": "crianças"
+        },
+        {
+          "left": "person",
+          "right": "pessoa"
+        },
+        {
+          "left": "people",
+          "right": "pessoas"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a1_m2_08",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "this",
+          "right": "este"
+        },
+        {
+          "left": "that",
+          "right": "esse"
+        },
+        {
+          "left": "these",
+          "right": "estes"
+        },
+        {
+          "left": "those",
+          "right": "esses"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

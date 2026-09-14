@@ -1,0 +1,195 @@
+{
+  "lessonId": "a2-m6-l3",
+  "exercises": [
+    {
+      "id": "ex_a2_m6_l3_01",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": "a2-for-since",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (For & Since):",
+      "options": [
+        "Since last year.",
+        "Since last year.",
+        "No correct form.",
+        "year. last Since"
+      ],
+      "answer": "Since last year.",
+      "explanation": "This follows the pattern taught in For & Since."
+    },
+    {
+      "id": "ex_a2_m6_l3_02",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"For & Since\"?",
+      "options": [
+        "since",
+        "for",
+        "how long",
+        "xyzabc"
+      ],
+      "answer": "since",
+      "explanation": "\"since\" (desde) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l3_03",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": "a2-for-since",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ two hours.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Since + point (since 2020, since Monday) | For + period (for three years)"
+    },
+    {
+      "id": "ex_a2_m6_l3_04",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": "a2-for-since",
+      "type": "fill_blank",
+      "question": "Complete: ___ last year.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m6_l3_05",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": "a2-for-since",
+      "type": "fill_blank",
+      "question": "Complete: ___ two hours.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Since + point (since 2020, since Monday) | For + period (for three years)"
+    },
+    {
+      "id": "ex_a2_m6_l3_06",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": "a2-for-since",
+      "type": "fill_blank",
+      "question": "Complete: ___ long have you known her?",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l3_07",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": "a2-for-since",
+      "type": "true_false",
+      "question": "True or false: \"Since last year.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l3_08",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": "a2-for-since",
+      "type": "true_false",
+      "question": "True or false: Since last year. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l3_09",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "since",
+          "right": "desde"
+        },
+        {
+          "left": "for",
+          "right": "por"
+        },
+        {
+          "left": "how long",
+          "right": "há quanto tempo"
+        },
+        {
+          "left": "duration",
+          "right": "duração"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l3_10",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": "a2-for-since",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "since",
+          "right": "desde"
+        },
+        {
+          "left": "for",
+          "right": "por"
+        },
+        {
+          "left": "how long",
+          "right": "há quanto tempo"
+        },
+        {
+          "left": "duration",
+          "right": "duração"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m6_l3_11",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": "a2-for-since",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"Since last year.\"",
+      "answer": "Since last year.",
+      "answers": [
+        "Since last year."
+      ],
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m6_l3_12",
+      "level": "A2",
+      "topic": "for_since",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"how long\"?",
+      "options": [
+        "há quanto tempo",
+        "desde",
+        "por / durante",
+        "none of these"
+      ],
+      "answer": "há quanto tempo",
+      "explanation": "\"how long\" means \"há quanto tempo\"."
+    }
+  ]
+}

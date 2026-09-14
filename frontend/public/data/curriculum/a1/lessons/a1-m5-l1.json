@@ -1,0 +1,227 @@
+{
+  "id": "a1-m5-l1",
+  "moduleId": "a1-m5",
+  "level": "A1",
+  "order": 1,
+  "title": "Present Continuous — Form",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use present continuous — form.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can form present continuous with am/is/are + verb-ing.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"present continuous — form\" in real life. (Pense quando você usa isso no dia a dia.)",
+    "reflectionQuestions": [
+      "Can you give one example of Present Continuous — Form?"
+    ]
+  },
+  "explanation": "Am/is/are + verb-ing for actions NOW.\n\nI am studying. | She is cooking. | They are playing.\n\nSpelling: run → running, sit → sitting\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-present-continuous",
+    "title": "Present Continuous — Form",
+    "rule": "Am/is/are + verb-ing for actions NOW.",
+    "examples": [
+      {
+        "sentence": "I am busy now.",
+        "note": "now"
+      },
+      {
+        "sentence": "At the moment I am studying.",
+        "note": "at the moment"
+      },
+      {
+        "sentence": "She is cooking dinner.",
+        "note": "cook"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "now",
+      "translation": "agora",
+      "partOfSpeech": "adverb",
+      "example": "I am busy now.",
+      "collocations": []
+    },
+    {
+      "word": "at the moment",
+      "translation": "no momento",
+      "partOfSpeech": "phrase",
+      "example": "At the moment I am studying.",
+      "collocations": []
+    },
+    {
+      "word": "cook",
+      "translation": "cozinhar",
+      "partOfSpeech": "verb",
+      "example": "She is cooking dinner.",
+      "collocations": []
+    },
+    {
+      "word": "read",
+      "translation": "ler",
+      "partOfSpeech": "verb",
+      "example": "He is reading a book.",
+      "collocations": []
+    },
+    {
+      "word": "write",
+      "translation": "escrever",
+      "partOfSpeech": "verb",
+      "example": "I am writing an email.",
+      "collocations": []
+    },
+    {
+      "word": "listen",
+      "translation": "ouvir / escutar",
+      "partOfSpeech": "verb",
+      "example": "They are listening to music.",
+      "collocations": []
+    },
+    {
+      "word": "wait",
+      "translation": "esperar",
+      "partOfSpeech": "verb",
+      "example": "We are waiting for the bus.",
+      "collocations": []
+    },
+    {
+      "word": "rain",
+      "translation": "chover",
+      "partOfSpeech": "verb",
+      "example": "It is raining.",
+      "collocations": []
+    },
+    {
+      "word": "today",
+      "translation": "hoje",
+      "partOfSpeech": "adverb",
+      "example": "Today I am working from home.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Present Continuous — Form",
+      "sentences": [
+        "I am busy now.",
+        "At the moment I am studying.",
+        "She is cooking dinner.",
+        "He is reading a book."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m5_l1_01",
+    "ex_a1_m5_l1_02",
+    "ex_a1_m5_l1_03",
+    "ex_a1_m5_l1_04",
+    "ex_a1_m5_l1_05",
+    "ex_a1_m5_l1_06",
+    "ex_a1_m5_l1_07",
+    "ex_a1_m5_l1_08",
+    "ex_a1_m5_l1_09",
+    "ex_a1_m5_l1_10",
+    "ex_a1_m5_l1_11",
+    "ex_a1_m5_l1_12"
+  ],
+  "reading": {
+    "title": "Present Continuous — Form — Reading",
+    "text": "Every day, people use present continuous — form in conversation. I am busy now. At the moment I am studying. She is cooking dinner. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "now",
+        "explanation": "Focus word: now.",
+        "options": [
+          "now",
+          "at the moment",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"at the moment\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "no momento",
+        "explanation": "no momento"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using present continuous — form.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "I am busy now. At the moment I am studying. She is cooking dinner."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-present-continuous"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_now"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_at_the_moment"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_cook"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_read"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_write"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_listen"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m5_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m5_l1_10"
+    }
+  ],
+  "checkpointId": "a1-m5-l1-checkpoint",
+  "tutorHints": [
+    "Focus on Present Continuous — Form with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m5-l1.json",
+  "exercisesRef": "exercises/a1-m5-l1.json",
+  "grammarRef": "grammar/a1-present-continuous.json",
+  "checkpointRef": "assessments/a1-m5-l1-checkpoint.json"
+}

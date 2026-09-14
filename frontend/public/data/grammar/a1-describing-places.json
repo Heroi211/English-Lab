@@ -1,0 +1,25 @@
+{
+  "id": "a1-describing-places",
+  "level": "A1",
+  "title": "Describing Places",
+  "topic": "describing_places",
+  "summary": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, i",
+  "rule": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the door.",
+  "examples": [
+    "There is a mirror on the wall.",
+    "She has keys in her bag."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The book is in the table.",
+      "correct": "The book is on the table.",
+      "explanation": "On for surfaces; in for enclosed spaces."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m3-l4"
+  ],
+  "tutorHints": [
+    "Draw a room plan for there is + prepositions."
+  ]
+}

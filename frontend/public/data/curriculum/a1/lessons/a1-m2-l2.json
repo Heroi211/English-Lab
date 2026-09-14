@@ -1,0 +1,216 @@
+{
+  "id": "a1-m2-l2",
+  "moduleId": "a1-m2",
+  "level": "A1",
+  "order": 2,
+  "title": "Articles a / an / the",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use a before consonant sounds and an before vowel sounds.",
+    "Understand basic use of the for specific things.",
+    "Choose a/an/the correctly in common phrases."
+  ],
+  "canDo": "I can use a, an, and the in common noun phrases.",
+  "warmUp": {
+    "title": "Artigos",
+    "prompt": "Português tem \"um/uma\" e \"o/a\". Inglês usa a/an e the. When do you think we use each?",
+    "reflectionQuestions": [
+      "a or an: apple?",
+      "Do we say \"I am student\"?"
+    ]
+  },
+  "explanation": "Indefinite articles: a + consonant sound (a book, a university /ju/) | an + vowel sound (an apple, an hour /au/)\n\nUse a/an for one non-specific thing: I am a student. She is an engineer.\n\nDefinite article the = specific: The book on the table is mine.\n\nJobs/nationalities: He is a doctor. She is an Brazilian? ✗ → She is Brazilian. (no article with nationality adjectives)",
+  "grammar": {
+    "ruleId": "a1-articles",
+    "title": "Articles a / an / the",
+    "rule": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which one. No article with plural generics in general statements.",
+    "examples": [
+      {
+        "sentence": "I need a pen.",
+        "note": "Any pen"
+      },
+      {
+        "sentence": "The pen on the desk is blue.",
+        "note": "Specific pen"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "a",
+      "translation": "um/uma",
+      "partOfSpeech": "article",
+      "example": "I have a cat.",
+      "collocations": []
+    },
+    {
+      "word": "an",
+      "translation": "um/uma (vogal)",
+      "partOfSpeech": "article",
+      "example": "She is an artist.",
+      "collocations": []
+    },
+    {
+      "word": "the",
+      "translation": "o/a/os/as",
+      "partOfSpeech": "article",
+      "example": "The cat is black.",
+      "collocations": []
+    },
+    {
+      "word": "book",
+      "translation": "livro",
+      "partOfSpeech": "noun",
+      "example": "This is a good book.",
+      "collocations": []
+    },
+    {
+      "word": "apple",
+      "translation": "maçã",
+      "partOfSpeech": "noun",
+      "example": "I eat an apple.",
+      "collocations": []
+    },
+    {
+      "word": "engineer",
+      "translation": "engenheiro(a)",
+      "partOfSpeech": "noun",
+      "example": "He is an engineer.",
+      "collocations": []
+    },
+    {
+      "word": "umbrella",
+      "translation": "guarda-chuva",
+      "partOfSpeech": "noun",
+      "example": "Take an umbrella.",
+      "collocations": []
+    },
+    {
+      "word": "university",
+      "translation": "universidade",
+      "partOfSpeech": "noun",
+      "example": "She goes to a university.",
+      "collocations": []
+    },
+    {
+      "word": "hour",
+      "translation": "hora",
+      "partOfSpeech": "noun",
+      "example": "Wait an hour.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "sentences": [
+        "I have a dog. The dog is friendly.",
+        "He is a teacher at a big school."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m2_l2_01",
+    "ex_a1_m2_l2_02",
+    "ex_a1_m2_l2_03",
+    "ex_a1_m2_l2_04",
+    "ex_a1_m2_l2_05",
+    "ex_a1_m2_l2_06",
+    "ex_a1_m2_l2_07",
+    "ex_a1_m2_l2_08",
+    "ex_a1_m2_l2_09",
+    "ex_a1_m2_l2_10",
+    "ex_a1_m2_l2_11",
+    "ex_a1_m2_l2_12"
+  ],
+  "reading": {
+    "title": "A Day at the Market",
+    "text": "Paula goes to the market. She buys an apple, a loaf of bread, and a bottle of water. The apple is green. The bread is fresh. At home, she puts the apple in a bowl. The bowl is on the table.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What does Paula buy first in the list?",
+        "type": "short_answer",
+        "answer": "an apple",
+        "explanation": "She buys an apple."
+      },
+      {
+        "id": "r2",
+        "question": "Is the bread fresh?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The bread is fresh."
+      },
+      {
+        "id": "r3",
+        "question": "Where is the bowl?",
+        "type": "multiple_choice",
+        "answer": "on the table",
+        "explanation": "The bowl is on the table.",
+        "options": [
+          "in the bag",
+          "on the table",
+          "at the market",
+          "in the fridge"
+        ]
+      },
+      {
+        "id": "r4",
+        "question": "What colour is the apple?",
+        "type": "short_answer",
+        "answer": "green",
+        "explanation": "The apple is green."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 5 sentences about things in your room. Use a/an/the at least once each.",
+    "minWords": 25,
+    "modelAnswer": "I have a bed and a desk. The desk is small. There is an lamp on the desk. The lamp is white. I like the chair — it is comfortable."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-articles"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_a"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_an"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_the"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_book"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_apple"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_engineer"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m2_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m2_l2_10"
+    }
+  ],
+  "checkpointId": "a1-m2-l2-checkpoint",
+  "tutorHints": [
+    "Teach sound not spelling: a university, an hour."
+  ],
+  "vocabularyRef": "vocabulary/a1-m2-l2.json",
+  "exercisesRef": "exercises/a1-m2-l2.json",
+  "grammarRef": "grammar/a1-articles.json",
+  "checkpointRef": "assessments/a1-m2-l2-checkpoint.json"
+}

@@ -1,0 +1,203 @@
+{
+  "lessonId": "a2-m3-l4",
+  "exercises": [
+    {
+      "id": "ex_a2_m3_l4_01",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Too & Enough):",
+      "options": [
+        "Too late to change.",
+        "Too late to change.",
+        "No correct form.",
+        "change. to late Too"
+      ],
+      "answer": "Too late to change.",
+      "explanation": "This follows the pattern taught in Too & Enough."
+    },
+    {
+      "id": "ex_a2_m3_l4_02",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Too & Enough\"?",
+      "options": [
+        "too",
+        "enough",
+        "plenty",
+        "xyzabc"
+      ],
+      "answer": "too",
+      "explanation": "\"too\" (demais / muito (excesso)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l4_03",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ have enough chairs.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Too + adj = excess (too hot) | Adj + enough (big enough) | Enough + noun (enough time)"
+    },
+    {
+      "id": "ex_a2_m3_l4_04",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "fill_blank",
+      "question": "Complete: ___ late to change.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m3_l4_05",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "fill_blank",
+      "question": "Complete: ___ have enough chairs.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Too + adj = excess (too hot) | Adj + enough (big enough) | Enough + noun (enough time)"
+    },
+    {
+      "id": "ex_a2_m3_l4_06",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "fill_blank",
+      "question": "Complete: ___ of time.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l4_07",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "true_false",
+      "question": "True or false: \"Too late to change.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l4_08",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "true_false",
+      "question": "True or false: Too late to change. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l4_09",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "too",
+          "right": "demais"
+        },
+        {
+          "left": "enough",
+          "right": "suficiente"
+        },
+        {
+          "left": "plenty",
+          "right": "bastante"
+        },
+        {
+          "left": "almost",
+          "right": "quase"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l4_10",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "too",
+          "right": "demais"
+        },
+        {
+          "left": "enough",
+          "right": "suficiente"
+        },
+        {
+          "left": "plenty",
+          "right": "bastante"
+        },
+        {
+          "left": "almost",
+          "right": "quase"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m3_l4_11",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "Too",
+        "change",
+        "late",
+        "to"
+      ],
+      "answer": [
+        "Too",
+        "late",
+        "to",
+        "change"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l4_12",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"plenty\"?",
+      "options": [
+        "bastante",
+        "demais / muito (excesso)",
+        "suficiente",
+        "none of these"
+      ],
+      "answer": "bastante",
+      "explanation": "\"plenty\" means \"bastante\"."
+    }
+  ]
+}

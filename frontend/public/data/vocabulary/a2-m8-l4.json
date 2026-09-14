@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m8-l4",
+  "level": "A2",
+  "topic": "idioms_review",
+  "items": [
+    {
+      "id": "vocab_break_the_ice",
+      "word": "break the ice",
+      "translation": "quebrar o gelo",
+      "partOfSpeech": "idiom",
+      "level": "A2",
+      "topic": "idioms_review",
+      "example": "A joke breaks the ice.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_piece_of_cake",
+      "word": "piece of cake",
+      "translation": "muito fácil",
+      "partOfSpeech": "idiom",
+      "level": "A2",
+      "topic": "idioms_review",
+      "example": "The test was a piece of cake.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_under_the_weather",
+      "word": "under the weather",
+      "translation": "indisposto",
+      "partOfSpeech": "idiom",
+      "level": "A2",
+      "topic": "idioms_review",
+      "example": "I feel under the weather.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_review",
+      "word": "review",
+      "translation": "revisar",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "idioms_review",
+      "example": "Let us review the vocabulary.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

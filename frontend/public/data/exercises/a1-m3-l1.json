@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m3-l1",
+  "exercises": [
+    {
+      "id": "ex_a1_m3_l1_01",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (There is / There are):",
+      "options": [
+        "There is a park near my house.",
+        "There XXX a park near my house.",
+        "No correct form.",
+        "house. my near park a is There"
+      ],
+      "answer": "There is a park near my house.",
+      "explanation": "This follows the pattern taught in There is / There are."
+    },
+    {
+      "id": "ex_a1_m3_l1_02",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"There is / There are\"?",
+      "options": [
+        "there is",
+        "there are",
+        "room",
+        "xyzabc"
+      ],
+      "answer": "there is",
+      "explanation": "\"there is\" (há / tem (singular)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l1_03",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ are many parks here.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "There is + singular noun. There are + plural noun. In questions, invert: Is there a bank near here? Are there any students?"
+    },
+    {
+      "id": "ex_a1_m3_l1_04",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "fill_blank",
+      "question": "Complete: ___ a café on this street.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m3_l1_05",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "fill_blank",
+      "question": "Complete: ___ are many parks here.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "There is + singular noun. There are + plural noun. In questions, invert: Is there a bank near here? Are there any studen"
+    },
+    {
+      "id": "ex_a1_m3_l1_06",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "fill_blank",
+      "question": "Complete: ___ is a bed in the room.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l1_07",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "true_false",
+      "question": "True or false: \"There is a park near my house.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l1_08",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "true_false",
+      "question": "True or false: There are a book. is grammatically correct.",
+      "answer": false,
+      "explanation": "A book = singular → there is."
+    },
+    {
+      "id": "ex_a1_m3_l1_09",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "there is",
+          "right": "há"
+        },
+        {
+          "left": "there are",
+          "right": "há"
+        },
+        {
+          "left": "room",
+          "right": "quarto"
+        },
+        {
+          "left": "table",
+          "right": "mesa"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m3_l1_10",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "there is",
+          "right": "há"
+        },
+        {
+          "left": "there are",
+          "right": "há"
+        },
+        {
+          "left": "room",
+          "right": "quarto"
+        },
+        {
+          "left": "table",
+          "right": "mesa"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m3_l1_11",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": "a1-there-is-are",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"There are a book.\"",
+      "answer": "There is a book.",
+      "answers": [
+        "There is a book."
+      ],
+      "explanation": "A book = singular → there is."
+    },
+    {
+      "id": "ex_a1_m3_l1_12",
+      "level": "A1",
+      "topic": "there_is_are",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"room\"?",
+      "options": [
+        "quarto / sala",
+        "há / tem (singular)",
+        "há / existem",
+        "none of these"
+      ],
+      "answer": "quarto / sala",
+      "explanation": "\"room\" means \"quarto / sala\"."
+    }
+  ]
+}

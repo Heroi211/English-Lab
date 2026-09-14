@@ -1,0 +1,103 @@
+{
+  "lessonId": "a2-m1-l2",
+  "level": "A2",
+  "topic": "past_simple_irregular",
+  "items": [
+    {
+      "id": "vocab_went",
+      "word": "went",
+      "translation": "foi",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "example": "We went to the cinema.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_saw",
+      "word": "saw",
+      "translation": "viu",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "example": "I saw Maria at the party.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_had",
+      "word": "had",
+      "translation": "teve",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "example": "They had a great time.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_did",
+      "word": "did",
+      "translation": "fez",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "example": "He did his homework.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_made",
+      "word": "made",
+      "translation": "fez / criou",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "example": "She made a cake.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_came",
+      "word": "came",
+      "translation": "veio",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "example": "My parents came early.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_got",
+      "word": "got",
+      "translation": "pegou / recebeu",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "example": "I got a message.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_took",
+      "word": "took",
+      "translation": "levou / tomou",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "example": "We took the bus.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

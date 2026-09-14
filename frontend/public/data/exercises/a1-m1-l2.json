@@ -1,0 +1,203 @@
+{
+  "lessonId": "a1-m1-l2",
+  "exercises": [
+    {
+      "id": "ex_a1_m1_l2_01",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": "a1-subject-pronouns",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Subject Pronouns):",
+      "options": [
+        "I am Brazilian.",
+        "I XXX Brazilian.",
+        "No correct form.",
+        "Brazilian. am I"
+      ],
+      "answer": "I am Brazilian.",
+      "explanation": "This follows the pattern taught in Subject Pronouns."
+    },
+    {
+      "id": "ex_a1_m1_l2_02",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Subject Pronouns\"?",
+      "options": [
+        "I",
+        "you",
+        "he",
+        "xyzabc"
+      ],
+      "answer": "I",
+      "explanation": "\"I\" (eu) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m1_l2_03",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": "a1-subject-pronouns",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ are my friend.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Subject pronouns come before the verb. I and you are the same for singular and plural in English. He = male, she = female, it = things/animals. They ="
+    },
+    {
+      "id": "ex_a1_m1_l2_04",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": "a1-subject-pronouns",
+      "type": "fill_blank",
+      "question": "Complete: ___ am a student.",
+      "answer": "He",
+      "answers": [
+        "He"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m1_l2_05",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": "a1-subject-pronouns",
+      "type": "fill_blank",
+      "question": "Complete: ___ are my friend.",
+      "answer": "They",
+      "answers": [
+        "They"
+      ],
+      "explanation": "Subject pronouns come before the verb. I and you are the same for singular and plural in English. He = male, she = femal"
+    },
+    {
+      "id": "ex_a1_m1_l2_06",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": "a1-subject-pronouns",
+      "type": "fill_blank",
+      "question": "Complete: ___ is a doctor.",
+      "answer": "She",
+      "answers": [
+        "She"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m1_l2_07",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": "a1-subject-pronouns",
+      "type": "true_false",
+      "question": "True or false: \"I am Brazilian.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m1_l2_08",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": "a1-subject-pronouns",
+      "type": "true_false",
+      "question": "True or false: Her is a teacher.",
+      "answer": false,
+      "explanation": "Her is possessive/object; use she as subject."
+    },
+    {
+      "id": "ex_a1_m1_l2_09",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "I",
+          "right": "eu"
+        },
+        {
+          "left": "you",
+          "right": "você"
+        },
+        {
+          "left": "he",
+          "right": "ele"
+        },
+        {
+          "left": "she",
+          "right": "ela"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m1_l2_10",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": "a1-subject-pronouns",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "I",
+          "right": "eu"
+        },
+        {
+          "left": "you",
+          "right": "você"
+        },
+        {
+          "left": "he",
+          "right": "ele"
+        },
+        {
+          "left": "she",
+          "right": "ela"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m1_l2_11",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": "a1-subject-pronouns",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "am",
+        "I",
+        "student",
+        "a"
+      ],
+      "answer": [
+        "I",
+        "am",
+        "a",
+        "student"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m1_l2_12",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"he\"?",
+      "options": [
+        "ele",
+        "eu",
+        "você / vocês",
+        "none of these"
+      ],
+      "answer": "ele",
+      "explanation": "\"he\" means \"ele\"."
+    }
+  ]
+}

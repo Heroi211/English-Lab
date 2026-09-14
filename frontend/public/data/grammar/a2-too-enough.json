@@ -1,0 +1,26 @@
+{
+  "id": "a2-too-enough",
+  "level": "A2",
+  "title": "Too & Enough",
+  "topic": "too_enough",
+  "summary": "Too + adj = excess (too hot) | Adj + enough (big enough) | Enough + noun (enough time)",
+  "rule": "Too + adj = excess (too hot) | Adj + enough (big enough) | Enough + noun (enough time)",
+  "examples": [
+    "Too late to change.",
+    "We have enough chairs.",
+    "Plenty of time."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Too late to change.",
+      "correct": "Too late to change.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m3-l4"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

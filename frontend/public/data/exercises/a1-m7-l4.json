@@ -1,0 +1,207 @@
+{
+  "lessonId": "a1-m7-l4",
+  "exercises": [
+    {
+      "id": "ex_a1_m7_l4_01",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Schedules & Appointments):",
+      "options": [
+        "I have an appointment at 3.",
+        "I XXX an appointment at 3.",
+        "No correct form.",
+        "3. at appointment an have I"
+      ],
+      "answer": "I have an appointment at 3.",
+      "explanation": "This follows the pattern taught in Schedules & Appointments."
+    },
+    {
+      "id": "ex_a1_m7_l4_02",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Schedules & Appointments\"?",
+      "options": [
+        "appointment",
+        "schedule",
+        "meet",
+        "xyzabc"
+      ],
+      "answer": "appointment",
+      "explanation": "\"appointment\" (compromisso / consulta) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l4_03",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is your schedule?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "What day? What time? — Let's meet on Friday at 2 p.m."
+    },
+    {
+      "id": "ex_a1_m7_l4_04",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "fill_blank",
+      "question": "Complete: I have an ___ at 3.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m7_l4_05",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "fill_blank",
+      "question": "Complete: ___ is your schedule?",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "What day? What time? — Let's meet on Friday at 2 p.m."
+    },
+    {
+      "id": "ex_a1_m7_l4_06",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "fill_blank",
+      "question": "Complete: ___'s meet at noon.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l4_07",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "true_false",
+      "question": "True or false: \"I have an appointment at 3.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l4_08",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "true_false",
+      "question": "True or false: I have an appointment at 3. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l4_09",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "appointment",
+          "right": "compromisso"
+        },
+        {
+          "left": "schedule",
+          "right": "agenda"
+        },
+        {
+          "left": "meet",
+          "right": "encontrar(-se)"
+        },
+        {
+          "left": "available",
+          "right": "disponível"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l4_10",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "appointment",
+          "right": "compromisso"
+        },
+        {
+          "left": "schedule",
+          "right": "agenda"
+        },
+        {
+          "left": "meet",
+          "right": "encontrar(-se)"
+        },
+        {
+          "left": "available",
+          "right": "disponível"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m7_l4_11",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": "a1-schedules",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "I",
+        "have",
+        "an",
+        "appointment",
+        "3",
+        "at"
+      ],
+      "answer": [
+        "I",
+        "have",
+        "an",
+        "appointment",
+        "at",
+        "3"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m7_l4_12",
+      "level": "A1",
+      "topic": "schedules",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"meet\"?",
+      "options": [
+        "encontrar(-se)",
+        "compromisso / consulta",
+        "agenda / horário",
+        "none of these"
+      ],
+      "answer": "encontrar(-se)",
+      "explanation": "\"meet\" means \"encontrar(-se)\"."
+    }
+  ]
+}

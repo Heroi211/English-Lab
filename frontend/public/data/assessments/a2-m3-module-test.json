@@ -1,0 +1,148 @@
+{
+  "id": "a2-m3-module-test",
+  "kind": "module",
+  "moduleId": "a2-m3",
+  "level": "A2",
+  "title": "Comparatives & Superlatives — Module Test",
+  "description": "Test your knowledge of the whole module: Comparatives & Superlatives. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use comparatives & superlatives confidently at A2 level.",
+  "questions": [
+    {
+      "id": "mt_a2_m3_01",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Comparatives):",
+      "options": [
+        "This option is better.",
+        "This option XXX better.",
+        "No correct form.",
+        "better. is option This"
+      ],
+      "answer": "This option is better.",
+      "explanation": "This follows the pattern taught in Comparatives."
+    },
+    {
+      "id": "mt_a2_m3_02",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Superlatives\"?",
+      "options": [
+        "the best",
+        "the worst",
+        "the most",
+        "xyzabc"
+      ],
+      "answer": "the best",
+      "explanation": "\"the best\" (o melhor) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a2_m3_03",
+      "level": "A2",
+      "topic": "as_as",
+      "ruleId": "a2-as-as",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ same price.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Equal: as tall as | Not equal: not as/so expensive as"
+    },
+    {
+      "id": "mt_a2_m3_04",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "fill_blank",
+      "question": "Complete: ___ late to change.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a2_m3_05",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "true_false",
+      "question": "True or false: \"This option is better.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a2_m3_06",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "true_false",
+      "question": "True or false: This is the best pizza in town. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "mt_a2_m3_07",
+      "level": "A2",
+      "topic": "as_as",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "as",
+          "right": "tão … como"
+        },
+        {
+          "left": "same",
+          "right": "mesmo"
+        },
+        {
+          "left": "equal",
+          "right": "igual"
+        },
+        {
+          "left": "similar",
+          "right": "similar"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a2_m3_08",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "too",
+          "right": "demais"
+        },
+        {
+          "left": "enough",
+          "right": "suficiente"
+        },
+        {
+          "left": "plenty",
+          "right": "bastante"
+        },
+        {
+          "left": "almost",
+          "right": "quase"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

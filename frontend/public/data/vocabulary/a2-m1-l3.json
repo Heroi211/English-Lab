@@ -1,0 +1,91 @@
+{
+  "lessonId": "a2-m1-l3",
+  "level": "A2",
+  "topic": "past_simple_q_neg",
+  "items": [
+    {
+      "id": "vocab_did",
+      "word": "did",
+      "translation": "auxiliar passado",
+      "partOfSpeech": "auxiliary",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "example": "Did you enjoy it?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_didn_t",
+      "word": "didn't",
+      "translation": "não (passado)",
+      "partOfSpeech": "auxiliary",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "example": "I didn't know.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_when",
+      "word": "when",
+      "translation": "quando",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "example": "When did they arrive?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_why",
+      "word": "why",
+      "translation": "por que",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "example": "Why did she leave?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_enjoy",
+      "word": "enjoy",
+      "translation": "aproveitar / gostar",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "example": "Did you enjoy the concert?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_arrive",
+      "word": "arrive",
+      "translation": "chegar",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "example": "They arrived late.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_leave",
+      "word": "leave",
+      "translation": "sair / ir embora",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "example": "He left early.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

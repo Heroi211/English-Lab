@@ -1,0 +1,220 @@
+{
+  "id": "a1-m6-l1",
+  "moduleId": "a1-m6",
+  "level": "A1",
+  "order": 1,
+  "title": "Can / Can't",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use can / can't.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can express ability and inability with can and can't.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"can / can't\" in real life. (Pense quando você usa isso no dia a dia.)",
+    "reflectionQuestions": [
+      "Can you give one example of Can / Can't?"
+    ]
+  },
+  "explanation": "Can + base verb (no -s): I can swim. | She can drive.\n\nNegative: cannot / can't | Question: Can you…?\n\nCan = ability or permission.\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-can-cant",
+    "title": "Can / Can't",
+    "rule": "Can + base verb (no -s): I can swim. | She can drive.",
+    "examples": [
+      {
+        "sentence": "I can swim.",
+        "note": "can"
+      },
+      {
+        "sentence": "I can't drive.",
+        "note": "can't"
+      },
+      {
+        "sentence": "Can you swim?",
+        "note": "swim"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "can",
+      "translation": "poder / saber",
+      "partOfSpeech": "modal",
+      "example": "I can swim.",
+      "collocations": []
+    },
+    {
+      "word": "can't",
+      "translation": "não poder",
+      "partOfSpeech": "modal",
+      "example": "I can't drive.",
+      "collocations": []
+    },
+    {
+      "word": "swim",
+      "translation": "nadar",
+      "partOfSpeech": "verb",
+      "example": "Can you swim?",
+      "collocations": []
+    },
+    {
+      "word": "drive",
+      "translation": "dirigir",
+      "partOfSpeech": "verb",
+      "example": "She can drive.",
+      "collocations": []
+    },
+    {
+      "word": "speak",
+      "translation": "falar",
+      "partOfSpeech": "verb",
+      "example": "He can speak three languages.",
+      "collocations": []
+    },
+    {
+      "word": "cook",
+      "translation": "cozinhar",
+      "partOfSpeech": "verb",
+      "example": "Can you cook?",
+      "collocations": []
+    },
+    {
+      "word": "play",
+      "translation": "jogar / tocar",
+      "partOfSpeech": "verb",
+      "example": "They can play guitar.",
+      "collocations": []
+    },
+    {
+      "word": "ability",
+      "translation": "habilidade",
+      "partOfSpeech": "noun",
+      "example": "Reading is a useful ability.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Can / Can't",
+      "sentences": [
+        "I can swim.",
+        "I can't drive.",
+        "Can you swim?",
+        "She can drive."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m6_l1_01",
+    "ex_a1_m6_l1_02",
+    "ex_a1_m6_l1_03",
+    "ex_a1_m6_l1_04",
+    "ex_a1_m6_l1_05",
+    "ex_a1_m6_l1_06",
+    "ex_a1_m6_l1_07",
+    "ex_a1_m6_l1_08",
+    "ex_a1_m6_l1_09",
+    "ex_a1_m6_l1_10",
+    "ex_a1_m6_l1_11",
+    "ex_a1_m6_l1_12"
+  ],
+  "reading": {
+    "title": "Can / Can't — Reading",
+    "text": "Every day, people use can / can't in conversation. I can swim. I can't drive. Can you swim? This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "can",
+        "explanation": "Focus word: can.",
+        "options": [
+          "can",
+          "can't",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"can't\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "não poder",
+        "explanation": "não poder"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using can / can't.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "I can swim. I can't drive. Can you swim?"
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-can-cant"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_can"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_can_t"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_swim"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_drive"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_speak"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_cook"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m6_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m6_l1_10"
+    }
+  ],
+  "checkpointId": "a1-m6-l1-checkpoint",
+  "tutorHints": [
+    "Focus on Can / Can't with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m6-l1.json",
+  "exercisesRef": "exercises/a1-m6-l1.json",
+  "grammarRef": "grammar/a1-can-cant.json",
+  "checkpointRef": "assessments/a1-m6-l1-checkpoint.json"
+}

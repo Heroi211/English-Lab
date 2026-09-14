@@ -1,0 +1,186 @@
+{
+  "id": "a2-m7-l3",
+  "moduleId": "a2-m7",
+  "level": "A2",
+  "order": 3,
+  "title": "Real Conditions in Context",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use real conditions in context accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can use first conditional in emails, negotiations, and plans.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about real conditions in context. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use real conditions in context?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Professional: If we receive payment, we will ship Monday.\n\nMix with when for scheduled conditions.",
+  "grammar": {
+    "ruleId": "a2-conditional-context",
+    "title": "Real Conditions in Context",
+    "rule": "Professional: If we receive payment, we will ship Monday.",
+    "examples": [
+      {
+        "sentence": "When we receive approval…",
+        "note": "receive"
+      },
+      {
+        "sentence": "If they approve the budget…",
+        "note": "approve"
+      },
+      {
+        "sentence": "We can negotiate if…",
+        "note": "negotiate"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "receive",
+      "translation": "receber",
+      "partOfSpeech": "verb",
+      "example": "When we receive approval…",
+      "collocations": []
+    },
+    {
+      "word": "approve",
+      "translation": "aprovar",
+      "partOfSpeech": "verb",
+      "example": "If they approve the budget…",
+      "collocations": []
+    },
+    {
+      "word": "negotiate",
+      "translation": "negociar",
+      "partOfSpeech": "verb",
+      "example": "We can negotiate if…",
+      "collocations": []
+    },
+    {
+      "word": "deadline",
+      "translation": "prazo",
+      "partOfSpeech": "noun",
+      "example": "Meet the deadline.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Real Conditions in Context",
+      "sentences": [
+        "When we receive approval…",
+        "If they approve the budget…",
+        "We can negotiate if…",
+        "Meet the deadline."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m7_l3_01",
+    "ex_a2_m7_l3_02",
+    "ex_a2_m7_l3_03",
+    "ex_a2_m7_l3_04",
+    "ex_a2_m7_l3_05",
+    "ex_a2_m7_l3_06",
+    "ex_a2_m7_l3_07",
+    "ex_a2_m7_l3_08",
+    "ex_a2_m7_l3_09",
+    "ex_a2_m7_l3_10",
+    "ex_a2_m7_l3_11",
+    "ex_a2_m7_l3_12"
+  ],
+  "reading": {
+    "title": "Real Conditions in Context in Context",
+    "text": "If we receive the signed contract today, we will start onboarding tomorrow. When the payment clears, you will get access. If costs rise, we will need to renegotiate.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "real conditions in context",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"receive\" mean?",
+        "type": "short_answer",
+        "answer": "receber",
+        "explanation": "receber"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "If they approve the budget…",
+        "explanation": "If they approve the budget…",
+        "options": [
+          "If they approve the budget…",
+          "approval… receive we When",
+          "No sentence fits.",
+          "We can negotiate if…"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using real conditions in context. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "When we receive approval… If they approve the budget… We can negotiate if… Meet the deadline."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-conditional-context"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_receive"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_approve"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_negotiate"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_deadline"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m7_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m7_l3_10"
+    }
+  ],
+  "checkpointId": "a2-m7-l3-checkpoint",
+  "tutorHints": [
+    "Target structure: Real Conditions in Context.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m7-l3.json",
+  "exercisesRef": "exercises/a2-m7-l3.json",
+  "grammarRef": "grammar/a2-conditional-context.json",
+  "checkpointRef": "assessments/a2-m7-l3-checkpoint.json"
+}

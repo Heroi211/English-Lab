@@ -1,0 +1,207 @@
+{
+  "lessonId": "a2-m8-l2",
+  "exercises": [
+    {
+      "id": "ex_a2_m8_l2_01",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": "a2-phrasals-2",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Common Phrasal Verbs 2):",
+      "options": [
+        "The plane takes off at noon.",
+        "The plane takes off at noon.",
+        "No correct form.",
+        "noon. at off takes plane The"
+      ],
+      "answer": "The plane takes off at noon.",
+      "explanation": "This follows the pattern taught in Common Phrasal Verbs 2."
+    },
+    {
+      "id": "ex_a2_m8_l2_02",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Common Phrasal Verbs 2\"?",
+      "options": [
+        "take off",
+        "put on",
+        "run out of",
+        "xyzabc"
+      ],
+      "answer": "take off",
+      "explanation": "\"take off\" (tirar / decolar) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l2_03",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": "a2-phrasals-2",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ on your jacket.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Take off (clothes/plane) | Put on | Run out of | Find out"
+    },
+    {
+      "id": "ex_a2_m8_l2_04",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": "a2-phrasals-2",
+      "type": "fill_blank",
+      "question": "Complete: The plane takes off at noon.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m8_l2_05",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": "a2-phrasals-2",
+      "type": "fill_blank",
+      "question": "Complete: ___ on your jacket.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Take off (clothes/plane) | Put on | Run out of | Find out"
+    },
+    {
+      "id": "ex_a2_m8_l2_06",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": "a2-phrasals-2",
+      "type": "fill_blank",
+      "question": "Complete: ___ ran out of milk.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l2_07",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": "a2-phrasals-2",
+      "type": "true_false",
+      "question": "True or false: \"The plane takes off at noon.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l2_08",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": "a2-phrasals-2",
+      "type": "true_false",
+      "question": "True or false: The plane takes off at noon. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l2_09",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "take off",
+          "right": "tirar"
+        },
+        {
+          "left": "put on",
+          "right": "vestir"
+        },
+        {
+          "left": "run out of",
+          "right": "ficar sem"
+        },
+        {
+          "left": "find out",
+          "right": "descobrir"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l2_10",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": "a2-phrasals-2",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "take off",
+          "right": "tirar"
+        },
+        {
+          "left": "put on",
+          "right": "vestir"
+        },
+        {
+          "left": "run out of",
+          "right": "ficar sem"
+        },
+        {
+          "left": "find out",
+          "right": "descobrir"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m8_l2_11",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": "a2-phrasals-2",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "noon",
+        "The",
+        "plane",
+        "takes",
+        "at",
+        "off"
+      ],
+      "answer": [
+        "The",
+        "plane",
+        "takes",
+        "off",
+        "at",
+        "noon"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m8_l2_12",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"run out of\"?",
+      "options": [
+        "ficar sem",
+        "tirar / decolar",
+        "vestir / colocar",
+        "none of these"
+      ],
+      "answer": "ficar sem",
+      "explanation": "\"run out of\" means \"ficar sem\"."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "a1-family",
+  "level": "A1",
+  "title": "Family Members",
+  "topic": "family",
+  "summary": "Mother, father, parents, siblings, grandparents, husband, wife, son, daughter.",
+  "rule": "Mother, father, parents, siblings, grandparents, husband, wife, son, daughter.",
+  "examples": [
+    "My mother is a nurse.",
+    "My father works abroad.",
+    "My parents live in Recife."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My mother WRONG a nurse.",
+      "correct": "My mother is a nurse.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m8-l1"
+  ],
+  "tutorHints": [
+    "Focus on Family Members with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

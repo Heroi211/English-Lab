@@ -1,0 +1,148 @@
+{
+  "id": "a2-m7-module-test",
+  "kind": "module",
+  "moduleId": "a2-m7",
+  "level": "A2",
+  "title": "First Conditional — Module Test",
+  "description": "Test your knowledge of the whole module: First Conditional. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use first conditional confidently at A2 level.",
+  "questions": [
+    {
+      "id": "mt_a2_m7_01",
+      "level": "A2",
+      "topic": "first_conditional",
+      "ruleId": "a2-first-conditional",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (If + Present, Will):",
+      "options": [
+        "If you need help, call me.",
+        "If you need help, call me.",
+        "No correct form.",
+        "me. call help, need you If"
+      ],
+      "answer": "If you need help, call me.",
+      "explanation": "This follows the pattern taught in If + Present, Will."
+    },
+    {
+      "id": "mt_a2_m7_02",
+      "level": "A2",
+      "topic": "unless",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Unless & As Long As\"?",
+      "options": [
+        "as long as",
+        "provided",
+        "otherwise",
+        "xyzabc"
+      ],
+      "answer": "as long as",
+      "explanation": "\"as long as\" (contanto que) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a2_m7_03",
+      "level": "A2",
+      "topic": "conditional_context",
+      "ruleId": "a2-conditional-context",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ they approve the budget…",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Professional: If we receive payment, we will ship Monday."
+    },
+    {
+      "id": "mt_a2_m7_04",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "fill_blank",
+      "question": "Complete: A ___ possibility.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a2_m7_05",
+      "level": "A2",
+      "topic": "first_conditional",
+      "ruleId": "a2-first-conditional",
+      "type": "true_false",
+      "question": "True or false: \"If you need help, call me.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a2_m7_06",
+      "level": "A2",
+      "topic": "unless",
+      "ruleId": "a2-unless",
+      "type": "true_false",
+      "question": "True or false: As long as you try. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "mt_a2_m7_07",
+      "level": "A2",
+      "topic": "conditional_context",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "receive",
+          "right": "receber"
+        },
+        {
+          "left": "approve",
+          "right": "aprovar"
+        },
+        {
+          "left": "negotiate",
+          "right": "negociar"
+        },
+        {
+          "left": "deadline",
+          "right": "prazo"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a2_m7_08",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "ruleId": "a2-mixed-cond-intro",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "real",
+          "right": "real"
+        },
+        {
+          "left": "unreal",
+          "right": "irreal"
+        },
+        {
+          "left": "likely",
+          "right": "provável"
+        },
+        {
+          "left": "unlikely",
+          "right": "improvável"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

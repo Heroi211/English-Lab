@@ -1,0 +1,206 @@
+{
+  "id": "a1-m7-l4",
+  "moduleId": "a1-m7",
+  "level": "A1",
+  "order": 4,
+  "title": "Schedules & Appointments",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use schedules & appointments.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can talk about schedules and make appointments.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"schedules & appointments\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Schedules & Appointments?"
+    ]
+  },
+  "explanation": "What day? What time? — Let's meet on Friday at 2 p.m.\n\nOpen/closed hours. From… to… | Until…\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-schedules",
+    "title": "Schedules & Appointments",
+    "rule": "What day? What time? — Let's meet on Friday at 2 p.m.",
+    "examples": [
+      {
+        "sentence": "I have an appointment at 3.",
+        "note": "appointment"
+      },
+      {
+        "sentence": "What is your schedule?",
+        "note": "schedule"
+      },
+      {
+        "sentence": "Let's meet at noon.",
+        "note": "meet"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "appointment",
+      "translation": "compromisso / consulta",
+      "partOfSpeech": "noun",
+      "example": "I have an appointment at 3.",
+      "collocations": []
+    },
+    {
+      "word": "schedule",
+      "translation": "agenda / horário",
+      "partOfSpeech": "noun",
+      "example": "What is your schedule?",
+      "collocations": []
+    },
+    {
+      "word": "meet",
+      "translation": "encontrar(-se)",
+      "partOfSpeech": "verb",
+      "example": "Let's meet at noon.",
+      "collocations": []
+    },
+    {
+      "word": "available",
+      "translation": "disponível",
+      "partOfSpeech": "adjective",
+      "example": "Are you available tomorrow?",
+      "collocations": []
+    },
+    {
+      "word": "cancel",
+      "translation": "cancelar",
+      "partOfSpeech": "verb",
+      "example": "I need to cancel.",
+      "collocations": []
+    },
+    {
+      "word": "confirm",
+      "translation": "confirmar",
+      "partOfSpeech": "verb",
+      "example": "Please confirm the time.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Schedules & Appointments",
+      "sentences": [
+        "I have an appointment at 3.",
+        "What is your schedule?",
+        "Let's meet at noon.",
+        "Are you available tomorrow?"
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m7_l4_01",
+    "ex_a1_m7_l4_02",
+    "ex_a1_m7_l4_03",
+    "ex_a1_m7_l4_04",
+    "ex_a1_m7_l4_05",
+    "ex_a1_m7_l4_06",
+    "ex_a1_m7_l4_07",
+    "ex_a1_m7_l4_08",
+    "ex_a1_m7_l4_09",
+    "ex_a1_m7_l4_10",
+    "ex_a1_m7_l4_11",
+    "ex_a1_m7_l4_12"
+  ],
+  "reading": {
+    "title": "Schedules & Appointments — Reading",
+    "text": "Every day, people use schedules & appointments in conversation. I have an appointment at 3. What is your schedule? Let's meet at noon. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "appointment",
+        "explanation": "Focus word: appointment.",
+        "options": [
+          "appointment",
+          "schedule",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"schedule\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "agenda",
+        "explanation": "agenda / horário"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using schedules & appointments.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "I have an appointment at 3. What is your schedule? Let's meet at noon."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-schedules"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_appointment"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_schedule"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_meet"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_available"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_cancel"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_confirm"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m7_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m7_l4_10"
+    }
+  ],
+  "checkpointId": "a1-m7-l4-checkpoint",
+  "tutorHints": [
+    "Focus on Schedules & Appointments with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m7-l4.json",
+  "exercisesRef": "exercises/a1-m7-l4.json",
+  "grammarRef": "grammar/a1-schedules.json",
+  "checkpointRef": "assessments/a1-m7-l4-checkpoint.json"
+}

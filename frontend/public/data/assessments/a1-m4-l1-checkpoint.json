@@ -1,0 +1,96 @@
+{
+  "id": "a1-m4-l1-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m4-l1",
+  "moduleId": "a1-m4",
+  "level": "A1",
+  "title": "Lesson 1 Checkpoint — Present Simple — Affirmative",
+  "description": "Show what you learned about present simple — affirmative. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can talk about habits and facts using present simple affirmative.",
+  "questions": [
+    {
+      "id": "cp_a1_m4_l1_01",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Simple — Affirmative):",
+      "options": [
+        "I work in an office.",
+        "I work in an office.",
+        "No correct form.",
+        "office. an in work I"
+      ],
+      "answer": "I work in an office.",
+      "explanation": "This follows the pattern taught in Present Simple — Affirmative."
+    },
+    {
+      "id": "cp_a1_m4_l1_02",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "fill_blank",
+      "question": "Complete: I ___ in an office.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m4_l1_03",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "true_false",
+      "question": "True or false: \"I work in an office.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m4_l1_04",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Present Simple — Affirmative\"?",
+      "options": [
+        "work",
+        "live",
+        "like",
+        "xyzabc"
+      ],
+      "answer": "work",
+      "explanation": "\"work\" (trabalhar) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m4_l1_05",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "ruleId": "a1-present-simple-aff",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "work",
+          "right": "trabalhar"
+        },
+        {
+          "left": "live",
+          "right": "morar"
+        },
+        {
+          "left": "like",
+          "right": "gostar"
+        },
+        {
+          "left": "every day",
+          "right": "todos os dias"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

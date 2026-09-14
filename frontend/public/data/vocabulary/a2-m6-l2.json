@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m6-l2",
+  "level": "A2",
+  "topic": "ever_never",
+  "items": [
+    {
+      "id": "vocab_ever",
+      "word": "ever",
+      "translation": "alguma vez",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "ever_never",
+      "example": "Have you ever been abroad?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_never",
+      "word": "never",
+      "translation": "nunca",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "ever_never",
+      "example": "I have never flown.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_before",
+      "word": "before",
+      "translation": "antes",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "ever_never",
+      "example": "Not like this before.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_yet",
+      "word": "yet",
+      "translation": "ainda (?)",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "ever_never",
+      "example": "Have you finished yet?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

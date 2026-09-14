@@ -1,0 +1,220 @@
+{
+  "id": "a1-m8-l1",
+  "moduleId": "a1-m8",
+  "level": "A1",
+  "order": 1,
+  "title": "Family Members",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use family members.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can talk about my family members and relationships.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"family members\" in real life. (Pense quando você usa isso no dia a dia.)",
+    "reflectionQuestions": [
+      "Can you give one example of Family Members?"
+    ]
+  },
+  "explanation": "Mother, father, parents, siblings, grandparents, husband, wife, son, daughter.\n\nThis is my… | He/She is my…\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-family",
+    "title": "Family Members",
+    "rule": "Mother, father, parents, siblings, grandparents, husband, wife, son, daughter.",
+    "examples": [
+      {
+        "sentence": "My mother is a nurse.",
+        "note": "mother"
+      },
+      {
+        "sentence": "My father works abroad.",
+        "note": "father"
+      },
+      {
+        "sentence": "My parents live in Recife.",
+        "note": "parents"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "mother",
+      "translation": "mãe",
+      "partOfSpeech": "noun",
+      "example": "My mother is a nurse.",
+      "collocations": []
+    },
+    {
+      "word": "father",
+      "translation": "pai",
+      "partOfSpeech": "noun",
+      "example": "My father works abroad.",
+      "collocations": []
+    },
+    {
+      "word": "parents",
+      "translation": "pais",
+      "partOfSpeech": "noun",
+      "example": "My parents live in Recife.",
+      "collocations": []
+    },
+    {
+      "word": "brother",
+      "translation": "irmão",
+      "partOfSpeech": "noun",
+      "example": "I have one brother.",
+      "collocations": []
+    },
+    {
+      "word": "sister",
+      "translation": "irmã",
+      "partOfSpeech": "noun",
+      "example": "My sister is younger.",
+      "collocations": []
+    },
+    {
+      "word": "grandmother",
+      "translation": "avó",
+      "partOfSpeech": "noun",
+      "example": "My grandmother is 80.",
+      "collocations": []
+    },
+    {
+      "word": "husband",
+      "translation": "marido",
+      "partOfSpeech": "noun",
+      "example": "Her husband is a chef.",
+      "collocations": []
+    },
+    {
+      "word": "wife",
+      "translation": "esposa",
+      "partOfSpeech": "noun",
+      "example": "His wife is a lawyer.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Family Members",
+      "sentences": [
+        "My mother is a nurse.",
+        "My father works abroad.",
+        "My parents live in Recife.",
+        "I have one brother."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m8_l1_01",
+    "ex_a1_m8_l1_02",
+    "ex_a1_m8_l1_03",
+    "ex_a1_m8_l1_04",
+    "ex_a1_m8_l1_05",
+    "ex_a1_m8_l1_06",
+    "ex_a1_m8_l1_07",
+    "ex_a1_m8_l1_08",
+    "ex_a1_m8_l1_09",
+    "ex_a1_m8_l1_10",
+    "ex_a1_m8_l1_11",
+    "ex_a1_m8_l1_12"
+  ],
+  "reading": {
+    "title": "Family Members — Reading",
+    "text": "Every day, people use family members in conversation. My mother is a nurse. My father works abroad. My parents live in Recife. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "mother",
+        "explanation": "Focus word: mother.",
+        "options": [
+          "mother",
+          "father",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"father\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "pai",
+        "explanation": "pai"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using family members.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "My mother is a nurse. My father works abroad. My parents live in Recife."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-family"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_mother"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_father"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_parents"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_brother"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_sister"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_grandmother"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m8_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m8_l1_10"
+    }
+  ],
+  "checkpointId": "a1-m8-l1-checkpoint",
+  "tutorHints": [
+    "Focus on Family Members with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m8-l1.json",
+  "exercisesRef": "exercises/a1-m8-l1.json",
+  "grammarRef": "grammar/a1-family.json",
+  "checkpointRef": "assessments/a1-m8-l1-checkpoint.json"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "a2-m3-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m3-l2",
+  "moduleId": "a2-m3",
+  "level": "A2",
+  "title": "Lesson 2 Checkpoint — Superlatives",
+  "description": "Show what you learned about superlatives. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use superlatives to say something is #1 in a group.",
+  "questions": [
+    {
+      "id": "cp_a2_m3_l2_01",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Superlatives):",
+      "options": [
+        "This is the best pizza in town.",
+        "This XXX the best pizza in town.",
+        "No correct form.",
+        "town. in pizza best the is This"
+      ],
+      "answer": "This is the best pizza in town.",
+      "explanation": "This follows the pattern taught in Superlatives."
+    },
+    {
+      "id": "cp_a2_m3_l2_02",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "fill_blank",
+      "question": "Complete: This is ___ pizza in town.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m3_l2_03",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "true_false",
+      "question": "True or false: \"This is the best pizza in town.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m3_l2_04",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Superlatives\"?",
+      "options": [
+        "the best",
+        "the worst",
+        "the most",
+        "xyzabc"
+      ],
+      "answer": "the best",
+      "explanation": "\"the best\" (o melhor) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m3_l2_05",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "the best",
+          "right": "o melhor"
+        },
+        {
+          "left": "the worst",
+          "right": "o pior"
+        },
+        {
+          "left": "the most",
+          "right": "o mais"
+        },
+        {
+          "left": "in the world",
+          "right": "no mundo"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

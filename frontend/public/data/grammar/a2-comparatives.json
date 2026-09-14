@@ -1,0 +1,26 @@
+{
+  "id": "a2-comparatives",
+  "level": "A2",
+  "title": "Comparatives",
+  "topic": "comparatives",
+  "summary": "Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me.",
+  "rule": "Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me.",
+  "examples": [
+    "This option is better.",
+    "Traffic is worse today.",
+    "Cheaper than yesterday."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This option is better.",
+      "correct": "This option is better.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m3-l1"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

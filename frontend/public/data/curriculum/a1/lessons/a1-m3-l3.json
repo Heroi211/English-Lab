@@ -1,0 +1,211 @@
+{
+  "id": "a1-m3-l3",
+  "moduleId": "a1-m3",
+  "level": "A1",
+  "order": 3,
+  "title": "Some & Any",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use some in affirmative sentences.",
+    "Use any in questions and negatives.",
+    "Use some in offers and requests."
+  ],
+  "canDo": "I can use some and any with countable and uncountable nouns.",
+  "warmUp": {
+    "title": "Algum / nenhum",
+    "prompt": "Some = alguns/algum (afirmativa). Any = algum/nenhum em perguntas e negativas.",
+    "reflectionQuestions": [
+      "I have ___ milk. (some/any)"
+    ]
+  },
+  "explanation": "Some → affirmative: There are some apples. I need some help.\nAny → questions & negatives: Are there any eggs? | There aren't any eggs.\n\nOffers/requests: Would you like some tea? | Can I have some water?\n\nWorks with plural countables and uncountables (some water, some books).",
+  "grammar": {
+    "ruleId": "a1-some-any",
+    "title": "Some & Any",
+    "rule": "Some in positive statements. Any in questions and negative statements. Some in polite offers and requests.",
+    "examples": [
+      {
+        "sentence": "There is some milk in the fridge.",
+        "note": "Affirmative"
+      },
+      {
+        "sentence": "We don't have any sugar.",
+        "note": "Negative"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "some",
+      "translation": "alguns / um pouco de",
+      "partOfSpeech": "determiner",
+      "example": "I bought some bread.",
+      "collocations": []
+    },
+    {
+      "word": "any",
+      "translation": "algum / nenhum",
+      "partOfSpeech": "determiner",
+      "example": "Are there any messages?",
+      "collocations": []
+    },
+    {
+      "word": "water",
+      "translation": "água",
+      "partOfSpeech": "noun",
+      "example": "Can I have some water?",
+      "collocations": []
+    },
+    {
+      "word": "bread",
+      "translation": "pão",
+      "partOfSpeech": "noun",
+      "example": "There is some bread.",
+      "collocations": []
+    },
+    {
+      "word": "sugar",
+      "translation": "açúcar",
+      "partOfSpeech": "noun",
+      "example": "We don't need any sugar.",
+      "collocations": []
+    },
+    {
+      "word": "egg",
+      "translation": "ovo",
+      "partOfSpeech": "noun",
+      "example": "Are there any eggs?",
+      "collocations": [
+        "eggs"
+      ]
+    },
+    {
+      "word": "help",
+      "translation": "ajuda",
+      "partOfSpeech": "noun",
+      "example": "I need some help.",
+      "collocations": []
+    },
+    {
+      "word": "message",
+      "translation": "mensagem",
+      "partOfSpeech": "noun",
+      "example": "Do you have any messages?",
+      "collocations": []
+    },
+    {
+      "word": "fridge",
+      "translation": "geladeira",
+      "partOfSpeech": "noun",
+      "example": "There is milk in the fridge.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "sentences": [
+        "There are some cookies. / There aren't any cookies.",
+        "Would you like some coffee?"
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m3_l3_01",
+    "ex_a1_m3_l3_02",
+    "ex_a1_m3_l3_03",
+    "ex_a1_m3_l3_04",
+    "ex_a1_m3_l3_05",
+    "ex_a1_m3_l3_06",
+    "ex_a1_m3_l3_07",
+    "ex_a1_m3_l3_08",
+    "ex_a1_m3_l3_09",
+    "ex_a1_m3_l3_10",
+    "ex_a1_m3_l3_11",
+    "ex_a1_m3_l3_12"
+  ],
+  "reading": {
+    "title": "Shopping List",
+    "text": "Tom checks the kitchen. There is some rice but there isn't any pasta. There are some eggs — three eggs. There isn't any milk. He writes: buy milk, buy some vegetables, buy bread. At the shop he asks: \"Do you have any fresh bread?\" The clerk says: \"Yes, we have some today.\"",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Is there pasta?",
+        "type": "true_false",
+        "answer": false,
+        "explanation": "There isn't any pasta."
+      },
+      {
+        "id": "r2",
+        "question": "How many eggs are there?",
+        "type": "short_answer",
+        "answer": "three / 3",
+        "explanation": "Three eggs."
+      },
+      {
+        "id": "r3",
+        "question": "What does Tom need to buy?",
+        "type": "short_answer",
+        "answer": "milk, vegetables, bread",
+        "explanation": "Buy milk, some vegetables, bread."
+      },
+      {
+        "id": "r4",
+        "question": "Does the shop have bread?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, we have some today."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a shopping list and 3 sentences about what you have/don't have at home (some/any).",
+    "minWords": 30,
+    "modelAnswer": "Shopping: some fruit, some cheese, any problem? At home there is some rice but there aren't any tomatoes. Do we have any coffee? No, we don't have any."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-some-any"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_some"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_any"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_water"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_bread"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_sugar"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_egg"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m3_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m3_l3_10"
+    }
+  ],
+  "checkpointId": "a1-m3-l3-checkpoint",
+  "tutorHints": [
+    "Use fridge/pantry examples — very practical."
+  ],
+  "vocabularyRef": "vocabulary/a1-m3-l3.json",
+  "exercisesRef": "exercises/a1-m3-l3.json",
+  "grammarRef": "grammar/a1-some-any.json",
+  "checkpointRef": "assessments/a1-m3-l3-checkpoint.json"
+}

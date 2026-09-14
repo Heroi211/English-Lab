@@ -1,0 +1,26 @@
+{
+  "id": "a2-future-will",
+  "level": "A2",
+  "title": "Future with Will",
+  "topic": "future_will",
+  "summary": "Will + base verb for all subjects. Contractions: I'll, she'll.",
+  "rule": "Will + base verb for all subjects. Contractions: I'll, she'll.",
+  "examples": [
+    "I will call you.",
+    "It won't take long.",
+    "She will probably agree."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I WRONG call you.",
+      "correct": "I will call you.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m2-l1"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "a2-m3-l3-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m3-l3",
+  "moduleId": "a2-m3",
+  "level": "A2",
+  "title": "Lesson 3 Checkpoint — As … As",
+  "description": "Show what you learned about as … as. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use as + adjective + as for equal comparisons.",
+  "questions": [
+    {
+      "id": "cp_a2_m3_l3_01",
+      "level": "A2",
+      "topic": "as_as",
+      "ruleId": "a2-as-as",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (As … As):",
+      "options": [
+        "As fast as possible.",
+        "As fast as possible.",
+        "No correct form.",
+        "possible. as fast As"
+      ],
+      "answer": "As fast as possible.",
+      "explanation": "This follows the pattern taught in As … As."
+    },
+    {
+      "id": "cp_a2_m3_l3_02",
+      "level": "A2",
+      "topic": "as_as",
+      "ruleId": "a2-as-as",
+      "type": "fill_blank",
+      "question": "Complete: ___ fast as possible.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m3_l3_03",
+      "level": "A2",
+      "topic": "as_as",
+      "ruleId": "a2-as-as",
+      "type": "true_false",
+      "question": "True or false: \"As fast as possible.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m3_l3_04",
+      "level": "A2",
+      "topic": "as_as",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"As … As\"?",
+      "options": [
+        "as",
+        "same",
+        "equal",
+        "xyzabc"
+      ],
+      "answer": "as",
+      "explanation": "\"as\" (tão … como) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m3_l3_05",
+      "level": "A2",
+      "topic": "as_as",
+      "ruleId": "a2-as-as",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "as",
+          "right": "tão … como"
+        },
+        {
+          "left": "same",
+          "right": "mesmo"
+        },
+        {
+          "left": "equal",
+          "right": "igual"
+        },
+        {
+          "left": "similar",
+          "right": "similar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

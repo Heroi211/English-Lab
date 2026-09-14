@@ -1,0 +1,221 @@
+{
+  "id": "a1-m3-l2",
+  "moduleId": "a1-m3",
+  "level": "A1",
+  "order": 2,
+  "title": "Have / Has",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use I/you/we/they have and he/she/it has.",
+    "Talk about possession and family.",
+    "Form negatives and questions with do/does."
+  ],
+  "canDo": "I can say what I and other people have using have and has.",
+  "warmUp": {
+    "title": "Ter",
+    "prompt": "Em português \"eu tenho, ele tem\". In English: I have, he has — notice the -s on has!",
+    "reflectionQuestions": [
+      "She have or she has?"
+    ]
+  },
+  "explanation": "Possession: I/you/we/they have | he/she/it has\n\nI have a brother. | She has two cats.\n\nNegative: don't have / doesn't have → He doesn't have a car.\nQuestions: Do you have…? / Does she have…?\n\nHave is also used for meals: have breakfast, have lunch.",
+  "grammar": {
+    "ruleId": "a1-have-has",
+    "title": "Have / Has",
+    "rule": "Have with I, you, we, they. Has with he, she, it. Questions and negatives use do/does + base have: Does he have a bike?",
+    "examples": [
+      {
+        "sentence": "We have a small car.",
+        "note": "Plural subject"
+      },
+      {
+        "sentence": "She has long hair.",
+        "note": "Third person -s"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "have",
+      "translation": "ter",
+      "partOfSpeech": "verb",
+      "example": "I have a bike.",
+      "collocations": []
+    },
+    {
+      "word": "has",
+      "translation": "tem (ele/ela)",
+      "partOfSpeech": "verb",
+      "example": "She has a cat.",
+      "collocations": []
+    },
+    {
+      "word": "brother",
+      "translation": "irmão",
+      "partOfSpeech": "noun",
+      "example": "I have one brother.",
+      "collocations": []
+    },
+    {
+      "word": "sister",
+      "translation": "irmã",
+      "partOfSpeech": "noun",
+      "example": "She has two sisters.",
+      "collocations": []
+    },
+    {
+      "word": "pet",
+      "translation": "animal de estimação",
+      "partOfSpeech": "noun",
+      "example": "Do you have a pet?",
+      "collocations": []
+    },
+    {
+      "word": "car",
+      "translation": "carro",
+      "partOfSpeech": "noun",
+      "example": "He has a new car.",
+      "collocations": []
+    },
+    {
+      "word": "hair",
+      "translation": "cabelo",
+      "partOfSpeech": "noun",
+      "example": "She has long hair.",
+      "collocations": []
+    },
+    {
+      "word": "money",
+      "translation": "dinheiro",
+      "partOfSpeech": "noun",
+      "example": "I don't have much money.",
+      "collocations": []
+    },
+    {
+      "word": "time",
+      "translation": "tempo",
+      "partOfSpeech": "noun",
+      "example": "Do we have time?",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "dialogue": [
+        {
+          "speaker": "A",
+          "text": "Do you have siblings?"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, I have a sister. She has a baby."
+        }
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m3_l2_01",
+    "ex_a1_m3_l2_02",
+    "ex_a1_m3_l2_03",
+    "ex_a1_m3_l2_04",
+    "ex_a1_m3_l2_05",
+    "ex_a1_m3_l2_06",
+    "ex_a1_m3_l2_07",
+    "ex_a1_m3_l2_08",
+    "ex_a1_m3_l2_09",
+    "ex_a1_m3_l2_10",
+    "ex_a1_m3_l2_11",
+    "ex_a1_m3_l2_12"
+  ],
+  "reading": {
+    "title": "The Silva Family",
+    "text": "Mr. Silva has a big family. He has three children. His son has a dog and his daughter has two rabbits. Mrs. Silva has a garden. They have a house with four bedrooms. The children don't have their own car, but they have bikes.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "How many children does Mr. Silva have?",
+        "type": "short_answer",
+        "answer": "three / 3",
+        "explanation": "He has three children."
+      },
+      {
+        "id": "r2",
+        "question": "What does the daughter have?",
+        "type": "short_answer",
+        "answer": "two rabbits",
+        "explanation": "His daughter has two rabbits."
+      },
+      {
+        "id": "r3",
+        "question": "Do the children have a car?",
+        "type": "true_false",
+        "answer": false,
+        "explanation": "They don't have their own car."
+      },
+      {
+        "id": "r4",
+        "question": "What does Mrs. Silva have?",
+        "type": "multiple_choice",
+        "answer": "a garden",
+        "explanation": "Mrs. Silva has a garden.",
+        "options": [
+          "a dog",
+          "a garden",
+          "a car",
+          "a shop"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write about your family: who has what (5 sentences, use has at least twice).",
+    "minWords": 30,
+    "modelAnswer": "I have a small family. My mother has a cat. My father has an old car. We have a nice apartment. My sister has many books."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-have-has"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_have"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_has"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_brother"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_sister"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_pet"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_car"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m3_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m3_l2_10"
+    }
+  ],
+  "checkpointId": "a1-m3-l2-checkpoint",
+  "tutorHints": [
+    "Drill has with he/she/it every lesson until automatic."
+  ],
+  "vocabularyRef": "vocabulary/a1-m3-l2.json",
+  "exercisesRef": "exercises/a1-m3-l2.json",
+  "grammarRef": "grammar/a1-have-has.json",
+  "checkpointRef": "assessments/a1-m3-l2-checkpoint.json"
+}

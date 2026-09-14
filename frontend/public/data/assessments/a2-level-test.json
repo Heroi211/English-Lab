@@ -1,0 +1,185 @@
+{
+  "id": "a2-level-test",
+  "kind": "level",
+  "level": "A2",
+  "title": "A2 Level Test",
+  "description": "Comprehensive A2 test covering all modules. You need at least 8 out of 12 correct to pass.",
+  "passingScore": 8,
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "lt_a2_01",
+      "level": "A2",
+      "topic": "past_simple_regular",
+      "ruleId": "a2-past-simple-regular",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Past Simple — Regular Verbs):",
+      "options": [
+        "I worked yesterday.",
+        "I worked yesterday.",
+        "No correct form.",
+        "yesterday. worked I"
+      ],
+      "answer": "I worked yesterday.",
+      "explanation": "This follows the pattern taught in Past Simple — Regular Verbs."
+    },
+    {
+      "id": "lt_a2_02",
+      "level": "A2",
+      "topic": "past_simple_irregular",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Past Simple — Irregular Verbs\"?",
+      "options": [
+        "went",
+        "saw",
+        "had",
+        "xyzabc"
+      ],
+      "answer": "went",
+      "explanation": "\"went\" (foi) is key vocabulary for this lesson."
+    },
+    {
+      "id": "lt_a2_03",
+      "level": "A2",
+      "topic": "past_simple_q_neg",
+      "ruleId": "a2-past-simple-q-neg",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ didn't know.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Did + subject + base verb: Did you go? | She didn't come."
+    },
+    {
+      "id": "lt_a2_04",
+      "level": "A2",
+      "topic": "past_time",
+      "ruleId": "a2-past-time",
+      "type": "fill_blank",
+      "question": "Complete: I started gym ___.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "lt_a2_05",
+      "level": "A2",
+      "topic": "future_will",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Future with Will\"?",
+      "options": [
+        "will",
+        "won't",
+        "probably",
+        "xyzabc"
+      ],
+      "answer": "will",
+      "explanation": "\"will\" (verbo futuro) is key vocabulary for this lesson."
+    },
+    {
+      "id": "lt_a2_06",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is your plan?",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Am/is/are + going to + verb."
+    },
+    {
+      "id": "lt_a2_07",
+      "level": "A2",
+      "topic": "present_for_future",
+      "ruleId": "a2-present-for-future",
+      "type": "fill_blank",
+      "question": "Complete: I am ___ the team at 3.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "lt_a2_08",
+      "level": "A2",
+      "topic": "plans_vs_predictions",
+      "ruleId": "a2-plans-predictions",
+      "type": "fill_blank",
+      "question": "Complete: ___ is evidence of rain.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will"
+    },
+    {
+      "id": "lt_a2_09",
+      "level": "A2",
+      "topic": "comparatives",
+      "ruleId": "a2-comparatives",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is worse today.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me."
+    },
+    {
+      "id": "lt_a2_10",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "fill_blank",
+      "question": "Complete: This is ___ pizza in town.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "lt_a2_11",
+      "level": "A2",
+      "topic": "as_as",
+      "ruleId": "a2-as-as",
+      "type": "fill_blank",
+      "question": "Complete: ___ same price.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Equal: as tall as | Not equal: not as/so expensive as"
+    },
+    {
+      "id": "lt_a2_12",
+      "level": "A2",
+      "topic": "too_enough",
+      "ruleId": "a2-too-enough",
+      "type": "fill_blank",
+      "question": "Complete: ___ of time.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    }
+  ]
+}

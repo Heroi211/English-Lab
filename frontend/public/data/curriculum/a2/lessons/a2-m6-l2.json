@@ -1,0 +1,186 @@
+{
+  "id": "a2-m6-l2",
+  "moduleId": "a2-m6",
+  "level": "A2",
+  "order": 2,
+  "title": "Ever & Never",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use ever & never accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can ask about life experiences with ever and never.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about ever & never. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use ever & never?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Have you ever…? | I have never…\n\nEver in questions; never in negatives (no double negative)",
+  "grammar": {
+    "ruleId": "a2-ever-never",
+    "title": "Ever & Never",
+    "rule": "Have you ever…? | I have never…",
+    "examples": [
+      {
+        "sentence": "Have you ever been abroad?",
+        "note": "ever"
+      },
+      {
+        "sentence": "I have never flown.",
+        "note": "never"
+      },
+      {
+        "sentence": "Not like this before.",
+        "note": "before"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "ever",
+      "translation": "alguma vez",
+      "partOfSpeech": "adverb",
+      "example": "Have you ever been abroad?",
+      "collocations": []
+    },
+    {
+      "word": "never",
+      "translation": "nunca",
+      "partOfSpeech": "adverb",
+      "example": "I have never flown.",
+      "collocations": []
+    },
+    {
+      "word": "before",
+      "translation": "antes",
+      "partOfSpeech": "adverb",
+      "example": "Not like this before.",
+      "collocations": []
+    },
+    {
+      "word": "yet",
+      "translation": "ainda (?)",
+      "partOfSpeech": "adverb",
+      "example": "Have you finished yet?",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Ever & Never",
+      "sentences": [
+        "Have you ever been abroad?",
+        "I have never flown.",
+        "Not like this before.",
+        "Have you finished yet?"
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m6_l2_01",
+    "ex_a2_m6_l2_02",
+    "ex_a2_m6_l2_03",
+    "ex_a2_m6_l2_04",
+    "ex_a2_m6_l2_05",
+    "ex_a2_m6_l2_06",
+    "ex_a2_m6_l2_07",
+    "ex_a2_m6_l2_08",
+    "ex_a2_m6_l2_09",
+    "ex_a2_m6_l2_10",
+    "ex_a2_m6_l2_11",
+    "ex_a2_m6_l2_12"
+  ],
+  "reading": {
+    "title": "Ever & Never in Context",
+    "text": "Have you ever ridden a horse? — No, never. Has she ever lived abroad? — Yes, she lived in Spain once.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "ever & never",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"ever\" mean?",
+        "type": "short_answer",
+        "answer": "alguma vez",
+        "explanation": "alguma vez"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "I have never flown.",
+        "explanation": "I have never flown.",
+        "options": [
+          "I have never flown.",
+          "abroad? been ever you Have",
+          "No sentence fits.",
+          "Not like this before."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using ever & never. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "Have you ever been abroad? I have never flown. Not like this before. Have you finished yet?"
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-ever-never"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_ever"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_never"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_before"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_yet"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m6_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m6_l2_10"
+    }
+  ],
+  "checkpointId": "a2-m6-l2-checkpoint",
+  "tutorHints": [
+    "Target structure: Ever & Never.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m6-l2.json",
+  "exercisesRef": "exercises/a2-m6-l2.json",
+  "grammarRef": "grammar/a2-ever-never.json",
+  "checkpointRef": "assessments/a2-m6-l2-checkpoint.json"
+}

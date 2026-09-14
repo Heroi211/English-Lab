@@ -1,0 +1,201 @@
+{
+  "lessonId": "a2-m4-l2",
+  "exercises": [
+    {
+      "id": "ex_a2_m4_l2_01",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Few & Little):",
+      "options": [
+        "Few people came.",
+        "Few people came.",
+        "No correct form.",
+        "came. people Few"
+      ],
+      "answer": "Few people came.",
+      "explanation": "This follows the pattern taught in Few & Little."
+    },
+    {
+      "id": "ex_a2_m4_l2_02",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Few & Little\"?",
+      "options": [
+        "few",
+        "little",
+        "a few",
+        "xyzabc"
+      ],
+      "answer": "few",
+      "explanation": "\"few\" (poucos) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l2_03",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ progress was made.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Few/a few + plural | Little/a little + uncountable"
+    },
+    {
+      "id": "ex_a2_m4_l2_04",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "fill_blank",
+      "question": "Complete: ___ people came.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m4_l2_05",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "fill_blank",
+      "question": "Complete: ___ progress was made.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Few/a few + plural | Little/a little + uncountable"
+    },
+    {
+      "id": "ex_a2_m4_l2_06",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "fill_blank",
+      "question": "Complete: ___ have a few questions.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l2_07",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "true_false",
+      "question": "True or false: \"Few people came.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l2_08",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "true_false",
+      "question": "True or false: Few people came. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l2_09",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "few",
+          "right": "poucos"
+        },
+        {
+          "left": "little",
+          "right": "pouco"
+        },
+        {
+          "left": "a few",
+          "right": "alguns"
+        },
+        {
+          "left": "a little",
+          "right": "um pouco de"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l2_10",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "few",
+          "right": "poucos"
+        },
+        {
+          "left": "little",
+          "right": "pouco"
+        },
+        {
+          "left": "a few",
+          "right": "alguns"
+        },
+        {
+          "left": "a little",
+          "right": "um pouco de"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m4_l2_11",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "came",
+        "people",
+        "Few"
+      ],
+      "answer": [
+        "Few",
+        "people",
+        "came"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m4_l2_12",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"a few\"?",
+      "options": [
+        "alguns",
+        "poucos",
+        "pouco",
+        "none of these"
+      ],
+      "answer": "alguns",
+      "explanation": "\"a few\" means \"alguns\"."
+    }
+  ]
+}

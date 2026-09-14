@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m7-l4",
+  "level": "A2",
+  "topic": "mixed_cond_intro",
+  "items": [
+    {
+      "id": "vocab_real",
+      "word": "real",
+      "translation": "real",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "example": "A real possibility.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_unreal",
+      "word": "unreal",
+      "translation": "irreal",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "example": "An unreal dream.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_likely",
+      "word": "likely",
+      "translation": "provável",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "example": "A likely outcome.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_unlikely",
+      "word": "unlikely",
+      "translation": "improvável",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "mixed_cond_intro",
+      "example": "An unlikely event.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

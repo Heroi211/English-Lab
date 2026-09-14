@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m6-l1",
+  "exercises": [
+    {
+      "id": "ex_a1_m6_l1_01",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Can / Can't):",
+      "options": [
+        "I can swim.",
+        "I XXX swim.",
+        "No correct form.",
+        "swim. can I"
+      ],
+      "answer": "I can swim.",
+      "explanation": "This follows the pattern taught in Can / Can't."
+    },
+    {
+      "id": "ex_a1_m6_l1_02",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Can / Can't\"?",
+      "options": [
+        "can",
+        "can't",
+        "swim",
+        "xyzabc"
+      ],
+      "answer": "can",
+      "explanation": "\"can\" (poder / saber) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l1_03",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ can't drive.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Can + base verb (no -s): I can swim. | She can drive."
+    },
+    {
+      "id": "ex_a1_m6_l1_04",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "fill_blank",
+      "question": "Complete: I ___ swim.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m6_l1_05",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "fill_blank",
+      "question": "Complete: ___ can't drive.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Can + base verb (no -s): I can swim. | She can drive."
+    },
+    {
+      "id": "ex_a1_m6_l1_06",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "fill_blank",
+      "question": "Complete: ___ you swim?",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l1_07",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "true_false",
+      "question": "True or false: \"I can swim.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l1_08",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "true_false",
+      "question": "True or false: I can swim. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l1_09",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "can",
+          "right": "poder"
+        },
+        {
+          "left": "can't",
+          "right": "não poder"
+        },
+        {
+          "left": "swim",
+          "right": "nadar"
+        },
+        {
+          "left": "drive",
+          "right": "dirigir"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l1_10",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "can",
+          "right": "poder"
+        },
+        {
+          "left": "can't",
+          "right": "não poder"
+        },
+        {
+          "left": "swim",
+          "right": "nadar"
+        },
+        {
+          "left": "drive",
+          "right": "dirigir"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m6_l1_11",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"I can swim.\"",
+      "answer": "I can swim.",
+      "answers": [
+        "I can swim."
+      ],
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m6_l1_12",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"swim\"?",
+      "options": [
+        "nadar",
+        "poder / saber",
+        "não poder",
+        "none of these"
+      ],
+      "answer": "nadar",
+      "explanation": "\"swim\" means \"nadar\"."
+    }
+  ]
+}

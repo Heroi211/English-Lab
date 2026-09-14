@@ -1,0 +1,91 @@
+{
+  "lessonId": "a1-m8-l4",
+  "level": "A1",
+  "topic": "daily_routine",
+  "items": [
+    {
+      "id": "vocab_wake_up",
+      "word": "wake up",
+      "translation": "acordar",
+      "partOfSpeech": "phrasal verb",
+      "level": "A1",
+      "topic": "daily_routine",
+      "example": "I wake up at 6.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_get_up",
+      "word": "get up",
+      "translation": "levantar(-se)",
+      "partOfSpeech": "phrasal verb",
+      "level": "A1",
+      "topic": "daily_routine",
+      "example": "I get up at 6:30.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_go_to_work",
+      "word": "go to work",
+      "translation": "ir trabalhar",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "daily_routine",
+      "example": "I go to work by bus.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_finish",
+      "word": "finish",
+      "translation": "terminar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "daily_routine",
+      "example": "I finish at 5 p.m.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_go_to_bed",
+      "word": "go to bed",
+      "translation": "ir dormir",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "daily_routine",
+      "example": "I go to bed at 11.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_colleague",
+      "word": "colleague",
+      "translation": "colega",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "daily_routine",
+      "example": "My colleague is friendly.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_boss",
+      "word": "boss",
+      "translation": "chefe",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "daily_routine",
+      "example": "My boss is strict.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

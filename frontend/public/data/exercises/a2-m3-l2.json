@@ -1,0 +1,209 @@
+{
+  "lessonId": "a2-m3-l2",
+  "exercises": [
+    {
+      "id": "ex_a2_m3_l2_01",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Superlatives):",
+      "options": [
+        "This is the best pizza in town.",
+        "This XXX the best pizza in town.",
+        "No correct form.",
+        "town. in pizza best the is This"
+      ],
+      "answer": "This is the best pizza in town.",
+      "explanation": "This follows the pattern taught in Superlatives."
+    },
+    {
+      "id": "ex_a2_m3_l2_02",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Superlatives\"?",
+      "options": [
+        "the best",
+        "the worst",
+        "the most",
+        "xyzabc"
+      ],
+      "answer": "the best",
+      "explanation": "\"the best\" (o melhor) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l2_03",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ worst film ever.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "The + -est (the oldest) or the most + adj (the most interesting)."
+    },
+    {
+      "id": "ex_a2_m3_l2_04",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "fill_blank",
+      "question": "Complete: This is ___ pizza in town.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a2_m3_l2_05",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "fill_blank",
+      "question": "Complete: ___ worst film ever.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "The + -est (the oldest) or the most + adj (the most interesting)."
+    },
+    {
+      "id": "ex_a2_m3_l2_06",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "fill_blank",
+      "question": "Complete: ___ most popular song.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l2_07",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "true_false",
+      "question": "True or false: \"This is the best pizza in town.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l2_08",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "true_false",
+      "question": "True or false: This is the best pizza in town. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l2_09",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "the best",
+          "right": "o melhor"
+        },
+        {
+          "left": "the worst",
+          "right": "o pior"
+        },
+        {
+          "left": "the most",
+          "right": "o mais"
+        },
+        {
+          "left": "in the world",
+          "right": "no mundo"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l2_10",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "the best",
+          "right": "o melhor"
+        },
+        {
+          "left": "the worst",
+          "right": "o pior"
+        },
+        {
+          "left": "the most",
+          "right": "o mais"
+        },
+        {
+          "left": "in the world",
+          "right": "no mundo"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a2_m3_l2_11",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": "a2-superlatives",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "pizza",
+        "in",
+        "best",
+        "the",
+        "is",
+        "This",
+        "town"
+      ],
+      "answer": [
+        "This",
+        "is",
+        "the",
+        "best",
+        "pizza",
+        "in",
+        "town"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a2_m3_l2_12",
+      "level": "A2",
+      "topic": "superlatives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"the most\"?",
+      "options": [
+        "o mais",
+        "o melhor",
+        "o pior",
+        "none of these"
+      ],
+      "answer": "o mais",
+      "explanation": "\"the most\" means \"o mais\"."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "a2-m4-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m4-l2",
+  "moduleId": "a2-m4",
+  "level": "A2",
+  "title": "Lesson 2 Checkpoint — Few & Little",
+  "description": "Show what you learned about few & little. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use few/little/a few/a little correctly.",
+  "questions": [
+    {
+      "id": "cp_a2_m4_l2_01",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Few & Little):",
+      "options": [
+        "Few people came.",
+        "Few people came.",
+        "No correct form.",
+        "came. people Few"
+      ],
+      "answer": "Few people came.",
+      "explanation": "This follows the pattern taught in Few & Little."
+    },
+    {
+      "id": "cp_a2_m4_l2_02",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "fill_blank",
+      "question": "Complete: ___ people came.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m4_l2_03",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "true_false",
+      "question": "True or false: \"Few people came.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m4_l2_04",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Few & Little\"?",
+      "options": [
+        "few",
+        "little",
+        "a few",
+        "xyzabc"
+      ],
+      "answer": "few",
+      "explanation": "\"few\" (poucos) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m4_l2_05",
+      "level": "A2",
+      "topic": "few_little",
+      "ruleId": "a2-few-little",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "few",
+          "right": "poucos"
+        },
+        {
+          "left": "little",
+          "right": "pouco"
+        },
+        {
+          "left": "a few",
+          "right": "alguns"
+        },
+        {
+          "left": "a little",
+          "right": "um pouco de"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

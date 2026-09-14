@@ -1,0 +1,197 @@
+{
+  "id": "a2-m4-l3",
+  "moduleId": "a2-m4",
+  "level": "A2",
+  "order": 3,
+  "title": "Containers & Measures",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use containers & measures accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can use container words: a bottle of, a cup of, a kilo of.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about containers & measures. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use containers & measures?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "A bottle of water | A cup of tea | A piece of cake | A kilo of rice",
+  "grammar": {
+    "ruleId": "a2-containers",
+    "title": "Containers & Measures",
+    "rule": "A bottle of water | A cup of tea | A piece of cake | A kilo of rice",
+    "examples": [
+      {
+        "sentence": "A bottle of water.",
+        "note": "bottle"
+      },
+      {
+        "sentence": "A cup of coffee.",
+        "note": "cup"
+      },
+      {
+        "sentence": "A piece of bread.",
+        "note": "piece"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "bottle",
+      "translation": "garrafa",
+      "partOfSpeech": "noun",
+      "example": "A bottle of water.",
+      "collocations": []
+    },
+    {
+      "word": "cup",
+      "translation": "xícara",
+      "partOfSpeech": "noun",
+      "example": "A cup of coffee.",
+      "collocations": []
+    },
+    {
+      "word": "piece",
+      "translation": "pedaço / fatia",
+      "partOfSpeech": "noun",
+      "example": "A piece of bread.",
+      "collocations": []
+    },
+    {
+      "word": "kilo",
+      "translation": "quilo",
+      "partOfSpeech": "noun",
+      "example": "Two kilos of apples.",
+      "collocations": []
+    },
+    {
+      "word": "packet",
+      "translation": "pacote",
+      "partOfSpeech": "noun",
+      "example": "A packet of biscuits.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Containers & Measures",
+      "sentences": [
+        "A bottle of water.",
+        "A cup of coffee.",
+        "A piece of bread.",
+        "Two kilos of apples."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m4_l3_01",
+    "ex_a2_m4_l3_02",
+    "ex_a2_m4_l3_03",
+    "ex_a2_m4_l3_04",
+    "ex_a2_m4_l3_05",
+    "ex_a2_m4_l3_06",
+    "ex_a2_m4_l3_07",
+    "ex_a2_m4_l3_08",
+    "ex_a2_m4_l3_09",
+    "ex_a2_m4_l3_10",
+    "ex_a2_m4_l3_11",
+    "ex_a2_m4_l3_12"
+  ],
+  "reading": {
+    "title": "Containers & Measures in Context",
+    "text": "Can you buy a bottle of juice and two packets of rice? I ate a piece of cake and drank a cup of tea. We need a kilo of tomatoes.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "containers & measures",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"bottle\" mean?",
+        "type": "short_answer",
+        "answer": "garrafa",
+        "explanation": "garrafa"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "A cup of coffee.",
+        "explanation": "A cup of coffee.",
+        "options": [
+          "A cup of coffee.",
+          "water. of bottle A",
+          "No sentence fits.",
+          "A piece of bread."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using containers & measures. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "A bottle of water. A cup of coffee. A piece of bread. Two kilos of apples."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-containers"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_bottle"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_cup"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_piece"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_kilo"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_packet"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m4_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m4_l3_10"
+    }
+  ],
+  "checkpointId": "a2-m4-l3-checkpoint",
+  "tutorHints": [
+    "Target structure: Containers & Measures.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m4-l3.json",
+  "exercisesRef": "exercises/a2-m4-l3.json",
+  "grammarRef": "grammar/a2-containers.json",
+  "checkpointRef": "assessments/a2-m4-l3-checkpoint.json"
+}

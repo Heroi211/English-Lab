@@ -1,0 +1,213 @@
+{
+  "id": "a1-m6-l4",
+  "moduleId": "a1-m6",
+  "level": "A1",
+  "order": 4,
+  "title": "Imperatives",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use imperatives.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can give simple instructions and commands.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"imperatives\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Imperatives?"
+    ]
+  },
+  "explanation": "Base verb for orders: Stop! Sit down. Open the book.\n\nNegative: Don't run. Don't be late.\n\nPlease for politeness: Please wait here.\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-imperatives",
+    "title": "Imperatives",
+    "rule": "Base verb for orders: Stop! Sit down. Open the book.",
+    "examples": [
+      {
+        "sentence": "Stop!",
+        "note": "stop"
+      },
+      {
+        "sentence": "Please wait.",
+        "note": "wait"
+      },
+      {
+        "sentence": "Open the door.",
+        "note": "open"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "stop",
+      "translation": "pare",
+      "partOfSpeech": "verb",
+      "example": "Stop!",
+      "collocations": []
+    },
+    {
+      "word": "wait",
+      "translation": "espere",
+      "partOfSpeech": "verb",
+      "example": "Please wait.",
+      "collocations": []
+    },
+    {
+      "word": "open",
+      "translation": "abrir",
+      "partOfSpeech": "verb",
+      "example": "Open the door.",
+      "collocations": []
+    },
+    {
+      "word": "close",
+      "translation": "fechar",
+      "partOfSpeech": "verb",
+      "example": "Close the window.",
+      "collocations": []
+    },
+    {
+      "word": "listen",
+      "translation": "escute",
+      "partOfSpeech": "verb",
+      "example": "Listen carefully.",
+      "collocations": []
+    },
+    {
+      "word": "help",
+      "translation": "ajude",
+      "partOfSpeech": "verb",
+      "example": "Help me, please.",
+      "collocations": []
+    },
+    {
+      "word": "don't",
+      "translation": "não (imperativo)",
+      "partOfSpeech": "auxiliary",
+      "example": "Don't worry.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Imperatives",
+      "sentences": [
+        "Stop!",
+        "Please wait.",
+        "Open the door.",
+        "Close the window."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m6_l4_01",
+    "ex_a1_m6_l4_02",
+    "ex_a1_m6_l4_03",
+    "ex_a1_m6_l4_04",
+    "ex_a1_m6_l4_05",
+    "ex_a1_m6_l4_06",
+    "ex_a1_m6_l4_07",
+    "ex_a1_m6_l4_08",
+    "ex_a1_m6_l4_09",
+    "ex_a1_m6_l4_10",
+    "ex_a1_m6_l4_11",
+    "ex_a1_m6_l4_12"
+  ],
+  "reading": {
+    "title": "Imperatives — Reading",
+    "text": "Every day, people use imperatives in conversation. Stop! Please wait. Open the door. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "stop",
+        "explanation": "Focus word: stop.",
+        "options": [
+          "stop",
+          "wait",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"wait\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "espere",
+        "explanation": "espere"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using imperatives.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "Stop! Please wait. Open the door."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-imperatives"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_stop"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_wait"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_open"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_close"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_listen"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_help"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m6_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m6_l4_10"
+    }
+  ],
+  "checkpointId": "a1-m6-l4-checkpoint",
+  "tutorHints": [
+    "Focus on Imperatives with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m6-l4.json",
+  "exercisesRef": "exercises/a1-m6-l4.json",
+  "grammarRef": "grammar/a1-imperatives.json",
+  "checkpointRef": "assessments/a1-m6-l4-checkpoint.json"
+}

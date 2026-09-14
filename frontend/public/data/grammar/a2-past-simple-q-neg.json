@@ -1,0 +1,26 @@
+{
+  "id": "a2-past-simple-q-neg",
+  "level": "A2",
+  "title": "Past Simple — Questions & Negatives",
+  "topic": "past_simple_q_neg",
+  "summary": "Did + subject + base verb: Did you go? | She didn't come.",
+  "rule": "Did + subject + base verb: Did you go? | She didn't come.",
+  "examples": [
+    "Did you enjoy it?",
+    "I didn't know.",
+    "When did they arrive?"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Did you enjoy it?",
+      "correct": "Did you enjoy it?",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m1-l3"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

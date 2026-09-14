@@ -1,0 +1,213 @@
+{
+  "id": "a1-m5-l3",
+  "moduleId": "a1-m5",
+  "level": "A1",
+  "order": 3,
+  "title": "Present Simple vs Continuous",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use present simple vs continuous.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can choose present simple or continuous correctly.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"present simple vs continuous\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Present Simple vs Continuous?"
+    ]
+  },
+  "explanation": "Simple = habit/fact: I work in a bank.\nContinuous = now/temporary: I am working from home today.\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-simple-vs-continuous",
+    "title": "Present Simple vs Continuous",
+    "rule": "Simple = habit/fact: I work in a bank.",
+    "examples": [
+      {
+        "sentence": "Smoking is a bad habit.",
+        "note": "habit"
+      },
+      {
+        "sentence": "This is a temporary job.",
+        "note": "temporary"
+      },
+      {
+        "sentence": "She has a permanent contract.",
+        "note": "permanent"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "habit",
+      "translation": "hábito",
+      "partOfSpeech": "noun",
+      "example": "Smoking is a bad habit.",
+      "collocations": []
+    },
+    {
+      "word": "temporary",
+      "translation": "temporário",
+      "partOfSpeech": "adjective",
+      "example": "This is a temporary job.",
+      "collocations": []
+    },
+    {
+      "word": "permanent",
+      "translation": "permanente",
+      "partOfSpeech": "adjective",
+      "example": "She has a permanent contract.",
+      "collocations": []
+    },
+    {
+      "word": "usually",
+      "translation": "geralmente",
+      "partOfSpeech": "adverb",
+      "example": "I usually drive.",
+      "collocations": []
+    },
+    {
+      "word": "today",
+      "translation": "hoje",
+      "partOfSpeech": "adverb",
+      "example": "Today I am taking the bus.",
+      "collocations": []
+    },
+    {
+      "word": "every week",
+      "translation": "toda semana",
+      "partOfSpeech": "phrase",
+      "example": "I visit my parents every week.",
+      "collocations": []
+    },
+    {
+      "word": "this week",
+      "translation": "esta semana",
+      "partOfSpeech": "phrase",
+      "example": "This week I am staying at a hotel.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Present Simple vs Continuous",
+      "sentences": [
+        "Smoking is a bad habit.",
+        "This is a temporary job.",
+        "She has a permanent contract.",
+        "I usually drive."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m5_l3_01",
+    "ex_a1_m5_l3_02",
+    "ex_a1_m5_l3_03",
+    "ex_a1_m5_l3_04",
+    "ex_a1_m5_l3_05",
+    "ex_a1_m5_l3_06",
+    "ex_a1_m5_l3_07",
+    "ex_a1_m5_l3_08",
+    "ex_a1_m5_l3_09",
+    "ex_a1_m5_l3_10",
+    "ex_a1_m5_l3_11",
+    "ex_a1_m5_l3_12"
+  ],
+  "reading": {
+    "title": "Present Simple vs Continuous — Reading",
+    "text": "Every day, people use present simple vs continuous in conversation. Smoking is a bad habit. This is a temporary job. She has a permanent contract. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "habit",
+        "explanation": "Focus word: habit.",
+        "options": [
+          "habit",
+          "temporary",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"temporary\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "temporário",
+        "explanation": "temporário"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using present simple vs continuous.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "Smoking is a bad habit. This is a temporary job. She has a permanent contract."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-simple-vs-continuous"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_habit"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_temporary"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_permanent"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_usually"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_today"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_every_week"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m5_l3_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m5_l3_10"
+    }
+  ],
+  "checkpointId": "a1-m5-l3-checkpoint",
+  "tutorHints": [
+    "Focus on Present Simple vs Continuous with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m5-l3.json",
+  "exercisesRef": "exercises/a1-m5-l3.json",
+  "grammarRef": "grammar/a1-simple-vs-continuous.json",
+  "checkpointRef": "assessments/a1-m5-l3-checkpoint.json"
+}

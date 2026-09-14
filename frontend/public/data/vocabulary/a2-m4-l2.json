@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m4-l2",
+  "level": "A2",
+  "topic": "few_little",
+  "items": [
+    {
+      "id": "vocab_few",
+      "word": "few",
+      "translation": "poucos",
+      "partOfSpeech": "determiner",
+      "level": "A2",
+      "topic": "few_little",
+      "example": "Few people came.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_little",
+      "word": "little",
+      "translation": "pouco",
+      "partOfSpeech": "determiner",
+      "level": "A2",
+      "topic": "few_little",
+      "example": "Little progress was made.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_a_few",
+      "word": "a few",
+      "translation": "alguns",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "few_little",
+      "example": "I have a few questions.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_a_little",
+      "word": "a little",
+      "translation": "um pouco de",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "few_little",
+      "example": "A little help please.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "id": "a1-m4-l1",
+  "moduleId": "a1-m4",
+  "level": "A1",
+  "order": 1,
+  "title": "Present Simple — Affirmative",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use present simple — affirmative.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can talk about habits and facts using present simple affirmative.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"present simple — affirmative\" in real life. (Pense quando você usa isso no dia a dia.)",
+    "reflectionQuestions": [
+      "Can you give one example of Present Simple — Affirmative?"
+    ]
+  },
+  "explanation": "Daily routines and permanent situations: add -s for he/she/it.\n\nI work | You work | He works | She works\n\nSpelling: watch → watches, study → studies, go → goes\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-present-simple-aff",
+    "title": "Present Simple — Affirmative",
+    "rule": "Daily routines and permanent situations: add -s for he/she/it.",
+    "examples": [
+      {
+        "sentence": "I work in an office.",
+        "note": "work"
+      },
+      {
+        "sentence": "They live in London.",
+        "note": "live"
+      },
+      {
+        "sentence": "She likes music.",
+        "note": "like"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "work",
+      "translation": "trabalhar",
+      "partOfSpeech": "verb",
+      "example": "I work in an office.",
+      "collocations": []
+    },
+    {
+      "word": "live",
+      "translation": "morar",
+      "partOfSpeech": "verb",
+      "example": "They live in London.",
+      "collocations": []
+    },
+    {
+      "word": "like",
+      "translation": "gostar",
+      "partOfSpeech": "verb",
+      "example": "She likes music.",
+      "collocations": []
+    },
+    {
+      "word": "every day",
+      "translation": "todos os dias",
+      "partOfSpeech": "phrase",
+      "example": "I study every day.",
+      "collocations": []
+    },
+    {
+      "word": "always",
+      "translation": "sempre",
+      "partOfSpeech": "adverb",
+      "example": "He always arrives early.",
+      "collocations": []
+    },
+    {
+      "word": "usually",
+      "translation": "geralmente",
+      "partOfSpeech": "adverb",
+      "example": "We usually eat at home.",
+      "collocations": []
+    },
+    {
+      "word": "sometimes",
+      "translation": "às vezes",
+      "partOfSpeech": "adverb",
+      "example": "I sometimes run in the park.",
+      "collocations": []
+    },
+    {
+      "word": "never",
+      "translation": "nunca",
+      "partOfSpeech": "adverb",
+      "example": "She never drinks coffee.",
+      "collocations": []
+    },
+    {
+      "word": "office",
+      "translation": "escritório",
+      "partOfSpeech": "noun",
+      "example": "My office is downtown.",
+      "collocations": []
+    },
+    {
+      "word": "study",
+      "translation": "estudar",
+      "partOfSpeech": "verb",
+      "example": "I study English.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Present Simple — Affirmative",
+      "sentences": [
+        "I work in an office.",
+        "They live in London.",
+        "She likes music.",
+        "I study every day."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m4_l1_01",
+    "ex_a1_m4_l1_02",
+    "ex_a1_m4_l1_03",
+    "ex_a1_m4_l1_04",
+    "ex_a1_m4_l1_05",
+    "ex_a1_m4_l1_06",
+    "ex_a1_m4_l1_07",
+    "ex_a1_m4_l1_08",
+    "ex_a1_m4_l1_09",
+    "ex_a1_m4_l1_10",
+    "ex_a1_m4_l1_11",
+    "ex_a1_m4_l1_12"
+  ],
+  "reading": {
+    "title": "Present Simple — Affirmative — Reading",
+    "text": "Every day, people use present simple — affirmative in conversation. I work in an office. They live in London. She likes music. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "work",
+        "explanation": "Focus word: work.",
+        "options": [
+          "work",
+          "live",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"live\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "morar",
+        "explanation": "morar"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using present simple — affirmative.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "I work in an office. They live in London. She likes music."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-present-simple-aff"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_work"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_live"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_like"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_every_day"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_always"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_usually"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m4_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m4_l1_10"
+    }
+  ],
+  "checkpointId": "a1-m4-l1-checkpoint",
+  "tutorHints": [
+    "Focus on Present Simple — Affirmative with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m4-l1.json",
+  "exercisesRef": "exercises/a1-m4-l1.json",
+  "grammarRef": "grammar/a1-present-simple-aff.json",
+  "checkpointRef": "assessments/a1-m4-l1-checkpoint.json"
+}

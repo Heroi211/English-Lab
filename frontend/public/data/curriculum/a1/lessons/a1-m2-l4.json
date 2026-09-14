@@ -1,0 +1,216 @@
+{
+  "id": "a1-m2-l4",
+  "moduleId": "a1-m2",
+  "level": "A1",
+  "order": 4,
+  "title": "Demonstratives",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use this/that for singular near and far.",
+    "Use these/those for plural near and far.",
+    "Ask What is this/that?"
+  ],
+  "canDo": "I can point to things near and far using this, that, these, and those.",
+  "warmUp": {
+    "title": "Este e aquele",
+    "prompt": "Em português: este, esse, isto, aquilo… Em inglês simplificamos com this/that/these/those.",
+    "reflectionQuestions": [
+      "What is near your hand now?",
+      "What is far from you?"
+    ]
+  },
+  "explanation": "Singular: this (near) | that (far)\nPlural: these (near) | those (far)\n\nThis is my phone. (here) | That is your car. (over there)\nThese are my keys. | Those are nice shoes.\n\nQuestions: What is this? | What are those?",
+  "grammar": {
+    "ruleId": "a1-demonstratives",
+    "title": "Demonstratives",
+    "rule": "This/these = near the speaker. That/those = farther away. Match number: this/that + singular verb; these/those + plural verb.",
+    "examples": [
+      {
+        "sentence": "This is a pen.",
+        "note": "Near singular"
+      },
+      {
+        "sentence": "Those buildings are old.",
+        "note": "Far plural"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "this",
+      "translation": "este/esta/isto",
+      "partOfSpeech": "determiner",
+      "example": "This is my bag.",
+      "collocations": []
+    },
+    {
+      "word": "that",
+      "translation": "esse/essa/isso/aquele",
+      "partOfSpeech": "determiner",
+      "example": "That is a tall building.",
+      "collocations": []
+    },
+    {
+      "word": "these",
+      "translation": "estes/estas",
+      "partOfSpeech": "determiner",
+      "example": "These shoes are new.",
+      "collocations": []
+    },
+    {
+      "word": "those",
+      "translation": "esses/aqueles",
+      "partOfSpeech": "determiner",
+      "example": "Those mountains are beautiful.",
+      "collocations": []
+    },
+    {
+      "word": "near",
+      "translation": "perto",
+      "partOfSpeech": "adjective",
+      "example": "The café is near here.",
+      "collocations": []
+    },
+    {
+      "word": "far",
+      "translation": "longe",
+      "partOfSpeech": "adjective",
+      "example": "The station is far.",
+      "collocations": []
+    },
+    {
+      "word": "here",
+      "translation": "aqui",
+      "partOfSpeech": "adverb",
+      "example": "Come here, please.",
+      "collocations": []
+    },
+    {
+      "word": "there",
+      "translation": "lá / ali",
+      "partOfSpeech": "adverb",
+      "example": "Look over there.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "In a shop",
+      "dialogue": [
+        {
+          "speaker": "Customer",
+          "text": "How much is this?"
+        },
+        {
+          "speaker": "Shop",
+          "text": "That one is ten dollars. These are five dollars each."
+        }
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m2_l4_01",
+    "ex_a1_m2_l4_02",
+    "ex_a1_m2_l4_03",
+    "ex_a1_m2_l4_04",
+    "ex_a1_m2_l4_05",
+    "ex_a1_m2_l4_06",
+    "ex_a1_m2_l4_07",
+    "ex_a1_m2_l4_08",
+    "ex_a1_m2_l4_09",
+    "ex_a1_m2_l4_10",
+    "ex_a1_m2_l4_11",
+    "ex_a1_m2_l4_12"
+  ],
+  "reading": {
+    "title": "At the Museum",
+    "text": "Guide: \"This painting is from 1920. It is very famous. That sculpture across the room is modern. These small photos show the artist's family. Those big windows let in a lot of light.\" Visitor: \"What are those?\" Guide: \"Those are ancient tools — over 2,000 years old.\"",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "When is the painting from?",
+        "type": "short_answer",
+        "answer": "1920",
+        "explanation": "This painting is from 1920."
+      },
+      {
+        "id": "r2",
+        "question": "Where is the modern sculpture?",
+        "type": "short_answer",
+        "answer": "across the room",
+        "explanation": "That sculpture across the room."
+      },
+      {
+        "id": "r3",
+        "question": "Are the ancient tools near the visitor?",
+        "type": "true_false",
+        "answer": false,
+        "explanation": "Those are ancient tools — implied far, like the windows."
+      },
+      {
+        "id": "r4",
+        "question": "What do the small photos show?",
+        "type": "multiple_choice",
+        "answer": "the artist's family",
+        "explanation": "These small photos show the artist's family.",
+        "options": [
+          "the museum",
+          "the artist's family",
+          "tools",
+          "windows"
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Describe 4 objects in your room using this/that/these/those.",
+    "minWords": 25,
+    "modelAnswer": "This is my computer. That is my bed over there. These are my notebooks. Those are my shoes by the door."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-demonstratives"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_this"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_that"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_these"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_those"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_near"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_far"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m2_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m2_l4_10"
+    }
+  ],
+  "checkpointId": "a1-m2-l4-checkpoint",
+  "tutorHints": [
+    "Use physical distance when demoing this vs that."
+  ],
+  "vocabularyRef": "vocabulary/a1-m2-l4.json",
+  "exercisesRef": "exercises/a1-m2-l4.json",
+  "grammarRef": "grammar/a1-demonstratives.json",
+  "checkpointRef": "assessments/a1-m2-l4-checkpoint.json"
+}

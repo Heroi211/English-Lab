@@ -1,0 +1,105 @@
+{
+  "lessonId": "a1-m1-l4",
+  "level": "A1",
+  "topic": "questions_to_be",
+  "items": [
+    {
+      "id": "vocab_what",
+      "word": "what",
+      "translation": "o que / qual",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "example": "What is your name?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_where",
+      "word": "where",
+      "translation": "onde",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "example": "Where are you from?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_who",
+      "word": "who",
+      "translation": "quem",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "example": "Who is she?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_how",
+      "word": "how",
+      "translation": "como",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "example": "How are you?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_how_old",
+      "word": "how old",
+      "translation": "quantos anos",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "example": "How old are you?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_question",
+      "word": "question",
+      "translation": "pergunta",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "example": "That is a good question.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_answer",
+      "word": "answer",
+      "translation": "resposta",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "example": "Give a short answer.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_job",
+      "word": "job",
+      "translation": "trabalho / emprego",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "example": "What is your job?",
+      "collocations": [
+        "What is your job?"
+      ],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

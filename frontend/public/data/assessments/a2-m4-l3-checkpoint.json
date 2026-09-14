@@ -1,0 +1,96 @@
+{
+  "id": "a2-m4-l3-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m4-l3",
+  "moduleId": "a2-m4",
+  "level": "A2",
+  "title": "Lesson 3 Checkpoint — Containers & Measures",
+  "description": "Show what you learned about containers & measures. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use container words: a bottle of, a cup of, a kilo of.",
+  "questions": [
+    {
+      "id": "cp_a2_m4_l3_01",
+      "level": "A2",
+      "topic": "containers",
+      "ruleId": "a2-containers",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Containers & Measures):",
+      "options": [
+        "A bottle of water.",
+        "A bottle of water.",
+        "No correct form.",
+        "water. of bottle A"
+      ],
+      "answer": "A bottle of water.",
+      "explanation": "This follows the pattern taught in Containers & Measures."
+    },
+    {
+      "id": "cp_a2_m4_l3_02",
+      "level": "A2",
+      "topic": "containers",
+      "ruleId": "a2-containers",
+      "type": "fill_blank",
+      "question": "Complete: A ___ of water.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m4_l3_03",
+      "level": "A2",
+      "topic": "containers",
+      "ruleId": "a2-containers",
+      "type": "true_false",
+      "question": "True or false: \"A bottle of water.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m4_l3_04",
+      "level": "A2",
+      "topic": "containers",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Containers & Measures\"?",
+      "options": [
+        "bottle",
+        "cup",
+        "piece",
+        "xyzabc"
+      ],
+      "answer": "bottle",
+      "explanation": "\"bottle\" (garrafa) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m4_l3_05",
+      "level": "A2",
+      "topic": "containers",
+      "ruleId": "a2-containers",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "bottle",
+          "right": "garrafa"
+        },
+        {
+          "left": "cup",
+          "right": "xícara"
+        },
+        {
+          "left": "piece",
+          "right": "pedaço"
+        },
+        {
+          "left": "kilo",
+          "right": "quilo"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "a2-m7-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m7-l2",
+  "moduleId": "a2-m7",
+  "level": "A2",
+  "title": "Lesson 2 Checkpoint — Unless & As Long As",
+  "description": "Show what you learned about unless & as long as. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use unless and as long as in conditional sentences.",
+  "questions": [
+    {
+      "id": "cp_a2_m7_l2_01",
+      "level": "A2",
+      "topic": "unless",
+      "ruleId": "a2-unless",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Unless & As Long As):",
+      "options": [
+        "As long as you try.",
+        "As long as you try.",
+        "No correct form.",
+        "try. you as long As"
+      ],
+      "answer": "As long as you try.",
+      "explanation": "This follows the pattern taught in Unless & As Long As."
+    },
+    {
+      "id": "cp_a2_m7_l2_02",
+      "level": "A2",
+      "topic": "unless",
+      "ruleId": "a2-unless",
+      "type": "fill_blank",
+      "question": "Complete: ___ you try.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m7_l2_03",
+      "level": "A2",
+      "topic": "unless",
+      "ruleId": "a2-unless",
+      "type": "true_false",
+      "question": "True or false: \"As long as you try.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m7_l2_04",
+      "level": "A2",
+      "topic": "unless",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Unless & As Long As\"?",
+      "options": [
+        "as long as",
+        "provided",
+        "otherwise",
+        "xyzabc"
+      ],
+      "answer": "as long as",
+      "explanation": "\"as long as\" (contanto que) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m7_l2_05",
+      "level": "A2",
+      "topic": "unless",
+      "ruleId": "a2-unless",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "as long as",
+          "right": "contanto que"
+        },
+        {
+          "left": "provided",
+          "right": "desde que"
+        },
+        {
+          "left": "otherwise",
+          "right": "caso contrário"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

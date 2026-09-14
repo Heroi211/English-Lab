@@ -1,0 +1,27 @@
+{
+  "id": "a1-daily-routine",
+  "level": "A1",
+  "title": "Daily Routine & Work",
+  "topic": "daily_routine",
+  "summary": "Wake up, get up, have breakfast, go to work, finish, go to bed.",
+  "rule": "Wake up, get up, have breakfast, go to work, finish, go to bed.",
+  "examples": [
+    "I wake up at 6.",
+    "I get up at 6:30.",
+    "I go to work by bus."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I wake up at 6.",
+      "correct": "I wake up at 6.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m8-l4"
+  ],
+  "tutorHints": [
+    "Focus on Daily Routine & Work with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "a1-m6-module-test",
+  "kind": "module",
+  "moduleId": "a1-m6",
+  "level": "A1",
+  "title": "Ability & Place — Module Test",
+  "description": "Test your knowledge of the whole module: Ability & Place. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use ability & place in everyday A1 communication.",
+  "questions": [
+    {
+      "id": "mt_a1_m6_01",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Can / Can't):",
+      "options": [
+        "I can swim.",
+        "I XXX swim.",
+        "No correct form.",
+        "swim. can I"
+      ],
+      "answer": "I can swim.",
+      "explanation": "This follows the pattern taught in Can / Can't."
+    },
+    {
+      "id": "mt_a1_m6_02",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Prepositions of Place\"?",
+      "options": [
+        "behind",
+        "in front of",
+        "between",
+        "xyzabc"
+      ],
+      "answer": "behind",
+      "explanation": "\"behind\" (atrás de) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a1_m6_03",
+      "level": "A1",
+      "topic": "directions",
+      "ruleId": "a1-directions",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ left at the traffic lights.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Go straight. Turn left/right. It is on your left."
+    },
+    {
+      "id": "mt_a1_m6_04",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "fill_blank",
+      "question": "Complete: ___!",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a1_m6_05",
+      "level": "A1",
+      "topic": "can_cant",
+      "ruleId": "a1-can-cant",
+      "type": "true_false",
+      "question": "True or false: \"I can swim.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a1_m6_06",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "ruleId": "a1-prepositions-place",
+      "type": "true_false",
+      "question": "True or false: The garden WRONG behind the house. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "mt_a1_m6_07",
+      "level": "A1",
+      "topic": "directions",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "straight",
+          "right": "reto"
+        },
+        {
+          "left": "turn",
+          "right": "virar"
+        },
+        {
+          "left": "left",
+          "right": "esquerda"
+        },
+        {
+          "left": "right",
+          "right": "direita"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a1_m6_08",
+      "level": "A1",
+      "topic": "imperatives",
+      "ruleId": "a1-imperatives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "stop",
+          "right": "pare"
+        },
+        {
+          "left": "wait",
+          "right": "espere"
+        },
+        {
+          "left": "open",
+          "right": "abrir"
+        },
+        {
+          "left": "close",
+          "right": "fechar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

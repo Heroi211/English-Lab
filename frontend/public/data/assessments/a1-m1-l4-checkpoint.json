@@ -1,0 +1,96 @@
+{
+  "id": "a1-m1-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m1-l4",
+  "moduleId": "a1-m1",
+  "level": "A1",
+  "title": "Lesson 4 Checkpoint — Questions with To Be",
+  "description": "Show what you learned about questions with to be. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can ask and answer basic questions using the verb to be.",
+  "questions": [
+    {
+      "id": "cp_a1_m1_l4_01",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Questions with To Be):",
+      "options": [
+        "Where are you from? — I am from Brazil.",
+        "Where XXX you from? — I am from Brazil.",
+        "No correct form.",
+        "Brazil. from am I — from? you are Where"
+      ],
+      "answer": "Where are you from? — I am from Brazil.",
+      "explanation": "This follows the pattern taught in Questions with To Be."
+    },
+    {
+      "id": "cp_a1_m1_l4_02",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "fill_blank",
+      "question": "Complete: ___ is your name?",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m1_l4_03",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "true_false",
+      "question": "True or false: \"Where are you from? — I am from Brazil.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m1_l4_04",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Questions with To Be\"?",
+      "options": [
+        "what",
+        "where",
+        "who",
+        "xyzabc"
+      ],
+      "answer": "what",
+      "explanation": "\"what\" (o que / qual) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m1_l4_05",
+      "level": "A1",
+      "topic": "questions_to_be",
+      "ruleId": "a1-questions-to-be",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "what",
+          "right": "o que"
+        },
+        {
+          "left": "where",
+          "right": "onde"
+        },
+        {
+          "left": "who",
+          "right": "quem"
+        },
+        {
+          "left": "how",
+          "right": "como"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

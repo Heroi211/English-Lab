@@ -1,0 +1,103 @@
+{
+  "lessonId": "a1-m4-l4",
+  "level": "A1",
+  "topic": "adverbs_frequency",
+  "items": [
+    {
+      "id": "vocab_always",
+      "word": "always",
+      "translation": "sempre",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "example": "I always drink water.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_usually",
+      "word": "usually",
+      "translation": "geralmente",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "example": "She usually walks.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_often",
+      "word": "often",
+      "translation": "frequentemente",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "example": "We often meet on Fridays.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_sometimes",
+      "word": "sometimes",
+      "translation": "às vezes",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "example": "He sometimes cooks.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_hardly_ever",
+      "word": "hardly ever",
+      "translation": "quase nunca",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "example": "I hardly ever watch TV.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_never",
+      "word": "never",
+      "translation": "nunca",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "example": "They never arrive late.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_once_a_week",
+      "word": "once a week",
+      "translation": "uma vez por semana",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "example": "I go once a week.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_twice",
+      "word": "twice",
+      "translation": "duas vezes",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "adverbs_frequency",
+      "example": "She calls twice a day.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

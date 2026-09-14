@@ -1,0 +1,27 @@
+{
+  "id": "a1-days-months",
+  "level": "A1",
+  "title": "Days, Months & Seasons",
+  "topic": "days_months",
+  "summary": "On Monday | In January | In summer",
+  "rule": "On Monday | In January | In summer",
+  "examples": [
+    "On Monday I have class.",
+    "Friday is my favourite day.",
+    "In January it is hot in Brazil."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "On Monday I have class.",
+      "correct": "On Monday I have class.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m7-l3"
+  ],
+  "tutorHints": [
+    "Focus on Days, Months & Seasons with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

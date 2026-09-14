@@ -1,0 +1,115 @@
+{
+  "lessonId": "a1-m2-l2",
+  "level": "A1",
+  "topic": "articles",
+  "items": [
+    {
+      "id": "vocab_a",
+      "word": "a",
+      "translation": "um/uma",
+      "partOfSpeech": "article",
+      "level": "A1",
+      "topic": "articles",
+      "example": "I have a cat.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_an",
+      "word": "an",
+      "translation": "um/uma (vogal)",
+      "partOfSpeech": "article",
+      "level": "A1",
+      "topic": "articles",
+      "example": "She is an artist.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_the",
+      "word": "the",
+      "translation": "o/a/os/as",
+      "partOfSpeech": "article",
+      "level": "A1",
+      "topic": "articles",
+      "example": "The cat is black.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_book",
+      "word": "book",
+      "translation": "livro",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "articles",
+      "example": "This is a good book.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_apple",
+      "word": "apple",
+      "translation": "maçã",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "articles",
+      "example": "I eat an apple.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_engineer",
+      "word": "engineer",
+      "translation": "engenheiro(a)",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "articles",
+      "example": "He is an engineer.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_umbrella",
+      "word": "umbrella",
+      "translation": "guarda-chuva",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "articles",
+      "example": "Take an umbrella.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_university",
+      "word": "university",
+      "translation": "universidade",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "articles",
+      "example": "She goes to a university.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_hour",
+      "word": "hour",
+      "translation": "hora",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "articles",
+      "example": "Wait an hour.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

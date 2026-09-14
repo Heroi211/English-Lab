@@ -1,0 +1,201 @@
+{
+  "lessonId": "a1-m4-l2",
+  "exercises": [
+    {
+      "id": "ex_a1_m4_l2_01",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Simple — Negative):",
+      "options": [
+        "I don't understand.",
+        "I don't understand.",
+        "No correct form.",
+        "understand. don't I"
+      ],
+      "answer": "I don't understand.",
+      "explanation": "This follows the pattern taught in Present Simple — Negative."
+    },
+    {
+      "id": "ex_a1_m4_l2_02",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Present Simple — Negative\"?",
+      "options": [
+        "don't",
+        "doesn't",
+        "understand",
+        "xyzabc"
+      ],
+      "answer": "don't",
+      "explanation": "\"don't\" (não (auxiliar)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l2_03",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ doesn't play tennis.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Use don't / doesn't + base verb."
+    },
+    {
+      "id": "ex_a1_m4_l2_04",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "fill_blank",
+      "question": "Complete: I ___ understand.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m4_l2_05",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "fill_blank",
+      "question": "Complete: ___ doesn't play tennis.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Use don't / doesn't + base verb."
+    },
+    {
+      "id": "ex_a1_m4_l2_06",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "fill_blank",
+      "question": "Complete: ___ you understand?",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l2_07",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "true_false",
+      "question": "True or false: \"I don't understand.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l2_08",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "true_false",
+      "question": "True or false: I don't understand. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l2_09",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "don't",
+          "right": "não (auxiliar)"
+        },
+        {
+          "left": "doesn't",
+          "right": "não (ele"
+        },
+        {
+          "left": "understand",
+          "right": "entender"
+        },
+        {
+          "left": "play",
+          "right": "jogar"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l2_10",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "don't",
+          "right": "não (auxiliar)"
+        },
+        {
+          "left": "doesn't",
+          "right": "não (ele"
+        },
+        {
+          "left": "understand",
+          "right": "entender"
+        },
+        {
+          "left": "play",
+          "right": "jogar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m4_l2_11",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": "a1-present-simple-neg",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "I",
+        "don't",
+        "understand"
+      ],
+      "answer": [
+        "I",
+        "don't",
+        "understand"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m4_l2_12",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"understand\"?",
+      "options": [
+        "entender",
+        "não (auxiliar)",
+        "não (ele/ela)",
+        "none of these"
+      ],
+      "answer": "entender",
+      "explanation": "\"understand\" means \"entender\"."
+    }
+  ]
+}

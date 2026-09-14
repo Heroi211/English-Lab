@@ -1,0 +1,195 @@
+{
+  "lessonId": "a1-m8-l3",
+  "exercises": [
+    {
+      "id": "ex_a1_m8_l3_01",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": "a1-food-drink",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Food & Drink):",
+      "options": [
+        "I have breakfast at 7.",
+        "I XXX breakfast at 7.",
+        "No correct form.",
+        "7. at breakfast have I"
+      ],
+      "answer": "I have breakfast at 7.",
+      "explanation": "This follows the pattern taught in Food & Drink."
+    },
+    {
+      "id": "ex_a1_m8_l3_02",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Food & Drink\"?",
+      "options": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "xyzabc"
+      ],
+      "answer": "breakfast",
+      "explanation": "\"breakfast\" (café da manhã) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l3_03",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": "a1-food-drink",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is at noon.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Like/love/hate + noun or -ing: I like pizza. | I don't eat meat."
+    },
+    {
+      "id": "ex_a1_m8_l3_04",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": "a1-food-drink",
+      "type": "fill_blank",
+      "question": "Complete: I have ___ at 7.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m8_l3_05",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": "a1-food-drink",
+      "type": "fill_blank",
+      "question": "Complete: ___ is at noon.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "Like/love/hate + noun or -ing: I like pizza. | I don't eat meat."
+    },
+    {
+      "id": "ex_a1_m8_l3_06",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": "a1-food-drink",
+      "type": "fill_blank",
+      "question": "Complete: ___ cook dinner together.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l3_07",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": "a1-food-drink",
+      "type": "true_false",
+      "question": "True or false: \"I have breakfast at 7.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l3_08",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": "a1-food-drink",
+      "type": "true_false",
+      "question": "True or false: I have breakfast at 7. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l3_09",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "breakfast",
+          "right": "café da manhã"
+        },
+        {
+          "left": "lunch",
+          "right": "almoço"
+        },
+        {
+          "left": "dinner",
+          "right": "jantar"
+        },
+        {
+          "left": "rice",
+          "right": "arroz"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l3_10",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": "a1-food-drink",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "breakfast",
+          "right": "café da manhã"
+        },
+        {
+          "left": "lunch",
+          "right": "almoço"
+        },
+        {
+          "left": "dinner",
+          "right": "jantar"
+        },
+        {
+          "left": "rice",
+          "right": "arroz"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m8_l3_11",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": "a1-food-drink",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"I have breakfast at 7.\"",
+      "answer": "I have breakfast at 7.",
+      "answers": [
+        "I have breakfast at 7."
+      ],
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m8_l3_12",
+      "level": "A1",
+      "topic": "food_drink",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"dinner\"?",
+      "options": [
+        "jantar",
+        "café da manhã",
+        "almoço",
+        "none of these"
+      ],
+      "answer": "jantar",
+      "explanation": "\"dinner\" means \"jantar\"."
+    }
+  ]
+}

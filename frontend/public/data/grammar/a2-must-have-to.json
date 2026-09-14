@@ -1,0 +1,26 @@
+{
+  "id": "a2-must-have-to",
+  "level": "A2",
+  "title": "Must / Have To",
+  "topic": "must_have_to",
+  "summary": "Must = speaker obligation/rules | Have to = external rules",
+  "rule": "Must = speaker obligation/rules | Have to = external rules",
+  "examples": [
+    "You must wear a seatbelt.",
+    "I have to finish today.",
+    "You mustn't smoke here."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "You must wear a seatbelt.",
+      "correct": "You must wear a seatbelt.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m5-l3"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

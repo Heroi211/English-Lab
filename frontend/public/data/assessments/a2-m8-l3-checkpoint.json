@@ -1,0 +1,96 @@
+{
+  "id": "a2-m8-l3-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m8-l3",
+  "moduleId": "a2-m8",
+  "level": "A2",
+  "title": "Lesson 3 Checkpoint — Collocations",
+  "description": "Show what you learned about collocations. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use natural word pairs: make a mistake, do homework, heavy rain.",
+  "questions": [
+    {
+      "id": "cp_a2_m8_l3_01",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Collocations):",
+      "options": [
+        "Everyone makes mistakes.",
+        "Everyone makes mistakes.",
+        "No correct form.",
+        "mistakes. makes Everyone"
+      ],
+      "answer": "Everyone makes mistakes.",
+      "explanation": "This follows the pattern taught in Collocations."
+    },
+    {
+      "id": "cp_a2_m8_l3_02",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "fill_blank",
+      "question": "Complete: Everyone makes mistakes.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m8_l3_03",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "true_false",
+      "question": "True or false: \"Everyone makes mistakes.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m8_l3_04",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Collocations\"?",
+      "options": [
+        "make a mistake",
+        "do homework",
+        "heavy rain",
+        "xyzabc"
+      ],
+      "answer": "make a mistake",
+      "explanation": "\"make a mistake\" (cometer um erro) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m8_l3_05",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "make a mistake",
+          "right": "cometer um erro"
+        },
+        {
+          "left": "do homework",
+          "right": "fazer lição de casa"
+        },
+        {
+          "left": "heavy rain",
+          "right": "chuva forte"
+        },
+        {
+          "left": "fast food",
+          "right": "comida rápida"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

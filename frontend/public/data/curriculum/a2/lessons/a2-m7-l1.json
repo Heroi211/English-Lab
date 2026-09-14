@@ -1,0 +1,186 @@
+{
+  "id": "a2-m7-l1",
+  "moduleId": "a2-m7",
+  "level": "A2",
+  "order": 1,
+  "title": "If + Present, Will",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use if + present, will accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can use the first conditional for real future possibilities.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about if + present, will. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use if + present, will?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "If + present simple, will + base: If it rains, I will stay home.\n\nOrder can change: I will call if I am late.",
+  "grammar": {
+    "ruleId": "a2-first-conditional",
+    "title": "If + Present, Will",
+    "rule": "If + present simple, will + base: If it rains, I will stay home.",
+    "examples": [
+      {
+        "sentence": "If you need help, call me.",
+        "note": "if"
+      },
+      {
+        "sentence": "Unless it rains, we will go.",
+        "note": "unless"
+      },
+      {
+        "sentence": "It will probably work.",
+        "note": "probably"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "if",
+      "translation": "se",
+      "partOfSpeech": "conjunction",
+      "example": "If you need help, call me.",
+      "collocations": []
+    },
+    {
+      "word": "unless",
+      "translation": "a menos que",
+      "partOfSpeech": "conjunction",
+      "example": "Unless it rains, we will go.",
+      "collocations": []
+    },
+    {
+      "word": "probably",
+      "translation": "provavelmente",
+      "partOfSpeech": "adverb",
+      "example": "It will probably work.",
+      "collocations": []
+    },
+    {
+      "word": "condition",
+      "translation": "condição",
+      "partOfSpeech": "noun",
+      "example": "On one condition.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "If + Present, Will",
+      "sentences": [
+        "If you need help, call me.",
+        "Unless it rains, we will go.",
+        "It will probably work.",
+        "On one condition."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m7_l1_01",
+    "ex_a2_m7_l1_02",
+    "ex_a2_m7_l1_03",
+    "ex_a2_m7_l1_04",
+    "ex_a2_m7_l1_05",
+    "ex_a2_m7_l1_06",
+    "ex_a2_m7_l1_07",
+    "ex_a2_m7_l1_08",
+    "ex_a2_m7_l1_09",
+    "ex_a2_m7_l1_10",
+    "ex_a2_m7_l1_11",
+    "ex_a2_m7_l1_12"
+  ],
+  "reading": {
+    "title": "If + Present, Will in Context",
+    "text": "If the client agrees, we will sign tomorrow. You will miss the train if you don't hurry. If I have time, I'll join the meeting.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "if + present, will",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"if\" mean?",
+        "type": "short_answer",
+        "answer": "se",
+        "explanation": "se"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "Unless it rains, we will go.",
+        "explanation": "Unless it rains, we will go.",
+        "options": [
+          "Unless it rains, we will go.",
+          "me. call help, need you If",
+          "No sentence fits.",
+          "It will probably work."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using if + present, will. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "If you need help, call me. Unless it rains, we will go. It will probably work. On one condition."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-first-conditional"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_if"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_unless"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_probably"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_condition"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m7_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m7_l1_10"
+    }
+  ],
+  "checkpointId": "a2-m7-l1-checkpoint",
+  "tutorHints": [
+    "Target structure: If + Present, Will.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m7-l1.json",
+  "exercisesRef": "exercises/a2-m7-l1.json",
+  "grammarRef": "grammar/a2-first-conditional.json",
+  "checkpointRef": "assessments/a2-m7-l1-checkpoint.json"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "a2-just-already-yet",
+  "level": "A2",
+  "title": "Just, Already & Yet",
+  "topic": "just_already_yet",
+  "summary": "Just = very recent | Already = before expected | Yet = until now (?/−)",
+  "rule": "Just = very recent | Already = before expected | Yet = until now (?/−)",
+  "examples": [
+    "I have just sent the email.",
+    "They have already left.",
+    "Have you replied yet?"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I WRONG just sent the email.",
+      "correct": "I have just sent the email.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m6-l4"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

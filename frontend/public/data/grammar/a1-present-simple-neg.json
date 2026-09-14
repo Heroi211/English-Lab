@@ -1,0 +1,27 @@
+{
+  "id": "a1-present-simple-neg",
+  "level": "A1",
+  "title": "Present Simple — Negative",
+  "topic": "present_simple_neg",
+  "summary": "Use don't / doesn't + base verb.",
+  "rule": "Use don't / doesn't + base verb.",
+  "examples": [
+    "I don't understand.",
+    "He doesn't play tennis.",
+    "Do you understand?"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I don't understand.",
+      "correct": "I don't understand.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m4-l2"
+  ],
+  "tutorHints": [
+    "Focus on Present Simple — Negative with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

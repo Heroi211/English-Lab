@@ -1,0 +1,148 @@
+{
+  "id": "a2-m8-module-test",
+  "kind": "module",
+  "moduleId": "a2-m8",
+  "level": "A2",
+  "title": "Lexis & Phrasal Verbs — Module Test",
+  "description": "Test your knowledge of the whole module: Lexis & Phrasal Verbs. You need at least 6 out of 8 correct to pass.",
+  "passingScore": 6,
+  "totalQuestions": 8,
+  "canDo": "I can use lexis & phrasal verbs confidently at A2 level.",
+  "questions": [
+    {
+      "id": "mt_a2_m8_01",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "ruleId": "a2-phrasals-1",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Common Phrasal Verbs 1):",
+      "options": [
+        "I get up at six.",
+        "I get up at six.",
+        "No correct form.",
+        "six. at up get I"
+      ],
+      "answer": "I get up at six.",
+      "explanation": "This follows the pattern taught in Common Phrasal Verbs 1."
+    },
+    {
+      "id": "mt_a2_m8_02",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Common Phrasal Verbs 2\"?",
+      "options": [
+        "take off",
+        "put on",
+        "run out of",
+        "xyzabc"
+      ],
+      "answer": "take off",
+      "explanation": "\"take off\" (tirar / decolar) is key vocabulary for this lesson."
+    },
+    {
+      "id": "mt_a2_m8_03",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": "a2-collocations",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ do homework after dinner.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "Make vs do: make a decision, do your best"
+    },
+    {
+      "id": "mt_a2_m8_04",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "fill_blank",
+      "question": "Complete: A joke breaks the ice.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "mt_a2_m8_05",
+      "level": "A2",
+      "topic": "phrasals_1",
+      "ruleId": "a2-phrasals-1",
+      "type": "true_false",
+      "question": "True or false: \"I get up at six.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "mt_a2_m8_06",
+      "level": "A2",
+      "topic": "phrasals_2",
+      "ruleId": "a2-phrasals-2",
+      "type": "true_false",
+      "question": "True or false: The plane takes off at noon. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the grammar rule for this lesson."
+    },
+    {
+      "id": "mt_a2_m8_07",
+      "level": "A2",
+      "topic": "collocations",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "make a mistake",
+          "right": "cometer um erro"
+        },
+        {
+          "left": "do homework",
+          "right": "fazer lição de casa"
+        },
+        {
+          "left": "heavy rain",
+          "right": "chuva forte"
+        },
+        {
+          "left": "fast food",
+          "right": "comida rápida"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "mt_a2_m8_08",
+      "level": "A2",
+      "topic": "idioms_review",
+      "ruleId": "a2-idioms",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "break the ice",
+          "right": "quebrar o gelo"
+        },
+        {
+          "left": "piece of cake",
+          "right": "muito fácil"
+        },
+        {
+          "left": "under the weather",
+          "right": "indisposto"
+        },
+        {
+          "left": "review",
+          "right": "revisar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

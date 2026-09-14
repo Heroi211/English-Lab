@@ -1,0 +1,67 @@
+{
+  "lessonId": "a2-m3-l1",
+  "level": "A2",
+  "topic": "comparatives",
+  "items": [
+    {
+      "id": "vocab_better",
+      "word": "better",
+      "translation": "melhor",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "comparatives",
+      "example": "This option is better.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_worse",
+      "word": "worse",
+      "translation": "pior",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "comparatives",
+      "example": "Traffic is worse today.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_than",
+      "word": "than",
+      "translation": "do que",
+      "partOfSpeech": "conjunction",
+      "level": "A2",
+      "topic": "comparatives",
+      "example": "Cheaper than yesterday.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_cheaper",
+      "word": "cheaper",
+      "translation": "mais barato",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "comparatives",
+      "example": "The blue one is cheaper.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_more_expensive",
+      "word": "more expensive",
+      "translation": "mais caro",
+      "partOfSpeech": "phrase",
+      "level": "A2",
+      "topic": "comparatives",
+      "example": "Flights are more expensive.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

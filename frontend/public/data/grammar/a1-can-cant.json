@@ -1,0 +1,27 @@
+{
+  "id": "a1-can-cant",
+  "level": "A1",
+  "title": "Can / Can't",
+  "topic": "can_cant",
+  "summary": "Can + base verb (no -s): I can swim. | She can drive.",
+  "rule": "Can + base verb (no -s): I can swim. | She can drive.",
+  "examples": [
+    "I can swim.",
+    "I can't drive.",
+    "Can you swim?"
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I can swim.",
+      "correct": "I can swim.",
+      "explanation": "Review the rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m6-l1"
+  ],
+  "tutorHints": [
+    "Focus on Can / Can't with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ]
+}

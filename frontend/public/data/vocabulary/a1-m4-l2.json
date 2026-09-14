@@ -1,0 +1,115 @@
+{
+  "lessonId": "a1-m4-l2",
+  "level": "A1",
+  "topic": "present_simple_neg",
+  "items": [
+    {
+      "id": "vocab_don_t",
+      "word": "don't",
+      "translation": "não (auxiliar)",
+      "partOfSpeech": "auxiliary",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "example": "I don't understand.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_doesn_t",
+      "word": "doesn't",
+      "translation": "não (ele/ela)",
+      "partOfSpeech": "auxiliary",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "example": "He doesn't play tennis.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_understand",
+      "word": "understand",
+      "translation": "entender",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "example": "Do you understand?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_play",
+      "word": "play",
+      "translation": "jogar / tocar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "example": "They play football.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_want",
+      "word": "want",
+      "translation": "querer",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "example": "I don't want sugar.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_need",
+      "word": "need",
+      "translation": "precisar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "example": "She needs help.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_know",
+      "word": "know",
+      "translation": "saber / conhecer",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "example": "I know the answer.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_believe",
+      "word": "believe",
+      "translation": "acreditar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "example": "I don't believe it.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_cook",
+      "word": "cook",
+      "translation": "cozinhar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_neg",
+      "example": "He cooks dinner.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "a2-m2-l4",
+  "moduleId": "a2-m2",
+  "level": "A2",
+  "order": 4,
+  "title": "Plans vs Predictions",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use plans vs predictions accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can choose between will, going to, and present continuous.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about plans vs predictions. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use plans vs predictions?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will",
+  "grammar": {
+    "ruleId": "a2-plans-predictions",
+    "title": "Plans vs Predictions",
+    "rule": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will",
+    "examples": [
+      {
+        "sentence": "It was a quick decision.",
+        "note": "decision"
+      },
+      {
+        "sentence": "There is evidence of rain.",
+        "note": "evidence"
+      },
+      {
+        "sentence": "A spontaneous offer.",
+        "note": "spontaneous"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "decision",
+      "translation": "decisão",
+      "partOfSpeech": "noun",
+      "example": "It was a quick decision.",
+      "collocations": []
+    },
+    {
+      "word": "evidence",
+      "translation": "evidência",
+      "partOfSpeech": "noun",
+      "example": "There is evidence of rain.",
+      "collocations": []
+    },
+    {
+      "word": "spontaneous",
+      "translation": "espontâneo",
+      "partOfSpeech": "adjective",
+      "example": "A spontaneous offer.",
+      "collocations": []
+    },
+    {
+      "word": "fixed",
+      "translation": "fixo / marcado",
+      "partOfSpeech": "adjective",
+      "example": "A fixed appointment.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Plans vs Predictions",
+      "sentences": [
+        "It was a quick decision.",
+        "There is evidence of rain.",
+        "A spontaneous offer.",
+        "A fixed appointment."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m2_l4_01",
+    "ex_a2_m2_l4_02",
+    "ex_a2_m2_l4_03",
+    "ex_a2_m2_l4_04",
+    "ex_a2_m2_l4_05",
+    "ex_a2_m2_l4_06",
+    "ex_a2_m2_l4_07",
+    "ex_a2_m2_l4_08",
+    "ex_a2_m2_l4_09",
+    "ex_a2_m2_l4_10",
+    "ex_a2_m2_l4_11",
+    "ex_a2_m2_l4_12"
+  ],
+  "reading": {
+    "title": "Plans vs Predictions in Context",
+    "text": "A: What are you doing this weekend? B: I am visiting my sister — we booked tickets. A: I think it will be cold. B: In that case, I'll take a jacket. I'm going to buy one anyway.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "plans vs predictions",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"decision\" mean?",
+        "type": "short_answer",
+        "answer": "decisão",
+        "explanation": "decisão"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "There is evidence of rain.",
+        "explanation": "There is evidence of rain.",
+        "options": [
+          "There is evidence of rain.",
+          "decision. quick a was It",
+          "No sentence fits.",
+          "A spontaneous offer."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using plans vs predictions. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "It was a quick decision. There is evidence of rain. A spontaneous offer. A fixed appointment."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-plans-predictions"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_decision"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_evidence"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_spontaneous"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_fixed"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m2_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m2_l4_10"
+    }
+  ],
+  "checkpointId": "a2-m2-l4-checkpoint",
+  "tutorHints": [
+    "Target structure: Plans vs Predictions.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m2-l4.json",
+  "exercisesRef": "exercises/a2-m2-l4.json",
+  "grammarRef": "grammar/a2-plans-predictions.json",
+  "checkpointRef": "assessments/a2-m2-l4-checkpoint.json"
+}

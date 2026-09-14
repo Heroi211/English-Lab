@@ -1,0 +1,96 @@
+{
+  "id": "a1-m3-l4-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m3-l4",
+  "moduleId": "a1-m3",
+  "level": "A1",
+  "title": "Lesson 4 Checkpoint — Describing a Place",
+  "description": "Show what you learned about describing a place. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can describe a place combining existence, possession, and location.",
+  "questions": [
+    {
+      "id": "cp_a1_m3_l4_01",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Describing a Place):",
+      "options": [
+        "There is a mirror on the wall.",
+        "There XXX a mirror on the wall.",
+        "No correct form.",
+        "wall. the on mirror a is There"
+      ],
+      "answer": "There is a mirror on the wall.",
+      "explanation": "This follows the pattern taught in Describing Places."
+    },
+    {
+      "id": "cp_a1_m3_l4_02",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "fill_blank",
+      "question": "Complete: The keys are ___ the bag.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m3_l4_03",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "true_false",
+      "question": "True or false: \"There is a mirror on the wall.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m3_l4_04",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Describing a Place\"?",
+      "options": [
+        "in",
+        "on",
+        "under",
+        "xyzabc"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" (em / dentro de) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m3_l4_05",
+      "level": "A1",
+      "topic": "describing_places",
+      "ruleId": "a1-describing-places",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "in",
+          "right": "em"
+        },
+        {
+          "left": "on",
+          "right": "em"
+        },
+        {
+          "left": "under",
+          "right": "debaixo de"
+        },
+        {
+          "left": "next to",
+          "right": "ao lado de"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

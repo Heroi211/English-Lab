@@ -1,0 +1,26 @@
+{
+  "id": "a2-few-little",
+  "level": "A2",
+  "title": "Few & Little",
+  "topic": "few_little",
+  "summary": "Few/a few + plural | Little/a little + uncountable",
+  "rule": "Few/a few + plural | Little/a little + uncountable",
+  "examples": [
+    "Few people came.",
+    "Little progress was made.",
+    "I have a few questions."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Few people came.",
+      "correct": "Few people came.",
+      "explanation": "Review the grammar rule for this lesson."
+    }
+  ],
+  "relatedLessons": [
+    "a2-m4-l2"
+  ],
+  "tutorHints": [
+    "At A2, encourage English-only explanations after the first example."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m6-l4",
+  "level": "A2",
+  "topic": "just_already_yet",
+  "items": [
+    {
+      "id": "vocab_just",
+      "word": "just",
+      "translation": "acabar de",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "example": "I have just sent the email.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_already",
+      "word": "already",
+      "translation": "já",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "example": "They have already left.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_yet",
+      "word": "yet",
+      "translation": "ainda",
+      "partOfSpeech": "adverb",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "example": "Have you replied yet?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_recent",
+      "word": "recent",
+      "translation": "recente",
+      "partOfSpeech": "adjective",
+      "level": "A2",
+      "topic": "just_already_yet",
+      "example": "Recent changes.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

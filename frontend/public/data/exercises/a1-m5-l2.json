@@ -1,0 +1,203 @@
+{
+  "lessonId": "a1-m5-l2",
+  "exercises": [
+    {
+      "id": "ex_a1_m5_l2_01",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Actions Happening Now):",
+      "options": [
+        "Look! It is snowing.",
+        "Look! It XXX snowing.",
+        "No correct form.",
+        "snowing. is It Look!"
+      ],
+      "answer": "Look! It is snowing.",
+      "explanation": "This follows the pattern taught in Actions Happening Now."
+    },
+    {
+      "id": "ex_a1_m5_l2_02",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Actions Happening Now\"?",
+      "options": [
+        "look",
+        "right now",
+        "sit",
+        "xyzabc"
+      ],
+      "answer": "look",
+      "explanation": "\"look\" (olhar / olhe) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l2_03",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ now I am talking.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "What are you doing? — I am watching TV."
+    },
+    {
+      "id": "ex_a1_m5_l2_04",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "fill_blank",
+      "question": "Complete: ___! It is snowing.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m5_l2_05",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "fill_blank",
+      "question": "Complete: ___ now I am talking.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "What are you doing? — I am watching TV."
+    },
+    {
+      "id": "ex_a1_m5_l2_06",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "fill_blank",
+      "question": "Complete: ___ is sitting near the window.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l2_07",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "true_false",
+      "question": "True or false: \"Look! It is snowing.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l2_08",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "true_false",
+      "question": "True or false: Look! It WRONG snowing. is grammatically correct.",
+      "answer": false,
+      "explanation": "Review the rule for this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l2_09",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "look",
+          "right": "olhar"
+        },
+        {
+          "left": "right now",
+          "right": "agora mesmo"
+        },
+        {
+          "left": "sit",
+          "right": "sentar(-se)"
+        },
+        {
+          "left": "stand",
+          "right": "ficar de pé"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l2_10",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "look",
+          "right": "olhar"
+        },
+        {
+          "left": "right now",
+          "right": "agora mesmo"
+        },
+        {
+          "left": "sit",
+          "right": "sentar(-se)"
+        },
+        {
+          "left": "stand",
+          "right": "ficar de pé"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m5_l2_11",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": "a1-present-continuous-now",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "snowing",
+        "is",
+        "It",
+        "Look"
+      ],
+      "answer": [
+        "Look",
+        "It",
+        "is",
+        "snowing"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m5_l2_12",
+      "level": "A1",
+      "topic": "present_continuous_now",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"sit\"?",
+      "options": [
+        "sentar(-se)",
+        "olhar / olhe",
+        "agora mesmo",
+        "none of these"
+      ],
+      "answer": "sentar(-se)",
+      "explanation": "\"sit\" means \"sentar(-se)\"."
+    }
+  ]
+}

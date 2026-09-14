@@ -1,0 +1,91 @@
+{
+  "lessonId": "a1-m5-l3",
+  "level": "A1",
+  "topic": "simple_vs_continuous",
+  "items": [
+    {
+      "id": "vocab_habit",
+      "word": "habit",
+      "translation": "hábito",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "example": "Smoking is a bad habit.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_temporary",
+      "word": "temporary",
+      "translation": "temporário",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "example": "This is a temporary job.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_permanent",
+      "word": "permanent",
+      "translation": "permanente",
+      "partOfSpeech": "adjective",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "example": "She has a permanent contract.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_usually",
+      "word": "usually",
+      "translation": "geralmente",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "example": "I usually drive.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_today",
+      "word": "today",
+      "translation": "hoje",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "example": "Today I am taking the bus.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_every_week",
+      "word": "every week",
+      "translation": "toda semana",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "example": "I visit my parents every week.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_this_week",
+      "word": "this week",
+      "translation": "esta semana",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "simple_vs_continuous",
+      "example": "This week I am staying at a hotel.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

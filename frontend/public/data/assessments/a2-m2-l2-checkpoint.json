@@ -1,0 +1,96 @@
+{
+  "id": "a2-m2-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m2-l2",
+  "moduleId": "a2-m2",
+  "level": "A2",
+  "title": "Lesson 2 Checkpoint — Future with Going To",
+  "description": "Show what you learned about future with going to. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use going to for plans and evidence-based predictions.",
+  "questions": [
+    {
+      "id": "cp_a2_m2_l2_01",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Future with Going To):",
+      "options": [
+        "We are going to move.",
+        "We XXX going to move.",
+        "No correct form.",
+        "move. to going are We"
+      ],
+      "answer": "We are going to move.",
+      "explanation": "This follows the pattern taught in Future with Going To."
+    },
+    {
+      "id": "cp_a2_m2_l2_02",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "fill_blank",
+      "question": "Complete: We are ___ move.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m2_l2_03",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "true_false",
+      "question": "True or false: \"We are going to move.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m2_l2_04",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Future with Going To\"?",
+      "options": [
+        "going to",
+        "plan",
+        "intend",
+        "xyzabc"
+      ],
+      "answer": "going to",
+      "explanation": "\"going to\" (ir (futuro planeado)) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m2_l2_05",
+      "level": "A2",
+      "topic": "future_going_to",
+      "ruleId": "a2-future-going-to",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "going to",
+          "right": "ir (futuro planeado)"
+        },
+        {
+          "left": "plan",
+          "right": "plano"
+        },
+        {
+          "left": "intend",
+          "right": "pretender"
+        },
+        {
+          "left": "prepare",
+          "right": "preparar"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

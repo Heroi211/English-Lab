@@ -1,0 +1,213 @@
+{
+  "id": "a1-m5-l4",
+  "moduleId": "a1-m5",
+  "level": "A1",
+  "order": 4,
+  "title": "Describing Pictures",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use describing pictures.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can describe people and actions in a picture.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"describing pictures\" in real life. ",
+    "reflectionQuestions": [
+      "Can you give one example of Describing Pictures?"
+    ]
+  },
+  "explanation": "In the picture, a man is walking. Two children are playing.\n\nThere is a woman who is reading. The sun is shining.\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-describing-pictures",
+    "title": "Describing Pictures",
+    "rule": "In the picture, a man is walking. Two children are playing.",
+    "examples": [
+      {
+        "sentence": "In the picture there is a park.",
+        "note": "picture"
+      },
+      {
+        "sentence": "Look at this photo.",
+        "note": "photo"
+      },
+      {
+        "sentence": "She is wearing a red dress.",
+        "note": "wear"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "picture",
+      "translation": "imagem / foto",
+      "partOfSpeech": "noun",
+      "example": "In the picture there is a park.",
+      "collocations": []
+    },
+    {
+      "word": "photo",
+      "translation": "foto",
+      "partOfSpeech": "noun",
+      "example": "Look at this photo.",
+      "collocations": []
+    },
+    {
+      "word": "wear",
+      "translation": "usar / vestir",
+      "partOfSpeech": "verb",
+      "example": "She is wearing a red dress.",
+      "collocations": []
+    },
+    {
+      "word": "hold",
+      "translation": "segurar",
+      "partOfSpeech": "verb",
+      "example": "He is holding a baby.",
+      "collocations": []
+    },
+    {
+      "word": "smile",
+      "translation": "sorrir",
+      "partOfSpeech": "verb",
+      "example": "They are smiling.",
+      "collocations": []
+    },
+    {
+      "word": "sun",
+      "translation": "sol",
+      "partOfSpeech": "noun",
+      "example": "The sun is shining.",
+      "collocations": []
+    },
+    {
+      "word": "cloud",
+      "translation": "nuvem",
+      "partOfSpeech": "noun",
+      "example": "Clouds are moving.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Describing Pictures",
+      "sentences": [
+        "In the picture there is a park.",
+        "Look at this photo.",
+        "She is wearing a red dress.",
+        "He is holding a baby."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m5_l4_01",
+    "ex_a1_m5_l4_02",
+    "ex_a1_m5_l4_03",
+    "ex_a1_m5_l4_04",
+    "ex_a1_m5_l4_05",
+    "ex_a1_m5_l4_06",
+    "ex_a1_m5_l4_07",
+    "ex_a1_m5_l4_08",
+    "ex_a1_m5_l4_09",
+    "ex_a1_m5_l4_10",
+    "ex_a1_m5_l4_11",
+    "ex_a1_m5_l4_12"
+  ],
+  "reading": {
+    "title": "Describing Pictures — Reading",
+    "text": "Every day, people use describing pictures in conversation. In the picture there is a park. Look at this photo. She is wearing a red dress. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "picture",
+        "explanation": "Focus word: picture.",
+        "options": [
+          "picture",
+          "photo",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"photo\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "foto",
+        "explanation": "foto"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using describing pictures.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "In the picture there is a park. Look at this photo. She is wearing a red dress."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-describing-pictures"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_picture"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_photo"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_wear"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_hold"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_smile"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_sun"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m5_l4_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m5_l4_10"
+    }
+  ],
+  "checkpointId": "a1-m5-l4-checkpoint",
+  "tutorHints": [
+    "Focus on Describing Pictures with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m5-l4.json",
+  "exercisesRef": "exercises/a1-m5-l4.json",
+  "grammarRef": "grammar/a1-describing-pictures.json",
+  "checkpointRef": "assessments/a1-m5-l4-checkpoint.json"
+}

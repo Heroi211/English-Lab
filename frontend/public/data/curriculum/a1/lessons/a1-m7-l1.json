@@ -1,0 +1,213 @@
+{
+  "id": "a1-m7-l1",
+  "moduleId": "a1-m7",
+  "level": "A1",
+  "order": 1,
+  "title": "Numbers & Dates",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Understand and use numbers & dates.",
+    "Practice in realistic A1 contexts.",
+    "Avoid common mistakes from Portuguese transfer."
+  ],
+  "canDo": "I can say numbers 0–1000 and write dates.",
+  "warmUp": {
+    "title": "Warm-up",
+    "prompt": "Think about when you need \"numbers & dates\" in real life. (Pense quando você usa isso no dia a dia.)",
+    "reflectionQuestions": [
+      "Can you give one example of Numbers & Dates?"
+    ]
+  },
+  "explanation": "Cardinal: twenty-one, one hundred\nOrdinal: first, second, third\n\nDates: March 5th / 5th March / 5/3 (UK vs US)\n\nSay years: 2024 = twenty twenty-four\n\n(Para falantes de português: compare com o equivalente em português e note diferenças de estrutura.)",
+  "grammar": {
+    "ruleId": "a1-numbers-dates",
+    "title": "Numbers & Dates",
+    "rule": "Cardinal: twenty-one, one hundred",
+    "examples": [
+      {
+        "sentence": "Write the number here.",
+        "note": "number"
+      },
+      {
+        "sentence": "The first of May.",
+        "note": "first"
+      },
+      {
+        "sentence": "Second floor.",
+        "note": "second"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "number",
+      "translation": "número",
+      "partOfSpeech": "noun",
+      "example": "Write the number here.",
+      "collocations": []
+    },
+    {
+      "word": "first",
+      "translation": "primeiro",
+      "partOfSpeech": "ordinal",
+      "example": "The first of May.",
+      "collocations": []
+    },
+    {
+      "word": "second",
+      "translation": "segundo",
+      "partOfSpeech": "ordinal",
+      "example": "Second floor.",
+      "collocations": []
+    },
+    {
+      "word": "third",
+      "translation": "terceiro",
+      "partOfSpeech": "ordinal",
+      "example": "Third time.",
+      "collocations": []
+    },
+    {
+      "word": "hundred",
+      "translation": "cem",
+      "partOfSpeech": "number",
+      "example": "One hundred people.",
+      "collocations": []
+    },
+    {
+      "word": "thousand",
+      "translation": "mil",
+      "partOfSpeech": "number",
+      "example": "Two thousand euros.",
+      "collocations": []
+    },
+    {
+      "word": "birthday",
+      "translation": "aniversário",
+      "partOfSpeech": "noun",
+      "example": "My birthday is in April.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Numbers & Dates",
+      "sentences": [
+        "Write the number here.",
+        "The first of May.",
+        "Second floor.",
+        "Third time."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a1_m7_l1_01",
+    "ex_a1_m7_l1_02",
+    "ex_a1_m7_l1_03",
+    "ex_a1_m7_l1_04",
+    "ex_a1_m7_l1_05",
+    "ex_a1_m7_l1_06",
+    "ex_a1_m7_l1_07",
+    "ex_a1_m7_l1_08",
+    "ex_a1_m7_l1_09",
+    "ex_a1_m7_l1_10",
+    "ex_a1_m7_l1_11",
+    "ex_a1_m7_l1_12"
+  ],
+  "reading": {
+    "title": "Numbers & Dates — Reading",
+    "text": "Every day, people use numbers & dates in conversation. Write the number here. The first of May. Second floor. This helps learners speak more naturally at A1 level.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "Which word is central to this lesson?",
+        "type": "multiple_choice",
+        "answer": "number",
+        "explanation": "Focus word: number.",
+        "options": [
+          "number",
+          "first",
+          "xyz",
+          "abc"
+        ]
+      },
+      {
+        "id": "r2",
+        "question": "Is this lesson A1 level?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes, this is A1 content."
+      },
+      {
+        "id": "r3",
+        "question": "What does \"first\" mean in Portuguese?",
+        "type": "short_answer",
+        "answer": "primeiro",
+        "explanation": "primeiro"
+      },
+      {
+        "id": "r4",
+        "question": "Does the text give example sentences?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "The text includes examples."
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write 4–5 sentences about yourself using numbers & dates.",
+    "minWords": 25,
+    "rubricHints": [
+      "Use vocabulary from this lesson.",
+      "Check grammar carefully."
+    ],
+    "modelAnswer": "Write the number here. The first of May. Second floor."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a1-numbers-dates"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_number"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_first"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_second"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_third"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_hundred"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_thousand"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m7_l1_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a1_m7_l1_10"
+    }
+  ],
+  "checkpointId": "a1-m7-l1-checkpoint",
+  "tutorHints": [
+    "Focus on Numbers & Dates with short drills.",
+    "Give Portuguese support only when the learner is stuck."
+  ],
+  "vocabularyRef": "vocabulary/a1-m7-l1.json",
+  "exercisesRef": "exercises/a1-m7-l1.json",
+  "grammarRef": "grammar/a1-numbers-dates.json",
+  "checkpointRef": "assessments/a1-m7-l1-checkpoint.json"
+}

@@ -1,0 +1,115 @@
+{
+  "lessonId": "a1-m3-l2",
+  "level": "A1",
+  "topic": "have_has",
+  "items": [
+    {
+      "id": "vocab_have",
+      "word": "have",
+      "translation": "ter",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "have_has",
+      "example": "I have a bike.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_has",
+      "word": "has",
+      "translation": "tem (ele/ela)",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "have_has",
+      "example": "She has a cat.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_brother",
+      "word": "brother",
+      "translation": "irmão",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "have_has",
+      "example": "I have one brother.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_sister",
+      "word": "sister",
+      "translation": "irmã",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "have_has",
+      "example": "She has two sisters.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_pet",
+      "word": "pet",
+      "translation": "animal de estimação",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "have_has",
+      "example": "Do you have a pet?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_car",
+      "word": "car",
+      "translation": "carro",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "have_has",
+      "example": "He has a new car.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_hair",
+      "word": "hair",
+      "translation": "cabelo",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "have_has",
+      "example": "She has long hair.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_money",
+      "word": "money",
+      "translation": "dinheiro",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "have_has",
+      "example": "I don't have much money.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_time",
+      "word": "time",
+      "translation": "tempo",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "have_has",
+      "example": "Do we have time?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

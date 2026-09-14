@@ -1,0 +1,203 @@
+{
+  "lessonId": "a1-m2-l4",
+  "exercises": [
+    {
+      "id": "ex_a1_m2_l4_01",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Demonstratives):",
+      "options": [
+        "This is a pen.",
+        "This XXX a pen.",
+        "No correct form.",
+        "pen. a is This"
+      ],
+      "answer": "This is a pen.",
+      "explanation": "This follows the pattern taught in Demonstratives."
+    },
+    {
+      "id": "ex_a1_m2_l4_02",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Demonstratives\"?",
+      "options": [
+        "this",
+        "that",
+        "these",
+        "xyzabc"
+      ],
+      "answer": "this",
+      "explanation": "\"this\" (este/esta/isto) is key vocabulary for this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l4_03",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "multiple_choice",
+      "question": "Complete using the lesson grammar: ___ is a tall building.",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "answer": "is",
+      "explanation": "This/these = near the speaker. That/those = farther away. Match number: this/that + singular verb; these/those + plural verb."
+    },
+    {
+      "id": "ex_a1_m2_l4_04",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "fill_blank",
+      "question": "Complete: ___ is my bag.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "ex_a1_m2_l4_05",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "fill_blank",
+      "question": "Complete: ___ is a tall building.",
+      "answer": "are",
+      "answers": [
+        "are"
+      ],
+      "explanation": "This/these = near the speaker. That/those = farther away. Match number: this/that + singular verb; these/those + plural "
+    },
+    {
+      "id": "ex_a1_m2_l4_06",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "fill_blank",
+      "question": "Complete: ___ shoes are new.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "Check subject–verb agreement from this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l4_07",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "true_false",
+      "question": "True or false: \"This is a pen.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l4_08",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "true_false",
+      "question": "True or false: This are my books. is grammatically correct.",
+      "answer": false,
+      "explanation": "Books = plural → these."
+    },
+    {
+      "id": "ex_a1_m2_l4_09",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match each word with its Portuguese translation.",
+      "pairs": [
+        {
+          "left": "this",
+          "right": "este"
+        },
+        {
+          "left": "that",
+          "right": "esse"
+        },
+        {
+          "left": "these",
+          "right": "estes"
+        },
+        {
+          "left": "those",
+          "right": "esses"
+        }
+      ],
+      "explanation": "Review key vocabulary from this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l4_10",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "this",
+          "right": "este"
+        },
+        {
+          "left": "that",
+          "right": "esse"
+        },
+        {
+          "left": "these",
+          "right": "estes"
+        },
+        {
+          "left": "those",
+          "right": "esses"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    },
+    {
+      "id": "ex_a1_m2_l4_11",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": "a1-demonstratives",
+      "type": "ordering",
+      "question": "Put the words in the correct order to make a sentence.",
+      "items": [
+        "keys",
+        "my",
+        "are",
+        "These"
+      ],
+      "answer": [
+        "These",
+        "are",
+        "my",
+        "keys"
+      ],
+      "explanation": "Word order follows standard English patterns from this lesson."
+    },
+    {
+      "id": "ex_a1_m2_l4_12",
+      "level": "A1",
+      "topic": "demonstratives",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "What is the correct translation of \"these\"?",
+      "options": [
+        "estes/estas",
+        "este/esta/isto",
+        "esse/essa/isso/aquele",
+        "none of these"
+      ],
+      "answer": "estes/estas",
+      "explanation": "\"these\" means \"estes/estas\"."
+    }
+  ]
+}

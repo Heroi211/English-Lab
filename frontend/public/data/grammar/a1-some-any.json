@@ -1,0 +1,25 @@
+{
+  "id": "a1-some-any",
+  "level": "A1",
+  "title": "Some & Any",
+  "topic": "some_any",
+  "summary": "Some in positive statements. Any in questions and negative statements. Some in polite offers and requests.",
+  "rule": "Some in positive statements. Any in questions and negative statements. Some in polite offers and requests.",
+  "examples": [
+    "There is some milk in the fridge.",
+    "We don't have any sugar."
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Do you have some brothers?",
+      "correct": "Do you have any brothers?",
+      "explanation": "In neutral questions, use any."
+    }
+  ],
+  "relatedLessons": [
+    "a1-m3-l3"
+  ],
+  "tutorHints": [
+    "Use fridge/pantry examples — very practical."
+  ]
+}

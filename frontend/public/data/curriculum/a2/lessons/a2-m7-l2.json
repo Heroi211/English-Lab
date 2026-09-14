@@ -1,0 +1,174 @@
+{
+  "id": "a2-m7-l2",
+  "moduleId": "a2-m7",
+  "level": "A2",
+  "order": 2,
+  "title": "Unless & As Long As",
+  "estimatedMinutes": 40,
+  "objectives": [
+    "Use unless & as long as accurately in A2 contexts.",
+    "Understand form, meaning, and typical usage.",
+    "Produce short spoken and written examples."
+  ],
+  "canDo": "I can use unless and as long as in conditional sentences.",
+  "warmUp": {
+    "title": "Activate prior knowledge",
+    "prompt": "Before this lesson, recall what you know about unless & as long as. How is it similar or different from Portuguese?",
+    "reflectionQuestions": [
+      "When do native speakers use unless & as long as?",
+      "Can you think of one example?"
+    ]
+  },
+  "explanation": "Unless = if not | As long as = provided that\n\nSame tense pattern as first conditional",
+  "grammar": {
+    "ruleId": "a2-unless",
+    "title": "Unless & As Long As",
+    "rule": "Unless = if not | As long as = provided that",
+    "examples": [
+      {
+        "sentence": "As long as you try.",
+        "note": "as long as"
+      },
+      {
+        "sentence": "Provided you pay on time.",
+        "note": "provided"
+      },
+      {
+        "sentence": "Hurry, otherwise you will be late.",
+        "note": "otherwise"
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "as long as",
+      "translation": "contanto que",
+      "partOfSpeech": "phrase",
+      "example": "As long as you try.",
+      "collocations": []
+    },
+    {
+      "word": "provided",
+      "translation": "desde que",
+      "partOfSpeech": "conjunction",
+      "example": "Provided you pay on time.",
+      "collocations": []
+    },
+    {
+      "word": "otherwise",
+      "translation": "caso contrário",
+      "partOfSpeech": "adverb",
+      "example": "Hurry, otherwise you will be late.",
+      "collocations": []
+    }
+  ],
+  "examples": [
+    {
+      "context": "Unless & As Long As",
+      "sentences": [
+        "As long as you try.",
+        "Provided you pay on time.",
+        "Hurry, otherwise you will be late."
+      ]
+    }
+  ],
+  "practice": [
+    "ex_a2_m7_l2_01",
+    "ex_a2_m7_l2_02",
+    "ex_a2_m7_l2_03",
+    "ex_a2_m7_l2_04",
+    "ex_a2_m7_l2_05",
+    "ex_a2_m7_l2_06",
+    "ex_a2_m7_l2_07",
+    "ex_a2_m7_l2_08",
+    "ex_a2_m7_l2_09",
+    "ex_a2_m7_l2_10",
+    "ex_a2_m7_l2_11",
+    "ex_a2_m7_l2_12"
+  ],
+  "reading": {
+    "title": "Unless & As Long As in Context",
+    "text": "Unless the weather improves, we will cancel the picnic. You can borrow it as long as you return it. I won't go unless you come with me.",
+    "questions": [
+      {
+        "id": "r1",
+        "question": "What is the main topic of the text?",
+        "type": "short_answer",
+        "answer": "unless & as long as",
+        "explanation": "The text illustrates this lesson topic."
+      },
+      {
+        "id": "r2",
+        "question": "What does \"as long as\" mean?",
+        "type": "short_answer",
+        "answer": "contanto que",
+        "explanation": "contanto que"
+      },
+      {
+        "id": "r3",
+        "question": "Is this text appropriate for A2 learners?",
+        "type": "true_false",
+        "answer": true,
+        "explanation": "Yes — controlled A2 language."
+      },
+      {
+        "id": "r4",
+        "question": "Which sentence best matches the lesson?",
+        "type": "multiple_choice",
+        "answer": "Provided you pay on time.",
+        "explanation": "Provided you pay on time.",
+        "options": [
+          "Provided you pay on time.",
+          "try. you as long As",
+          "No sentence fits.",
+          "Hurry, otherwise you will be late."
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "prompt": "Write a short paragraph (5–7 sentences) using unless & as long as. Use at least 3 words from the vocabulary list.",
+    "minWords": 50,
+    "rubricHints": [
+      "Use the target structure at least twice.",
+      "Check tense and word order."
+    ],
+    "modelAnswer": "As long as you try. Provided you pay on time. Hurry, otherwise you will be late."
+  },
+  "review": [
+    {
+      "kind": "grammar",
+      "ref": "a2-unless"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_as_long_as"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_provided"
+    },
+    {
+      "kind": "vocab",
+      "ref": "vocab_otherwise"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m7_l2_01"
+    },
+    {
+      "kind": "exercise",
+      "ref": "ex_a2_m7_l2_10"
+    }
+  ],
+  "checkpointId": "a2-m7-l2-checkpoint",
+  "tutorHints": [
+    "Target structure: Unless & As Long As.",
+    "Correct gently and ask the learner to reformulate.",
+    "Use English for meta-language when possible at A2."
+  ],
+  "vocabularyRef": "vocabulary/a2-m7-l2.json",
+  "exercisesRef": "exercises/a2-m7-l2.json",
+  "grammarRef": "grammar/a2-unless.json",
+  "checkpointRef": "assessments/a2-m7-l2-checkpoint.json"
+}

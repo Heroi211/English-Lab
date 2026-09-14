@@ -1,0 +1,253 @@
+{
+  "levelId": "a1",
+  "modules": [
+    {
+      "id": "a1-m1",
+      "levelId": "a1",
+      "order": 1,
+      "title": "Foundations",
+      "description": "Learn the verb to be, subject pronouns, and how to introduce yourself.",
+      "lessons": [
+        {
+          "id": "a1-m1-l1",
+          "order": 1,
+          "title": "Verb To Be & Introductions"
+        },
+        {
+          "id": "a1-m1-l2",
+          "order": 2,
+          "title": "Subject Pronouns"
+        },
+        {
+          "id": "a1-m1-l3",
+          "order": 3,
+          "title": "Greetings & Polite Expressions"
+        },
+        {
+          "id": "a1-m1-l4",
+          "order": 4,
+          "title": "Questions with To Be"
+        }
+      ],
+      "assessmentId": "a1-m1-module-test",
+      "canDoSummary": "I can introduce myself and talk about basic personal information."
+    },
+    {
+      "id": "a1-m2",
+      "levelId": "a1",
+      "order": 2,
+      "title": "Building Blocks",
+      "description": "Possessives, articles, plurals, and demonstratives for describing people and things.",
+      "lessons": [
+        {
+          "id": "a1-m2-l1",
+          "order": 1,
+          "title": "Possessive Adjectives"
+        },
+        {
+          "id": "a1-m2-l2",
+          "order": 2,
+          "title": "Articles a / an / the"
+        },
+        {
+          "id": "a1-m2-l3",
+          "order": 3,
+          "title": "Plural Nouns"
+        },
+        {
+          "id": "a1-m2-l4",
+          "order": 4,
+          "title": "Demonstratives"
+        }
+      ],
+      "assessmentId": "a1-m2-module-test",
+      "canDoSummary": "I can use possessives, articles, plurals, and demonstratives in simple sentences."
+    },
+    {
+      "id": "a1-m3",
+      "levelId": "a1",
+      "order": 3,
+      "title": "Existence & Possession",
+      "description": "There is/are, have/has, and talking about what exists and what people have.",
+      "lessons": [
+        {
+          "id": "a1-m3-l1",
+          "order": 1,
+          "title": "There is / There are"
+        },
+        {
+          "id": "a1-m3-l2",
+          "order": 2,
+          "title": "Have / Has"
+        },
+        {
+          "id": "a1-m3-l3",
+          "order": 3,
+          "title": "Some & Any"
+        },
+        {
+          "id": "a1-m3-l4",
+          "order": 4,
+          "title": "Describing a Place"
+        }
+      ],
+      "assessmentId": "a1-m3-module-test",
+      "canDoSummary": "I can describe what exists in a place and what people have."
+    },
+    {
+      "id": "a1-m4",
+      "levelId": "a1",
+      "order": 4,
+      "title": "Present Simple",
+      "description": "Use present simple for habits, facts, and routines.",
+      "lessons": [
+        {
+          "id": "a1-m4-l1",
+          "order": 1,
+          "title": "Present Simple — Affirmative"
+        },
+        {
+          "id": "a1-m4-l2",
+          "order": 2,
+          "title": "Present Simple — Negative"
+        },
+        {
+          "id": "a1-m4-l3",
+          "order": 3,
+          "title": "Present Simple — Questions"
+        },
+        {
+          "id": "a1-m4-l4",
+          "order": 4,
+          "title": "Adverbs of Frequency"
+        }
+      ],
+      "assessmentId": "a1-m4-module-test",
+      "canDoSummary": "I can use present simple in everyday A1 communication."
+    },
+    {
+      "id": "a1-m5",
+      "levelId": "a1",
+      "order": 5,
+      "title": "Present Continuous",
+      "description": "Describe actions happening now and temporary situations.",
+      "lessons": [
+        {
+          "id": "a1-m5-l1",
+          "order": 1,
+          "title": "Present Continuous — Form"
+        },
+        {
+          "id": "a1-m5-l2",
+          "order": 2,
+          "title": "Actions Happening Now"
+        },
+        {
+          "id": "a1-m5-l3",
+          "order": 3,
+          "title": "Present Simple vs Continuous"
+        },
+        {
+          "id": "a1-m5-l4",
+          "order": 4,
+          "title": "Describing Pictures"
+        }
+      ],
+      "assessmentId": "a1-m5-module-test",
+      "canDoSummary": "I can use present continuous in everyday A1 communication."
+    },
+    {
+      "id": "a1-m6",
+      "levelId": "a1",
+      "order": 6,
+      "title": "Ability & Place",
+      "description": "Express ability with can and describe location with prepositions.",
+      "lessons": [
+        {
+          "id": "a1-m6-l1",
+          "order": 1,
+          "title": "Can / Can't"
+        },
+        {
+          "id": "a1-m6-l2",
+          "order": 2,
+          "title": "Prepositions of Place"
+        },
+        {
+          "id": "a1-m6-l3",
+          "order": 3,
+          "title": "Giving Directions"
+        },
+        {
+          "id": "a1-m6-l4",
+          "order": 4,
+          "title": "Imperatives"
+        }
+      ],
+      "assessmentId": "a1-m6-module-test",
+      "canDoSummary": "I can use ability & place in everyday A1 communication."
+    },
+    {
+      "id": "a1-m7",
+      "levelId": "a1",
+      "order": 7,
+      "title": "Time & Numbers",
+      "description": "Talk about numbers, dates, time, and schedules.",
+      "lessons": [
+        {
+          "id": "a1-m7-l1",
+          "order": 1,
+          "title": "Numbers & Dates"
+        },
+        {
+          "id": "a1-m7-l2",
+          "order": 2,
+          "title": "Telling the Time"
+        },
+        {
+          "id": "a1-m7-l3",
+          "order": 3,
+          "title": "Days, Months & Seasons"
+        },
+        {
+          "id": "a1-m7-l4",
+          "order": 4,
+          "title": "Schedules & Appointments"
+        }
+      ],
+      "assessmentId": "a1-m7-module-test",
+      "canDoSummary": "I can use time & numbers in everyday A1 communication."
+    },
+    {
+      "id": "a1-m8",
+      "levelId": "a1",
+      "order": 8,
+      "title": "Daily Life",
+      "description": "Talk about family, home, food, routines, and work.",
+      "lessons": [
+        {
+          "id": "a1-m8-l1",
+          "order": 1,
+          "title": "Family Members"
+        },
+        {
+          "id": "a1-m8-l2",
+          "order": 2,
+          "title": "Home & Furniture"
+        },
+        {
+          "id": "a1-m8-l3",
+          "order": 3,
+          "title": "Food & Drink"
+        },
+        {
+          "id": "a1-m8-l4",
+          "order": 4,
+          "title": "Daily Routine & Work"
+        }
+      ],
+      "assessmentId": "a1-m8-module-test",
+      "canDoSummary": "I can use daily life in everyday A1 communication."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "lessonId": "a1-m4-l1",
+  "level": "A1",
+  "topic": "present_simple_aff",
+  "items": [
+    {
+      "id": "vocab_work",
+      "word": "work",
+      "translation": "trabalhar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "example": "I work in an office.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_live",
+      "word": "live",
+      "translation": "morar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "example": "They live in London.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_like",
+      "word": "like",
+      "translation": "gostar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "example": "She likes music.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_every_day",
+      "word": "every day",
+      "translation": "todos os dias",
+      "partOfSpeech": "phrase",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "example": "I study every day.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_always",
+      "word": "always",
+      "translation": "sempre",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "example": "He always arrives early.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_usually",
+      "word": "usually",
+      "translation": "geralmente",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "example": "We usually eat at home.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_sometimes",
+      "word": "sometimes",
+      "translation": "às vezes",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "example": "I sometimes run in the park.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_never",
+      "word": "never",
+      "translation": "nunca",
+      "partOfSpeech": "adverb",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "example": "She never drinks coffee.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_office",
+      "word": "office",
+      "translation": "escritório",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "example": "My office is downtown.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_study",
+      "word": "study",
+      "translation": "estudar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "present_simple_aff",
+      "example": "I study English.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

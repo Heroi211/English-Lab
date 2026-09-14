@@ -1,0 +1,91 @@
+{
+  "lessonId": "a1-m6-l4",
+  "level": "A1",
+  "topic": "imperatives",
+  "items": [
+    {
+      "id": "vocab_stop",
+      "word": "stop",
+      "translation": "pare",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "imperatives",
+      "example": "Stop!",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_wait",
+      "word": "wait",
+      "translation": "espere",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "imperatives",
+      "example": "Please wait.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_open",
+      "word": "open",
+      "translation": "abrir",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "imperatives",
+      "example": "Open the door.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_close",
+      "word": "close",
+      "translation": "fechar",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "imperatives",
+      "example": "Close the window.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_listen",
+      "word": "listen",
+      "translation": "escute",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "imperatives",
+      "example": "Listen carefully.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_help",
+      "word": "help",
+      "translation": "ajude",
+      "partOfSpeech": "verb",
+      "level": "A1",
+      "topic": "imperatives",
+      "example": "Help me, please.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_don_t",
+      "word": "don't",
+      "translation": "não (imperativo)",
+      "partOfSpeech": "auxiliary",
+      "level": "A1",
+      "topic": "imperatives",
+      "example": "Don't worry.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

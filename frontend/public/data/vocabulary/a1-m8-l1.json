@@ -1,0 +1,103 @@
+{
+  "lessonId": "a1-m8-l1",
+  "level": "A1",
+  "topic": "family",
+  "items": [
+    {
+      "id": "vocab_mother",
+      "word": "mother",
+      "translation": "mãe",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "family",
+      "example": "My mother is a nurse.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_father",
+      "word": "father",
+      "translation": "pai",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "family",
+      "example": "My father works abroad.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_parents",
+      "word": "parents",
+      "translation": "pais",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "family",
+      "example": "My parents live in Recife.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_brother",
+      "word": "brother",
+      "translation": "irmão",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "family",
+      "example": "I have one brother.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_sister",
+      "word": "sister",
+      "translation": "irmã",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "family",
+      "example": "My sister is younger.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_grandmother",
+      "word": "grandmother",
+      "translation": "avó",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "family",
+      "example": "My grandmother is 80.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_husband",
+      "word": "husband",
+      "translation": "marido",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "family",
+      "example": "Her husband is a chef.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_wife",
+      "word": "wife",
+      "translation": "esposa",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "family",
+      "example": "His wife is a lawyer.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

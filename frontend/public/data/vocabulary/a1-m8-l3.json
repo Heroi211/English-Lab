@@ -1,0 +1,103 @@
+{
+  "lessonId": "a1-m8-l3",
+  "level": "A1",
+  "topic": "food_drink",
+  "items": [
+    {
+      "id": "vocab_breakfast",
+      "word": "breakfast",
+      "translation": "café da manhã",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "food_drink",
+      "example": "I have breakfast at 7.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_lunch",
+      "word": "lunch",
+      "translation": "almoço",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "food_drink",
+      "example": "Lunch is at noon.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_dinner",
+      "word": "dinner",
+      "translation": "jantar",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "food_drink",
+      "example": "We cook dinner together.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_rice",
+      "word": "rice",
+      "translation": "arroz",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "food_drink",
+      "example": "Rice is common in Brazil.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_chicken",
+      "word": "chicken",
+      "translation": "frango",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "food_drink",
+      "example": "She eats chicken.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_vegetable",
+      "word": "vegetable",
+      "translation": "legume / verdura",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "food_drink",
+      "example": "Eat more vegetables.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_coffee",
+      "word": "coffee",
+      "translation": "café",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "food_drink",
+      "example": "I drink coffee in the morning.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_tea",
+      "word": "tea",
+      "translation": "chá",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "food_drink",
+      "example": "Would you like tea?",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

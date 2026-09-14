@@ -1,0 +1,55 @@
+{
+  "lessonId": "a2-m2-l3",
+  "level": "A2",
+  "topic": "present_for_future",
+  "items": [
+    {
+      "id": "vocab_meeting",
+      "word": "meeting",
+      "translation": "reunião / encontro",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "present_for_future",
+      "example": "I am meeting the team at 3.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_flying",
+      "word": "flying",
+      "translation": "voando / viajar de avião",
+      "partOfSpeech": "verb",
+      "level": "A2",
+      "topic": "present_for_future",
+      "example": "We are flying on Tuesday.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_arrangement",
+      "word": "arrangement",
+      "translation": "combinado",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "present_for_future",
+      "example": "It is a firm arrangement.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_calendar",
+      "word": "calendar",
+      "translation": "calendário",
+      "partOfSpeech": "noun",
+      "level": "A2",
+      "topic": "present_for_future",
+      "example": "Check your calendar.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    }
+  ]
+}

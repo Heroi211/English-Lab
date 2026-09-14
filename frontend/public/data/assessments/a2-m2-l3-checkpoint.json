@@ -1,0 +1,96 @@
+{
+  "id": "a2-m2-l3-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a2-m2-l3",
+  "moduleId": "a2-m2",
+  "level": "A2",
+  "title": "Lesson 3 Checkpoint — Present Continuous for Future",
+  "description": "Show what you learned about present continuous for future. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use present continuous for fixed future arrangements.",
+  "questions": [
+    {
+      "id": "cp_a2_m2_l3_01",
+      "level": "A2",
+      "topic": "present_for_future",
+      "ruleId": "a2-present-for-future",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Present Continuous for Future):",
+      "options": [
+        "I am meeting the team at 3.",
+        "I XXX meeting the team at 3.",
+        "No correct form.",
+        "3. at team the meeting am I"
+      ],
+      "answer": "I am meeting the team at 3.",
+      "explanation": "This follows the pattern taught in Present Continuous for Future."
+    },
+    {
+      "id": "cp_a2_m2_l3_02",
+      "level": "A2",
+      "topic": "present_for_future",
+      "ruleId": "a2-present-for-future",
+      "type": "fill_blank",
+      "question": "Complete: I am ___ the team at 3.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a2_m2_l3_03",
+      "level": "A2",
+      "topic": "present_for_future",
+      "ruleId": "a2-present-for-future",
+      "type": "true_false",
+      "question": "True or false: \"I am meeting the team at 3.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a2_m2_l3_04",
+      "level": "A2",
+      "topic": "present_for_future",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Present Continuous for Future\"?",
+      "options": [
+        "meeting",
+        "flying",
+        "arrangement",
+        "xyzabc"
+      ],
+      "answer": "meeting",
+      "explanation": "\"meeting\" (reunião / encontro) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a2_m2_l3_05",
+      "level": "A2",
+      "topic": "present_for_future",
+      "ruleId": "a2-present-for-future",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "meeting",
+          "right": "reunião"
+        },
+        {
+          "left": "flying",
+          "right": "voando"
+        },
+        {
+          "left": "arrangement",
+          "right": "combinado"
+        },
+        {
+          "left": "calendar",
+          "right": "calendário"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}

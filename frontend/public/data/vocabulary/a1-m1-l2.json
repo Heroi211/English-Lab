@@ -1,0 +1,105 @@
+{
+  "lessonId": "a1-m1-l2",
+  "level": "A1",
+  "topic": "subject_pronouns",
+  "items": [
+    {
+      "id": "vocab_i",
+      "word": "I",
+      "translation": "eu",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "example": "I am a student.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_you",
+      "word": "you",
+      "translation": "você / vocês",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "example": "You are my friend.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_he",
+      "word": "he",
+      "translation": "ele",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "example": "He is a doctor.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_she",
+      "word": "she",
+      "translation": "ela",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "example": "She is from Chile.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 1
+    },
+    {
+      "id": "vocab_it",
+      "word": "it",
+      "translation": "ele/ela (coisa)",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "example": "It is a book.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_we",
+      "word": "we",
+      "translation": "nós",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "example": "We are in class.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_they",
+      "word": "they",
+      "translation": "eles/elas",
+      "partOfSpeech": "pronoun",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "example": "They are happy.",
+      "collocations": [],
+      "relatedWords": [],
+      "difficulty": 2
+    },
+    {
+      "id": "vocab_person",
+      "word": "person",
+      "translation": "pessoa",
+      "partOfSpeech": "noun",
+      "level": "A1",
+      "topic": "subject_pronouns",
+      "example": "She is a nice person.",
+      "collocations": [
+        "every person"
+      ],
+      "relatedWords": [],
+      "difficulty": 2
+    }
+  ]
+}

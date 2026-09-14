@@ -1,0 +1,96 @@
+{
+  "id": "a1-m6-l2-checkpoint",
+  "kind": "checkpoint",
+  "lessonId": "a1-m6-l2",
+  "moduleId": "a1-m6",
+  "level": "A1",
+  "title": "Lesson 2 Checkpoint — Prepositions of Place",
+  "description": "Show what you learned about prepositions of place. You need at least 4 out of 5 correct to pass.",
+  "passingScore": 4,
+  "totalQuestions": 5,
+  "canDo": "I can use in, on, at, under, behind, in front of for location.",
+  "questions": [
+    {
+      "id": "cp_a1_m6_l2_01",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "ruleId": "a1-prepositions-place",
+      "type": "multiple_choice",
+      "question": "Choose the best sentence for this lesson (Prepositions of Place):",
+      "options": [
+        "The garden is behind the house.",
+        "The garden XXX behind the house.",
+        "No correct form.",
+        "house. the behind is garden The"
+      ],
+      "answer": "The garden is behind the house.",
+      "explanation": "This follows the pattern taught in Prepositions of Place."
+    },
+    {
+      "id": "cp_a1_m6_l2_02",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "ruleId": "a1-prepositions-place",
+      "type": "fill_blank",
+      "question": "Complete: The garden is ___ the house.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Use the grammar from this lesson to complete the gap."
+    },
+    {
+      "id": "cp_a1_m6_l2_03",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "ruleId": "a1-prepositions-place",
+      "type": "true_false",
+      "question": "True or false: \"The garden is behind the house.\" is a correct example for this lesson.",
+      "answer": true,
+      "explanation": "This sentence follows the grammar taught in this lesson."
+    },
+    {
+      "id": "cp_a1_m6_l2_04",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "ruleId": null,
+      "type": "multiple_choice",
+      "question": "Which word fits the lesson topic \"Prepositions of Place\"?",
+      "options": [
+        "behind",
+        "in front of",
+        "between",
+        "xyzabc"
+      ],
+      "answer": "behind",
+      "explanation": "\"behind\" (atrás de) is key vocabulary for this lesson."
+    },
+    {
+      "id": "cp_a1_m6_l2_05",
+      "level": "A1",
+      "topic": "prepositions_place",
+      "ruleId": "a1-prepositions-place",
+      "type": "matching",
+      "question": "Match each item with the correct category.",
+      "pairs": [
+        {
+          "left": "behind",
+          "right": "atrás de"
+        },
+        {
+          "left": "in front of",
+          "right": "na frente de"
+        },
+        {
+          "left": "between",
+          "right": "entre"
+        },
+        {
+          "left": "opposite",
+          "right": "em frente a"
+        }
+      ],
+      "explanation": "These pairs reinforce the lesson topic."
+    }
+  ]
+}
