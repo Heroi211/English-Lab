@@ -7,47 +7,47 @@
       "topic": "plans_vs_predictions",
       "ruleId": "a2-plans-predictions",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Plans vs Predictions):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "It was a quick decision.",
         "It was a quick decision.",
-        "No correct form.",
-        "decision. quick a was It"
+        "The form is incomplete.",
+        "Me was a quick decision."
       ],
       "answer": "It was a quick decision.",
-      "explanation": "This follows the pattern taught in Plans vs Predictions."
+      "explanation": "Correct pattern for Plans vs Predictions: Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will"
     },
     {
       "id": "ex_a2_m2_l4_02",
       "level": "A2",
       "topic": "plans_vs_predictions",
-      "ruleId": null,
+      "ruleId": "a2-plans-predictions",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Plans vs Predictions\"?",
+      "question": "Choose the word that correctly completes the sentence: There ___ evidence of rain.",
       "options": [
-        "decision",
-        "evidence",
-        "spontaneous",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "decision",
-      "explanation": "\"decision\" (decisão) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will"
     },
     {
       "id": "ex_a2_m2_l4_03",
       "level": "A2",
       "topic": "plans_vs_predictions",
-      "ruleId": "a2-plans-predictions",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ is evidence of rain.",
+      "question": "What does \"spontaneous\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "evidência",
+        "not used in this grammar",
+        "decisão",
+        "espontâneo"
       ],
-      "answer": "is",
-      "explanation": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will"
+      "answer": "espontâneo",
+      "explanation": "\"spontaneous\" → espontâneo."
     },
     {
       "id": "ex_a2_m2_l4_04",
@@ -55,12 +55,14 @@
       "topic": "plans_vs_predictions",
       "ruleId": "a2-plans-predictions",
       "type": "fill_blank",
-      "question": "Complete: It was a quick ___.",
+      "question": "Complete: There ___ evidence of rain.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will"
     },
     {
       "id": "ex_a2_m2_l4_05",
@@ -68,12 +70,12 @@
       "topic": "plans_vs_predictions",
       "ruleId": "a2-plans-predictions",
       "type": "fill_blank",
-      "question": "Complete: ___ is evidence of rain.",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will"
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m2_l4_06",
@@ -81,12 +83,12 @@
       "topic": "plans_vs_predictions",
       "ruleId": "a2-plans-predictions",
       "type": "fill_blank",
-      "question": "Complete: ___ spontaneous offer.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m2_l4_07",
@@ -94,9 +96,9 @@
       "topic": "plans_vs_predictions",
       "ruleId": "a2-plans-predictions",
       "type": "true_false",
-      "question": "True or false: \"It was a quick decision.\" is a correct example for this lesson.",
+      "question": "True or false: \"It was a quick decision.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m2_l4_08",
@@ -104,7 +106,7 @@
       "topic": "plans_vs_predictions",
       "ruleId": "a2-plans-predictions",
       "type": "true_false",
-      "question": "True or false: It was a quick decision. is grammatically correct.",
+      "question": "True or false: \"It was a quick decision.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +116,7 @@
       "topic": "plans_vs_predictions",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "decision",
@@ -133,7 +135,7 @@
           "right": "fixo"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m2_l4_10",
@@ -141,7 +143,7 @@
       "topic": "plans_vs_predictions",
       "ruleId": "a2-plans-predictions",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "decision",
@@ -160,7 +162,7 @@
           "right": "fixo"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m2_l4_11",
@@ -170,6 +172,13 @@
       "type": "ordering",
       "question": "Put the words in the correct order to make a sentence.",
       "items": [
+        "a",
+        "quick",
+        "was",
+        "decision",
+        "It"
+      ],
+      "correctOrder": [
         "It",
         "was",
         "a",
@@ -183,23 +192,23 @@
         "quick",
         "decision"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a2_m2_l4_12",
       "level": "A2",
       "topic": "plans_vs_predictions",
-      "ruleId": null,
+      "ruleId": "a2-plans-predictions",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"spontaneous\"?",
+      "question": "From the reading \"Plans vs Predictions in Context\": Which sentence best matches the lesson?",
       "options": [
-        "espontâneo",
-        "decisão",
-        "evidência",
-        "none of these"
+        "There is evidence of rain.",
+        "decision. quick a was It",
+        "No sentence fits.",
+        "A spontaneous offer."
       ],
-      "answer": "espontâneo",
-      "explanation": "\"spontaneous\" means \"espontâneo\"."
+      "answer": "There is evidence of rain.",
+      "explanation": "There is evidence of rain."
     }
   ]
 }

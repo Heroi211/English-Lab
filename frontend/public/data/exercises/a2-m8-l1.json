@@ -7,47 +7,47 @@
       "topic": "phrasals_1",
       "ruleId": "a2-phrasals-1",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Common Phrasal Verbs 1):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "Me get up at six.",
         "I get up at six.",
         "I get up at six.",
-        "No correct form.",
-        "six. at up get I"
+        "The form is incomplete."
       ],
       "answer": "I get up at six.",
-      "explanation": "This follows the pattern taught in Common Phrasal Verbs 1."
+      "explanation": "Correct pattern for Common Phrasal Verbs 1: Separable/inseparable basics: turn on the light / turn the light on"
     },
     {
       "id": "ex_a2_m8_l1_02",
       "level": "A2",
       "topic": "phrasals_1",
-      "ruleId": null,
+      "ruleId": "a2-phrasals-1",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Common Phrasal Verbs 1\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "get up",
-        "turn on",
-        "look for",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "get up",
-      "explanation": "\"get up\" (levantar-se) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Separable/inseparable basics: turn on the light / turn the light on"
     },
     {
       "id": "ex_a2_m8_l1_03",
       "level": "A2",
       "topic": "phrasals_1",
-      "ruleId": "a2-phrasals-1",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ on the TV.",
+      "question": "What does \"look for\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "procurar",
+        "not used in this grammar",
+        "ligar",
+        "levantar-se"
       ],
-      "answer": "is",
-      "explanation": "Separable/inseparable basics: turn on the light / turn the light on"
+      "answer": "procurar",
+      "explanation": "\"look for\" → procurar."
     },
     {
       "id": "ex_a2_m8_l1_04",
@@ -55,12 +55,14 @@
       "topic": "phrasals_1",
       "ruleId": "a2-phrasals-1",
       "type": "fill_blank",
-      "question": "Complete: I ___ at six.",
-      "answer": "is",
+      "question": "Complete: ___ get up at six.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Separable/inseparable basics: turn on the light / turn the light on"
     },
     {
       "id": "ex_a2_m8_l1_05",
@@ -68,10 +70,12 @@
       "topic": "phrasals_1",
       "ruleId": "a2-phrasals-1",
       "type": "fill_blank",
-      "question": "Complete: ___ on the TV.",
-      "answer": "are",
+      "question": "Complete: ___ am looking for my keys.",
+      "answer": "I",
       "answers": [
-        "are"
+        "I",
+        "i",
+        "I"
       ],
       "explanation": "Separable/inseparable basics: turn on the light / turn the light on"
     },
@@ -81,12 +85,12 @@
       "topic": "phrasals_1",
       "ruleId": "a2-phrasals-1",
       "type": "fill_blank",
-      "question": "Complete: ___ am looking for my keys.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m8_l1_07",
@@ -94,9 +98,9 @@
       "topic": "phrasals_1",
       "ruleId": "a2-phrasals-1",
       "type": "true_false",
-      "question": "True or false: \"I get up at six.\" is a correct example for this lesson.",
+      "question": "True or false: \"I get up at six.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m8_l1_08",
@@ -104,7 +108,7 @@
       "topic": "phrasals_1",
       "ruleId": "a2-phrasals-1",
       "type": "true_false",
-      "question": "True or false: I get up at six. is grammatically correct.",
+      "question": "True or false: \"I get up at six.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +118,7 @@
       "topic": "phrasals_1",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "get up",
@@ -133,7 +137,7 @@
           "right": "buscar"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m8_l1_10",
@@ -141,7 +145,7 @@
       "topic": "phrasals_1",
       "ruleId": "a2-phrasals-1",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "get up",
@@ -160,7 +164,7 @@
           "right": "buscar"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m8_l1_11",
@@ -171,7 +175,8 @@
       "question": "Find and correct the error: \"I get up at six.\"",
       "answer": "I get up at six.",
       "answers": [
-        "I get up at six."
+        "I get up at six.",
+        "I get up at six"
       ],
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -179,17 +184,17 @@
       "id": "ex_a2_m8_l1_12",
       "level": "A2",
       "topic": "phrasals_1",
-      "ruleId": null,
+      "ruleId": "a2-phrasals-1",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"look for\"?",
+      "question": "From the reading \"Common Phrasal Verbs 1 in Context\": Which sentence best matches the lesson?",
       "options": [
-        "procurar",
-        "levantar-se",
-        "ligar",
-        "none of these"
+        "Turn on the TV.",
+        "six. at up get I",
+        "No sentence fits.",
+        "I am looking for my keys."
       ],
-      "answer": "procurar",
-      "explanation": "\"look for\" means \"procurar\"."
+      "answer": "Turn on the TV.",
+      "explanation": "Turn on the TV."
     }
   ]
 }

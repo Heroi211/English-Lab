@@ -7,47 +7,47 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Should / Shouldn't):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "You should see a doctor.",
-        "You should see a doctor.",
-        "No correct form.",
-        "doctor. a see should You"
+        "Me should see a doctor.",
+        "You WRONG see a doctor.",
+        "The form is incomplete."
       ],
       "answer": "You should see a doctor.",
-      "explanation": "This follows the pattern taught in Should / Shouldn't."
+      "explanation": "Correct pattern for Should / Shouldn't: Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired."
     },
     {
       "id": "ex_a2_m5_l2_02",
       "level": "A2",
       "topic": "should",
-      "ruleId": null,
+      "ruleId": "a2-should",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Should / Shouldn't\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ shouldn't skip meals.",
       "options": [
-        "should",
-        "shouldn't",
-        "advice",
-        "xyzabc"
+        "are",
+        "You",
+        "am",
+        "is"
       ],
-      "answer": "should",
-      "explanation": "\"should\" (deveria) is key vocabulary for this lesson."
+      "answer": "You",
+      "explanation": "Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired."
     },
     {
       "id": "ex_a2_m5_l2_03",
       "level": "A2",
       "topic": "should",
-      "ruleId": "a2-should",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ shouldn't skip meals.",
+      "question": "What does \"advice\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "conselho",
+        "not used in this grammar",
+        "não deveria",
+        "deveria"
       ],
-      "answer": "is",
-      "explanation": "Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired."
+      "answer": "conselho",
+      "explanation": "\"advice\" → conselho."
     },
     {
       "id": "ex_a2_m5_l2_04",
@@ -55,12 +55,14 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "fill_blank",
-      "question": "Complete: You ___ see a doctor.",
-      "answer": "is",
+      "question": "Complete: ___ recommend this book.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired."
     },
     {
       "id": "ex_a2_m5_l2_05",
@@ -68,12 +70,12 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "fill_blank",
-      "question": "Complete: ___ shouldn't skip meals.",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m5_l2_06",
@@ -81,12 +83,12 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "fill_blank",
-      "question": "Complete: ___ my advice.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m5_l2_07",
@@ -94,9 +96,9 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "true_false",
-      "question": "True or false: \"You should see a doctor.\" is a correct example for this lesson.",
+      "question": "True or false: \"You should see a doctor.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m5_l2_08",
@@ -104,7 +106,7 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "true_false",
-      "question": "True or false: You WRONG see a doctor. is grammatically correct.",
+      "question": "True or false: \"You WRONG see a doctor.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +116,7 @@
       "topic": "should",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "should",
@@ -133,7 +135,7 @@
           "right": "recomendar"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m5_l2_10",
@@ -141,7 +143,7 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "should",
@@ -160,7 +162,7 @@
           "right": "recomendar"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m5_l2_11",
@@ -171,10 +173,17 @@
       "question": "Put the words in the correct order to make a sentence.",
       "items": [
         "doctor",
-        "a",
-        "should",
         "You",
-        "see"
+        "a",
+        "see",
+        "should"
+      ],
+      "correctOrder": [
+        "You",
+        "should",
+        "see",
+        "a",
+        "doctor"
       ],
       "answer": [
         "You",
@@ -183,23 +192,23 @@
         "a",
         "doctor"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a2_m5_l2_12",
       "level": "A2",
       "topic": "should",
-      "ruleId": null,
+      "ruleId": "a2-should",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"advice\"?",
+      "question": "From the reading \"Should / Shouldn't in Context\": Which sentence best matches the lesson?",
       "options": [
-        "conselho",
-        "deveria",
-        "não deveria",
-        "none of these"
+        "You shouldn't skip meals.",
+        "doctor. a see should You",
+        "No sentence fits.",
+        "Take my advice."
       ],
-      "answer": "conselho",
-      "explanation": "\"advice\" means \"conselho\"."
+      "answer": "You shouldn't skip meals.",
+      "explanation": "You shouldn't skip meals."
     }
   ]
 }

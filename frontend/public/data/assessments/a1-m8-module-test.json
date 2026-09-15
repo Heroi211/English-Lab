@@ -15,47 +15,47 @@
       "topic": "family",
       "ruleId": "a1-family",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Family Members):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "My mother WRONG a nurse.",
+        "The form is incomplete.",
         "My mother is a nurse.",
-        "My mother XXX a nurse.",
-        "No correct form.",
-        "nurse. a is mother My"
+        "My mother is a nurse."
       ],
       "answer": "My mother is a nurse.",
-      "explanation": "This follows the pattern taught in Family Members."
+      "explanation": "Correct pattern for Family Members: Mother, father, parents, siblings, grandparents, husband, wife, son, daughter."
     },
     {
       "id": "mt_a1_m8_02",
       "level": "A1",
       "topic": "home_furniture",
-      "ruleId": null,
+      "ruleId": "a1-home-furniture",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Home & Furniture\"?",
+      "question": "Choose the word that correctly completes the sentence: Plates ___ in the cupboard.",
       "options": [
-        "sofa",
-        "cupboard",
-        "shelf",
-        "xyzabc"
+        "are",
+        "is",
+        "have",
+        "am"
       ],
-      "answer": "sofa",
-      "explanation": "\"sofa\" (sofá) is key vocabulary for this lesson."
+      "answer": "are",
+      "explanation": "Living room, bedroom, bathroom, sofa, cupboard, shelf."
     },
     {
       "id": "mt_a1_m8_03",
       "level": "A1",
       "topic": "food_drink",
-      "ruleId": "a1-food-drink",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ is at noon.",
+      "question": "What does \"dinner\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "café da manhã",
+        "not used in this grammar",
+        "almoço",
+        "jantar"
       ],
-      "answer": "is",
-      "explanation": "Like/love/hate + noun or -ing: I like pizza. | I don't eat meat."
+      "answer": "jantar",
+      "explanation": "\"dinner\" → jantar."
     },
     {
       "id": "mt_a1_m8_04",
@@ -63,12 +63,14 @@
       "topic": "daily_routine",
       "ruleId": "a1-daily-routine",
       "type": "fill_blank",
-      "question": "Complete: I ___ at 6.",
-      "answer": "is",
+      "question": "Complete: ___ wake up at 6.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Wake up, get up, have breakfast, go to work, finish, go to bed."
     },
     {
       "id": "mt_a1_m8_05",
@@ -76,9 +78,9 @@
       "topic": "family",
       "ruleId": "a1-family",
       "type": "true_false",
-      "question": "True or false: \"My mother is a nurse.\" is a correct example for this lesson.",
+      "question": "True or false: \"My mother is a nurse.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "mt_a1_m8_06",
@@ -86,7 +88,7 @@
       "topic": "home_furniture",
       "ruleId": "a1-home-furniture",
       "type": "true_false",
-      "question": "True or false: The sofa WRONG comfortable. is grammatically correct.",
+      "question": "True or false: \"The sofa WRONG comfortable.\" is correct English.",
       "answer": false,
       "explanation": "Review the rule for this lesson."
     },
@@ -96,7 +98,7 @@
       "topic": "food_drink",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "breakfast",
@@ -115,7 +117,7 @@
           "right": "arroz"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "mt_a1_m8_08",
@@ -123,7 +125,7 @@
       "topic": "daily_routine",
       "ruleId": "a1-daily-routine",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "wake up",
@@ -142,7 +144,7 @@
           "right": "terminar"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

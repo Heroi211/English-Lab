@@ -3,145 +3,194 @@
   "exercises": [
     {
       "id": "ex_a1_m1_l1_01",
-      "type": "multiple_choice",
       "level": "A1",
       "topic": "verb_to_be",
-      "question": "Choose the correct form: I ___ a student.",
-      "options": ["am", "is", "are", "be"],
-      "answer": "am",
-      "explanation": "Use am with the pronoun I. The full sentence is: I am a student.",
-      "ruleId": "a1-verb-to-be"
+      "ruleId": "a1-verb-to-be",
+      "type": "multiple_choice",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I am a student.",
+        "I is a student.",
+        "I are a student.",
+        "I be a student."
+      ],
+      "answer": "I am a student.",
+      "explanation": "With I, use am."
     },
     {
       "id": "ex_a1_m1_l1_02",
-      "type": "multiple_choice",
       "level": "A1",
       "topic": "verb_to_be",
-      "question": "Choose the correct form: She ___ from Mexico.",
-      "options": ["am", "is", "are", "be"],
+      "ruleId": "a1-verb-to-be",
+      "type": "multiple_choice",
+      "question": "Julia is from Rio. Complete: She ___ from Brazil.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
       "answer": "is",
-      "explanation": "Use is with he, she, and it. She is from Mexico.",
-      "ruleId": "a1-verb-to-be"
+      "explanation": "She takes is."
     },
     {
       "id": "ex_a1_m1_l1_03",
-      "type": "multiple_choice",
       "level": "A1",
       "topic": "verb_to_be",
-      "question": "Choose the correct form: They ___ teachers.",
-      "options": ["am", "is", "are", "be"],
+      "ruleId": "a1-verb-to-be",
+      "type": "multiple_choice",
+      "question": "Ken and Julia are classmates. Complete: They ___ students of English.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
       "answer": "are",
-      "explanation": "Use are with they, we, and you. They are teachers.",
-      "ruleId": "a1-verb-to-be"
+      "explanation": "They takes are."
     },
     {
       "id": "ex_a1_m1_l1_04",
-      "type": "fill_blank",
       "level": "A1",
-      "topic": "introductions",
-      "question": "Complete the introduction: Hello! My name ___ Ana.",
-      "answer": "is",
-      "answers": ["is"],
-      "explanation": "My name is… is a fixed expression for introductions. Name is third person (it), so we use is.",
-      "ruleId": "a1-verb-to-be"
+      "topic": "verb_to_be",
+      "ruleId": "a1-verb-to-be",
+      "type": "fill_blank",
+      "question": "Complete: I ___ Gabriel. I am from Brazil.",
+      "answer": "am",
+      "answers": [
+        "am"
+      ],
+      "explanation": "I + am for identity."
     },
     {
       "id": "ex_a1_m1_l1_05",
-      "type": "fill_blank",
       "level": "A1",
-      "topic": "personal_info",
-      "question": "Complete the sentence: We ___ from Brazil.",
-      "answer": "are",
-      "answers": ["are"],
-      "explanation": "We goes with are: We are from Brazil.",
-      "ruleId": "a1-verb-to-be"
+      "topic": "verb_to_be",
+      "ruleId": "a1-verb-to-be",
+      "type": "fill_blank",
+      "question": "Complete: She ___ a teacher. She is not a doctor.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "She + is."
     },
     {
       "id": "ex_a1_m1_l1_06",
-      "type": "fill_blank",
       "level": "A1",
-      "topic": "personal_info",
-      "question": "Complete the sentence: I ___ not tired today. (negative)",
-      "answer": "am",
-      "answers": ["am", "'m"],
-      "explanation": "In negatives with I, use am not: I am not tired. The contraction is I'm not.",
-      "ruleId": "a1-verb-to-be"
+      "topic": "verb_to_be",
+      "ruleId": "a1-verb-to-be",
+      "type": "fill_blank",
+      "question": "From the reading about Julia and Ken: Ken ___ from Tokyo, Japan.",
+      "answer": "is",
+      "answers": [
+        "is"
+      ],
+      "explanation": "Ken → he/she/it pattern with names: use is."
     },
     {
       "id": "ex_a1_m1_l1_07",
-      "type": "true_false",
       "level": "A1",
       "topic": "verb_to_be",
-      "question": "True or false: 'He are a doctor' is grammatically correct.",
-      "answer": false,
-      "explanation": "This is false. With he, we use is: He is a doctor (not He are).",
-      "ruleId": "a1-verb-to-be"
+      "ruleId": "a1-verb-to-be",
+      "type": "true_false",
+      "question": "True or false: \"Are you a student? — Yes, I am.\" is correct.",
+      "answer": true,
+      "explanation": "Question with are + short answer with am."
     },
     {
       "id": "ex_a1_m1_l1_08",
-      "type": "true_false",
       "level": "A1",
-      "topic": "introductions",
-      "question": "True or false: 'Nice to meet you' is a common phrase when you meet someone for the first time.",
-      "answer": true,
-      "explanation": "True. 'Nice to meet you' is a polite, standard greeting when you are introduced to someone new.",
-      "ruleId": null
+      "topic": "verb_to_be",
+      "ruleId": "a1-verb-to-be",
+      "type": "true_false",
+      "question": "True or false: \"I is a student.\" is correct.",
+      "answer": false,
+      "explanation": "Always use am with I."
     },
     {
       "id": "ex_a1_m1_l1_09",
-      "type": "true_false",
       "level": "A1",
-      "topic": "personal_info",
-      "question": "True or false: In English we say 'I am 25 years old' to talk about age.",
-      "answer": true,
-      "explanation": "True. English uses the verb to be for age: I am 25 years old. (In Portuguese we say 'tenho 25 anos'.)",
-      "ruleId": "a1-verb-to-be"
+      "topic": "verb_to_be",
+      "ruleId": "a1-verb-to-be",
+      "type": "matching",
+      "question": "Match the subject with the correct form of to be.",
+      "pairs": [
+        {
+          "left": "I",
+          "right": "am"
+        },
+        {
+          "left": "She",
+          "right": "is"
+        },
+        {
+          "left": "They",
+          "right": "are"
+        },
+        {
+          "left": "You",
+          "right": "are"
+        }
+      ],
+      "explanation": "am / is / are agreement."
     },
     {
       "id": "ex_a1_m1_l1_10",
-      "type": "matching",
       "level": "A1",
       "topic": "verb_to_be",
-      "question": "Match each subject pronoun with the correct form of to be.",
+      "ruleId": null,
+      "type": "matching",
+      "question": "Match the English phrase with Portuguese.",
       "pairs": [
-        { "left": "I", "right": "am" },
-        { "left": "You", "right": "are" },
-        { "left": "She", "right": "is" },
-        { "left": "They", "right": "are" }
+        {
+          "left": "hello",
+          "right": "olá"
+        },
+        {
+          "left": "name",
+          "right": "nome"
+        },
+        {
+          "left": "student",
+          "right": "estudante"
+        },
+        {
+          "left": "teacher",
+          "right": "professor(a)"
+        }
       ],
-      "explanation": "I → am, You/We/They → are, He/She/It → is. This is the basic pattern of the verb to be in the present.",
-      "ruleId": "a1-verb-to-be"
+      "explanation": "Core introduction vocabulary."
     },
     {
       "id": "ex_a1_m1_l1_11",
-      "type": "matching",
       "level": "A1",
-      "topic": "introductions",
-      "question": "Match each question with the best short answer.",
-      "pairs": [
-        { "left": "Are you Brazilian?", "right": "Yes, I am." },
-        { "left": "Is she a teacher?", "right": "Yes, she is." },
-        { "left": "Are they students?", "right": "Yes, they are." },
-        { "left": "Is he from Canada?", "right": "No, he isn't." }
+      "topic": "verb_to_be",
+      "ruleId": "a1-verb-to-be",
+      "type": "error_correction",
+      "question": "Find and correct the error: \"I is a student.\"",
+      "answer": "I am a student.",
+      "answers": [
+        "I am a student.",
+        "I am a student"
       ],
-      "explanation": "Short answers repeat the subject and the correct form of to be: Yes, I am. / No, he isn't.",
-      "ruleId": "a1-verb-to-be"
+      "explanation": "I takes am, not is."
     },
     {
       "id": "ex_a1_m1_l1_12",
-      "type": "multiple_choice",
       "level": "A1",
-      "topic": "introductions",
-      "question": "What is the best response to 'What is your name?'",
+      "topic": "verb_to_be",
+      "ruleId": "a1-verb-to-be",
+      "type": "multiple_choice",
+      "question": "From the reading: Where is Ms. Clark from?",
       "options": [
-        "I am from Brazil.",
-        "My name is Pedro.",
-        "I am 30 years old.",
-        "Nice to meet you."
+        "Rio de Janeiro",
+        "Tokyo",
+        "London",
+        "Brazil"
       ],
-      "answer": "My name is Pedro.",
-      "explanation": "'What is your name?' asks for your name. Answer with My name is… or I'm…",
-      "ruleId": null
+      "answer": "London",
+      "explanation": "The text says: She is from London."
     }
   ]
 }

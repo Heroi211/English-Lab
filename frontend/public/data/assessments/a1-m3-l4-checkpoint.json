@@ -16,15 +16,15 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Describing a Place):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "There is a mirror on the wall.",
-        "There XXX a mirror on the wall.",
-        "No correct form.",
-        "wall. the on mirror a is There"
+        "The form is incomplete.",
+        "The book is in the table.",
+        "There is a mirror on the wall."
       ],
       "answer": "There is a mirror on the wall.",
-      "explanation": "This follows the pattern taught in Describing Places."
+      "explanation": "Correct pattern for Describing Places: Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, i"
     },
     {
       "id": "cp_a1_m3_l4_02",
@@ -32,12 +32,14 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "fill_blank",
-      "question": "Complete: The keys are ___ the bag.",
+      "question": "Complete: There ___ a mirror on the wall.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the do"
     },
     {
       "id": "cp_a1_m3_l4_03",
@@ -45,25 +47,25 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "true_false",
-      "question": "True or false: \"There is a mirror on the wall.\" is a correct example for this lesson.",
+      "question": "True or false: \"There is a mirror on the wall.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a1_m3_l4_04",
       "level": "A1",
       "topic": "describing_places",
-      "ruleId": null,
+      "ruleId": "a1-describing-places",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Describing a Place\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ keys in her bag.",
       "options": [
-        "in",
-        "on",
-        "under",
-        "xyzabc"
+        "is",
+        "am",
+        "has",
+        "are"
       ],
-      "answer": "in",
-      "explanation": "\"in\" (em / dentro de) is key vocabulary for this lesson."
+      "answer": "has",
+      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the door."
     },
     {
       "id": "cp_a1_m3_l4_05",
@@ -71,7 +73,7 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "in",
@@ -90,7 +92,7 @@
           "right": "ao lado de"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

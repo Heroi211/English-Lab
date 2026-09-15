@@ -15,47 +15,47 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Future with Will):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "Me will call you.",
+        "The form is incomplete.",
         "I will call you.",
-        "I XXX call you.",
-        "No correct form.",
-        "you. call will I"
+        "I WRONG call you."
       ],
       "answer": "I will call you.",
-      "explanation": "This follows the pattern taught in Future with Will."
+      "explanation": "Correct pattern for Future with Will: Will + base verb for all subjects. Contractions: I'll, she'll."
     },
     {
       "id": "mt_a2_m2_02",
       "level": "A2",
       "topic": "future_going_to",
-      "ruleId": null,
+      "ruleId": "a2-future-going-to",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Future with Going To\"?",
+      "question": "Choose the word that correctly completes the sentence: What ___ your plan?",
       "options": [
-        "going to",
-        "plan",
-        "intend",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "going to",
-      "explanation": "\"going to\" (ir (futuro planeado)) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Am/is/are + going to + verb."
     },
     {
       "id": "mt_a2_m2_03",
       "level": "A2",
       "topic": "present_for_future",
-      "ruleId": "a2-present-for-future",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ are flying on Tuesday.",
+      "question": "What does \"arrangement\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "combinado",
+        "not used in this grammar",
+        "voando",
+        "reunião"
       ],
-      "answer": "is",
-      "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6."
+      "answer": "combinado",
+      "explanation": "\"arrangement\" → combinado."
     },
     {
       "id": "mt_a2_m2_04",
@@ -63,12 +63,14 @@
       "topic": "plans_vs_predictions",
       "ruleId": "a2-plans-predictions",
       "type": "fill_blank",
-      "question": "Complete: It was a quick ___.",
+      "question": "Complete: There ___ evidence of rain.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will"
     },
     {
       "id": "mt_a2_m2_05",
@@ -76,9 +78,9 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "true_false",
-      "question": "True or false: \"I will call you.\" is a correct example for this lesson.",
+      "question": "True or false: \"I will call you.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "mt_a2_m2_06",
@@ -86,7 +88,7 @@
       "topic": "future_going_to",
       "ruleId": "a2-future-going-to",
       "type": "true_false",
-      "question": "True or false: We are going to move. is grammatically correct.",
+      "question": "True or false: \"We are going to move.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -96,7 +98,7 @@
       "topic": "present_for_future",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "meeting",
@@ -115,7 +117,7 @@
           "right": "calendário"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "mt_a2_m2_08",
@@ -123,7 +125,7 @@
       "topic": "plans_vs_predictions",
       "ruleId": "a2-plans-predictions",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "decision",
@@ -142,7 +144,7 @@
           "right": "fixo"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

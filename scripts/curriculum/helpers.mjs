@@ -74,42 +74,91 @@ export function buildGrammarFile(ruleId, lesson, level) {
   };
 }
 
-function pickTypes(lessonNum) {
-  const extra = lessonNum % 2 === 0 ? 'ordering' : 'error_correction';
-  return ['multiple_choice', 'fill_blank', 'true_false', 'matching', extra];
+function hashSeed(str) {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) h = (Math.imul(31, h) + str.charCodeAt(i)) | 0;
+  return Math.abs(h);
+}
+
+function seededShuffle(arr, seed) {
+  const a = [...arr];
+  let s = seed || 1;
+  for (let i = a.length - 1; i > 0; i -= 1) {
+    s = (s * 1664525 + 1013904223) >>> 0;
+    const j = s % (i + 1);
+    ;[a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function sentenceOf(ex) {
+  if (!ex) return '';
+  return typeof ex === 'string' ? ex : ex.sentence || '';
+}
+
+function gapFirstToken(sentence, token) {
+  if (!sentence || !token) return null;
+  const re = new RegExp(`\\b${token.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+  if (!re.test(sentence)) return null;
+  return sentence.replace(re, '___');
+}
+
+/** Plausible same-class distractors — never nonsense tokens. */
+function distractorsFor(answer, pool, count = 3) {
+  const a = String(answer);
+  const uniq = [...new Set(pool.map(String).filter((x) => x.toLowerCase() !== a.toLowerCase()))];
+  const picked = uniq.slice(0, count);
+  while (picked.length < count) {
+    const fillers = ['is', 'are', 'am', 'do', 'does', 'have', 'has', 'was', 'were', 'can', 'to', 'the'];
+    const f = fillers.find((x) => !picked.includes(x) && x.toLowerCase() !== a.toLowerCase());
+    if (!f) break;
+    picked.push(f);
+  }
+  return seededShuffle([a, ...picked.slice(0, count)], hashSeed(a + picked.join(',')));
 }
 
 export function buildExercises(lesson) {
-  const { id, level, grammar, vocabulary, topic } = lesson;
+  const { id, level, grammar, topic } = lesson;
   const ruleId = grammar.ruleId;
   const topicSlug = slugTopic(topic || lesson.title);
-  const lessonNum = parseInt(id.split('-l').pop(), 10);
-  const types = pickTypes(lessonNum);
+  const lessonNum = parseInt(id.split('-l').pop(), 10) || 1;
   const exercises = [];
   let n = 1;
 
   const add = (ex) => {
-    exercises.push({ id: exId(id, n++), level, topic: topicSlug, ruleId: ex.ruleId ?? ruleId, ...ex });
+    const { ruleId: r, ...rest } = ex;
+    exercises.push({
+      id: exId(id, n++),
+      level,
+      topic: topicSlug,
+      ruleId: r === undefined ? ruleId : r,
+      ...rest,
+    });
   };
 
-  // MC 1–3 from grammar examples
+  // Optional fully authored bank (preferred for quality lessons).
+  if (Array.isArray(lesson.exerciseBank?.exercises) && lesson.exerciseBank.exercises.length >= 8) {
+    lesson.exerciseBank.exercises.slice(0, 12).forEach((q) => add(q));
+    while (exercises.length < 12) {
+      const pad = generateReadingApplied(lesson)[exercises.length % 3] || generateDefaultTF(lesson)[0];
+      add({ ...pad, type: pad.type || 'true_false' });
+    }
+    return { lessonId: id, exercises: exercises.slice(0, 12) };
+  }
+
   const mcQs = lesson.exerciseBank?.multipleChoice || generateDefaultMC(lesson);
   mcQs.slice(0, 3).forEach((q) => add({ type: 'multiple_choice', ...q }));
 
-  // Fill blank 4–6
   const fills = lesson.exerciseBank?.fillBlank || generateDefaultFill(lesson);
   fills.slice(0, 3).forEach((q) => add({ type: 'fill_blank', ...q }));
 
-  // T/F 7–8
   const tfs = lesson.exerciseBank?.trueFalse || generateDefaultTF(lesson);
   tfs.slice(0, 2).forEach((q) => add({ type: 'true_false', ...q }));
 
-  // Matching 9–10
   const matches = lesson.exerciseBank?.matching || generateDefaultMatching(lesson);
   matches.slice(0, 2).forEach((q) => add({ type: 'matching', ...q }));
 
-  // Ordering or error correction 11
-  if (types[4] === 'ordering') {
+  if (lessonNum % 2 === 0) {
     const ord = lesson.exerciseBank?.ordering || generateDefaultOrdering(lesson);
     add({ type: 'ordering', ...ord });
   } else {
@@ -117,90 +166,201 @@ export function buildExercises(lesson) {
     add({ type: 'error_correction', ...ec });
   }
 
-  // MC 12
-  const lastMc = mcQs[3] || mcQs[0];
-  add({ type: 'multiple_choice', ...lastMc });
+  // Applied reading / context MC (not meta “lesson topic” questions)
+  const applied = lesson.exerciseBank?.applied || generateReadingApplied(lesson);
+  add({ type: 'multiple_choice', ...(applied[0] || mcQs[0]) });
 
   return { lessonId: id, exercises };
 }
 
-function generateDefaultMC(lesson) {
+function generateReadingApplied(lesson) {
   const ruleId = lesson.grammar.ruleId;
-  const ex = lesson.grammar.examples?.[0];
-  const sentence = typeof ex === 'string' ? ex : ex?.sentence || lesson.vocabulary[0].example;
+  const text = lesson.reading?.text || '';
+  const rq = (lesson.reading?.questions || []).find((q) => q.type === 'multiple_choice' && Array.isArray(q.options) && q.options.length >= 3);
+  if (rq) {
+    const opts = [...rq.options].filter((o) => !/^xyz|^abc$/i.test(String(o)));
+    while (opts.length < 4) opts.push(opts[0] === 'yes' ? 'no' : 'not mentioned');
+    return [
+      {
+        question: `From the reading "${lesson.reading.title}": ${rq.question}`,
+        options: opts.slice(0, 4),
+        answer: rq.answer,
+        explanation: rq.explanation || 'Use evidence from the reading text.',
+        ruleId,
+      },
+    ];
+  }
+
+  const ex = sentenceOf(lesson.grammar.examples?.[0]) || lesson.vocabulary?.[0]?.example || 'I am a student.';
+  const words = ex.split(/\s+/);
+  const target = words.find((w) => /^(am|is|are|have|has|can|do|does|I|you|he|she|it|we|they)$/i.test(w)) || words[0];
+  const gapped = gapFirstToken(ex, target.replace(/[.,!?]/g, '')) || `___ ${words.slice(1).join(' ')}`;
+  const pool = ['am', 'is', 'are', 'I', 'you', 'he', 'she', 'it', 'we', 'they', 'have', 'has'];
   return [
     {
-      question: `Choose the best sentence for this lesson (${lesson.title}):`,
-      options: [sentence, sentence.replace(/\b(is|are|am|have|has|can|will)\b/i, 'XXX'), 'No correct form.', sentence.split(' ').reverse().join(' ')].slice(0, 4),
-      answer: sentence,
-      explanation: `This follows the pattern taught in ${lesson.grammar.title}.`,
+      question: `Apply the grammar: ${gapped}`,
+      options: distractorsFor(target.replace(/[.,!?]/g, ''), pool),
+      answer: target.replace(/[.,!?]/g, ''),
+      explanation: lesson.grammar.rule.slice(0, 160),
+      ruleId,
+    },
+  ];
+}
+
+function generateDefaultMC(lesson) {
+  const ruleId = lesson.grammar.ruleId;
+  const v = lesson.vocabulary || [];
+  const examples = (lesson.grammar.examples || []).map(sentenceOf).filter(Boolean);
+  const s0 = examples[0] || v[0]?.example || 'I am a student.';
+  const s1 = examples[1] || v[1]?.example || 'She is a teacher.';
+  const mistake = lesson.grammar.commonMistakes?.[0];
+
+  // MC1: choose the only grammatical sentence (real alternatives, no XXX)
+  const bad1 = mistake?.incorrect || s0.replace(/\bam\b/i, 'is').replace(/\bis\b/i, 'are').replace(/\bare\b/i, 'am');
+  const bad2 = s0.replace(/\b(I|You|He|She|It|We|They)\b/, 'Me');
+  const opts1 = seededShuffle([s0, bad1, bad2, 'The form is incomplete.'], hashSeed(lesson.id + 'mc1'));
+
+  // MC2: gap with unique answer from context sentence
+  const gapWord =
+    (s1.match(/\b(am|is|are|have|has|can|do|does)\b/i) || [])[0] ||
+    (s1.match(/\b(I|you|he|she|it|we|they)\b/i) || [])[0] ||
+    'is';
+  const gapped = gapFirstToken(s1, gapWord) || `She ___ happy.`;
+  const opts2 = distractorsFor(gapWord, ['am', 'is', 'are', 'have', 'has', 'do', 'does', 'be', 'was']);
+
+  // MC3: meaning / form with one clear key
+  const key = v[2] || v[0];
+  const wrongTrans = v.filter((x) => x.word !== key?.word).slice(0, 2).map((x) => x.translation.split('/')[0].trim());
+  const opts3 = seededShuffle(
+    [key?.translation?.split('/')[0].trim() || '—', ...wrongTrans, 'not used in this grammar'].slice(0, 4),
+    hashSeed(lesson.id + 'mc3'),
+  );
+
+  // MC4: error recognition
+  const wrong = mistake?.incorrect || bad1;
+  const right = mistake?.correct || s0;
+
+  return [
+    {
+      question: 'Which sentence is grammatically correct?',
+      options: opts1,
+      answer: s0,
+      explanation: `Correct pattern for ${lesson.grammar.title}: ${lesson.grammar.rule.slice(0, 120)}`,
       ruleId,
     },
     {
-      question: `Which word fits the lesson topic "${lesson.title}"?`,
-      options: [...lesson.vocabulary.slice(0, 3).map((v) => v.word), 'xyzabc'],
-      answer: lesson.vocabulary[0].word,
-      explanation: `"${lesson.vocabulary[0].word}" (${lesson.vocabulary[0].translation}) is key vocabulary for this lesson.`,
-      ruleId: null,
-    },
-    {
-      question: lesson.exerciseBank?.mcQuestion || `Complete using the lesson grammar: ${lesson.vocabulary[1]?.example?.replace(/\b(\w+)\b/, '___') || 'She ___ happy.'}`,
-      options: lesson.exerciseBank?.mcOptions || ['is', 'are', 'am', 'be'],
-      answer: lesson.exerciseBank?.mcAnswer || 'is',
+      question: `Choose the word that correctly completes the sentence: ${gapped}`,
+      options: opts2,
+      answer: gapWord,
       explanation: lesson.grammar.rule.slice(0, 150),
       ruleId,
     },
     {
-      question: `What is the correct translation of "${lesson.vocabulary[2]?.word}"?`,
-      options: [lesson.vocabulary[2]?.translation, lesson.vocabulary[0]?.translation, lesson.vocabulary[1]?.translation, 'none of these'],
-      answer: lesson.vocabulary[2]?.translation,
-      explanation: `"${lesson.vocabulary[2]?.word}" means "${lesson.vocabulary[2]?.translation}".`,
+      question: `What does "${key?.word}" mean?`,
+      options: opts3,
+      answer: key?.translation?.split('/')[0].trim(),
+      explanation: `"${key?.word}" → ${key?.translation}.`,
       ruleId: null,
+    },
+    {
+      question: `Which option corrects this mistake: "${wrong}"?`,
+      options: seededShuffle([right, wrong, bad2, s1], hashSeed(lesson.id + 'mc4')).slice(0, 4),
+      answer: right,
+      explanation: mistake?.explanation || 'Compare subject and verb carefully.',
+      ruleId,
     },
   ];
 }
 
 function generateDefaultFill(lesson) {
   const ruleId = lesson.grammar.ruleId;
-  const v = lesson.vocabulary;
-  return [
-    {
-      question: `Complete: ${v[0]?.example?.replace(new RegExp(`\\b${v[0]?.word}\\b`, 'i'), '___') || 'Hello! My name ___ Ana.'}`,
-      answer: v[0]?.word === 'hello' ? 'is' : (lesson.exerciseBank?.fill1 || 'is'),
-      answers: lesson.exerciseBank?.fill1Answers || [lesson.exerciseBank?.fill1 || 'is'],
-      explanation: 'Use the grammar from this lesson to complete the gap.',
+  const bank = lesson.exerciseBank || {};
+  const examples = (lesson.grammar.examples || []).map(sentenceOf).filter(Boolean);
+  const v = lesson.vocabulary || [];
+
+  const builds = [];
+
+  if (bank.fill1Question && bank.fill1) {
+    builds.push({
+      question: bank.fill1Question.startsWith('Complete') ? bank.fill1Question : `Complete: ${bank.fill1Question}`,
+      answer: bank.fill1,
+      answers: bank.fill1Answers || [bank.fill1],
+      explanation: bank.fill1Explanation || lesson.grammar.rule.slice(0, 120),
       ruleId,
-    },
-    {
-      question: `Complete: ${lesson.exerciseBank?.fill2Question || v[1]?.example?.replace(/\b(\w+)\b/, '___') || 'They ___ students.'}`,
-      answer: lesson.exerciseBank?.fill2 || 'are',
-      answers: lesson.exerciseBank?.fill2Answers || [lesson.exerciseBank?.fill2 || 'are'],
-      explanation: lesson.grammar.rule.slice(0, 120),
+    });
+  }
+  if (bank.fill2Question && bank.fill2) {
+    builds.push({
+      question: bank.fill2Question.startsWith('Complete') ? bank.fill2Question : `Complete: ${bank.fill2Question}`,
+      answer: bank.fill2,
+      answers: bank.fill2Answers || [bank.fill2],
+      explanation: bank.fill2Explanation || lesson.grammar.rule.slice(0, 120),
       ruleId,
-    },
-    {
-      question: `Complete: ${lesson.exerciseBank?.fill3Question || v[2]?.example?.replace(/\b(\w+)\b/, '___') || 'I ___ from Brazil.'}`,
-      answer: lesson.exerciseBank?.fill3 || 'am',
-      answers: lesson.exerciseBank?.fill3Answers || [lesson.exerciseBank?.fill3 || 'am'],
-      explanation: 'Check subject–verb agreement from this lesson.',
+    });
+  }
+  if (bank.fill3Question && bank.fill3) {
+    builds.push({
+      question: bank.fill3Question.startsWith('Complete') ? bank.fill3Question : `Complete: ${bank.fill3Question}`,
+      answer: bank.fill3,
+      answers: bank.fill3Answers || [bank.fill3],
+      explanation: bank.fill3Explanation || 'Check agreement and form.',
       ruleId,
-    },
-  ];
+    });
+  }
+
+  const autoCandidates = [
+    ...examples.map((s) => {
+      const m = s.match(/\b(am|is|are|have|has|can|do|does|I|you|he|she|it|we|they)\b/);
+      if (!m) return null;
+      return { q: gapFirstToken(s, m[0]), a: m[0] };
+    }),
+    ...v.slice(0, 4).map((item) => {
+      const m = item.example?.match(/\b(am|is|are|have|has|I|you|he|she|it|we|they)\b/);
+      if (!m) return null;
+      return { q: gapFirstToken(item.example, m[0]), a: m[0] };
+    }),
+  ].filter((x) => x?.q);
+
+  for (const c of autoCandidates) {
+    if (builds.length >= 3) break;
+    if (builds.some((b) => b.question.includes(c.q))) continue;
+    builds.push({
+      question: `Complete: ${c.q}`,
+      answer: c.a,
+      answers: [c.a, c.a.toLowerCase(), c.a[0].toUpperCase() + c.a.slice(1).toLowerCase()],
+      explanation: lesson.grammar.rule.slice(0, 140),
+      ruleId,
+    });
+  }
+
+  while (builds.length < 3) {
+    builds.push({
+      question: 'Complete: She ___ a teacher.',
+      answer: 'is',
+      answers: ['is'],
+      explanation: 'Use is with he/she/it.',
+      ruleId,
+    });
+  }
+
+  return builds.slice(0, 3);
 }
 
 function generateDefaultTF(lesson) {
   const ruleId = lesson.grammar.ruleId;
+  const good = sentenceOf(lesson.grammar.examples?.[0]) || lesson.vocabulary?.[0]?.example || 'I am a student.';
+  const mistake = lesson.grammar.commonMistakes?.[0];
   return [
     {
-      question: `True or false: ${lesson.exerciseBank?.tfTrue || `"${lesson.grammar.examples?.[0]?.sentence || lesson.vocabulary[0].example}" is a correct example for this lesson.`}`,
+      question: `True or false: "${good}" is correct English.`,
       answer: true,
-      explanation: 'This sentence follows the grammar taught in this lesson.',
+      explanation: 'This sentence follows the target grammar.',
       ruleId,
     },
     {
-      question: `True or false: ${lesson.exerciseBank?.tfFalse || lesson.grammar.commonMistakes?.[0]?.incorrect + ' is grammatically correct.'}`,
+      question: `True or false: "${mistake?.incorrect || 'She are happy.'}" is correct English.`,
       answer: false,
-      explanation: lesson.grammar.commonMistakes?.[0]?.explanation || 'This form is incorrect for this lesson.',
+      explanation: mistake?.explanation || `Use the correct form: ${mistake?.correct || 'She is happy.'}`,
       ruleId,
     },
   ];
@@ -208,34 +368,61 @@ function generateDefaultTF(lesson) {
 
 function generateDefaultMatching(lesson) {
   const ruleId = lesson.grammar.ruleId;
-  const pairs = lesson.vocabulary.slice(0, 4).map((v) => ({
+  const pairs = (lesson.vocabulary || []).slice(0, 4).map((v) => ({
     left: v.word,
     right: v.translation.split('/')[0].trim(),
   }));
+  const formPairs =
+    lesson.exerciseBank?.matchPairs ||
+    (lesson.grammar.table?.rows || []).slice(0, 4).map((row) => ({
+      left: String(row[0]),
+      right: String(row[1] || row[row.length - 1]),
+    }));
+
   return [
     {
-      question: 'Match each word with its Portuguese translation.',
-      pairs,
-      explanation: 'Review key vocabulary from this lesson.',
+      question: 'Match each English item with its Portuguese meaning.',
+      pairs: pairs.length ? pairs : formPairs,
+      explanation: 'Review the core vocabulary for this skill.',
       ruleId: null,
     },
     {
-      question: lesson.exerciseBank?.matchQuestion || 'Match each item with the correct category.',
-      pairs: lesson.exerciseBank?.matchPairs || pairs,
-      explanation: 'These pairs reinforce the lesson topic.',
+      question: lesson.exerciseBank?.matchQuestion || 'Match the related forms or meanings.',
+      pairs: formPairs.length >= 2 ? formPairs.slice(0, 4) : pairs,
+      explanation: 'These pairs reinforce the grammar or vocabulary of the skill.',
       ruleId,
     },
   ];
 }
 
 function generateDefaultOrdering(lesson) {
-  const words = (lesson.exerciseBank?.orderWords ||
-    (lesson.vocabulary[0]?.example || 'Hello my name is Ana').split(/[\s,!.?]+/).filter(Boolean));
+  let words;
+  if (Array.isArray(lesson.exerciseBank?.orderWords)) {
+    words = lesson.exerciseBank.orderWords.map(String).filter(Boolean).slice(0, 8);
+  } else {
+    const raw =
+      lesson.exerciseBank?.orderWords ||
+      sentenceOf(lesson.grammar.examples?.[0]) ||
+      lesson.vocabulary?.[0]?.example ||
+      'I am a student';
+    words = String(raw)
+      .replace(/[.,!?]/g, '')
+      .split(/\s+/)
+      .filter(Boolean)
+      .slice(0, 8);
+  }
+
+  const seed = hashSeed(lesson.id + words.join(''));
+  const items = seededShuffle(words, seed);
+  // Ensure items are not identical to the correct order (so the task is real).
+  const shuffled = items.join(' ') === words.join(' ') ? seededShuffle(words, seed + 7) : items;
+
   return {
     question: 'Put the words in the correct order to make a sentence.',
-    items: [...words].sort(() => Math.random() - 0.5),
+    items: shuffled,
+    correctOrder: words,
     answer: words,
-    explanation: 'Word order follows standard English patterns from this lesson.',
+    explanation: 'English word order is usually Subject + Verb + Complement.',
     ruleId: lesson.grammar.ruleId,
   };
 }
@@ -249,7 +436,7 @@ function generateDefaultErrorCorrection(lesson) {
   return {
     question: `Find and correct the error: "${mistake.incorrect}"`,
     answer: mistake.correct,
-    answers: [mistake.correct],
+    answers: [mistake.correct, mistake.correct.replace(/\.$/, '')],
     explanation: mistake.explanation,
     ruleId: lesson.grammar.ruleId,
   };

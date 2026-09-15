@@ -7,47 +7,47 @@
       "topic": "can_cant",
       "ruleId": "a1-can-cant",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Can / Can't):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "Me can swim.",
+        "The form is incomplete.",
         "I can swim.",
-        "I XXX swim.",
-        "No correct form.",
-        "swim. can I"
+        "I can swim."
       ],
       "answer": "I can swim.",
-      "explanation": "This follows the pattern taught in Can / Can't."
+      "explanation": "Correct pattern for Can / Can't: Can + base verb (no -s): I can swim. | She can drive."
     },
     {
       "id": "ex_a1_m6_l1_02",
       "level": "A1",
       "topic": "can_cant",
-      "ruleId": null,
+      "ruleId": "a1-can-cant",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Can / Can't\"?",
+      "question": "Choose the word that correctly completes the sentence: I ___'t drive.",
       "options": [
+        "is",
+        "are",
         "can",
-        "can't",
-        "swim",
-        "xyzabc"
+        "am"
       ],
       "answer": "can",
-      "explanation": "\"can\" (poder / saber) is key vocabulary for this lesson."
+      "explanation": "Can + base verb (no -s): I can swim. | She can drive."
     },
     {
       "id": "ex_a1_m6_l1_03",
       "level": "A1",
       "topic": "can_cant",
-      "ruleId": "a1-can-cant",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ can't drive.",
+      "question": "What does \"swim\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "poder",
+        "nadar",
+        "not used in this grammar",
+        "não poder"
       ],
-      "answer": "is",
-      "explanation": "Can + base verb (no -s): I can swim. | She can drive."
+      "answer": "nadar",
+      "explanation": "\"swim\" → nadar."
     },
     {
       "id": "ex_a1_m6_l1_04",
@@ -55,12 +55,14 @@
       "topic": "can_cant",
       "ruleId": "a1-can-cant",
       "type": "fill_blank",
-      "question": "Complete: I ___ swim.",
-      "answer": "is",
+      "question": "Complete: ___ can swim.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Can + base verb (no -s): I can swim. | She can drive."
     },
     {
       "id": "ex_a1_m6_l1_05",
@@ -69,9 +71,11 @@
       "ruleId": "a1-can-cant",
       "type": "fill_blank",
       "question": "Complete: ___ can't drive.",
-      "answer": "are",
+      "answer": "I",
       "answers": [
-        "are"
+        "I",
+        "i",
+        "I"
       ],
       "explanation": "Can + base verb (no -s): I can swim. | She can drive."
     },
@@ -81,12 +85,14 @@
       "topic": "can_cant",
       "ruleId": "a1-can-cant",
       "type": "fill_blank",
-      "question": "Complete: ___ you swim?",
-      "answer": "am",
+      "question": "Complete: Can ___ swim?",
+      "answer": "you",
       "answers": [
-        "am"
+        "you",
+        "you",
+        "You"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Can + base verb (no -s): I can swim. | She can drive."
     },
     {
       "id": "ex_a1_m6_l1_07",
@@ -94,9 +100,9 @@
       "topic": "can_cant",
       "ruleId": "a1-can-cant",
       "type": "true_false",
-      "question": "True or false: \"I can swim.\" is a correct example for this lesson.",
+      "question": "True or false: \"I can swim.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a1_m6_l1_08",
@@ -104,7 +110,7 @@
       "topic": "can_cant",
       "ruleId": "a1-can-cant",
       "type": "true_false",
-      "question": "True or false: I can swim. is grammatically correct.",
+      "question": "True or false: \"I can swim.\" is correct English.",
       "answer": false,
       "explanation": "Review the rule for this lesson."
     },
@@ -114,7 +120,7 @@
       "topic": "can_cant",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "can",
@@ -133,7 +139,7 @@
           "right": "dirigir"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a1_m6_l1_10",
@@ -141,7 +147,7 @@
       "topic": "can_cant",
       "ruleId": "a1-can-cant",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "can",
@@ -160,7 +166,7 @@
           "right": "dirigir"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a1_m6_l1_11",
@@ -171,7 +177,8 @@
       "question": "Find and correct the error: \"I can swim.\"",
       "answer": "I can swim.",
       "answers": [
-        "I can swim."
+        "I can swim.",
+        "I can swim"
       ],
       "explanation": "Review the rule for this lesson."
     },
@@ -179,17 +186,17 @@
       "id": "ex_a1_m6_l1_12",
       "level": "A1",
       "topic": "can_cant",
-      "ruleId": null,
+      "ruleId": "a1-can-cant",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"swim\"?",
+      "question": "From the reading \"Can / Can't — Reading\": Complete with a word from this skill: which form fits best in context?",
       "options": [
-        "nadar",
-        "poder / saber",
-        "não poder",
-        "none of these"
+        "can",
+        "can't",
+        "swim",
+        "drive"
       ],
-      "answer": "nadar",
-      "explanation": "\"swim\" means \"nadar\"."
+      "answer": "can",
+      "explanation": "Focus form: can."
     }
   ]
 }

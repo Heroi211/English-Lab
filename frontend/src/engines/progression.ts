@@ -2,7 +2,9 @@ import { useAppStore } from '../stores/appStore'
 import { getCurriculum } from './curriculum'
 
 export function isLessonUnlocked(lessonId: string) {
-  return useAppStore.getState().progress.unlockedLessons.includes(lessonId)
+  const { unlockedLessons, completedLessons } = useAppStore.getState().progress
+  // Completed lessons stay revisitable even if unlock state drifted.
+  return unlockedLessons.includes(lessonId) || completedLessons.includes(lessonId)
 }
 
 export function isModuleUnlocked(moduleId: string) {
@@ -42,9 +44,19 @@ export function nextLessonAfter(lessonId: string) {
 export function onLessonCheckpointPassed(lessonId: string) {
   const store = useAppStore.getState()
   store.completeLesson(lessonId)
+  store.unlockLesson(lessonId) // keep revisitable
   store.markSectionComplete(lessonId, 'checkpoint')
   const lesson = getCurriculum()?.lessons[lessonId]
   if (lesson?.canDo) store.setProgress({ canDo: { ...store.progress.canDo, [lessonId]: true } })
+
+  // Unlock every prior lesson in the level path so the journey stays browsable.
+  const levelId = lesson?.level?.toLowerCase() || 'a1'
+  const ordered = orderedLessonsForLevel(levelId)
+  const idx = ordered.findIndex((x) => x.lessonId === lessonId)
+  for (let i = 0; i <= idx; i += 1) {
+    store.unlockLesson(ordered[i].lessonId)
+    store.unlockModule(ordered[i].moduleId)
+  }
 
   const next = nextLessonAfter(lessonId)
   if (next) {

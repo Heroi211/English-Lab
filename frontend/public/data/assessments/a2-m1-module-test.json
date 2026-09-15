@@ -15,47 +15,47 @@
       "topic": "past_simple_regular",
       "ruleId": "a2-past-simple-regular",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Past Simple — Regular Verbs):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "The form is incomplete.",
         "I worked yesterday.",
         "I worked yesterday.",
-        "No correct form.",
-        "yesterday. worked I"
+        "Me worked yesterday."
       ],
       "answer": "I worked yesterday.",
-      "explanation": "This follows the pattern taught in Past Simple — Regular Verbs."
+      "explanation": "Correct pattern for Past Simple — Regular Verbs: Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/."
     },
     {
       "id": "mt_a2_m1_02",
       "level": "A2",
       "topic": "past_simple_irregular",
-      "ruleId": null,
+      "ruleId": "a2-past-simple-irregular",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Past Simple — Irregular Verbs\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ saw Maria at the party.",
       "options": [
-        "went",
-        "saw",
-        "had",
-        "xyzabc"
+        "am",
+        "are",
+        "I",
+        "is"
       ],
-      "answer": "went",
-      "explanation": "\"went\" (foi) is key vocabulary for this lesson."
+      "answer": "I",
+      "explanation": "High-frequency irregulars: go→went, see→saw, have→had, do→did, make→made, come→came, get→got, take→took."
     },
     {
       "id": "mt_a2_m1_03",
       "level": "A2",
       "topic": "past_simple_q_neg",
-      "ruleId": "a2-past-simple-q-neg",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ didn't know.",
+      "question": "What does \"when\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "auxiliar passado",
+        "quando",
+        "not used in this grammar",
+        "não (passado)"
       ],
-      "answer": "is",
-      "explanation": "Did + subject + base verb: Did you go? | She didn't come."
+      "answer": "quando",
+      "explanation": "\"when\" → quando."
     },
     {
       "id": "mt_a2_m1_04",
@@ -63,12 +63,14 @@
       "topic": "past_time",
       "ruleId": "a2-past-time",
       "type": "fill_blank",
-      "question": "Complete: I started gym ___.",
-      "answer": "is",
+      "question": "Complete: ___ started gym last month.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Last + period: last month, last year | … ago: three years ago | In + past year: in 2019 | On + past day: on Monday (finished)"
     },
     {
       "id": "mt_a2_m1_05",
@@ -76,9 +78,9 @@
       "topic": "past_simple_regular",
       "ruleId": "a2-past-simple-regular",
       "type": "true_false",
-      "question": "True or false: \"I worked yesterday.\" is a correct example for this lesson.",
+      "question": "True or false: \"I worked yesterday.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "mt_a2_m1_06",
@@ -86,7 +88,7 @@
       "topic": "past_simple_irregular",
       "ruleId": "a2-past-simple-irregular",
       "type": "true_false",
-      "question": "True or false: We WRONG to the cinema. is grammatically correct.",
+      "question": "True or false: \"We WRONG to the cinema.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -96,7 +98,7 @@
       "topic": "past_simple_q_neg",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "did",
@@ -115,7 +117,7 @@
           "right": "por que"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "mt_a2_m1_08",
@@ -123,7 +125,7 @@
       "topic": "past_time",
       "ruleId": "a2-past-time",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "last month",
@@ -142,7 +144,7 @@
           "right": "uma vez"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

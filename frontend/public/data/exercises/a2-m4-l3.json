@@ -7,47 +7,47 @@
       "topic": "containers",
       "ruleId": "a2-containers",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Containers & Measures):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "A bottle of water.",
+        "The form is incomplete.",
         "A bottle of water.",
-        "No correct form.",
-        "water. of bottle A"
+        "A bottle of water."
       ],
       "answer": "A bottle of water.",
-      "explanation": "This follows the pattern taught in Containers & Measures."
+      "explanation": "Correct pattern for Containers & Measures: A bottle of water | A cup of tea | A piece of cake | A kilo of rice"
     },
     {
       "id": "ex_a2_m4_l3_02",
       "level": "A2",
       "topic": "containers",
-      "ruleId": null,
+      "ruleId": "a2-containers",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Containers & Measures\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "bottle",
-        "cup",
-        "piece",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "bottle",
-      "explanation": "\"bottle\" (garrafa) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "A bottle of water | A cup of tea | A piece of cake | A kilo of rice"
     },
     {
       "id": "ex_a2_m4_l3_03",
       "level": "A2",
       "topic": "containers",
-      "ruleId": "a2-containers",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ cup of coffee.",
+      "question": "What does \"piece\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "pedaço",
+        "xícara",
+        "garrafa",
+        "not used in this grammar"
       ],
-      "answer": "is",
-      "explanation": "A bottle of water | A cup of tea | A piece of cake | A kilo of rice"
+      "answer": "pedaço",
+      "explanation": "\"piece\" → pedaço / fatia."
     },
     {
       "id": "ex_a2_m4_l3_04",
@@ -55,12 +55,12 @@
       "topic": "containers",
       "ruleId": "a2-containers",
       "type": "fill_blank",
-      "question": "Complete: A ___ of water.",
+      "question": "Complete: She ___ a teacher.",
       "answer": "is",
       "answers": [
         "is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m4_l3_05",
@@ -68,12 +68,12 @@
       "topic": "containers",
       "ruleId": "a2-containers",
       "type": "fill_blank",
-      "question": "Complete: ___ cup of coffee.",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "A bottle of water | A cup of tea | A piece of cake | A kilo of rice"
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m4_l3_06",
@@ -81,12 +81,12 @@
       "topic": "containers",
       "ruleId": "a2-containers",
       "type": "fill_blank",
-      "question": "Complete: ___ piece of bread.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m4_l3_07",
@@ -94,9 +94,9 @@
       "topic": "containers",
       "ruleId": "a2-containers",
       "type": "true_false",
-      "question": "True or false: \"A bottle of water.\" is a correct example for this lesson.",
+      "question": "True or false: \"A bottle of water.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m4_l3_08",
@@ -104,7 +104,7 @@
       "topic": "containers",
       "ruleId": "a2-containers",
       "type": "true_false",
-      "question": "True or false: A bottle of water. is grammatically correct.",
+      "question": "True or false: \"A bottle of water.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +114,7 @@
       "topic": "containers",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "bottle",
@@ -133,7 +133,7 @@
           "right": "quilo"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m4_l3_10",
@@ -141,7 +141,7 @@
       "topic": "containers",
       "ruleId": "a2-containers",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "bottle",
@@ -160,7 +160,7 @@
           "right": "quilo"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m4_l3_11",
@@ -171,7 +171,8 @@
       "question": "Find and correct the error: \"A bottle of water.\"",
       "answer": "A bottle of water.",
       "answers": [
-        "A bottle of water."
+        "A bottle of water.",
+        "A bottle of water"
       ],
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -179,17 +180,17 @@
       "id": "ex_a2_m4_l3_12",
       "level": "A2",
       "topic": "containers",
-      "ruleId": null,
+      "ruleId": "a2-containers",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"piece\"?",
+      "question": "From the reading \"Containers & Measures in Context\": Which sentence best matches the lesson?",
       "options": [
-        "pedaço / fatia",
-        "garrafa",
-        "xícara",
-        "none of these"
+        "A cup of coffee.",
+        "water. of bottle A",
+        "No sentence fits.",
+        "A piece of bread."
       ],
-      "answer": "pedaço / fatia",
-      "explanation": "\"piece\" means \"pedaço / fatia\"."
+      "answer": "A cup of coffee.",
+      "explanation": "A cup of coffee."
     }
   ]
 }

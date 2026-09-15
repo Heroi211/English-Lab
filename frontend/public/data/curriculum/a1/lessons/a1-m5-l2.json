@@ -127,15 +127,15 @@
     "questions": [
       {
         "id": "r1",
-        "question": "Which word is central to this lesson?",
+        "question": "Complete with a word from this skill: which form fits best in context?",
         "type": "multiple_choice",
         "answer": "look",
-        "explanation": "Focus word: look.",
+        "explanation": "Focus form: look.",
         "options": [
           "look",
           "right now",
-          "xyz",
-          "abc"
+          "sit",
+          "stand"
         ]
       },
       {

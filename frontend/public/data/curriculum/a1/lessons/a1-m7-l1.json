@@ -120,15 +120,15 @@
     "questions": [
       {
         "id": "r1",
-        "question": "Which word is central to this lesson?",
+        "question": "Complete with a word from this skill: which form fits best in context?",
         "type": "multiple_choice",
         "answer": "number",
-        "explanation": "Focus word: number.",
+        "explanation": "Focus form: number.",
         "options": [
           "number",
           "first",
-          "xyz",
-          "abc"
+          "second",
+          "third"
         ]
       },
       {

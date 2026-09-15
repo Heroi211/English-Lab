@@ -16,15 +16,15 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Unless & As Long As):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "As long as you try.",
+        "The form is incomplete.",
         "As long as you try.",
-        "No correct form.",
-        "try. you as long As"
+        "As long as you try."
       ],
       "answer": "As long as you try.",
-      "explanation": "This follows the pattern taught in Unless & As Long As."
+      "explanation": "Correct pattern for Unless & As Long As: Unless = if not | As long as = provided that"
     },
     {
       "id": "cp_a2_m7_l2_02",
@@ -32,12 +32,14 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "fill_blank",
-      "question": "Complete: ___ you try.",
-      "answer": "is",
+      "question": "Complete: As long as ___ try.",
+      "answer": "you",
       "answers": [
-        "is"
+        "you",
+        "you",
+        "You"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Unless = if not | As long as = provided that"
     },
     {
       "id": "cp_a2_m7_l2_03",
@@ -45,25 +47,25 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "true_false",
-      "question": "True or false: \"As long as you try.\" is a correct example for this lesson.",
+      "question": "True or false: \"As long as you try.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m7_l2_04",
       "level": "A2",
       "topic": "unless",
-      "ruleId": null,
+      "ruleId": "a2-unless",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Unless & As Long As\"?",
+      "question": "Choose the word that correctly completes the sentence: Provided ___ pay on time.",
       "options": [
-        "as long as",
-        "provided",
-        "otherwise",
-        "xyzabc"
+        "am",
+        "are",
+        "you",
+        "is"
       ],
-      "answer": "as long as",
-      "explanation": "\"as long as\" (contanto que) is key vocabulary for this lesson."
+      "answer": "you",
+      "explanation": "Unless = if not | As long as = provided that"
     },
     {
       "id": "cp_a2_m7_l2_05",
@@ -71,7 +73,7 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "as long as",
@@ -86,7 +88,7 @@
           "right": "caso contrário"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

@@ -7,47 +7,47 @@
       "topic": "prepositions_place",
       "ruleId": "a1-prepositions-place",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Prepositions of Place):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "The garden is behind the house.",
-        "The garden XXX behind the house.",
-        "No correct form.",
-        "house. the behind is garden The"
+        "The form is incomplete.",
+        "The garden is behind the house.",
+        "The garden WRONG behind the house."
       ],
       "answer": "The garden is behind the house.",
-      "explanation": "This follows the pattern taught in Prepositions of Place."
+      "explanation": "Correct pattern for Prepositions of Place: In = enclosed | On = surface | At = point/address"
     },
     {
       "id": "ex_a1_m6_l2_02",
       "level": "A1",
       "topic": "prepositions_place",
-      "ruleId": null,
+      "ruleId": "a1-prepositions-place",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Prepositions of Place\"?",
+      "question": "Choose the word that correctly completes the sentence: The car ___ in front of the building.",
       "options": [
-        "behind",
-        "in front of",
-        "between",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "behind",
-      "explanation": "\"behind\" (atrás de) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "In = enclosed | On = surface | At = point/address"
     },
     {
       "id": "ex_a1_m6_l2_03",
       "level": "A1",
       "topic": "prepositions_place",
-      "ruleId": "a1-prepositions-place",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ car is in front of the building.",
+      "question": "What does \"between\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "entre",
+        "na frente de",
+        "atrás de",
+        "not used in this grammar"
       ],
-      "answer": "is",
-      "explanation": "In = enclosed | On = surface | At = point/address"
+      "answer": "entre",
+      "explanation": "\"between\" → entre."
     },
     {
       "id": "ex_a1_m6_l2_04",
@@ -55,12 +55,14 @@
       "topic": "prepositions_place",
       "ruleId": "a1-prepositions-place",
       "type": "fill_blank",
-      "question": "Complete: The garden is ___ the house.",
+      "question": "Complete: The garden ___ behind the house.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "In = enclosed | On = surface | At = point/address"
     },
     {
       "id": "ex_a1_m6_l2_05",
@@ -68,10 +70,12 @@
       "topic": "prepositions_place",
       "ruleId": "a1-prepositions-place",
       "type": "fill_blank",
-      "question": "Complete: ___ car is in front of the building.",
-      "answer": "are",
+      "question": "Complete: The car ___ in front of the building.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is",
+        "is",
+        "Is"
       ],
       "explanation": "In = enclosed | On = surface | At = point/address"
     },
@@ -81,12 +85,14 @@
       "topic": "prepositions_place",
       "ruleId": "a1-prepositions-place",
       "type": "fill_blank",
-      "question": "Complete: ___ bank is between the café and the pharmacy.",
-      "answer": "am",
+      "question": "Complete: The bank ___ between the café and the pharmacy.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "In = enclosed | On = surface | At = point/address"
     },
     {
       "id": "ex_a1_m6_l2_07",
@@ -94,9 +100,9 @@
       "topic": "prepositions_place",
       "ruleId": "a1-prepositions-place",
       "type": "true_false",
-      "question": "True or false: \"The garden is behind the house.\" is a correct example for this lesson.",
+      "question": "True or false: \"The garden is behind the house.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a1_m6_l2_08",
@@ -104,7 +110,7 @@
       "topic": "prepositions_place",
       "ruleId": "a1-prepositions-place",
       "type": "true_false",
-      "question": "True or false: The garden WRONG behind the house. is grammatically correct.",
+      "question": "True or false: \"The garden WRONG behind the house.\" is correct English.",
       "answer": false,
       "explanation": "Review the rule for this lesson."
     },
@@ -114,7 +120,7 @@
       "topic": "prepositions_place",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "behind",
@@ -133,7 +139,7 @@
           "right": "em frente a"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a1_m6_l2_10",
@@ -141,7 +147,7 @@
       "topic": "prepositions_place",
       "ruleId": "a1-prepositions-place",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "behind",
@@ -160,7 +166,7 @@
           "right": "em frente a"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a1_m6_l2_11",
@@ -170,12 +176,20 @@
       "type": "ordering",
       "question": "Put the words in the correct order to make a sentence.",
       "items": [
+        "The",
         "house",
         "the",
-        "behind",
+        "garden",
+        "is",
+        "behind"
+      ],
+      "correctOrder": [
         "The",
         "garden",
-        "is"
+        "is",
+        "behind",
+        "the",
+        "house"
       ],
       "answer": [
         "The",
@@ -185,23 +199,23 @@
         "the",
         "house"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a1_m6_l2_12",
       "level": "A1",
       "topic": "prepositions_place",
-      "ruleId": null,
+      "ruleId": "a1-prepositions-place",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"between\"?",
+      "question": "From the reading \"Prepositions of Place — Reading\": Complete with a word from this skill: which form fits best in context?",
       "options": [
-        "entre",
-        "atrás de",
-        "na frente de",
-        "none of these"
+        "behind",
+        "in front of",
+        "between",
+        "opposite"
       ],
-      "answer": "entre",
-      "explanation": "\"between\" means \"entre\"."
+      "answer": "behind",
+      "explanation": "Focus form: behind."
     }
   ]
 }

@@ -15,47 +15,47 @@
       "topic": "possessives",
       "ruleId": "a1-possessives",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Possessive Adjectives):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "She name is Ana.",
         "This is my house.",
-        "This XXX my house.",
-        "No correct form.",
-        "house. my is This"
+        "The form is incomplete.",
+        "This is my house."
       ],
       "answer": "This is my house.",
-      "explanation": "This follows the pattern taught in Possessive Adjectives."
+      "explanation": "Correct pattern for Possessive Adjectives: Possessive adjectives replace articles before nouns: my book, her car. Match the owner: his = a man/boy, her = a woman/g"
     },
     {
       "id": "mt_a1_m2_02",
       "level": "A1",
       "topic": "articles",
-      "ruleId": null,
+      "ruleId": "a1-articles",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Articles a / an / the\"?",
+      "question": "Choose the word that correctly completes the sentence: The pen on the desk ___ blue.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "a",
-      "explanation": "\"a\" (um/uma) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which one. No article with plural g"
     },
     {
       "id": "mt_a1_m2_03",
       "level": "A1",
       "topic": "plurals",
-      "ruleId": "a1-plurals",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ children play outside.",
+      "question": "What does \"person\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "criança",
+        "pessoa",
+        "not used in this grammar",
+        "crianças"
       ],
-      "answer": "is",
-      "explanation": "Most nouns add -s for plural. Learn high-frequency irregular plurals. Verb agreement: one book → it is; two books → they are."
+      "answer": "pessoa",
+      "explanation": "\"person\" → pessoa."
     },
     {
       "id": "mt_a1_m2_04",
@@ -63,12 +63,14 @@
       "topic": "demonstratives",
       "ruleId": "a1-demonstratives",
       "type": "fill_blank",
-      "question": "Complete: ___ is my bag.",
+      "question": "Complete: This ___ a pen.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "This/these = near the speaker. That/those = farther away. Match number: this/that + singular verb; these/those + plural verb."
     },
     {
       "id": "mt_a1_m2_05",
@@ -76,9 +78,9 @@
       "topic": "possessives",
       "ruleId": "a1-possessives",
       "type": "true_false",
-      "question": "True or false: \"This is my house.\" is a correct example for this lesson.",
+      "question": "True or false: \"This is my house.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "mt_a1_m2_06",
@@ -86,7 +88,7 @@
       "topic": "articles",
       "ruleId": "a1-articles",
       "type": "true_false",
-      "question": "True or false: I am engineer. is grammatically correct.",
+      "question": "True or false: \"I am engineer.\" is correct English.",
       "answer": false,
       "explanation": "Jobs need a/an."
     },
@@ -96,7 +98,7 @@
       "topic": "plurals",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "child",
@@ -115,7 +117,7 @@
           "right": "pessoas"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "mt_a1_m2_08",
@@ -123,7 +125,7 @@
       "topic": "demonstratives",
       "ruleId": "a1-demonstratives",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "this",
@@ -142,7 +144,7 @@
           "right": "esses"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

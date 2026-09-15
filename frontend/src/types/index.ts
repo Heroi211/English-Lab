@@ -13,7 +13,7 @@ export interface Exercise {
   topic: string
   question: string
   options?: string[]
-  answer?: string | boolean
+  answer?: string | boolean | string[]
   answers?: string[]
   pairs?: { left: string; right: string }[]
   items?: string[]

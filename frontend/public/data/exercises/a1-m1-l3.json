@@ -7,47 +7,47 @@
       "topic": "greetings",
       "ruleId": "a1-greetings",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Greetings & Polite Expressions):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "Good morning, Mr. Silva!",
         "Good morning, Mr. Silva!",
-        "No correct form.",
-        "Silva! Mr. morning, Good"
+        "Good night! (at 9 a.m.)",
+        "The form is incomplete."
       ],
       "answer": "Good morning, Mr. Silva!",
-      "explanation": "This follows the pattern taught in Greetings & Politeness."
+      "explanation": "Correct pattern for Greetings & Politeness: Good morning/afternoon/evening + name is friendly and polite. Good night is usually a farewell, not a greeting. Please g"
     },
     {
       "id": "ex_a1_m1_l3_02",
       "level": "A1",
       "topic": "greetings",
-      "ruleId": null,
+      "ruleId": "a1-greetings",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Greetings & Polite Expressions\"?",
+      "question": "Choose the word that correctly completes the sentence: Excuse me, ___ this seat free?",
       "options": [
-        "good morning",
-        "good afternoon",
-        "good evening",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "good morning",
-      "explanation": "\"good morning\" (bom dia) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Good morning/afternoon/evening + name is friendly and polite. Good night is usually a farewell, not a greeting. Please goes before or after a request:"
     },
     {
       "id": "ex_a1_m1_l3_03",
       "level": "A1",
       "topic": "greetings",
-      "ruleId": "a1-greetings",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ afternoon, Ms. Costa.",
+      "question": "What does \"good evening\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "boa noite (chegada)",
+        "not used in this grammar",
+        "boa tarde",
+        "bom dia"
       ],
-      "answer": "is",
-      "explanation": "Good morning/afternoon/evening + name is friendly and polite. Good night is usually a farewell, not a greeting. Please goes before or after a request:"
+      "answer": "boa noite (chegada)",
+      "explanation": "\"good evening\" → boa noite (chegada)."
     },
     {
       "id": "ex_a1_m1_l3_04",
@@ -55,12 +55,14 @@
       "topic": "greetings",
       "ruleId": "a1-greetings",
       "type": "fill_blank",
-      "question": "Complete: ___, everyone!",
+      "question": "Complete: Excuse me, ___ this seat free?",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Good morning/afternoon/evening + name is friendly and polite. Good night is usually a farewell, not a greeting. Please goes before or after "
     },
     {
       "id": "ex_a1_m1_l3_05",
@@ -68,12 +70,14 @@
       "topic": "greetings",
       "ruleId": "a1-greetings",
       "type": "fill_blank",
-      "question": "Complete: ___ afternoon, Ms. Costa.",
-      "answer": "are",
+      "question": "Complete: Goodbye! See ___ tomorrow.",
+      "answer": "you",
       "answers": [
-        "are"
+        "you",
+        "you",
+        "You"
       ],
-      "explanation": "Good morning/afternoon/evening + name is friendly and polite. Good night is usually a farewell, not a greeting. Please g"
+      "explanation": "Good morning/afternoon/evening + name is friendly and polite. Good night is usually a farewell, not a greeting. Please goes before or after "
     },
     {
       "id": "ex_a1_m1_l3_06",
@@ -81,12 +85,12 @@
       "topic": "greetings",
       "ruleId": "a1-greetings",
       "type": "fill_blank",
-      "question": "Complete: ___ evening, welcome!",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a1_m1_l3_07",
@@ -94,9 +98,9 @@
       "topic": "greetings",
       "ruleId": "a1-greetings",
       "type": "true_false",
-      "question": "True or false: \"Good morning, Mr. Silva!\" is a correct example for this lesson.",
+      "question": "True or false: \"Good morning, Mr. Silva!\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a1_m1_l3_08",
@@ -104,7 +108,7 @@
       "topic": "greetings",
       "ruleId": "a1-greetings",
       "type": "true_false",
-      "question": "True or false: Good night! (at 9 a.m.) is grammatically correct.",
+      "question": "True or false: \"Good night! (at 9 a.m.)\" is correct English.",
       "answer": false,
       "explanation": "Good night is for leaving at night."
     },
@@ -114,7 +118,7 @@
       "topic": "greetings",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "good morning",
@@ -133,7 +137,7 @@
           "right": "adeus"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a1_m1_l3_10",
@@ -141,7 +145,7 @@
       "topic": "greetings",
       "ruleId": "a1-greetings",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "good morning",
@@ -160,7 +164,7 @@
           "right": "adeus"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a1_m1_l3_11",
@@ -171,6 +175,7 @@
       "question": "Find and correct the error: \"Good night! (at 9 a.m.)\"",
       "answer": "Good morning!",
       "answers": [
+        "Good morning!",
         "Good morning!"
       ],
       "explanation": "Good night is for leaving at night."
@@ -179,17 +184,17 @@
       "id": "ex_a1_m1_l3_12",
       "level": "A1",
       "topic": "greetings",
-      "ruleId": null,
+      "ruleId": "a1-greetings",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"good evening\"?",
+      "question": "From the reading \"A Busy Morning\": When do they say Good afternoon?",
       "options": [
-        "boa noite (chegada)",
-        "bom dia",
-        "boa tarde",
-        "none of these"
+        "At 8 a.m.",
+        "At lunch",
+        "At 6 p.m.",
+        "At night"
       ],
-      "answer": "boa noite (chegada)",
-      "explanation": "\"good evening\" means \"boa noite (chegada)\"."
+      "answer": "At lunch",
+      "explanation": "At lunch they say Good afternoon!"
     }
   ]
 }

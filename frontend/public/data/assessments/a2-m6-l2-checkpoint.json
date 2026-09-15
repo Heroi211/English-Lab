@@ -16,15 +16,15 @@
       "topic": "ever_never",
       "ruleId": "a2-ever-never",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Ever & Never):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "WRONG you ever been abroad?",
         "Have you ever been abroad?",
-        "XXX you ever been abroad?",
-        "No correct form.",
-        "abroad? been ever you Have"
+        "The form is incomplete.",
+        "Have you ever been abroad?"
       ],
       "answer": "Have you ever been abroad?",
-      "explanation": "This follows the pattern taught in Ever & Never."
+      "explanation": "Correct pattern for Ever & Never: Have you ever…? | I have never…"
     },
     {
       "id": "cp_a2_m6_l2_02",
@@ -32,12 +32,14 @@
       "topic": "ever_never",
       "ruleId": "a2-ever-never",
       "type": "fill_blank",
-      "question": "Complete: Have you ___ been abroad?",
-      "answer": "is",
+      "question": "Complete: Have ___ ever been abroad?",
+      "answer": "you",
       "answers": [
-        "is"
+        "you",
+        "you",
+        "You"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Have you ever…? | I have never…"
     },
     {
       "id": "cp_a2_m6_l2_03",
@@ -45,25 +47,25 @@
       "topic": "ever_never",
       "ruleId": "a2-ever-never",
       "type": "true_false",
-      "question": "True or false: \"Have you ever been abroad?\" is a correct example for this lesson.",
+      "question": "True or false: \"Have you ever been abroad?\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m6_l2_04",
       "level": "A2",
       "topic": "ever_never",
-      "ruleId": null,
+      "ruleId": "a2-ever-never",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Ever & Never\"?",
+      "question": "Choose the word that correctly completes the sentence: I ___ never flown.",
       "options": [
-        "ever",
-        "never",
-        "before",
-        "xyzabc"
+        "is",
+        "are",
+        "have",
+        "am"
       ],
-      "answer": "ever",
-      "explanation": "\"ever\" (alguma vez) is key vocabulary for this lesson."
+      "answer": "have",
+      "explanation": "Have you ever…? | I have never…"
     },
     {
       "id": "cp_a2_m6_l2_05",
@@ -71,7 +73,7 @@
       "topic": "ever_never",
       "ruleId": "a2-ever-never",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "ever",
@@ -90,7 +92,7 @@
           "right": "ainda (?)"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

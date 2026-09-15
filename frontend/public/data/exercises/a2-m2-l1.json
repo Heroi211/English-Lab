@@ -7,47 +7,47 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Future with Will):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "Me will call you.",
+        "The form is incomplete.",
         "I will call you.",
-        "I XXX call you.",
-        "No correct form.",
-        "you. call will I"
+        "I WRONG call you."
       ],
       "answer": "I will call you.",
-      "explanation": "This follows the pattern taught in Future with Will."
+      "explanation": "Correct pattern for Future with Will: Will + base verb for all subjects. Contractions: I'll, she'll."
     },
     {
       "id": "ex_a2_m2_l1_02",
       "level": "A2",
       "topic": "future_will",
-      "ruleId": null,
+      "ruleId": "a2-future-will",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Future with Will\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ won't take long.",
       "options": [
-        "will",
-        "won't",
-        "probably",
-        "xyzabc"
+        "are",
+        "It",
+        "am",
+        "is"
       ],
-      "answer": "will",
-      "explanation": "\"will\" (verbo futuro) is key vocabulary for this lesson."
+      "answer": "It",
+      "explanation": "Will + base verb for all subjects. Contractions: I'll, she'll."
     },
     {
       "id": "ex_a2_m2_l1_03",
       "level": "A2",
       "topic": "future_will",
-      "ruleId": "a2-future-will",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ won't take long.",
+      "question": "What does \"probably\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "provavelmente",
+        "verbo futuro",
+        "não vai",
+        "not used in this grammar"
       ],
-      "answer": "is",
-      "explanation": "Will + base verb for all subjects. Contractions: I'll, she'll."
+      "answer": "provavelmente",
+      "explanation": "\"probably\" → provavelmente."
     },
     {
       "id": "ex_a2_m2_l1_04",
@@ -55,12 +55,14 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "fill_blank",
-      "question": "Complete: I ___ call you.",
-      "answer": "is",
+      "question": "Complete: ___ will call you.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Will + base verb for all subjects. Contractions: I'll, she'll."
     },
     {
       "id": "ex_a2_m2_l1_05",
@@ -68,10 +70,12 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "fill_blank",
-      "question": "Complete: ___ won't take long.",
-      "answer": "are",
+      "question": "Complete: Maybe ___ will travel.",
+      "answer": "we",
       "answers": [
-        "are"
+        "we",
+        "we",
+        "We"
       ],
       "explanation": "Will + base verb for all subjects. Contractions: I'll, she'll."
     },
@@ -81,12 +85,12 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "fill_blank",
-      "question": "Complete: ___ will probably agree.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m2_l1_07",
@@ -94,9 +98,9 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "true_false",
-      "question": "True or false: \"I will call you.\" is a correct example for this lesson.",
+      "question": "True or false: \"I will call you.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m2_l1_08",
@@ -104,7 +108,7 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "true_false",
-      "question": "True or false: I WRONG call you. is grammatically correct.",
+      "question": "True or false: \"I WRONG call you.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +118,7 @@
       "topic": "future_will",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "will",
@@ -133,7 +137,7 @@
           "right": "talvez"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m2_l1_10",
@@ -141,7 +145,7 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "will",
@@ -160,7 +164,7 @@
           "right": "talvez"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m2_l1_11",
@@ -171,7 +175,8 @@
       "question": "Find and correct the error: \"I WRONG call you.\"",
       "answer": "I will call you.",
       "answers": [
-        "I will call you."
+        "I will call you.",
+        "I will call you"
       ],
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -179,17 +184,17 @@
       "id": "ex_a2_m2_l1_12",
       "level": "A2",
       "topic": "future_will",
-      "ruleId": null,
+      "ruleId": "a2-future-will",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"probably\"?",
+      "question": "From the reading \"Future with Will in Context\": Which sentence best matches the lesson?",
       "options": [
-        "provavelmente",
-        "verbo futuro",
-        "não vai",
-        "none of these"
+        "It won't take long.",
+        "you. call will I",
+        "No sentence fits.",
+        "She will probably agree."
       ],
-      "answer": "provavelmente",
-      "explanation": "\"probably\" means \"provavelmente\"."
+      "answer": "It won't take long.",
+      "explanation": "It won't take long."
     }
   ]
 }

@@ -15,47 +15,47 @@
       "topic": "there_is_are",
       "ruleId": "a1-there-is-are",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (There is / There are):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "There is a park near my house.",
-        "There XXX a park near my house.",
-        "No correct form.",
-        "house. my near park a is There"
+        "There are a book.",
+        "There is a park near my house.",
+        "The form is incomplete."
       ],
       "answer": "There is a park near my house.",
-      "explanation": "This follows the pattern taught in There is / There are."
+      "explanation": "Correct pattern for There is / There are: There is + singular noun. There are + plural noun. In questions, invert: Is there a bank near here? Are there any studen"
     },
     {
       "id": "mt_a1_m3_02",
       "level": "A1",
       "topic": "have_has",
-      "ruleId": null,
+      "ruleId": "a1-have-has",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Have / Has\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ long hair.",
       "options": [
-        "have",
+        "is",
+        "am",
         "has",
-        "brother",
-        "xyzabc"
+        "are"
       ],
-      "answer": "have",
-      "explanation": "\"have\" (ter) is key vocabulary for this lesson."
+      "answer": "has",
+      "explanation": "Have with I, you, we, they. Has with he, she, it. Questions and negatives use do/does + base have: Does he have a bike?"
     },
     {
       "id": "mt_a1_m3_03",
       "level": "A1",
       "topic": "some_any",
-      "ruleId": "a1-some-any",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ there any messages?",
+      "question": "What does \"water\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "água",
+        "algum",
+        "alguns",
+        "not used in this grammar"
       ],
-      "answer": "is",
-      "explanation": "Some in positive statements. Any in questions and negative statements. Some in polite offers and requests."
+      "answer": "água",
+      "explanation": "\"water\" → água."
     },
     {
       "id": "mt_a1_m3_04",
@@ -63,12 +63,14 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "fill_blank",
-      "question": "Complete: The keys are ___ the bag.",
+      "question": "Complete: There ___ a mirror on the wall.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the do"
     },
     {
       "id": "mt_a1_m3_05",
@@ -76,9 +78,9 @@
       "topic": "there_is_are",
       "ruleId": "a1-there-is-are",
       "type": "true_false",
-      "question": "True or false: \"There is a park near my house.\" is a correct example for this lesson.",
+      "question": "True or false: \"There is a park near my house.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "mt_a1_m3_06",
@@ -86,7 +88,7 @@
       "topic": "have_has",
       "ruleId": "a1-have-has",
       "type": "true_false",
-      "question": "True or false: He have a dog. is grammatically correct.",
+      "question": "True or false: \"He have a dog.\" is correct English.",
       "answer": false,
       "explanation": "Third person singular → has."
     },
@@ -96,7 +98,7 @@
       "topic": "some_any",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "some",
@@ -115,7 +117,7 @@
           "right": "pão"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "mt_a1_m3_08",
@@ -123,7 +125,7 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "in",
@@ -142,7 +144,7 @@
           "right": "ao lado de"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

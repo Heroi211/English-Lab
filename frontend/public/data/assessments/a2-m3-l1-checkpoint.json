@@ -16,15 +16,15 @@
       "topic": "comparatives",
       "ruleId": "a2-comparatives",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Comparatives):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "This option is better.",
-        "This option XXX better.",
-        "No correct form.",
-        "better. is option This"
+        "This option is better.",
+        "The form is incomplete.",
+        "This option is better."
       ],
       "answer": "This option is better.",
-      "explanation": "This follows the pattern taught in Comparatives."
+      "explanation": "Correct pattern for Comparatives: Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me."
     },
     {
       "id": "cp_a2_m3_l1_02",
@@ -32,12 +32,14 @@
       "topic": "comparatives",
       "ruleId": "a2-comparatives",
       "type": "fill_blank",
-      "question": "Complete: This option is ___.",
+      "question": "Complete: This option ___ better.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me."
     },
     {
       "id": "cp_a2_m3_l1_03",
@@ -45,25 +47,25 @@
       "topic": "comparatives",
       "ruleId": "a2-comparatives",
       "type": "true_false",
-      "question": "True or false: \"This option is better.\" is a correct example for this lesson.",
+      "question": "True or false: \"This option is better.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m3_l1_04",
       "level": "A2",
       "topic": "comparatives",
-      "ruleId": null,
+      "ruleId": "a2-comparatives",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Comparatives\"?",
+      "question": "Choose the word that correctly completes the sentence: Traffic ___ worse today.",
       "options": [
-        "better",
-        "worse",
-        "than",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "better",
-      "explanation": "\"better\" (melhor) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me."
     },
     {
       "id": "cp_a2_m3_l1_05",
@@ -71,7 +73,7 @@
       "topic": "comparatives",
       "ruleId": "a2-comparatives",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "better",
@@ -90,7 +92,7 @@
           "right": "mais barato"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

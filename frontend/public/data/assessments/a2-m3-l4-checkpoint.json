@@ -16,15 +16,15 @@
       "topic": "too_enough",
       "ruleId": "a2-too-enough",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Too & Enough):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "Too late to change.",
         "Too late to change.",
-        "No correct form.",
-        "change. to late Too"
+        "Too late to change.",
+        "The form is incomplete."
       ],
       "answer": "Too late to change.",
-      "explanation": "This follows the pattern taught in Too & Enough."
+      "explanation": "Correct pattern for Too & Enough: Too + adj = excess (too hot) | Adj + enough (big enough) | Enough + noun (enough time)"
     },
     {
       "id": "cp_a2_m3_l4_02",
@@ -32,12 +32,14 @@
       "topic": "too_enough",
       "ruleId": "a2-too-enough",
       "type": "fill_blank",
-      "question": "Complete: ___ late to change.",
-      "answer": "is",
+      "question": "Complete: We ___ enough chairs.",
+      "answer": "have",
       "answers": [
-        "is"
+        "have",
+        "have",
+        "Have"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Too + adj = excess (too hot) | Adj + enough (big enough) | Enough + noun (enough time)"
     },
     {
       "id": "cp_a2_m3_l4_03",
@@ -45,25 +47,25 @@
       "topic": "too_enough",
       "ruleId": "a2-too-enough",
       "type": "true_false",
-      "question": "True or false: \"Too late to change.\" is a correct example for this lesson.",
+      "question": "True or false: \"Too late to change.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m3_l4_04",
       "level": "A2",
       "topic": "too_enough",
-      "ruleId": null,
+      "ruleId": "a2-too-enough",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Too & Enough\"?",
+      "question": "Choose the word that correctly completes the sentence: We ___ enough chairs.",
       "options": [
-        "too",
-        "enough",
-        "plenty",
-        "xyzabc"
+        "is",
+        "are",
+        "have",
+        "am"
       ],
-      "answer": "too",
-      "explanation": "\"too\" (demais / muito (excesso)) is key vocabulary for this lesson."
+      "answer": "have",
+      "explanation": "Too + adj = excess (too hot) | Adj + enough (big enough) | Enough + noun (enough time)"
     },
     {
       "id": "cp_a2_m3_l4_05",
@@ -71,7 +73,7 @@
       "topic": "too_enough",
       "ruleId": "a2-too-enough",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "too",
@@ -90,7 +92,7 @@
           "right": "quase"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

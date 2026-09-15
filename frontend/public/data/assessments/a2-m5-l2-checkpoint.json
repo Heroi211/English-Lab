@@ -16,15 +16,15 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Should / Shouldn't):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "You should see a doctor.",
-        "You should see a doctor.",
-        "No correct form.",
-        "doctor. a see should You"
+        "Me should see a doctor.",
+        "You WRONG see a doctor.",
+        "The form is incomplete."
       ],
       "answer": "You should see a doctor.",
-      "explanation": "This follows the pattern taught in Should / Shouldn't."
+      "explanation": "Correct pattern for Should / Shouldn't: Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired."
     },
     {
       "id": "cp_a2_m5_l2_02",
@@ -32,12 +32,14 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "fill_blank",
-      "question": "Complete: You ___ see a doctor.",
-      "answer": "is",
+      "question": "Complete: ___ recommend this book.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired."
     },
     {
       "id": "cp_a2_m5_l2_03",
@@ -45,25 +47,25 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "true_false",
-      "question": "True or false: \"You should see a doctor.\" is a correct example for this lesson.",
+      "question": "True or false: \"You should see a doctor.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m5_l2_04",
       "level": "A2",
       "topic": "should",
-      "ruleId": null,
+      "ruleId": "a2-should",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Should / Shouldn't\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ shouldn't skip meals.",
       "options": [
-        "should",
-        "shouldn't",
-        "advice",
-        "xyzabc"
+        "are",
+        "You",
+        "am",
+        "is"
       ],
-      "answer": "should",
-      "explanation": "\"should\" (deveria) is key vocabulary for this lesson."
+      "answer": "You",
+      "explanation": "Should + base verb: You should rest. | Shouldn't: You shouldn't drive tired."
     },
     {
       "id": "cp_a2_m5_l2_05",
@@ -71,7 +73,7 @@
       "topic": "should",
       "ruleId": "a2-should",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "should",
@@ -90,7 +92,7 @@
           "right": "recomendar"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

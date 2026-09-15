@@ -7,47 +7,47 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Adverbs of Frequency):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "I always drink water.",
-        "I always drink water.",
-        "No correct form.",
-        "water. drink always I"
+        "Me always drink water.",
+        "The form is incomplete.",
+        "I always drink water."
       ],
       "answer": "I always drink water.",
-      "explanation": "This follows the pattern taught in Adverbs of Frequency."
+      "explanation": "Correct pattern for Adverbs of Frequency: Adverbs go BEFORE main verb: I always brush my teeth."
     },
     {
       "id": "ex_a1_m4_l4_02",
       "level": "A1",
       "topic": "adverbs_frequency",
-      "ruleId": null,
+      "ruleId": "a1-adverbs-frequency",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Adverbs of Frequency\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ usually walks.",
       "options": [
-        "always",
-        "usually",
-        "often",
-        "xyzabc"
+        "is",
+        "are",
+        "She",
+        "am"
       ],
-      "answer": "always",
-      "explanation": "\"always\" (sempre) is key vocabulary for this lesson."
+      "answer": "She",
+      "explanation": "Adverbs go BEFORE main verb: I always brush my teeth."
     },
     {
       "id": "ex_a1_m4_l4_03",
       "level": "A1",
       "topic": "adverbs_frequency",
-      "ruleId": "a1-adverbs-frequency",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ usually walks.",
+      "question": "What does \"often\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "frequentemente",
+        "sempre",
+        "geralmente",
+        "not used in this grammar"
       ],
-      "answer": "is",
-      "explanation": "Adverbs go BEFORE main verb: I always brush my teeth."
+      "answer": "frequentemente",
+      "explanation": "\"often\" → frequentemente."
     },
     {
       "id": "ex_a1_m4_l4_04",
@@ -55,12 +55,14 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "fill_blank",
-      "question": "Complete: I ___ drink water.",
-      "answer": "is",
+      "question": "Complete: ___ always drink water.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Adverbs go BEFORE main verb: I always brush my teeth."
     },
     {
       "id": "ex_a1_m4_l4_05",
@@ -68,12 +70,12 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "fill_blank",
-      "question": "Complete: ___ usually walks.",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "Adverbs go BEFORE main verb: I always brush my teeth."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a1_m4_l4_06",
@@ -81,12 +83,12 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "fill_blank",
-      "question": "Complete: ___ often meet on Fridays.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a1_m4_l4_07",
@@ -94,9 +96,9 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "true_false",
-      "question": "True or false: \"I always drink water.\" is a correct example for this lesson.",
+      "question": "True or false: \"I always drink water.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a1_m4_l4_08",
@@ -104,7 +106,7 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "true_false",
-      "question": "True or false: I always drink water. is grammatically correct.",
+      "question": "True or false: \"I always drink water.\" is correct English.",
       "answer": false,
       "explanation": "Review the rule for this lesson."
     },
@@ -114,7 +116,7 @@
       "topic": "adverbs_frequency",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "always",
@@ -133,7 +135,7 @@
           "right": "às vezes"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a1_m4_l4_10",
@@ -141,7 +143,7 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "always",
@@ -160,7 +162,7 @@
           "right": "às vezes"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a1_m4_l4_11",
@@ -170,6 +172,12 @@
       "type": "ordering",
       "question": "Put the words in the correct order to make a sentence.",
       "items": [
+        "I",
+        "water",
+        "drink",
+        "always"
+      ],
+      "correctOrder": [
         "I",
         "always",
         "drink",
@@ -181,23 +189,23 @@
         "drink",
         "water"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a1_m4_l4_12",
       "level": "A1",
       "topic": "adverbs_frequency",
-      "ruleId": null,
+      "ruleId": "a1-adverbs-frequency",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"often\"?",
+      "question": "From the reading \"Adverbs of Frequency — Reading\": Complete with a word from this skill: which form fits best in context?",
       "options": [
-        "frequentemente",
-        "sempre",
-        "geralmente",
-        "none of these"
+        "always",
+        "usually",
+        "often",
+        "sometimes"
       ],
-      "answer": "frequentemente",
-      "explanation": "\"often\" means \"frequentemente\"."
+      "answer": "always",
+      "explanation": "Focus form: always."
     }
   ]
 }

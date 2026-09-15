@@ -16,15 +16,15 @@
       "topic": "verb_to_be",
       "ruleId": "a1-verb-to-be",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Verb To Be & Introductions):",
+      "question": "Choose the correct sentence.",
       "options": [
-        "I am Gabriel. I am from Brazil.",
-        "I XXX Gabriel. I am from Brazil.",
-        "No correct form.",
-        "Brazil. from am I Gabriel. am I"
+        "I am a student.",
+        "I is a student.",
+        "I are a student.",
+        "I be a student."
       ],
-      "answer": "I am Gabriel. I am from Brazil.",
-      "explanation": "This follows the pattern taught in The Verb To Be — Present Simple."
+      "answer": "I am a student.",
+      "explanation": "With I, use am."
     },
     {
       "id": "cp_a1_m1_l1_02",
@@ -32,12 +32,12 @@
       "topic": "verb_to_be",
       "ruleId": "a1-verb-to-be",
       "type": "fill_blank",
-      "question": "Complete: ___! My name is Lucas.",
-      "answer": "is",
+      "question": "Complete: I ___ Gabriel. I am from Brazil.",
+      "answer": "am",
       "answers": [
-        "is"
+        "am"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "I + am for identity."
     },
     {
       "id": "cp_a1_m1_l1_03",
@@ -45,33 +45,33 @@
       "topic": "verb_to_be",
       "ruleId": "a1-verb-to-be",
       "type": "true_false",
-      "question": "True or false: \"I am Gabriel. I am from Brazil.\" is a correct example for this lesson.",
+      "question": "True or false: \"Are you a student? — Yes, I am.\" is correct.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "Question with are + short answer with am."
     },
     {
       "id": "cp_a1_m1_l1_04",
       "level": "A1",
       "topic": "verb_to_be",
-      "ruleId": null,
+      "ruleId": "a1-verb-to-be",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Verb To Be & Introductions\"?",
+      "question": "Julia is from Rio. Complete: She ___ from Brazil.",
       "options": [
-        "hello",
-        "name",
-        "from",
-        "xyzabc"
+        "am",
+        "is",
+        "are",
+        "be"
       ],
-      "answer": "hello",
-      "explanation": "\"hello\" (olá) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "She takes is."
     },
     {
       "id": "cp_a1_m1_l1_05",
       "level": "A1",
       "topic": "verb_to_be",
-      "ruleId": "a1-verb-to-be",
+      "ruleId": null,
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the English phrase with Portuguese.",
       "pairs": [
         {
           "left": "hello",
@@ -82,15 +82,15 @@
           "right": "nome"
         },
         {
-          "left": "from",
-          "right": "de"
+          "left": "student",
+          "right": "estudante"
         },
         {
-          "left": "country",
-          "right": "país"
+          "left": "teacher",
+          "right": "professor(a)"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "Core introduction vocabulary."
     }
   ]
 }

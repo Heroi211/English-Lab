@@ -16,15 +16,15 @@
       "topic": "there_is_are",
       "ruleId": "a1-there-is-are",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (There is / There are):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "There is a park near my house.",
-        "There XXX a park near my house.",
-        "No correct form.",
-        "house. my near park a is There"
+        "There are a book.",
+        "There is a park near my house.",
+        "The form is incomplete."
       ],
       "answer": "There is a park near my house.",
-      "explanation": "This follows the pattern taught in There is / There are."
+      "explanation": "Correct pattern for There is / There are: There is + singular noun. There are + plural noun. In questions, invert: Is there a bank near here? Are there any studen"
     },
     {
       "id": "cp_a1_m3_l1_02",
@@ -32,12 +32,14 @@
       "topic": "there_is_are",
       "ruleId": "a1-there-is-are",
       "type": "fill_blank",
-      "question": "Complete: ___ a café on this street.",
+      "question": "Complete: There ___ a park near my house.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "There is + singular noun. There are + plural noun. In questions, invert: Is there a bank near here? Are there any students?"
     },
     {
       "id": "cp_a1_m3_l1_03",
@@ -45,25 +47,25 @@
       "topic": "there_is_are",
       "ruleId": "a1-there-is-are",
       "type": "true_false",
-      "question": "True or false: \"There is a park near my house.\" is a correct example for this lesson.",
+      "question": "True or false: \"There is a park near my house.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a1_m3_l1_04",
       "level": "A1",
       "topic": "there_is_are",
-      "ruleId": null,
+      "ruleId": "a1-there-is-are",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"There is / There are\"?",
+      "question": "Choose the word that correctly completes the sentence: There ___ two bathrooms.",
       "options": [
-        "there is",
-        "there are",
-        "room",
-        "xyzabc"
+        "are",
+        "is",
+        "have",
+        "am"
       ],
-      "answer": "there is",
-      "explanation": "\"there is\" (há / tem (singular)) is key vocabulary for this lesson."
+      "answer": "are",
+      "explanation": "There is + singular noun. There are + plural noun. In questions, invert: Is there a bank near here? Are there any students?"
     },
     {
       "id": "cp_a1_m3_l1_05",
@@ -71,7 +73,7 @@
       "topic": "there_is_are",
       "ruleId": "a1-there-is-are",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "there is",
@@ -90,7 +92,7 @@
           "right": "mesa"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

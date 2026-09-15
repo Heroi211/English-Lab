@@ -7,47 +7,47 @@
       "topic": "present_simple_q",
       "ruleId": "a1-present-simple-q",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Present Simple — Questions):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "Do you speak English?",
         "Do you speak English?",
-        "No correct form.",
-        "English? speak you Do"
+        "The form is incomplete.",
+        "Do you speak English?"
       ],
       "answer": "Do you speak English?",
-      "explanation": "This follows the pattern taught in Present Simple — Questions."
+      "explanation": "Correct pattern for Present Simple — Questions: Do you…? / Does he…?"
     },
     {
       "id": "ex_a1_m4_l3_02",
       "level": "A1",
       "topic": "present_simple_q",
-      "ruleId": null,
+      "ruleId": "a1-present-simple-q",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Present Simple — Questions\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ she live here?",
       "options": [
-        "do",
-        "does",
-        "what",
-        "xyzabc"
+        "is",
+        "are",
+        "am",
+        "Does"
       ],
-      "answer": "do",
-      "explanation": "\"do\" (auxiliar (pergunta)) is key vocabulary for this lesson."
+      "answer": "Does",
+      "explanation": "Do you…? / Does he…?"
     },
     {
       "id": "ex_a1_m4_l3_03",
       "level": "A1",
       "topic": "present_simple_q",
-      "ruleId": "a1-present-simple-q",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ she live here?",
+      "question": "What does \"what\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "not used in this grammar",
+        "o que",
+        "auxiliar (pergunta)",
+        "auxiliar (ele"
       ],
-      "answer": "is",
-      "explanation": "Do you…? / Does he…?"
+      "answer": "o que",
+      "explanation": "\"what\" → o que."
     },
     {
       "id": "ex_a1_m4_l3_04",
@@ -55,12 +55,14 @@
       "topic": "present_simple_q",
       "ruleId": "a1-present-simple-q",
       "type": "fill_blank",
-      "question": "Complete: ___ you speak English?",
-      "answer": "is",
+      "question": "Complete: Do ___ speak English?",
+      "answer": "you",
       "answers": [
-        "is"
+        "you",
+        "you",
+        "You"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Do you…? / Does he…?"
     },
     {
       "id": "ex_a1_m4_l3_05",
@@ -68,10 +70,12 @@
       "topic": "present_simple_q",
       "ruleId": "a1-present-simple-q",
       "type": "fill_blank",
-      "question": "Complete: ___ she live here?",
-      "answer": "are",
+      "question": "Complete: Does ___ live here?",
+      "answer": "she",
       "answers": [
-        "are"
+        "she",
+        "she",
+        "She"
       ],
       "explanation": "Do you…? / Does he…?"
     },
@@ -81,12 +85,14 @@
       "topic": "present_simple_q",
       "ruleId": "a1-present-simple-q",
       "type": "fill_blank",
-      "question": "Complete: ___ do you do?",
-      "answer": "am",
+      "question": "Complete: What ___ you do?",
+      "answer": "do",
       "answers": [
-        "am"
+        "do",
+        "do",
+        "Do"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Do you…? / Does he…?"
     },
     {
       "id": "ex_a1_m4_l3_07",
@@ -94,9 +100,9 @@
       "topic": "present_simple_q",
       "ruleId": "a1-present-simple-q",
       "type": "true_false",
-      "question": "True or false: \"Do you speak English?\" is a correct example for this lesson.",
+      "question": "True or false: \"Do you speak English?\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a1_m4_l3_08",
@@ -104,7 +110,7 @@
       "topic": "present_simple_q",
       "ruleId": "a1-present-simple-q",
       "type": "true_false",
-      "question": "True or false: Do you speak English? is grammatically correct.",
+      "question": "True or false: \"Do you speak English?\" is correct English.",
       "answer": false,
       "explanation": "Review the rule for this lesson."
     },
@@ -114,7 +120,7 @@
       "topic": "present_simple_q",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "do",
@@ -133,7 +139,7 @@
           "right": "quando"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a1_m4_l3_10",
@@ -141,7 +147,7 @@
       "topic": "present_simple_q",
       "ruleId": "a1-present-simple-q",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "do",
@@ -160,7 +166,7 @@
           "right": "quando"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a1_m4_l3_11",
@@ -171,6 +177,7 @@
       "question": "Find and correct the error: \"Do you speak English?\"",
       "answer": "Do you speak English?",
       "answers": [
+        "Do you speak English?",
         "Do you speak English?"
       ],
       "explanation": "Review the rule for this lesson."
@@ -179,17 +186,17 @@
       "id": "ex_a1_m4_l3_12",
       "level": "A1",
       "topic": "present_simple_q",
-      "ruleId": null,
+      "ruleId": "a1-present-simple-q",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"what\"?",
+      "question": "From the reading \"Present Simple — Questions — Reading\": Complete with a word from this skill: which form fits best in context?",
       "options": [
-        "o que",
-        "auxiliar (pergunta)",
-        "auxiliar (ele/ela)",
-        "none of these"
+        "do",
+        "does",
+        "what",
+        "when"
       ],
-      "answer": "o que",
-      "explanation": "\"what\" means \"o que\"."
+      "answer": "do",
+      "explanation": "Focus form: do."
     }
   ]
 }

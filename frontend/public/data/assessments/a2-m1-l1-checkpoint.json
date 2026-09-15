@@ -16,15 +16,15 @@
       "topic": "past_simple_regular",
       "ruleId": "a2-past-simple-regular",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Past Simple — Regular Verbs):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "The form is incomplete.",
         "I worked yesterday.",
         "I worked yesterday.",
-        "No correct form.",
-        "yesterday. worked I"
+        "Me worked yesterday."
       ],
       "answer": "I worked yesterday.",
-      "explanation": "This follows the pattern taught in Past Simple — Regular Verbs."
+      "explanation": "Correct pattern for Past Simple — Regular Verbs: Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/."
     },
     {
       "id": "cp_a2_m1_l1_02",
@@ -32,12 +32,14 @@
       "topic": "past_simple_regular",
       "ruleId": "a2-past-simple-regular",
       "type": "fill_blank",
-      "question": "Complete: I worked ___.",
-      "answer": "is",
+      "question": "Complete: ___ worked yesterday.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/."
     },
     {
       "id": "cp_a2_m1_l1_03",
@@ -45,25 +47,25 @@
       "topic": "past_simple_regular",
       "ruleId": "a2-past-simple-regular",
       "type": "true_false",
-      "question": "True or false: \"I worked yesterday.\" is a correct example for this lesson.",
+      "question": "True or false: \"I worked yesterday.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m1_l1_04",
       "level": "A2",
       "topic": "past_simple_regular",
-      "ruleId": null,
+      "ruleId": "a2-past-simple-regular",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Past Simple — Regular Verbs\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ visited Rome last week.",
       "options": [
-        "yesterday",
-        "last week",
-        "ago",
-        "xyzabc"
+        "We",
+        "is",
+        "am",
+        "are"
       ],
-      "answer": "yesterday",
-      "explanation": "\"yesterday\" (ontem) is key vocabulary for this lesson."
+      "answer": "We",
+      "explanation": "Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/."
     },
     {
       "id": "cp_a2_m1_l1_05",
@@ -71,7 +73,7 @@
       "topic": "past_simple_regular",
       "ruleId": "a2-past-simple-regular",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "yesterday",
@@ -90,7 +92,7 @@
           "right": "terminado"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

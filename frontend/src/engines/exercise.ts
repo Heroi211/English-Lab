@@ -33,8 +33,16 @@ export function validateAnswer(exercise: Exercise, userAnswer: unknown): Feedbac
     expected = Object.fromEntries(pairs.map((p) => [p.left, p.right]))
   } else if (exercise.type === 'ordering') {
     const order = Array.isArray(userAnswer) ? userAnswer : []
-    const target = exercise.correctOrder || exercise.items || []
-    correct = order.length === target.length && order.every((v, i) => normalizeAnswer(v) === normalizeAnswer(target[i]))
+    // Prefer explicit correct order / answer — never treat shuffled `items` as the key.
+    const target = (
+      exercise.correctOrder ||
+      (Array.isArray(exercise.answer) ? exercise.answer : null) ||
+      []
+    ) as string[]
+    correct =
+      target.length > 0 &&
+      order.length === target.length &&
+      order.every((v, i) => normalizeAnswer(v) === normalizeAnswer(target[i]))
     expected = target
   } else {
     correct = normalizeAnswer(userAnswer) === normalizeAnswer(exercise.answer)

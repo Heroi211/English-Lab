@@ -16,15 +16,15 @@
       "topic": "have_has",
       "ruleId": "a1-have-has",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Have / Has):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "He have a dog.",
+        "The form is incomplete.",
         "We have a small car.",
-        "We XXX a small car.",
-        "No correct form.",
-        "car. small a have We"
+        "Me have a small car."
       ],
       "answer": "We have a small car.",
-      "explanation": "This follows the pattern taught in Have / Has."
+      "explanation": "Correct pattern for Have / Has: Have with I, you, we, they. Has with he, she, it. Questions and negatives use do/does + base have: Does he have a bike?"
     },
     {
       "id": "cp_a1_m3_l2_02",
@@ -32,12 +32,14 @@
       "topic": "have_has",
       "ruleId": "a1-have-has",
       "type": "fill_blank",
-      "question": "Complete: I ___ a bike.",
-      "answer": "is",
+      "question": "Complete: We ___ a small car.",
+      "answer": "have",
       "answers": [
-        "is"
+        "have",
+        "have",
+        "Have"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Have with I, you, we, they. Has with he, she, it. Questions and negatives use do/does + base have: Does he have a bike?"
     },
     {
       "id": "cp_a1_m3_l2_03",
@@ -45,25 +47,25 @@
       "topic": "have_has",
       "ruleId": "a1-have-has",
       "type": "true_false",
-      "question": "True or false: \"We have a small car.\" is a correct example for this lesson.",
+      "question": "True or false: \"We have a small car.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a1_m3_l2_04",
       "level": "A1",
       "topic": "have_has",
-      "ruleId": null,
+      "ruleId": "a1-have-has",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Have / Has\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ long hair.",
       "options": [
-        "have",
+        "is",
+        "am",
         "has",
-        "brother",
-        "xyzabc"
+        "are"
       ],
-      "answer": "have",
-      "explanation": "\"have\" (ter) is key vocabulary for this lesson."
+      "answer": "has",
+      "explanation": "Have with I, you, we, they. Has with he, she, it. Questions and negatives use do/does + base have: Does he have a bike?"
     },
     {
       "id": "cp_a1_m3_l2_05",
@@ -71,7 +73,7 @@
       "topic": "have_has",
       "ruleId": "a1-have-has",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "have",
@@ -90,7 +92,7 @@
           "right": "irmã"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

@@ -20,7 +20,7 @@ export function JourneyPage() {
       <header className="mb-10">
         <p className="font-mono text-xs text-teal-400">JOURNEY</p>
         <h1 className="mt-3 text-3xl font-semibold">A1 → A2 roadmap</h1>
-        <p className="mt-2 text-zinc-500">Deep curriculum for Foundation and Consolidation. B1/B2 coming later.</p>
+        <p className="mt-2 text-zinc-500">Deep curriculum for Foundation and Consolidation. Completed lessons stay open — revisit writing, practice, and mistakes anytime.</p>
       </header>
 
       <div className="relative space-y-8 md:ml-12 md:border-l md:border-zinc-800 md:pl-8">
@@ -64,7 +64,7 @@ export function JourneyPage() {
                                 </span>
                                 {unlocked ? (
                                   <Link to={`/learn/${l.id}`} className="text-teal-400 hover:text-teal-300">
-                                    Open
+                                    {done ? 'Revisit' : 'Open'}
                                   </Link>
                                 ) : (
                                   <span className="font-mono text-xs text-zinc-700">locked</span>

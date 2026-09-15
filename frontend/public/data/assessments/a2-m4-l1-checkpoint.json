@@ -16,15 +16,15 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Much & Many):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "How much sugar?",
         "How much sugar?",
-        "No correct form.",
-        "sugar? much How"
+        "How much sugar?",
+        "The form is incomplete."
       ],
       "answer": "How much sugar?",
-      "explanation": "This follows the pattern taught in Much & Many."
+      "explanation": "Correct pattern for Much & Many: Many + plural countables | Much + uncountables (mainly ?/−)"
     },
     {
       "id": "cp_a2_m4_l1_02",
@@ -32,12 +32,14 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "fill_blank",
-      "question": "Complete: How ___ sugar?",
-      "answer": "is",
+      "question": "Complete: How much does ___ cost?",
+      "answer": "it",
       "answers": [
-        "is"
+        "it",
+        "it",
+        "It"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Many + plural countables | Much + uncountables (mainly ?/−)"
     },
     {
       "id": "cp_a2_m4_l1_03",
@@ -45,25 +47,25 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "true_false",
-      "question": "True or false: \"How much sugar?\" is a correct example for this lesson.",
+      "question": "True or false: \"How much sugar?\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m4_l1_04",
       "level": "A2",
       "topic": "much_many",
-      "ruleId": null,
+      "ruleId": "a2-much-many",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Much & Many\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "much",
-        "many",
-        "a lot of",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "much",
-      "explanation": "\"much\" (muito (incontável)) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Many + plural countables | Much + uncountables (mainly ?/−)"
     },
     {
       "id": "cp_a2_m4_l1_05",
@@ -71,7 +73,7 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "much",
@@ -90,7 +92,7 @@
           "right": "quanto"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

@@ -16,15 +16,15 @@
       "topic": "phrasals_2",
       "ruleId": "a2-phrasals-2",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Common Phrasal Verbs 2):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "The plane takes off at noon.",
         "The plane takes off at noon.",
-        "No correct form.",
-        "noon. at off takes plane The"
+        "The form is incomplete.",
+        "The plane takes off at noon."
       ],
       "answer": "The plane takes off at noon.",
-      "explanation": "This follows the pattern taught in Common Phrasal Verbs 2."
+      "explanation": "Correct pattern for Common Phrasal Verbs 2: Take off (clothes/plane) | Put on | Run out of | Find out"
     },
     {
       "id": "cp_a2_m8_l2_02",
@@ -32,12 +32,14 @@
       "topic": "phrasals_2",
       "ruleId": "a2-phrasals-2",
       "type": "fill_blank",
-      "question": "Complete: The plane takes off at noon.",
-      "answer": "is",
+      "question": "Complete: ___ found out the truth.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Take off (clothes/plane) | Put on | Run out of | Find out"
     },
     {
       "id": "cp_a2_m8_l2_03",
@@ -45,25 +47,25 @@
       "topic": "phrasals_2",
       "ruleId": "a2-phrasals-2",
       "type": "true_false",
-      "question": "True or false: \"The plane takes off at noon.\" is a correct example for this lesson.",
+      "question": "True or false: \"The plane takes off at noon.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m8_l2_04",
       "level": "A2",
       "topic": "phrasals_2",
-      "ruleId": null,
+      "ruleId": "a2-phrasals-2",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Common Phrasal Verbs 2\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "take off",
-        "put on",
-        "run out of",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "take off",
-      "explanation": "\"take off\" (tirar / decolar) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Take off (clothes/plane) | Put on | Run out of | Find out"
     },
     {
       "id": "cp_a2_m8_l2_05",
@@ -71,7 +73,7 @@
       "topic": "phrasals_2",
       "ruleId": "a2-phrasals-2",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "take off",
@@ -90,7 +92,7 @@
           "right": "descobrir"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

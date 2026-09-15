@@ -7,47 +7,47 @@
       "topic": "present_for_future",
       "ruleId": "a2-present-for-future",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Present Continuous for Future):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "I am meeting the team at 3.",
-        "I XXX meeting the team at 3.",
-        "No correct form.",
-        "3. at team the meeting am I"
+        "Me am meeting the team at 3.",
+        "I am meeting the team at 3.",
+        "The form is incomplete."
       ],
       "answer": "I am meeting the team at 3.",
-      "explanation": "This follows the pattern taught in Present Continuous for Future."
+      "explanation": "Correct pattern for Present Continuous for Future: Am/is/are + -ing for arranged future: I am meeting John at 6."
     },
     {
       "id": "ex_a2_m2_l3_02",
       "level": "A2",
       "topic": "present_for_future",
-      "ruleId": null,
+      "ruleId": "a2-present-for-future",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Present Continuous for Future\"?",
+      "question": "Choose the word that correctly completes the sentence: We ___ flying on Tuesday.",
       "options": [
-        "meeting",
-        "flying",
-        "arrangement",
-        "xyzabc"
+        "are",
+        "is",
+        "have",
+        "am"
       ],
-      "answer": "meeting",
-      "explanation": "\"meeting\" (reunião / encontro) is key vocabulary for this lesson."
+      "answer": "are",
+      "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6."
     },
     {
       "id": "ex_a2_m2_l3_03",
       "level": "A2",
       "topic": "present_for_future",
-      "ruleId": "a2-present-for-future",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ are flying on Tuesday.",
+      "question": "What does \"arrangement\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "combinado",
+        "not used in this grammar",
+        "voando",
+        "reunião"
       ],
-      "answer": "is",
-      "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6."
+      "answer": "combinado",
+      "explanation": "\"arrangement\" → combinado."
     },
     {
       "id": "ex_a2_m2_l3_04",
@@ -55,12 +55,14 @@
       "topic": "present_for_future",
       "ruleId": "a2-present-for-future",
       "type": "fill_blank",
-      "question": "Complete: I am ___ the team at 3.",
-      "answer": "is",
+      "question": "Complete: ___ am meeting the team at 3.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6."
     },
     {
       "id": "ex_a2_m2_l3_05",
@@ -68,10 +70,12 @@
       "topic": "present_for_future",
       "ruleId": "a2-present-for-future",
       "type": "fill_blank",
-      "question": "Complete: ___ are flying on Tuesday.",
+      "question": "Complete: We ___ flying on Tuesday.",
       "answer": "are",
       "answers": [
-        "are"
+        "are",
+        "are",
+        "Are"
       ],
       "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6."
     },
@@ -81,12 +85,14 @@
       "topic": "present_for_future",
       "ruleId": "a2-present-for-future",
       "type": "fill_blank",
-      "question": "Complete: ___ is a firm arrangement.",
-      "answer": "am",
+      "question": "Complete: It ___ a firm arrangement.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6."
     },
     {
       "id": "ex_a2_m2_l3_07",
@@ -94,9 +100,9 @@
       "topic": "present_for_future",
       "ruleId": "a2-present-for-future",
       "type": "true_false",
-      "question": "True or false: \"I am meeting the team at 3.\" is a correct example for this lesson.",
+      "question": "True or false: \"I am meeting the team at 3.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m2_l3_08",
@@ -104,7 +110,7 @@
       "topic": "present_for_future",
       "ruleId": "a2-present-for-future",
       "type": "true_false",
-      "question": "True or false: I am meeting the team at 3. is grammatically correct.",
+      "question": "True or false: \"I am meeting the team at 3.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +120,7 @@
       "topic": "present_for_future",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "meeting",
@@ -133,7 +139,7 @@
           "right": "calendário"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m2_l3_10",
@@ -141,7 +147,7 @@
       "topic": "present_for_future",
       "ruleId": "a2-present-for-future",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "meeting",
@@ -160,7 +166,7 @@
           "right": "calendário"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m2_l3_11",
@@ -171,7 +177,8 @@
       "question": "Find and correct the error: \"I am meeting the team at 3.\"",
       "answer": "I am meeting the team at 3.",
       "answers": [
-        "I am meeting the team at 3."
+        "I am meeting the team at 3.",
+        "I am meeting the team at 3"
       ],
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -179,17 +186,17 @@
       "id": "ex_a2_m2_l3_12",
       "level": "A2",
       "topic": "present_for_future",
-      "ruleId": null,
+      "ruleId": "a2-present-for-future",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"arrangement\"?",
+      "question": "From the reading \"Present Continuous for Future in Context\": Which sentence best matches the lesson?",
       "options": [
-        "combinado",
-        "reunião / encontro",
-        "voando / viajar de avião",
-        "none of these"
+        "We are flying on Tuesday.",
+        "3. at team the meeting am I",
+        "No sentence fits.",
+        "It is a firm arrangement."
       ],
-      "answer": "combinado",
-      "explanation": "\"arrangement\" means \"combinado\"."
+      "answer": "We are flying on Tuesday.",
+      "explanation": "We are flying on Tuesday."
     }
   ]
 }

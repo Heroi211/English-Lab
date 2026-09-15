@@ -16,15 +16,15 @@
       "topic": "schedules",
       "ruleId": "a1-schedules",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Schedules & Appointments):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "I have an appointment at 3.",
-        "I XXX an appointment at 3.",
-        "No correct form.",
-        "3. at appointment an have I"
+        "The form is incomplete.",
+        "Me have an appointment at 3.",
+        "I have an appointment at 3."
       ],
       "answer": "I have an appointment at 3.",
-      "explanation": "This follows the pattern taught in Schedules & Appointments."
+      "explanation": "Correct pattern for Schedules & Appointments: What day? What time? — Let's meet on Friday at 2 p.m."
     },
     {
       "id": "cp_a1_m7_l4_02",
@@ -32,12 +32,14 @@
       "topic": "schedules",
       "ruleId": "a1-schedules",
       "type": "fill_blank",
-      "question": "Complete: I have an ___ at 3.",
-      "answer": "is",
+      "question": "Complete: ___ have an appointment at 3.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "What day? What time? — Let's meet on Friday at 2 p.m."
     },
     {
       "id": "cp_a1_m7_l4_03",
@@ -45,25 +47,25 @@
       "topic": "schedules",
       "ruleId": "a1-schedules",
       "type": "true_false",
-      "question": "True or false: \"I have an appointment at 3.\" is a correct example for this lesson.",
+      "question": "True or false: \"I have an appointment at 3.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a1_m7_l4_04",
       "level": "A1",
       "topic": "schedules",
-      "ruleId": null,
+      "ruleId": "a1-schedules",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Schedules & Appointments\"?",
+      "question": "Choose the word that correctly completes the sentence: What ___ your schedule?",
       "options": [
-        "appointment",
-        "schedule",
-        "meet",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "appointment",
-      "explanation": "\"appointment\" (compromisso / consulta) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "What day? What time? — Let's meet on Friday at 2 p.m."
     },
     {
       "id": "cp_a1_m7_l4_05",
@@ -71,7 +73,7 @@
       "topic": "schedules",
       "ruleId": "a1-schedules",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "appointment",
@@ -90,7 +92,7 @@
           "right": "disponível"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

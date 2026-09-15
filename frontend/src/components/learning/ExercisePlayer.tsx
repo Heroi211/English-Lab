@@ -135,7 +135,9 @@ function ExerciseInput({
   const [choice, setChoice] = useState('')
   const [text, setText] = useState('')
   const [match, setMatch] = useState<Record<string, string>>({})
-  const [order, setOrder] = useState<string[]>(() => shuffle([...(exercise.items || exercise.correctOrder || [])]))
+  const [order, setOrder] = useState<string[]>(() =>
+    shuffle([...(exercise.items || exercise.correctOrder || (Array.isArray(exercise.answer) ? exercise.answer : []) || [])]),
+  )
 
   const rights = useMemo(() => shuffle([...(exercise.pairs || []).map((p) => p.right)]), [exercise.id])
 

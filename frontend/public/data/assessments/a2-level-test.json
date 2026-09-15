@@ -13,47 +13,47 @@
       "topic": "past_simple_regular",
       "ruleId": "a2-past-simple-regular",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Past Simple — Regular Verbs):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "The form is incomplete.",
         "I worked yesterday.",
         "I worked yesterday.",
-        "No correct form.",
-        "yesterday. worked I"
+        "Me worked yesterday."
       ],
       "answer": "I worked yesterday.",
-      "explanation": "This follows the pattern taught in Past Simple — Regular Verbs."
+      "explanation": "Correct pattern for Past Simple — Regular Verbs: Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/."
     },
     {
       "id": "lt_a2_02",
       "level": "A2",
       "topic": "past_simple_irregular",
-      "ruleId": null,
+      "ruleId": "a2-past-simple-irregular",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Past Simple — Irregular Verbs\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ saw Maria at the party.",
       "options": [
-        "went",
-        "saw",
-        "had",
-        "xyzabc"
+        "am",
+        "are",
+        "I",
+        "is"
       ],
-      "answer": "went",
-      "explanation": "\"went\" (foi) is key vocabulary for this lesson."
+      "answer": "I",
+      "explanation": "High-frequency irregulars: go→went, see→saw, have→had, do→did, make→made, come→came, get→got, take→took."
     },
     {
       "id": "lt_a2_03",
       "level": "A2",
       "topic": "past_simple_q_neg",
-      "ruleId": "a2-past-simple-q-neg",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ didn't know.",
+      "question": "What does \"when\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "auxiliar passado",
+        "quando",
+        "not used in this grammar",
+        "não (passado)"
       ],
-      "answer": "is",
-      "explanation": "Did + subject + base verb: Did you go? | She didn't come."
+      "answer": "quando",
+      "explanation": "\"when\" → quando."
     },
     {
       "id": "lt_a2_04",
@@ -61,44 +61,46 @@
       "topic": "past_time",
       "ruleId": "a2-past-time",
       "type": "fill_blank",
-      "question": "Complete: I started gym ___.",
-      "answer": "is",
+      "question": "Complete: ___ started gym last month.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Last + period: last month, last year | … ago: three years ago | In + past year: in 2019 | On + past day: on Monday (finished)"
     },
     {
       "id": "lt_a2_05",
       "level": "A2",
       "topic": "future_will",
-      "ruleId": null,
+      "ruleId": "a2-future-will",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Future with Will\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ won't take long.",
       "options": [
-        "will",
-        "won't",
-        "probably",
-        "xyzabc"
+        "are",
+        "It",
+        "am",
+        "is"
       ],
-      "answer": "will",
-      "explanation": "\"will\" (verbo futuro) is key vocabulary for this lesson."
+      "answer": "It",
+      "explanation": "Will + base verb for all subjects. Contractions: I'll, she'll."
     },
     {
       "id": "lt_a2_06",
       "level": "A2",
       "topic": "future_going_to",
-      "ruleId": "a2-future-going-to",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ is your plan?",
+      "question": "What does \"intend\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "not used in this grammar",
+        "pretender",
+        "ir (futuro planeado)",
+        "plano"
       ],
-      "answer": "is",
-      "explanation": "Am/is/are + going to + verb."
+      "answer": "pretender",
+      "explanation": "\"intend\" → pretender."
     },
     {
       "id": "lt_a2_07",
@@ -106,12 +108,14 @@
       "topic": "present_for_future",
       "ruleId": "a2-present-for-future",
       "type": "fill_blank",
-      "question": "Complete: I am ___ the team at 3.",
-      "answer": "is",
+      "question": "Complete: ___ am meeting the team at 3.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6."
     },
     {
       "id": "lt_a2_08",
@@ -119,28 +123,28 @@
       "topic": "plans_vs_predictions",
       "ruleId": "a2-plans-predictions",
       "type": "fill_blank",
-      "question": "Complete: ___ is evidence of rain.",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "Plan/intention → going to | Arrangement with time → present continuous | Prediction/spontaneous → will"
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "lt_a2_09",
       "level": "A2",
       "topic": "comparatives",
-      "ruleId": "a2-comparatives",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ is worse today.",
+      "question": "What does \"than\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "pior",
+        "not used in this grammar",
+        "melhor",
+        "do que"
       ],
-      "answer": "is",
-      "explanation": "Short adj: -er (old → older) or more + adj (more expensive). Than: She is taller than me."
+      "answer": "do que",
+      "explanation": "\"than\" → do que."
     },
     {
       "id": "lt_a2_10",
@@ -148,12 +152,14 @@
       "topic": "superlatives",
       "ruleId": "a2-superlatives",
       "type": "fill_blank",
-      "question": "Complete: This is ___ pizza in town.",
+      "question": "Complete: This ___ the best pizza in town.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "The + -est (the oldest) or the most + adj (the most interesting)."
     },
     {
       "id": "lt_a2_11",
@@ -161,12 +167,12 @@
       "topic": "as_as",
       "ruleId": "a2-as-as",
       "type": "fill_blank",
-      "question": "Complete: ___ same price.",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "Equal: as tall as | Not equal: not as/so expensive as"
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "lt_a2_12",
@@ -174,12 +180,12 @@
       "topic": "too_enough",
       "ruleId": "a2-too-enough",
       "type": "fill_blank",
-      "question": "Complete: ___ of time.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     }
   ]
 }

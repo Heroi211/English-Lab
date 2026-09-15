@@ -7,47 +7,47 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Unless & As Long As):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "As long as you try.",
+        "The form is incomplete.",
         "As long as you try.",
-        "No correct form.",
-        "try. you as long As"
+        "As long as you try."
       ],
       "answer": "As long as you try.",
-      "explanation": "This follows the pattern taught in Unless & As Long As."
+      "explanation": "Correct pattern for Unless & As Long As: Unless = if not | As long as = provided that"
     },
     {
       "id": "ex_a2_m7_l2_02",
       "level": "A2",
       "topic": "unless",
-      "ruleId": null,
+      "ruleId": "a2-unless",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Unless & As Long As\"?",
+      "question": "Choose the word that correctly completes the sentence: Provided ___ pay on time.",
       "options": [
-        "as long as",
-        "provided",
-        "otherwise",
-        "xyzabc"
+        "am",
+        "are",
+        "you",
+        "is"
       ],
-      "answer": "as long as",
-      "explanation": "\"as long as\" (contanto que) is key vocabulary for this lesson."
+      "answer": "you",
+      "explanation": "Unless = if not | As long as = provided that"
     },
     {
       "id": "ex_a2_m7_l2_03",
       "level": "A2",
       "topic": "unless",
-      "ruleId": "a2-unless",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ you pay on time.",
+      "question": "What does \"otherwise\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "caso contrário",
+        "desde que",
+        "contanto que",
+        "not used in this grammar"
       ],
-      "answer": "is",
-      "explanation": "Unless = if not | As long as = provided that"
+      "answer": "caso contrário",
+      "explanation": "\"otherwise\" → caso contrário."
     },
     {
       "id": "ex_a2_m7_l2_04",
@@ -55,12 +55,14 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "fill_blank",
-      "question": "Complete: ___ you try.",
-      "answer": "is",
+      "question": "Complete: As long as ___ try.",
+      "answer": "you",
       "answers": [
-        "is"
+        "you",
+        "you",
+        "You"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Unless = if not | As long as = provided that"
     },
     {
       "id": "ex_a2_m7_l2_05",
@@ -68,10 +70,12 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "fill_blank",
-      "question": "Complete: ___ you pay on time.",
-      "answer": "are",
+      "question": "Complete: Provided ___ pay on time.",
+      "answer": "you",
       "answers": [
-        "are"
+        "you",
+        "you",
+        "You"
       ],
       "explanation": "Unless = if not | As long as = provided that"
     },
@@ -81,12 +85,14 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "fill_blank",
-      "question": "Complete: ___, otherwise you will be late.",
-      "answer": "am",
+      "question": "Complete: Hurry, otherwise ___ will be late.",
+      "answer": "you",
       "answers": [
-        "am"
+        "you",
+        "you",
+        "You"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Unless = if not | As long as = provided that"
     },
     {
       "id": "ex_a2_m7_l2_07",
@@ -94,9 +100,9 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "true_false",
-      "question": "True or false: \"As long as you try.\" is a correct example for this lesson.",
+      "question": "True or false: \"As long as you try.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m7_l2_08",
@@ -104,7 +110,7 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "true_false",
-      "question": "True or false: As long as you try. is grammatically correct.",
+      "question": "True or false: \"As long as you try.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +120,7 @@
       "topic": "unless",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "as long as",
@@ -129,7 +135,7 @@
           "right": "caso contrário"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m7_l2_10",
@@ -137,7 +143,7 @@
       "topic": "unless",
       "ruleId": "a2-unless",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "as long as",
@@ -152,7 +158,7 @@
           "right": "caso contrário"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m7_l2_11",
@@ -162,11 +168,18 @@
       "type": "ordering",
       "question": "Put the words in the correct order to make a sentence.",
       "items": [
-        "long",
+        "try",
         "you",
         "As",
-        "try",
+        "long",
         "as"
+      ],
+      "correctOrder": [
+        "As",
+        "long",
+        "as",
+        "you",
+        "try"
       ],
       "answer": [
         "As",
@@ -175,23 +188,23 @@
         "you",
         "try"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a2_m7_l2_12",
       "level": "A2",
       "topic": "unless",
-      "ruleId": null,
+      "ruleId": "a2-unless",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"otherwise\"?",
+      "question": "From the reading \"Unless & As Long As in Context\": Which sentence best matches the lesson?",
       "options": [
-        "caso contrário",
-        "contanto que",
-        "desde que",
-        "none of these"
+        "Provided you pay on time.",
+        "try. you as long As",
+        "No sentence fits.",
+        "Hurry, otherwise you will be late."
       ],
-      "answer": "caso contrário",
-      "explanation": "\"otherwise\" means \"caso contrário\"."
+      "answer": "Provided you pay on time.",
+      "explanation": "Provided you pay on time."
     }
   ]
 }

@@ -16,15 +16,15 @@
       "topic": "just_already_yet",
       "ruleId": "a2-just-already-yet",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Just, Already & Yet):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
-        "I have just sent the email.",
-        "I XXX just sent the email.",
-        "No correct form.",
-        "email. the sent just have I"
+        "Me have just sent the email.",
+        "The form is incomplete.",
+        "I WRONG just sent the email.",
+        "I have just sent the email."
       ],
       "answer": "I have just sent the email.",
-      "explanation": "This follows the pattern taught in Just, Already & Yet."
+      "explanation": "Correct pattern for Just, Already & Yet: Just = very recent | Already = before expected | Yet = until now (?/−)"
     },
     {
       "id": "cp_a2_m6_l4_02",
@@ -32,12 +32,14 @@
       "topic": "just_already_yet",
       "ruleId": "a2-just-already-yet",
       "type": "fill_blank",
-      "question": "Complete: I have ___ sent the email.",
-      "answer": "is",
+      "question": "Complete: ___ have just sent the email.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Just = very recent | Already = before expected | Yet = until now (?/−)"
     },
     {
       "id": "cp_a2_m6_l4_03",
@@ -45,25 +47,25 @@
       "topic": "just_already_yet",
       "ruleId": "a2-just-already-yet",
       "type": "true_false",
-      "question": "True or false: \"I have just sent the email.\" is a correct example for this lesson.",
+      "question": "True or false: \"I have just sent the email.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m6_l4_04",
       "level": "A2",
       "topic": "just_already_yet",
-      "ruleId": null,
+      "ruleId": "a2-just-already-yet",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Just, Already & Yet\"?",
+      "question": "Choose the word that correctly completes the sentence: They ___ already left.",
       "options": [
-        "just",
-        "already",
-        "yet",
-        "xyzabc"
+        "is",
+        "are",
+        "have",
+        "am"
       ],
-      "answer": "just",
-      "explanation": "\"just\" (acabar de) is key vocabulary for this lesson."
+      "answer": "have",
+      "explanation": "Just = very recent | Already = before expected | Yet = until now (?/−)"
     },
     {
       "id": "cp_a2_m6_l4_05",
@@ -71,7 +73,7 @@
       "topic": "just_already_yet",
       "ruleId": "a2-just-already-yet",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "just",
@@ -90,7 +92,7 @@
           "right": "recente"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

@@ -7,31 +7,31 @@
       "topic": "subject_pronouns",
       "ruleId": "a1-subject-pronouns",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Subject Pronouns):",
+      "question": "Marco is from Italy. Which pronoun replaces Marco?",
       "options": [
-        "I am Brazilian.",
-        "I XXX Brazilian.",
-        "No correct form.",
-        "Brazilian. am I"
+        "He",
+        "She",
+        "It",
+        "They"
       ],
-      "answer": "I am Brazilian.",
-      "explanation": "This follows the pattern taught in Subject Pronouns."
+      "answer": "He",
+      "explanation": "Marco is a male person → subject pronoun he."
     },
     {
       "id": "ex_a1_m1_l2_02",
       "level": "A1",
       "topic": "subject_pronouns",
-      "ruleId": null,
+      "ruleId": "a1-subject-pronouns",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Subject Pronouns\"?",
+      "question": "Ms. Lee is the teacher. Which pronoun replaces Ms. Lee?",
       "options": [
-        "I",
-        "you",
-        "he",
-        "xyzabc"
+        "He",
+        "She",
+        "We",
+        "They"
       ],
-      "answer": "I",
-      "explanation": "\"I\" (eu) is key vocabulary for this lesson."
+      "answer": "She",
+      "explanation": "Ms. Lee is a female person → she."
     },
     {
       "id": "ex_a1_m1_l2_03",
@@ -39,15 +39,15 @@
       "topic": "subject_pronouns",
       "ruleId": "a1-subject-pronouns",
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ are my friend.",
+      "question": "Laura and Marco are classmates. Which pronoun replaces Laura and Marco?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "He",
+        "She",
+        "It",
+        "They"
       ],
-      "answer": "is",
-      "explanation": "Subject pronouns come before the verb. I and you are the same for singular and plural in English. He = male, she = female, it = things/animals. They ="
+      "answer": "They",
+      "explanation": "Two people → they."
     },
     {
       "id": "ex_a1_m1_l2_04",
@@ -55,12 +55,13 @@
       "topic": "subject_pronouns",
       "ruleId": "a1-subject-pronouns",
       "type": "fill_blank",
-      "question": "Complete: ___ am a student.",
-      "answer": "He",
+      "question": "Complete with a subject pronoun: ___ am Laura. I am from Argentina.",
+      "answer": "I",
       "answers": [
-        "He"
+        "I",
+        "i"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "The speaker talks about herself → I (+ am)."
     },
     {
       "id": "ex_a1_m1_l2_05",
@@ -68,12 +69,13 @@
       "topic": "subject_pronouns",
       "ruleId": "a1-subject-pronouns",
       "type": "fill_blank",
-      "question": "Complete: ___ are my friend.",
-      "answer": "They",
+      "question": "Complete: Next to me is Marco. ___ is from Italy.",
+      "answer": "He",
       "answers": [
-        "They"
+        "He",
+        "he"
       ],
-      "explanation": "Subject pronouns come before the verb. I and you are the same for singular and plural in English. He = male, she = femal"
+      "explanation": "Marco → he. \"He am\" would be wrong; here the verb is is."
     },
     {
       "id": "ex_a1_m1_l2_06",
@@ -81,12 +83,13 @@
       "topic": "subject_pronouns",
       "ruleId": "a1-subject-pronouns",
       "type": "fill_blank",
-      "question": "Complete: ___ is a doctor.",
+      "question": "Complete: The teacher is Ms. Lee. ___ is from Korea.",
       "answer": "She",
       "answers": [
-        "She"
+        "She",
+        "she"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Ms. Lee → she."
     },
     {
       "id": "ex_a1_m1_l2_07",
@@ -94,9 +97,9 @@
       "topic": "subject_pronouns",
       "ruleId": "a1-subject-pronouns",
       "type": "true_false",
-      "question": "True or false: \"I am Brazilian.\" is a correct example for this lesson.",
+      "question": "True or false: \"They are a small group.\" can refer to Laura and her classmates.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "They = plural people (the group)."
     },
     {
       "id": "ex_a1_m1_l2_08",
@@ -104,9 +107,9 @@
       "topic": "subject_pronouns",
       "ruleId": "a1-subject-pronouns",
       "type": "true_false",
-      "question": "True or false: Her is a teacher.",
+      "question": "True or false: \"Her is from Korea.\" is correct.",
       "answer": false,
-      "explanation": "Her is possessive/object; use she as subject."
+      "explanation": "Her is not a subject pronoun. Use She is from Korea."
     },
     {
       "id": "ex_a1_m1_l2_09",
@@ -114,15 +117,11 @@
       "topic": "subject_pronouns",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each subject pronoun with its Portuguese meaning.",
       "pairs": [
         {
           "left": "I",
           "right": "eu"
-        },
-        {
-          "left": "you",
-          "right": "você"
         },
         {
           "left": "he",
@@ -131,9 +130,13 @@
         {
           "left": "she",
           "right": "ela"
+        },
+        {
+          "left": "they",
+          "right": "eles/elas"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Core subject pronouns for this skill."
     },
     {
       "id": "ex_a1_m1_l2_10",
@@ -141,26 +144,26 @@
       "topic": "subject_pronouns",
       "ruleId": "a1-subject-pronouns",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the person/thing with the correct subject pronoun.",
       "pairs": [
         {
-          "left": "I",
-          "right": "eu"
+          "left": "Laura (the writer)",
+          "right": "I"
         },
         {
-          "left": "you",
-          "right": "você"
+          "left": "Marco",
+          "right": "he"
         },
         {
-          "left": "he",
-          "right": "ele"
+          "left": "Ms. Lee",
+          "right": "she"
         },
         {
-          "left": "she",
-          "right": "ela"
+          "left": "Laura + classmates",
+          "right": "we"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "Replace the noun with the pronoun that fits number and gender."
     },
     {
       "id": "ex_a1_m1_l2_11",
@@ -168,12 +171,18 @@
       "topic": "subject_pronouns",
       "ruleId": "a1-subject-pronouns",
       "type": "ordering",
-      "question": "Put the words in the correct order to make a sentence.",
+      "question": "Put the words in order: a correct sentence about Laura.",
       "items": [
-        "am",
-        "I",
+        "a",
         "student",
-        "a"
+        "am",
+        "I"
+      ],
+      "correctOrder": [
+        "I",
+        "am",
+        "a",
+        "student"
       ],
       "answer": [
         "I",
@@ -181,23 +190,23 @@
         "a",
         "student"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "Subject + verb + complement: I am a student."
     },
     {
       "id": "ex_a1_m1_l2_12",
       "level": "A1",
       "topic": "subject_pronouns",
-      "ruleId": null,
+      "ruleId": "a1-subject-pronouns",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"he\"?",
+      "question": "From the reading: Laura, Marco and the group study together. Which sentence is correct?",
       "options": [
-        "ele",
-        "eu",
-        "você / vocês",
-        "none of these"
+        "We are a small group.",
+        "We is a small group.",
+        "Us are a small group.",
+        "He are a small group."
       ],
-      "answer": "ele",
-      "explanation": "\"he\" means \"ele\"."
+      "answer": "We are a small group.",
+      "explanation": "We (Laura + classmates) takes are — applied from the reading, not memorization of a random blank."
     }
   ]
 }

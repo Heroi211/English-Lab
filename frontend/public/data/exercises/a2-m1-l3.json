@@ -7,47 +7,47 @@
       "topic": "past_simple_q_neg",
       "ruleId": "a2-past-simple-q-neg",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Past Simple — Questions & Negatives):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "Did you enjoy it?",
         "Did you enjoy it?",
-        "No correct form.",
-        "it? enjoy you Did"
+        "The form is incomplete.",
+        "Did you enjoy it?"
       ],
       "answer": "Did you enjoy it?",
-      "explanation": "This follows the pattern taught in Past Simple — Questions & Negatives."
+      "explanation": "Correct pattern for Past Simple — Questions & Negatives: Did + subject + base verb: Did you go? | She didn't come."
     },
     {
       "id": "ex_a2_m1_l3_02",
       "level": "A2",
       "topic": "past_simple_q_neg",
-      "ruleId": null,
+      "ruleId": "a2-past-simple-q-neg",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Past Simple — Questions & Negatives\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ didn't know.",
       "options": [
-        "did",
-        "didn't",
-        "when",
-        "xyzabc"
+        "am",
+        "are",
+        "I",
+        "is"
       ],
-      "answer": "did",
-      "explanation": "\"did\" (auxiliar passado) is key vocabulary for this lesson."
+      "answer": "I",
+      "explanation": "Did + subject + base verb: Did you go? | She didn't come."
     },
     {
       "id": "ex_a2_m1_l3_03",
       "level": "A2",
       "topic": "past_simple_q_neg",
-      "ruleId": "a2-past-simple-q-neg",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ didn't know.",
+      "question": "What does \"when\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "auxiliar passado",
+        "quando",
+        "not used in this grammar",
+        "não (passado)"
       ],
-      "answer": "is",
-      "explanation": "Did + subject + base verb: Did you go? | She didn't come."
+      "answer": "quando",
+      "explanation": "\"when\" → quando."
     },
     {
       "id": "ex_a2_m1_l3_04",
@@ -55,12 +55,14 @@
       "topic": "past_simple_q_neg",
       "ruleId": "a2-past-simple-q-neg",
       "type": "fill_blank",
-      "question": "Complete: ___ you enjoy it?",
-      "answer": "is",
+      "question": "Complete: Did ___ enjoy it?",
+      "answer": "you",
       "answers": [
-        "is"
+        "you",
+        "you",
+        "You"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Did + subject + base verb: Did you go? | She didn't come."
     },
     {
       "id": "ex_a2_m1_l3_05",
@@ -69,9 +71,11 @@
       "ruleId": "a2-past-simple-q-neg",
       "type": "fill_blank",
       "question": "Complete: ___ didn't know.",
-      "answer": "are",
+      "answer": "I",
       "answers": [
-        "are"
+        "I",
+        "i",
+        "I"
       ],
       "explanation": "Did + subject + base verb: Did you go? | She didn't come."
     },
@@ -81,12 +85,14 @@
       "topic": "past_simple_q_neg",
       "ruleId": "a2-past-simple-q-neg",
       "type": "fill_blank",
-      "question": "Complete: ___ did they arrive?",
-      "answer": "am",
+      "question": "Complete: When did ___ arrive?",
+      "answer": "they",
       "answers": [
-        "am"
+        "they",
+        "they",
+        "They"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Did + subject + base verb: Did you go? | She didn't come."
     },
     {
       "id": "ex_a2_m1_l3_07",
@@ -94,9 +100,9 @@
       "topic": "past_simple_q_neg",
       "ruleId": "a2-past-simple-q-neg",
       "type": "true_false",
-      "question": "True or false: \"Did you enjoy it?\" is a correct example for this lesson.",
+      "question": "True or false: \"Did you enjoy it?\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m1_l3_08",
@@ -104,7 +110,7 @@
       "topic": "past_simple_q_neg",
       "ruleId": "a2-past-simple-q-neg",
       "type": "true_false",
-      "question": "True or false: Did you enjoy it? is grammatically correct.",
+      "question": "True or false: \"Did you enjoy it?\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +120,7 @@
       "topic": "past_simple_q_neg",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "did",
@@ -133,7 +139,7 @@
           "right": "por que"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m1_l3_10",
@@ -141,7 +147,7 @@
       "topic": "past_simple_q_neg",
       "ruleId": "a2-past-simple-q-neg",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "did",
@@ -160,7 +166,7 @@
           "right": "por que"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m1_l3_11",
@@ -171,6 +177,7 @@
       "question": "Find and correct the error: \"Did you enjoy it?\"",
       "answer": "Did you enjoy it?",
       "answers": [
+        "Did you enjoy it?",
         "Did you enjoy it?"
       ],
       "explanation": "Review the grammar rule for this lesson."
@@ -179,17 +186,17 @@
       "id": "ex_a2_m1_l3_12",
       "level": "A2",
       "topic": "past_simple_q_neg",
-      "ruleId": null,
+      "ruleId": "a2-past-simple-q-neg",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"when\"?",
+      "question": "From the reading \"Past Simple — Questions & Negatives in Context\": Which sentence best matches the lesson?",
       "options": [
-        "quando",
-        "auxiliar passado",
-        "não (passado)",
-        "none of these"
+        "I didn't know.",
+        "it? enjoy you Did",
+        "No sentence fits.",
+        "When did they arrive?"
       ],
-      "answer": "quando",
-      "explanation": "\"when\" means \"quando\"."
+      "answer": "I didn't know.",
+      "explanation": "I didn't know."
     }
   ]
 }

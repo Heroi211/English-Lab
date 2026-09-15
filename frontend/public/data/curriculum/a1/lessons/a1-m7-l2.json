@@ -127,15 +127,15 @@
     "questions": [
       {
         "id": "r1",
-        "question": "Which word is central to this lesson?",
+        "question": "Complete with a word from this skill: which form fits best in context?",
         "type": "multiple_choice",
         "answer": "o'clock",
-        "explanation": "Focus word: o'clock.",
+        "explanation": "Focus form: o'clock.",
         "options": [
           "o'clock",
           "half past",
-          "xyz",
-          "abc"
+          "quarter past",
+          "quarter to"
         ]
       },
       {

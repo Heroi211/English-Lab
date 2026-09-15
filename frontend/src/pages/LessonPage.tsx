@@ -246,6 +246,7 @@ export function LessonPage() {
             ))}
           </ul>
         </Card>
+        <LessonHistoryPanel lessonId={lesson.id} exercises={exercises} />
         <Card>
           <p className="font-mono text-xs text-zinc-600">NEED HELP?</p>
           <p className="mt-2 text-sm text-zinc-500">Ask the tutor with this lesson in context.</p>
@@ -256,6 +257,57 @@ export function LessonPage() {
         <Badge>{exercises.length} practice items</Badge>
       </aside>
     </div>
+  )
+}
+
+function LessonHistoryPanel({
+  lessonId,
+  exercises,
+}: {
+  lessonId: string
+  exercises: { id: string; question: string }[]
+}) {
+  const mistakes = useAppStore((s) => s.mistakes)
+  const writings = useAppStore((s) => s.writings[lessonId])
+  const history = useAppStore((s) => s.progress.exerciseHistory)
+  const exIds = new Set(exercises.map((e) => e.id))
+  const lessonMistakes = mistakes.filter((m) => exIds.has(m.exerciseId)).slice(0, 6)
+  const recent = history.filter((h) => exIds.has(String((h as { exerciseId?: string }).exerciseId || ''))).slice(-5)
+
+  return (
+    <Card>
+      <p className="font-mono text-xs text-zinc-600">YOUR WORK ON THIS LESSON</p>
+      {writings ? (
+        <div className="mt-3">
+          <p className="text-xs text-zinc-500">Saved writing</p>
+          <p className="mt-1 max-h-24 overflow-y-auto whitespace-pre-wrap text-sm text-zinc-300">{writings}</p>
+        </div>
+      ) : (
+        <p className="mt-3 text-sm text-zinc-600">No writing saved yet.</p>
+      )}
+      <div className="mt-4">
+        <p className="text-xs text-zinc-500">Open mistakes here</p>
+        {lessonMistakes.length ? (
+          <ul className="mt-2 space-y-2 text-sm text-zinc-400">
+            {lessonMistakes.map((m) => (
+              <li key={m.id} className="rounded-md border border-zinc-800 px-2 py-1.5">
+                <span className="font-mono text-[11px] text-red-400">yours:</span> {String(m.userAnswer)}
+                <br />
+                <span className="font-mono text-[11px] text-teal-500">correct:</span> {String(m.correctAnswer)}
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p className="mt-2 text-sm text-zinc-600">No open mistakes for this lesson.</p>
+        )}
+        <Link to="/review" className="mt-3 inline-block text-sm text-teal-400">
+          Practice mistakes →
+        </Link>
+      </div>
+      {recent.length ? (
+        <p className="mt-3 font-mono text-[11px] text-zinc-600">{recent.length} recent attempts logged</p>
+      ) : null}
+    </Card>
   )
 }
 
@@ -374,7 +426,9 @@ function WritingBlock({ lessonId, onDone }: { lessonId: string; onDone: () => vo
   const lesson = data?.lessons[lessonId]
   const markSectionComplete = useAppStore((s) => s.markSectionComplete)
   const touchStreak = useAppStore((s) => s.touchStreak)
-  const [text, setText] = useState('')
+  const saved = useAppStore((s) => s.writings[lessonId] || '')
+  const setWriting = useAppStore((s) => s.setWriting)
+  const [text, setText] = useState(saved)
   const [tips, setTips] = useState<string[]>([])
   if (!lesson) return null
   const words = text.trim() ? text.trim().split(/\s+/).length : 0
@@ -386,12 +440,24 @@ function WritingBlock({ lessonId, onDone }: { lessonId: string; onDone: () => vo
           <li key={h}>• {h}</li>
         ))}
       </ul>
-      <TextArea rows={8} value={text} onChange={(e) => setText(e.target.value)} placeholder="Write here…" />
+      {saved ? (
+        <p className="font-mono text-xs text-teal-500">Draft saved — you can revisit and edit anytime.</p>
+      ) : null}
+      <TextArea
+        rows={8}
+        value={text}
+        onChange={(e) => {
+          setText(e.target.value)
+          setWriting(lessonId, e.target.value)
+        }}
+        placeholder="Write here…"
+      />
       <p className="font-mono text-xs text-zinc-600">
         {words} words · min {lesson.writing.minWords}
       </p>
       <Button
         onClick={() => {
+          setWriting(lessonId, text)
           const t: string[] = []
           if (words < lesson.writing.minWords) t.push(`Aim for ${lesson.writing.minWords}+ words.`)
           const be = (text.match(/\b(am|is|are|was|were|will|'m|'s|'re)\b/gi) || []).length

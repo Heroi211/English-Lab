@@ -85,15 +85,8 @@ function generateLevel(levelId, cefr, modules, meta) {
       }
       stats.vocabularyFiles++;
 
-      // exercises
-      const exPath = `exercises/${lesson.id}.json`;
-      if (PRESERVE_LESSONS.has(lesson.id)) {
-        if (!readJsonIfExists(exPath)) {
-          writeJson(exPath, buildExercises(lesson));
-        }
-      } else {
-        writeJson(exPath, buildExercises(lesson));
-      }
+      // exercises — always regenerate (quality depends on current factory)
+      writeJson(`exercises/${lesson.id}.json`, buildExercises(lesson));
       stats.exerciseFiles++;
 
       // grammar

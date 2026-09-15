@@ -134,15 +134,15 @@
     "questions": [
       {
         "id": "r1",
-        "question": "Which word is central to this lesson?",
+        "question": "Complete with a word from this skill: which form fits best in context?",
         "type": "multiple_choice",
         "answer": "now",
-        "explanation": "Focus word: now.",
+        "explanation": "Focus form: now.",
         "options": [
           "now",
           "at the moment",
-          "xyz",
-          "abc"
+          "cook",
+          "read"
         ]
       },
       {

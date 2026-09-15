@@ -16,15 +16,15 @@
       "topic": "superlatives",
       "ruleId": "a2-superlatives",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Superlatives):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "This is the best pizza in town.",
-        "This XXX the best pizza in town.",
-        "No correct form.",
-        "town. in pizza best the is This"
+        "This is the best pizza in town.",
+        "The form is incomplete.",
+        "This is the best pizza in town."
       ],
       "answer": "This is the best pizza in town.",
-      "explanation": "This follows the pattern taught in Superlatives."
+      "explanation": "Correct pattern for Superlatives: The + -est (the oldest) or the most + adj (the most interesting)."
     },
     {
       "id": "cp_a2_m3_l2_02",
@@ -32,12 +32,14 @@
       "topic": "superlatives",
       "ruleId": "a2-superlatives",
       "type": "fill_blank",
-      "question": "Complete: This is ___ pizza in town.",
+      "question": "Complete: This ___ the best pizza in town.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "The + -est (the oldest) or the most + adj (the most interesting)."
     },
     {
       "id": "cp_a2_m3_l2_03",
@@ -45,25 +47,25 @@
       "topic": "superlatives",
       "ruleId": "a2-superlatives",
       "type": "true_false",
-      "question": "True or false: \"This is the best pizza in town.\" is a correct example for this lesson.",
+      "question": "True or false: \"This is the best pizza in town.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m3_l2_04",
       "level": "A2",
       "topic": "superlatives",
-      "ruleId": null,
+      "ruleId": "a2-superlatives",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Superlatives\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "the best",
-        "the worst",
-        "the most",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "the best",
-      "explanation": "\"the best\" (o melhor) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "The + -est (the oldest) or the most + adj (the most interesting)."
     },
     {
       "id": "cp_a2_m3_l2_05",
@@ -71,7 +73,7 @@
       "topic": "superlatives",
       "ruleId": "a2-superlatives",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "the best",
@@ -90,7 +92,7 @@
           "right": "no mundo"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

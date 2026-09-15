@@ -15,47 +15,47 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Much & Many):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "How much sugar?",
         "How much sugar?",
-        "No correct form.",
-        "sugar? much How"
+        "How much sugar?",
+        "The form is incomplete."
       ],
       "answer": "How much sugar?",
-      "explanation": "This follows the pattern taught in Much & Many."
+      "explanation": "Correct pattern for Much & Many: Many + plural countables | Much + uncountables (mainly ?/−)"
     },
     {
       "id": "mt_a2_m4_02",
       "level": "A2",
       "topic": "few_little",
-      "ruleId": null,
+      "ruleId": "a2-few-little",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Few & Little\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "few",
-        "little",
-        "a few",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "few",
-      "explanation": "\"few\" (poucos) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Few/a few + plural | Little/a little + uncountable"
     },
     {
       "id": "mt_a2_m4_03",
       "level": "A2",
       "topic": "containers",
-      "ruleId": "a2-containers",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ cup of coffee.",
+      "question": "What does \"piece\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "pedaço",
+        "xícara",
+        "garrafa",
+        "not used in this grammar"
       ],
-      "answer": "is",
-      "explanation": "A bottle of water | A cup of tea | A piece of cake | A kilo of rice"
+      "answer": "pedaço",
+      "explanation": "\"piece\" → pedaço / fatia."
     },
     {
       "id": "mt_a2_m4_04",
@@ -63,12 +63,12 @@
       "topic": "countability",
       "ruleId": "a2-countability",
       "type": "fill_blank",
-      "question": "Complete: Useful ___.",
+      "question": "Complete: She ___ a teacher.",
       "answer": "is",
       "answers": [
         "is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "mt_a2_m4_05",
@@ -76,9 +76,9 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "true_false",
-      "question": "True or false: \"How much sugar?\" is a correct example for this lesson.",
+      "question": "True or false: \"How much sugar?\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "mt_a2_m4_06",
@@ -86,7 +86,7 @@
       "topic": "few_little",
       "ruleId": "a2-few-little",
       "type": "true_false",
-      "question": "True or false: Few people came. is grammatically correct.",
+      "question": "True or false: \"Few people came.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -96,7 +96,7 @@
       "topic": "containers",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "bottle",
@@ -115,7 +115,7 @@
           "right": "quilo"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "mt_a2_m4_08",
@@ -123,7 +123,7 @@
       "topic": "countability",
       "ruleId": "a2-countability",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "information",
@@ -142,7 +142,7 @@
           "right": "notícia(s)"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

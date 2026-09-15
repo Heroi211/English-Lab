@@ -7,47 +7,47 @@
       "topic": "as_as",
       "ruleId": "a2-as-as",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (As … As):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "As fast as possible.",
         "As fast as possible.",
-        "No correct form.",
-        "possible. as fast As"
+        "The form is incomplete.",
+        "As fast as possible."
       ],
       "answer": "As fast as possible.",
-      "explanation": "This follows the pattern taught in As … As."
+      "explanation": "Correct pattern for As … As: Equal: as tall as | Not equal: not as/so expensive as"
     },
     {
       "id": "ex_a2_m3_l3_02",
       "level": "A2",
       "topic": "as_as",
-      "ruleId": null,
+      "ruleId": "a2-as-as",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"As … As\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "as",
-        "same",
-        "equal",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "as",
-      "explanation": "\"as\" (tão … como) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Equal: as tall as | Not equal: not as/so expensive as"
     },
     {
       "id": "ex_a2_m3_l3_03",
       "level": "A2",
       "topic": "as_as",
-      "ruleId": "a2-as-as",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ same price.",
+      "question": "What does \"equal\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "tão … como",
+        "igual",
+        "not used in this grammar",
+        "mesmo"
       ],
-      "answer": "is",
-      "explanation": "Equal: as tall as | Not equal: not as/so expensive as"
+      "answer": "igual",
+      "explanation": "\"equal\" → igual."
     },
     {
       "id": "ex_a2_m3_l3_04",
@@ -55,12 +55,12 @@
       "topic": "as_as",
       "ruleId": "a2-as-as",
       "type": "fill_blank",
-      "question": "Complete: ___ fast as possible.",
+      "question": "Complete: She ___ a teacher.",
       "answer": "is",
       "answers": [
         "is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m3_l3_05",
@@ -68,12 +68,12 @@
       "topic": "as_as",
       "ruleId": "a2-as-as",
       "type": "fill_blank",
-      "question": "Complete: ___ same price.",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "Equal: as tall as | Not equal: not as/so expensive as"
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m3_l3_06",
@@ -81,12 +81,12 @@
       "topic": "as_as",
       "ruleId": "a2-as-as",
       "type": "fill_blank",
-      "question": "Complete: ___ opportunities.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m3_l3_07",
@@ -94,9 +94,9 @@
       "topic": "as_as",
       "ruleId": "a2-as-as",
       "type": "true_false",
-      "question": "True or false: \"As fast as possible.\" is a correct example for this lesson.",
+      "question": "True or false: \"As fast as possible.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m3_l3_08",
@@ -104,7 +104,7 @@
       "topic": "as_as",
       "ruleId": "a2-as-as",
       "type": "true_false",
-      "question": "True or false: As fast as possible. is grammatically correct.",
+      "question": "True or false: \"As fast as possible.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +114,7 @@
       "topic": "as_as",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "as",
@@ -133,7 +133,7 @@
           "right": "similar"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m3_l3_10",
@@ -141,7 +141,7 @@
       "topic": "as_as",
       "ruleId": "a2-as-as",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "as",
@@ -160,7 +160,7 @@
           "right": "similar"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m3_l3_11",
@@ -171,7 +171,8 @@
       "question": "Find and correct the error: \"As fast as possible.\"",
       "answer": "As fast as possible.",
       "answers": [
-        "As fast as possible."
+        "As fast as possible.",
+        "As fast as possible"
       ],
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -179,17 +180,17 @@
       "id": "ex_a2_m3_l3_12",
       "level": "A2",
       "topic": "as_as",
-      "ruleId": null,
+      "ruleId": "a2-as-as",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"equal\"?",
+      "question": "From the reading \"As … As in Context\": Which sentence best matches the lesson?",
       "options": [
-        "igual",
-        "tão … como",
-        "mesmo",
-        "none of these"
+        "The same price.",
+        "possible. as fast As",
+        "No sentence fits.",
+        "Equal opportunities."
       ],
-      "answer": "igual",
-      "explanation": "\"equal\" means \"igual\"."
+      "answer": "The same price.",
+      "explanation": "The same price."
     }
   ]
 }

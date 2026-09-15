@@ -15,47 +15,47 @@
       "topic": "phrasals_1",
       "ruleId": "a2-phrasals-1",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Common Phrasal Verbs 1):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "Me get up at six.",
         "I get up at six.",
         "I get up at six.",
-        "No correct form.",
-        "six. at up get I"
+        "The form is incomplete."
       ],
       "answer": "I get up at six.",
-      "explanation": "This follows the pattern taught in Common Phrasal Verbs 1."
+      "explanation": "Correct pattern for Common Phrasal Verbs 1: Separable/inseparable basics: turn on the light / turn the light on"
     },
     {
       "id": "mt_a2_m8_02",
       "level": "A2",
       "topic": "phrasals_2",
-      "ruleId": null,
+      "ruleId": "a2-phrasals-2",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Common Phrasal Verbs 2\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "take off",
-        "put on",
-        "run out of",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "take off",
-      "explanation": "\"take off\" (tirar / decolar) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Take off (clothes/plane) | Put on | Run out of | Find out"
     },
     {
       "id": "mt_a2_m8_03",
       "level": "A2",
       "topic": "collocations",
-      "ruleId": "a2-collocations",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ do homework after dinner.",
+      "question": "What does \"heavy rain\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "fazer lição de casa",
+        "cometer um erro",
+        "chuva forte",
+        "not used in this grammar"
       ],
-      "answer": "is",
-      "explanation": "Make vs do: make a decision, do your best"
+      "answer": "chuva forte",
+      "explanation": "\"heavy rain\" → chuva forte."
     },
     {
       "id": "mt_a2_m8_04",
@@ -63,12 +63,14 @@
       "topic": "idioms_review",
       "ruleId": "a2-idioms",
       "type": "fill_blank",
-      "question": "Complete: A joke breaks the ice.",
-      "answer": "is",
+      "question": "Complete: ___ feel under the weather.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Break the ice, piece of cake, under the weather (intro level)"
     },
     {
       "id": "mt_a2_m8_05",
@@ -76,9 +78,9 @@
       "topic": "phrasals_1",
       "ruleId": "a2-phrasals-1",
       "type": "true_false",
-      "question": "True or false: \"I get up at six.\" is a correct example for this lesson.",
+      "question": "True or false: \"I get up at six.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "mt_a2_m8_06",
@@ -86,7 +88,7 @@
       "topic": "phrasals_2",
       "ruleId": "a2-phrasals-2",
       "type": "true_false",
-      "question": "True or false: The plane takes off at noon. is grammatically correct.",
+      "question": "True or false: \"The plane takes off at noon.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -96,7 +98,7 @@
       "topic": "collocations",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "make a mistake",
@@ -115,7 +117,7 @@
           "right": "comida rápida"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "mt_a2_m8_08",
@@ -123,7 +125,7 @@
       "topic": "idioms_review",
       "ruleId": "a2-idioms",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "break the ice",
@@ -142,7 +144,7 @@
           "right": "revisar"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

@@ -127,15 +127,15 @@
     "questions": [
       {
         "id": "r1",
-        "question": "Which word is central to this lesson?",
+        "question": "Complete with a word from this skill: which form fits best in context?",
         "type": "multiple_choice",
         "answer": "do",
-        "explanation": "Focus word: do.",
+        "explanation": "Focus form: do.",
         "options": [
           "do",
           "does",
-          "xyz",
-          "abc"
+          "what",
+          "when"
         ]
       },
       {

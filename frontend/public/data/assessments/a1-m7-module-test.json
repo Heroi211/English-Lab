@@ -15,47 +15,47 @@
       "topic": "numbers_dates",
       "ruleId": "a1-numbers-dates",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Numbers & Dates):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "Write the number here.",
         "Write the number here.",
-        "No correct form.",
-        "here. number the Write"
+        "Write the number here.",
+        "The form is incomplete."
       ],
       "answer": "Write the number here.",
-      "explanation": "This follows the pattern taught in Numbers & Dates."
+      "explanation": "Correct pattern for Numbers & Dates: Cardinal: twenty-one, one hundred"
     },
     {
       "id": "mt_a1_m7_02",
       "level": "A1",
       "topic": "telling_time",
-      "ruleId": null,
+      "ruleId": "a1-telling-time",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Telling the Time\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "o'clock",
-        "half past",
-        "quarter past",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "o'clock",
-      "explanation": "\"o'clock\" (em ponto) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "What time is it? — It is half past three. / 3:30"
     },
     {
       "id": "mt_a1_m7_03",
       "level": "A1",
       "topic": "days_months",
-      "ruleId": "a1-days-months",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ is my favourite day.",
+      "question": "What does \"January\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "janeiro",
+        "segunda-feira",
+        "sexta-feira",
+        "not used in this grammar"
       ],
-      "answer": "is",
-      "explanation": "On Monday | In January | In summer"
+      "answer": "janeiro",
+      "explanation": "\"January\" → janeiro."
     },
     {
       "id": "mt_a1_m7_04",
@@ -63,12 +63,14 @@
       "topic": "schedules",
       "ruleId": "a1-schedules",
       "type": "fill_blank",
-      "question": "Complete: I have an ___ at 3.",
-      "answer": "is",
+      "question": "Complete: ___ have an appointment at 3.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "What day? What time? — Let's meet on Friday at 2 p.m."
     },
     {
       "id": "mt_a1_m7_05",
@@ -76,9 +78,9 @@
       "topic": "numbers_dates",
       "ruleId": "a1-numbers-dates",
       "type": "true_false",
-      "question": "True or false: \"Write the number here.\" is a correct example for this lesson.",
+      "question": "True or false: \"Write the number here.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "mt_a1_m7_06",
@@ -86,7 +88,7 @@
       "topic": "telling_time",
       "ruleId": "a1-telling-time",
       "type": "true_false",
-      "question": "True or false: It WRONG three o'clock. is grammatically correct.",
+      "question": "True or false: \"It WRONG three o'clock.\" is correct English.",
       "answer": false,
       "explanation": "Review the rule for this lesson."
     },
@@ -96,7 +98,7 @@
       "topic": "days_months",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "Monday",
@@ -115,7 +117,7 @@
           "right": "verão"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "mt_a1_m7_08",
@@ -123,7 +125,7 @@
       "topic": "schedules",
       "ruleId": "a1-schedules",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "appointment",
@@ -142,7 +144,7 @@
           "right": "disponível"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

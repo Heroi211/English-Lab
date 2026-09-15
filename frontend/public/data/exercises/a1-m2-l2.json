@@ -7,47 +7,47 @@
       "topic": "articles",
       "ruleId": "a1-articles",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Articles a / an / the):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "I need a pen.",
-        "I need a pen.",
-        "No correct form.",
-        "pen. a need I"
+        "Me need a pen.",
+        "The form is incomplete.",
+        "I am engineer."
       ],
       "answer": "I need a pen.",
-      "explanation": "This follows the pattern taught in Articles a / an / the."
+      "explanation": "Correct pattern for Articles a / an / the: Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which"
     },
     {
       "id": "ex_a1_m2_l2_02",
       "level": "A1",
       "topic": "articles",
-      "ruleId": null,
+      "ruleId": "a1-articles",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Articles a / an / the\"?",
+      "question": "Choose the word that correctly completes the sentence: The pen on the desk ___ blue.",
       "options": [
-        "a",
-        "an",
-        "the",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "a",
-      "explanation": "\"a\" (um/uma) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which one. No article with plural g"
     },
     {
       "id": "ex_a1_m2_l2_03",
       "level": "A1",
       "topic": "articles",
-      "ruleId": "a1-articles",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ is an artist.",
+      "question": "What does \"the\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "um",
+        "um",
+        "o",
+        "not used in this grammar"
       ],
-      "answer": "is",
-      "explanation": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which one. No article with plural g"
+      "answer": "o",
+      "explanation": "\"the\" → o/a/os/as."
     },
     {
       "id": "ex_a1_m2_l2_04",
@@ -55,12 +55,14 @@
       "topic": "articles",
       "ruleId": "a1-articles",
       "type": "fill_blank",
-      "question": "Complete: I have ___ cat.",
-      "answer": "is",
+      "question": "Complete: ___ need a pen.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which one. No article wit"
     },
     {
       "id": "ex_a1_m2_l2_05",
@@ -68,12 +70,14 @@
       "topic": "articles",
       "ruleId": "a1-articles",
       "type": "fill_blank",
-      "question": "Complete: ___ is an artist.",
-      "answer": "are",
+      "question": "Complete: The pen on the desk ___ blue.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which"
+      "explanation": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which one. No article wit"
     },
     {
       "id": "ex_a1_m2_l2_06",
@@ -81,12 +85,14 @@
       "topic": "articles",
       "ruleId": "a1-articles",
       "type": "fill_blank",
-      "question": "Complete: ___ cat is black.",
-      "answer": "am",
+      "question": "Complete: ___ have a cat.",
+      "answer": "I",
       "answers": [
-        "am"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use a/an for singular countable nouns mentioned for the first time or as examples. Use the when the listener knows which one. No article wit"
     },
     {
       "id": "ex_a1_m2_l2_07",
@@ -94,9 +100,9 @@
       "topic": "articles",
       "ruleId": "a1-articles",
       "type": "true_false",
-      "question": "True or false: \"I need a pen.\" is a correct example for this lesson.",
+      "question": "True or false: \"I need a pen.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a1_m2_l2_08",
@@ -104,7 +110,7 @@
       "topic": "articles",
       "ruleId": "a1-articles",
       "type": "true_false",
-      "question": "True or false: I am engineer. is grammatically correct.",
+      "question": "True or false: \"I am engineer.\" is correct English.",
       "answer": false,
       "explanation": "Jobs need a/an."
     },
@@ -114,7 +120,7 @@
       "topic": "articles",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "a",
@@ -133,7 +139,7 @@
           "right": "livro"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a1_m2_l2_10",
@@ -141,7 +147,7 @@
       "topic": "articles",
       "ruleId": "a1-articles",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "a",
@@ -160,7 +166,7 @@
           "right": "livro"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a1_m2_l2_11",
@@ -170,34 +176,40 @@
       "type": "ordering",
       "question": "Put the words in the correct order to make a sentence.",
       "items": [
-        "cat",
+        "I",
+        "pen",
         "a",
-        "have",
-        "I"
+        "need"
+      ],
+      "correctOrder": [
+        "I",
+        "need",
+        "a",
+        "pen"
       ],
       "answer": [
         "I",
-        "have",
+        "need",
         "a",
-        "cat"
+        "pen"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a1_m2_l2_12",
       "level": "A1",
       "topic": "articles",
-      "ruleId": null,
+      "ruleId": "a1-articles",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"the\"?",
+      "question": "From the reading \"A Day at the Market\": Where is the bowl?",
       "options": [
-        "o/a/os/as",
-        "um/uma",
-        "um/uma (vogal)",
-        "none of these"
+        "in the bag",
+        "on the table",
+        "at the market",
+        "in the fridge"
       ],
-      "answer": "o/a/os/as",
-      "explanation": "\"the\" means \"o/a/os/as\"."
+      "answer": "on the table",
+      "explanation": "The bowl is on the table."
     }
   ]
 }

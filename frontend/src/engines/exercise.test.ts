@@ -40,7 +40,7 @@ describe('exercise validation', () => {
     expect(fb.correct).toBe(true)
   })
 
-  it('validates ordering', () => {
+  it('validates ordering against correctOrder/answer, not shuffled items', () => {
     const fb = validateAnswer(
       {
         id: 'ex3',
@@ -48,13 +48,30 @@ describe('exercise validation', () => {
         level: 'A1',
         topic: 'word_order',
         question: 'Order',
-        items: ['I', 'am', 'happy'],
-        correctOrder: ['I', 'am', 'happy'],
+        items: ['am', 'I', 'student', 'a'],
+        correctOrder: ['I', 'am', 'a', 'student'],
+        answer: ['I', 'am', 'a', 'student'],
         explanation: 'SVO',
       },
-      ['I', 'am', 'happy'],
+      ['I', 'am', 'a', 'student'],
     )
     expect(fb.correct).toBe(true)
+    expect(fb.expected).toEqual(['I', 'am', 'a', 'student'])
+
+    const wrong = validateAnswer(
+      {
+        id: 'ex3b',
+        type: 'ordering',
+        level: 'A1',
+        topic: 'word_order',
+        question: 'Order',
+        items: ['am', 'I', 'student', 'a'],
+        answer: ['I', 'am', 'a', 'student'],
+        explanation: 'SVO',
+      },
+      ['am', 'I', 'student', 'a'],
+    )
+    expect(wrong.correct).toBe(false)
   })
 })
 

@@ -16,15 +16,15 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Future with Will):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "Me will call you.",
+        "The form is incomplete.",
         "I will call you.",
-        "I XXX call you.",
-        "No correct form.",
-        "you. call will I"
+        "I WRONG call you."
       ],
       "answer": "I will call you.",
-      "explanation": "This follows the pattern taught in Future with Will."
+      "explanation": "Correct pattern for Future with Will: Will + base verb for all subjects. Contractions: I'll, she'll."
     },
     {
       "id": "cp_a2_m2_l1_02",
@@ -32,12 +32,14 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "fill_blank",
-      "question": "Complete: I ___ call you.",
-      "answer": "is",
+      "question": "Complete: ___ will call you.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Will + base verb for all subjects. Contractions: I'll, she'll."
     },
     {
       "id": "cp_a2_m2_l1_03",
@@ -45,25 +47,25 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "true_false",
-      "question": "True or false: \"I will call you.\" is a correct example for this lesson.",
+      "question": "True or false: \"I will call you.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m2_l1_04",
       "level": "A2",
       "topic": "future_will",
-      "ruleId": null,
+      "ruleId": "a2-future-will",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Future with Will\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ won't take long.",
       "options": [
-        "will",
-        "won't",
-        "probably",
-        "xyzabc"
+        "are",
+        "It",
+        "am",
+        "is"
       ],
-      "answer": "will",
-      "explanation": "\"will\" (verbo futuro) is key vocabulary for this lesson."
+      "answer": "It",
+      "explanation": "Will + base verb for all subjects. Contractions: I'll, she'll."
     },
     {
       "id": "cp_a2_m2_l1_05",
@@ -71,7 +73,7 @@
       "topic": "future_will",
       "ruleId": "a2-future-will",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "will",
@@ -90,7 +92,7 @@
           "right": "talvez"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

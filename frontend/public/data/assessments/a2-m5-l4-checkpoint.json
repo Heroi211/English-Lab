@@ -16,15 +16,15 @@
       "topic": "would_like",
       "ruleId": "a2-would-like",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Would Like):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "Me would like the bill.",
+        "The form is incomplete.",
         "I would like the bill.",
-        "I would like the bill.",
-        "No correct form.",
-        "bill. the like would I"
+        "I would like the bill."
       ],
       "answer": "I would like the bill.",
-      "explanation": "This follows the pattern taught in Would Like."
+      "explanation": "Correct pattern for Would Like: Would like + noun / to + verb: I'd like a tea. | Would you like…?"
     },
     {
       "id": "cp_a2_m5_l4_02",
@@ -32,12 +32,14 @@
       "topic": "would_like",
       "ruleId": "a2-would-like",
       "type": "fill_blank",
-      "question": "Complete: I ___ the bill.",
-      "answer": "is",
+      "question": "Complete: ___ would like the bill.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Would like + noun / to + verb: I'd like a tea. | Would you like…?"
     },
     {
       "id": "cp_a2_m5_l4_03",
@@ -45,25 +47,25 @@
       "topic": "would_like",
       "ruleId": "a2-would-like",
       "type": "true_false",
-      "question": "True or false: \"I would like the bill.\" is a correct example for this lesson.",
+      "question": "True or false: \"I would like the bill.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m5_l4_04",
       "level": "A2",
       "topic": "would_like",
-      "ruleId": null,
+      "ruleId": "a2-would-like",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Would Like\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ you ready to order?",
       "options": [
-        "would like",
-        "order",
-        "prefer",
-        "xyzabc"
+        "Are",
+        "is",
+        "have",
+        "am"
       ],
-      "answer": "would like",
-      "explanation": "\"would like\" (gostaria) is key vocabulary for this lesson."
+      "answer": "Are",
+      "explanation": "Would like + noun / to + verb: I'd like a tea. | Would you like…?"
     },
     {
       "id": "cp_a2_m5_l4_05",
@@ -71,7 +73,7 @@
       "topic": "would_like",
       "ruleId": "a2-would-like",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "would like",
@@ -90,7 +92,7 @@
           "right": "algo"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

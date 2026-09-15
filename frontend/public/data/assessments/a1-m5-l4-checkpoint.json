@@ -16,15 +16,15 @@
       "topic": "describing_pictures",
       "ruleId": "a1-describing-pictures",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Describing Pictures):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "In the picture there is a park.",
-        "In the picture there XXX a park.",
-        "No correct form.",
-        "park. a is there picture the In"
+        "The form is incomplete.",
+        "In the picture there WRONG a park.",
+        "In the picture there is a park."
       ],
       "answer": "In the picture there is a park.",
-      "explanation": "This follows the pattern taught in Describing Pictures."
+      "explanation": "Correct pattern for Describing Pictures: In the picture, a man is walking. Two children are playing."
     },
     {
       "id": "cp_a1_m5_l4_02",
@@ -32,12 +32,14 @@
       "topic": "describing_pictures",
       "ruleId": "a1-describing-pictures",
       "type": "fill_blank",
-      "question": "Complete: In the ___ there is a park.",
+      "question": "Complete: In the picture there ___ a park.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "In the picture, a man is walking. Two children are playing."
     },
     {
       "id": "cp_a1_m5_l4_03",
@@ -45,25 +47,25 @@
       "topic": "describing_pictures",
       "ruleId": "a1-describing-pictures",
       "type": "true_false",
-      "question": "True or false: \"In the picture there is a park.\" is a correct example for this lesson.",
+      "question": "True or false: \"In the picture there is a park.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a1_m5_l4_04",
       "level": "A1",
       "topic": "describing_pictures",
-      "ruleId": null,
+      "ruleId": "a1-describing-pictures",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Describing Pictures\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "picture",
-        "photo",
-        "wear",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "picture",
-      "explanation": "\"picture\" (imagem / foto) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "In the picture, a man is walking. Two children are playing."
     },
     {
       "id": "cp_a1_m5_l4_05",
@@ -71,7 +73,7 @@
       "topic": "describing_pictures",
       "ruleId": "a1-describing-pictures",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "picture",
@@ -90,7 +92,7 @@
           "right": "segurar"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

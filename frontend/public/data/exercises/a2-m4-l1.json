@@ -7,47 +7,47 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Much & Many):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "How much sugar?",
         "How much sugar?",
-        "No correct form.",
-        "sugar? much How"
+        "How much sugar?",
+        "The form is incomplete."
       ],
       "answer": "How much sugar?",
-      "explanation": "This follows the pattern taught in Much & Many."
+      "explanation": "Correct pattern for Much & Many: Many + plural countables | Much + uncountables (mainly ?/−)"
     },
     {
       "id": "ex_a2_m4_l1_02",
       "level": "A2",
       "topic": "much_many",
-      "ruleId": null,
+      "ruleId": "a2-much-many",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Much & Many\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "much",
-        "many",
-        "a lot of",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "much",
-      "explanation": "\"much\" (muito (incontável)) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Many + plural countables | Much + uncountables (mainly ?/−)"
     },
     {
       "id": "ex_a2_m4_l1_03",
       "level": "A2",
       "topic": "much_many",
-      "ruleId": "a2-much-many",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ many tickets?",
+      "question": "What does \"a lot of\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "muito",
+        "muitos",
+        "not used in this grammar",
+        "muito (incontável)"
       ],
-      "answer": "is",
-      "explanation": "Many + plural countables | Much + uncountables (mainly ?/−)"
+      "answer": "muito",
+      "explanation": "\"a lot of\" → muito / muitos."
     },
     {
       "id": "ex_a2_m4_l1_04",
@@ -55,12 +55,14 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "fill_blank",
-      "question": "Complete: How ___ sugar?",
-      "answer": "is",
+      "question": "Complete: How much does ___ cost?",
+      "answer": "it",
       "answers": [
-        "is"
+        "it",
+        "it",
+        "It"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Many + plural countables | Much + uncountables (mainly ?/−)"
     },
     {
       "id": "ex_a2_m4_l1_05",
@@ -68,12 +70,12 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "fill_blank",
-      "question": "Complete: ___ many tickets?",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "Many + plural countables | Much + uncountables (mainly ?/−)"
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m4_l1_06",
@@ -81,12 +83,12 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "fill_blank",
-      "question": "Complete: ___ lot of traffic.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m4_l1_07",
@@ -94,9 +96,9 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "true_false",
-      "question": "True or false: \"How much sugar?\" is a correct example for this lesson.",
+      "question": "True or false: \"How much sugar?\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m4_l1_08",
@@ -104,7 +106,7 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "true_false",
-      "question": "True or false: How much sugar? is grammatically correct.",
+      "question": "True or false: \"How much sugar?\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +116,7 @@
       "topic": "much_many",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "much",
@@ -133,7 +135,7 @@
           "right": "quanto"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m4_l1_10",
@@ -141,7 +143,7 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "much",
@@ -160,7 +162,7 @@
           "right": "quanto"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m4_l1_11",
@@ -171,6 +173,7 @@
       "question": "Find and correct the error: \"How much sugar?\"",
       "answer": "How much sugar?",
       "answers": [
+        "How much sugar?",
         "How much sugar?"
       ],
       "explanation": "Review the grammar rule for this lesson."
@@ -179,17 +182,17 @@
       "id": "ex_a2_m4_l1_12",
       "level": "A2",
       "topic": "much_many",
-      "ruleId": null,
+      "ruleId": "a2-much-many",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"a lot of\"?",
+      "question": "From the reading \"Much & Many in Context\": Which sentence best matches the lesson?",
       "options": [
-        "muito / muitos",
-        "muito (incontável)",
-        "muitos",
-        "none of these"
+        "How many tickets?",
+        "sugar? much How",
+        "No sentence fits.",
+        "A lot of traffic."
       ],
-      "answer": "muito / muitos",
-      "explanation": "\"a lot of\" means \"muito / muitos\"."
+      "answer": "How many tickets?",
+      "explanation": "How many tickets?"
     }
   ]
 }

@@ -16,15 +16,15 @@
       "topic": "demonstratives",
       "ruleId": "a1-demonstratives",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Demonstratives):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "This is a pen.",
-        "This XXX a pen.",
-        "No correct form.",
-        "pen. a is This"
+        "This are my books.",
+        "This is a pen.",
+        "The form is incomplete."
       ],
       "answer": "This is a pen.",
-      "explanation": "This follows the pattern taught in Demonstratives."
+      "explanation": "Correct pattern for Demonstratives: This/these = near the speaker. That/those = farther away. Match number: this/that + singular verb; these/those + plural "
     },
     {
       "id": "cp_a1_m2_l4_02",
@@ -32,12 +32,14 @@
       "topic": "demonstratives",
       "ruleId": "a1-demonstratives",
       "type": "fill_blank",
-      "question": "Complete: ___ is my bag.",
+      "question": "Complete: This ___ a pen.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "This/these = near the speaker. That/those = farther away. Match number: this/that + singular verb; these/those + plural verb."
     },
     {
       "id": "cp_a1_m2_l4_03",
@@ -45,25 +47,25 @@
       "topic": "demonstratives",
       "ruleId": "a1-demonstratives",
       "type": "true_false",
-      "question": "True or false: \"This is a pen.\" is a correct example for this lesson.",
+      "question": "True or false: \"This is a pen.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a1_m2_l4_04",
       "level": "A1",
       "topic": "demonstratives",
-      "ruleId": null,
+      "ruleId": "a1-demonstratives",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Demonstratives\"?",
+      "question": "Choose the word that correctly completes the sentence: Those buildings ___ old.",
       "options": [
-        "this",
-        "that",
-        "these",
-        "xyzabc"
+        "are",
+        "is",
+        "have",
+        "am"
       ],
-      "answer": "this",
-      "explanation": "\"this\" (este/esta/isto) is key vocabulary for this lesson."
+      "answer": "are",
+      "explanation": "This/these = near the speaker. That/those = farther away. Match number: this/that + singular verb; these/those + plural verb."
     },
     {
       "id": "cp_a1_m2_l4_05",
@@ -71,7 +73,7 @@
       "topic": "demonstratives",
       "ruleId": "a1-demonstratives",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "this",
@@ -90,7 +92,7 @@
           "right": "esses"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

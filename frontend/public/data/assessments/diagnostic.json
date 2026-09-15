@@ -13,49 +13,49 @@
       "topic": "verb_to_be",
       "ruleId": "a1-verb-to-be",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Verb To Be & Introductions):",
+      "question": "Choose the correct sentence.",
       "options": [
-        "I am Gabriel. I am from Brazil.",
-        "I XXX Gabriel. I am from Brazil.",
-        "No correct form.",
-        "Brazil. from am I Gabriel. am I"
+        "I am a student.",
+        "I is a student.",
+        "I are a student.",
+        "I be a student."
       ],
-      "answer": "I am Gabriel. I am from Brazil.",
-      "explanation": "This follows the pattern taught in The Verb To Be — Present Simple.",
+      "answer": "I am a student.",
+      "explanation": "With I, use am.",
       "estimatedBand": "A1"
     },
     {
       "id": "diag_02",
       "level": "A1",
       "topic": "questions_to_be",
-      "ruleId": null,
+      "ruleId": "a1-questions-to-be",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Questions with To Be\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ he your brother? — Yes, he is.",
       "options": [
-        "what",
-        "where",
-        "who",
-        "xyzabc"
+        "Is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "what",
-      "explanation": "\"what\" (o que / qual) is key vocabulary for this lesson.",
+      "answer": "Is",
+      "explanation": "Invert am/is/are and the subject for yes/no questions. Wh- questions start with What, Where, Who, How, etc. + am/is/are + subject.",
       "estimatedBand": "A1"
     },
     {
       "id": "diag_03",
       "level": "A1",
       "topic": "plurals",
-      "ruleId": "a1-plurals",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ children play outside.",
+      "question": "What does \"person\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "criança",
+        "pessoa",
+        "not used in this grammar",
+        "crianças"
       ],
-      "answer": "is",
-      "explanation": "Most nouns add -s for plural. Learn high-frequency irregular plurals. Verb agreement: one book → it is; two books → they are.",
+      "answer": "pessoa",
+      "explanation": "\"person\" → pessoa.",
       "estimatedBand": "A1"
     },
     {
@@ -64,12 +64,14 @@
       "topic": "have_has",
       "ruleId": "a1-have-has",
       "type": "fill_blank",
-      "question": "Complete: I ___ a bike.",
-      "answer": "is",
+      "question": "Complete: We ___ a small car.",
+      "answer": "have",
       "answers": [
-        "is"
+        "have",
+        "have",
+        "Have"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap.",
+      "explanation": "Have with I, you, we, they. Has with he, she, it. Questions and negatives use do/does + base have: Does he have a bike?",
       "estimatedBand": "A1"
     },
     {
@@ -78,10 +80,12 @@
       "topic": "present_simple_aff",
       "ruleId": "a1-present-simple-aff",
       "type": "fill_blank",
-      "question": "Complete: ___ live in London.",
-      "answer": "are",
+      "question": "Complete: ___ study every day.",
+      "answer": "I",
       "answers": [
-        "are"
+        "I",
+        "i",
+        "I"
       ],
       "explanation": "Daily routines and permanent situations: add -s for he/she/it.",
       "estimatedBand": "A1"
@@ -92,12 +96,12 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "fill_blank",
-      "question": "Complete: ___ often meet on Fridays.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson.",
+      "explanation": "Use is with he/she/it.",
       "estimatedBand": "A1"
     },
     {
@@ -106,9 +110,9 @@
       "topic": "simple_vs_continuous",
       "ruleId": "a1-simple-vs-continuous",
       "type": "true_false",
-      "question": "True or false: \"Smoking is a bad habit.\" is a correct example for this lesson.",
+      "question": "True or false: \"Smoking is a bad habit.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson.",
+      "explanation": "This sentence follows the target grammar.",
       "estimatedBand": "A1"
     },
     {
@@ -117,7 +121,7 @@
       "topic": "prepositions_place",
       "ruleId": "a1-prepositions-place",
       "type": "true_false",
-      "question": "True or false: The garden WRONG behind the house. is grammatically correct.",
+      "question": "True or false: \"The garden WRONG behind the house.\" is correct English.",
       "answer": false,
       "explanation": "Review the rule for this lesson.",
       "estimatedBand": "A1"
@@ -128,7 +132,7 @@
       "topic": "numbers_dates",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "number",
@@ -147,7 +151,7 @@
           "right": "terceiro"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson.",
+      "explanation": "Review the core vocabulary for this skill.",
       "estimatedBand": "A1"
     },
     {
@@ -156,7 +160,7 @@
       "topic": "schedules",
       "ruleId": "a1-schedules",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "appointment",
@@ -175,7 +179,7 @@
           "right": "disponível"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic.",
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill.",
       "estimatedBand": "A1"
     },
     {
@@ -184,49 +188,49 @@
       "topic": "past_simple_regular",
       "ruleId": "a2-past-simple-regular",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Past Simple — Regular Verbs):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "The form is incomplete.",
         "I worked yesterday.",
         "I worked yesterday.",
-        "No correct form.",
-        "yesterday. worked I"
+        "Me worked yesterday."
       ],
       "answer": "I worked yesterday.",
-      "explanation": "This follows the pattern taught in Past Simple — Regular Verbs.",
+      "explanation": "Correct pattern for Past Simple — Regular Verbs: Regular past: add -ed (work → worked, play → played). Pronunciation: /t/, /d/, /ɪd/.",
       "estimatedBand": "A2"
     },
     {
       "id": "diag_12",
       "level": "A2",
       "topic": "past_time",
-      "ruleId": null,
+      "ruleId": "a2-past-time",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Past Time Expressions\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ moved last year.",
       "options": [
-        "last month",
-        "last year",
-        "in 2020",
-        "xyzabc"
+        "They",
+        "are",
+        "is",
+        "am"
       ],
-      "answer": "last month",
-      "explanation": "\"last month\" (mês passado) is key vocabulary for this lesson.",
+      "answer": "They",
+      "explanation": "Last + period: last month, last year | … ago: three years ago | In + past year: in 2019 | On + past day: on Monday (finished)",
       "estimatedBand": "A2"
     },
     {
       "id": "diag_13",
       "level": "A2",
       "topic": "present_for_future",
-      "ruleId": "a2-present-for-future",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ are flying on Tuesday.",
+      "question": "What does \"arrangement\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "combinado",
+        "not used in this grammar",
+        "voando",
+        "reunião"
       ],
-      "answer": "is",
-      "explanation": "Am/is/are + -ing for arranged future: I am meeting John at 6.",
+      "answer": "combinado",
+      "explanation": "\"arrangement\" → combinado.",
       "estimatedBand": "A2"
     },
     {
@@ -235,12 +239,14 @@
       "topic": "superlatives",
       "ruleId": "a2-superlatives",
       "type": "fill_blank",
-      "question": "Complete: This is ___ pizza in town.",
+      "question": "Complete: This ___ the best pizza in town.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap.",
+      "explanation": "The + -est (the oldest) or the most + adj (the most interesting).",
       "estimatedBand": "A2"
     },
     {
@@ -249,12 +255,12 @@
       "topic": "much_many",
       "ruleId": "a2-much-many",
       "type": "fill_blank",
-      "question": "Complete: ___ many tickets?",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "Many + plural countables | Much + uncountables (mainly ?/−)",
+      "explanation": "Use is with he/she/it.",
       "estimatedBand": "A2"
     },
     {
@@ -263,12 +269,12 @@
       "topic": "countability",
       "ruleId": "a2-countability",
       "type": "fill_blank",
-      "question": "Complete: ___ furniture.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson.",
+      "explanation": "Use is with he/she/it.",
       "estimatedBand": "A2"
     },
     {
@@ -277,9 +283,9 @@
       "topic": "must_have_to",
       "ruleId": "a2-must-have-to",
       "type": "true_false",
-      "question": "True or false: \"You must wear a seatbelt.\" is a correct example for this lesson.",
+      "question": "True or false: \"You must wear a seatbelt.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson.",
+      "explanation": "This sentence follows the target grammar.",
       "estimatedBand": "A2"
     },
     {
@@ -288,7 +294,7 @@
       "topic": "ever_never",
       "ruleId": "a2-ever-never",
       "type": "true_false",
-      "question": "True or false: WRONG you ever been abroad? is grammatically correct.",
+      "question": "True or false: \"WRONG you ever been abroad?\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson.",
       "estimatedBand": "A2"
@@ -299,7 +305,7 @@
       "topic": "first_conditional",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "if",
@@ -318,7 +324,7 @@
           "right": "condição"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson.",
+      "explanation": "Review the core vocabulary for this skill.",
       "estimatedBand": "A2"
     },
     {
@@ -327,7 +333,7 @@
       "topic": "mixed_cond_intro",
       "ruleId": "a2-mixed-cond-intro",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "real",
@@ -346,7 +352,7 @@
           "right": "improvável"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic.",
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill.",
       "estimatedBand": "A2"
     }
   ]

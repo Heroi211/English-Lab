@@ -7,47 +7,47 @@
       "topic": "countability",
       "ruleId": "a2-countability",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Countable vs Uncountable):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "Useful information.",
+        "The form is incomplete.",
         "Useful information.",
-        "No correct form.",
-        "information. Useful"
+        "Useful information."
       ],
       "answer": "Useful information.",
-      "explanation": "This follows the pattern taught in Countable vs Uncountable."
+      "explanation": "Correct pattern for Countable vs Uncountable: Countable: one apple, two apples | Uncountable: rice, information (no plural *informations)"
     },
     {
       "id": "ex_a2_m4_l4_02",
       "level": "A2",
       "topic": "countability",
-      "ruleId": null,
+      "ruleId": "a2-countability",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Countable vs Uncountable\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "information",
-        "advice",
-        "furniture",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "information",
-      "explanation": "\"information\" (informação) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Countable: one apple, two apples | Uncountable: rice, information (no plural *informations)"
     },
     {
       "id": "ex_a2_m4_l4_03",
       "level": "A2",
       "topic": "countability",
-      "ruleId": "a2-countability",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ advice.",
+      "question": "What does \"furniture\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "informação",
+        "not used in this grammar",
+        "mobília",
+        "conselho"
       ],
-      "answer": "is",
-      "explanation": "Countable: one apple, two apples | Uncountable: rice, information (no plural *informations)"
+      "answer": "mobília",
+      "explanation": "\"furniture\" → mobília."
     },
     {
       "id": "ex_a2_m4_l4_04",
@@ -55,12 +55,12 @@
       "topic": "countability",
       "ruleId": "a2-countability",
       "type": "fill_blank",
-      "question": "Complete: Useful ___.",
+      "question": "Complete: She ___ a teacher.",
       "answer": "is",
       "answers": [
         "is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m4_l4_05",
@@ -68,12 +68,12 @@
       "topic": "countability",
       "ruleId": "a2-countability",
       "type": "fill_blank",
-      "question": "Complete: ___ advice.",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "Countable: one apple, two apples | Uncountable: rice, information (no plural *informations)"
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m4_l4_06",
@@ -81,12 +81,12 @@
       "topic": "countability",
       "ruleId": "a2-countability",
       "type": "fill_blank",
-      "question": "Complete: ___ furniture.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a2_m4_l4_07",
@@ -94,9 +94,9 @@
       "topic": "countability",
       "ruleId": "a2-countability",
       "type": "true_false",
-      "question": "True or false: \"Useful information.\" is a correct example for this lesson.",
+      "question": "True or false: \"Useful information.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m4_l4_08",
@@ -104,7 +104,7 @@
       "topic": "countability",
       "ruleId": "a2-countability",
       "type": "true_false",
-      "question": "True or false: Useful information. is grammatically correct.",
+      "question": "True or false: \"Useful information.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +114,7 @@
       "topic": "countability",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "information",
@@ -133,7 +133,7 @@
           "right": "notícia(s)"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m4_l4_10",
@@ -141,7 +141,7 @@
       "topic": "countability",
       "ruleId": "a2-countability",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "information",
@@ -160,7 +160,7 @@
           "right": "notícia(s)"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m4_l4_11",
@@ -173,27 +173,31 @@
         "information",
         "Useful"
       ],
+      "correctOrder": [
+        "Useful",
+        "information"
+      ],
       "answer": [
         "Useful",
         "information"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a2_m4_l4_12",
       "level": "A2",
       "topic": "countability",
-      "ruleId": null,
+      "ruleId": "a2-countability",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"furniture\"?",
+      "question": "From the reading \"Countable vs Uncountable in Context\": Which sentence best matches the lesson?",
       "options": [
-        "mobília",
-        "informação",
-        "conselho",
-        "none of these"
+        "Good advice.",
+        "information. Useful",
+        "No sentence fits.",
+        "Modern furniture."
       ],
-      "answer": "mobília",
-      "explanation": "\"furniture\" means \"mobília\"."
+      "answer": "Good advice.",
+      "explanation": "Good advice."
     }
   ]
 }

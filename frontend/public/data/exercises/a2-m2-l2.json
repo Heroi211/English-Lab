@@ -7,47 +7,47 @@
       "topic": "future_going_to",
       "ruleId": "a2-future-going-to",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Future with Going To):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "We are going to move.",
-        "We XXX going to move.",
-        "No correct form.",
-        "move. to going are We"
+        "The form is incomplete.",
+        "Me are going to move.",
+        "We are going to move."
       ],
       "answer": "We are going to move.",
-      "explanation": "This follows the pattern taught in Future with Going To."
+      "explanation": "Correct pattern for Future with Going To: Am/is/are + going to + verb."
     },
     {
       "id": "ex_a2_m2_l2_02",
       "level": "A2",
       "topic": "future_going_to",
-      "ruleId": null,
+      "ruleId": "a2-future-going-to",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Future with Going To\"?",
+      "question": "Choose the word that correctly completes the sentence: What ___ your plan?",
       "options": [
-        "going to",
-        "plan",
-        "intend",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "going to",
-      "explanation": "\"going to\" (ir (futuro planeado)) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Am/is/are + going to + verb."
     },
     {
       "id": "ex_a2_m2_l2_03",
       "level": "A2",
       "topic": "future_going_to",
-      "ruleId": "a2-future-going-to",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ is your plan?",
+      "question": "What does \"intend\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "not used in this grammar",
+        "pretender",
+        "ir (futuro planeado)",
+        "plano"
       ],
-      "answer": "is",
-      "explanation": "Am/is/are + going to + verb."
+      "answer": "pretender",
+      "explanation": "\"intend\" → pretender."
     },
     {
       "id": "ex_a2_m2_l2_04",
@@ -55,12 +55,14 @@
       "topic": "future_going_to",
       "ruleId": "a2-future-going-to",
       "type": "fill_blank",
-      "question": "Complete: We are ___ move.",
-      "answer": "is",
+      "question": "Complete: We ___ going to move.",
+      "answer": "are",
       "answers": [
-        "is"
+        "are",
+        "are",
+        "Are"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Am/is/are + going to + verb."
     },
     {
       "id": "ex_a2_m2_l2_05",
@@ -68,10 +70,12 @@
       "topic": "future_going_to",
       "ruleId": "a2-future-going-to",
       "type": "fill_blank",
-      "question": "Complete: ___ is your plan?",
-      "answer": "are",
+      "question": "Complete: What ___ your plan?",
+      "answer": "is",
       "answers": [
-        "are"
+        "is",
+        "is",
+        "Is"
       ],
       "explanation": "Am/is/are + going to + verb."
     },
@@ -82,11 +86,13 @@
       "ruleId": "a2-future-going-to",
       "type": "fill_blank",
       "question": "Complete: ___ intend to apply.",
-      "answer": "am",
+      "answer": "I",
       "answers": [
-        "am"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Am/is/are + going to + verb."
     },
     {
       "id": "ex_a2_m2_l2_07",
@@ -94,9 +100,9 @@
       "topic": "future_going_to",
       "ruleId": "a2-future-going-to",
       "type": "true_false",
-      "question": "True or false: \"We are going to move.\" is a correct example for this lesson.",
+      "question": "True or false: \"We are going to move.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a2_m2_l2_08",
@@ -104,7 +110,7 @@
       "topic": "future_going_to",
       "ruleId": "a2-future-going-to",
       "type": "true_false",
-      "question": "True or false: We are going to move. is grammatically correct.",
+      "question": "True or false: \"We are going to move.\" is correct English.",
       "answer": false,
       "explanation": "Review the grammar rule for this lesson."
     },
@@ -114,7 +120,7 @@
       "topic": "future_going_to",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "going to",
@@ -133,7 +139,7 @@
           "right": "preparar"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a2_m2_l2_10",
@@ -141,7 +147,7 @@
       "topic": "future_going_to",
       "ruleId": "a2-future-going-to",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "going to",
@@ -160,7 +166,7 @@
           "right": "preparar"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a2_m2_l2_11",
@@ -170,11 +176,18 @@
       "type": "ordering",
       "question": "Put the words in the correct order to make a sentence.",
       "items": [
-        "to",
-        "We",
-        "move",
         "are",
-        "going"
+        "to",
+        "going",
+        "move",
+        "We"
+      ],
+      "correctOrder": [
+        "We",
+        "are",
+        "going",
+        "to",
+        "move"
       ],
       "answer": [
         "We",
@@ -183,23 +196,23 @@
         "to",
         "move"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a2_m2_l2_12",
       "level": "A2",
       "topic": "future_going_to",
-      "ruleId": null,
+      "ruleId": "a2-future-going-to",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"intend\"?",
+      "question": "From the reading \"Future with Going To in Context\": Which sentence best matches the lesson?",
       "options": [
-        "pretender",
-        "ir (futuro planeado)",
-        "plano",
-        "none of these"
+        "What is your plan?",
+        "move. to going are We",
+        "No sentence fits.",
+        "I intend to apply."
       ],
-      "answer": "pretender",
-      "explanation": "\"intend\" means \"pretender\"."
+      "answer": "What is your plan?",
+      "explanation": "What is your plan?"
     }
   ]
 }

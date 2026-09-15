@@ -16,15 +16,15 @@
       "topic": "first_conditional",
       "ruleId": "a2-first-conditional",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (If + Present, Will):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "The form is incomplete.",
         "If you need help, call me.",
         "If you need help, call me.",
-        "No correct form.",
-        "me. call help, need you If"
+        "If you need help, call me."
       ],
       "answer": "If you need help, call me.",
-      "explanation": "This follows the pattern taught in If + Present, Will."
+      "explanation": "Correct pattern for If + Present, Will: If + present simple, will + base: If it rains, I will stay home."
     },
     {
       "id": "cp_a2_m7_l1_02",
@@ -32,12 +32,14 @@
       "topic": "first_conditional",
       "ruleId": "a2-first-conditional",
       "type": "fill_blank",
-      "question": "Complete: ___ you need help, call me.",
-      "answer": "is",
+      "question": "Complete: If ___ need help, call me.",
+      "answer": "you",
       "answers": [
-        "is"
+        "you",
+        "you",
+        "You"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "If + present simple, will + base: If it rains, I will stay home."
     },
     {
       "id": "cp_a2_m7_l1_03",
@@ -45,25 +47,25 @@
       "topic": "first_conditional",
       "ruleId": "a2-first-conditional",
       "type": "true_false",
-      "question": "True or false: \"If you need help, call me.\" is a correct example for this lesson.",
+      "question": "True or false: \"If you need help, call me.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a2_m7_l1_04",
       "level": "A2",
       "topic": "first_conditional",
-      "ruleId": null,
+      "ruleId": "a2-first-conditional",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"If + Present, Will\"?",
+      "question": "Choose the word that correctly completes the sentence: Unless ___ rains, we will go.",
       "options": [
-        "if",
-        "unless",
-        "probably",
-        "xyzabc"
+        "am",
+        "are",
+        "is",
+        "it"
       ],
-      "answer": "if",
-      "explanation": "\"if\" (se) is key vocabulary for this lesson."
+      "answer": "it",
+      "explanation": "If + present simple, will + base: If it rains, I will stay home."
     },
     {
       "id": "cp_a2_m7_l1_05",
@@ -71,7 +73,7 @@
       "topic": "first_conditional",
       "ruleId": "a2-first-conditional",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "if",
@@ -90,7 +92,7 @@
           "right": "condição"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

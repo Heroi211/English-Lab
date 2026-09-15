@@ -7,47 +7,47 @@
       "topic": "telling_time",
       "ruleId": "a1-telling-time",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Telling the Time):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "It WRONG three o'clock.",
         "It is three o'clock.",
-        "It XXX three o'clock.",
-        "No correct form.",
-        "o'clock. three is It"
+        "The form is incomplete.",
+        "Me is three o'clock."
       ],
       "answer": "It is three o'clock.",
-      "explanation": "This follows the pattern taught in Telling the Time."
+      "explanation": "Correct pattern for Telling the Time: What time is it? — It is half past three. / 3:30"
     },
     {
       "id": "ex_a1_m7_l2_02",
       "level": "A1",
       "topic": "telling_time",
-      "ruleId": null,
+      "ruleId": "a1-telling-time",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Telling the Time\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "o'clock",
-        "half past",
-        "quarter past",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "o'clock",
-      "explanation": "\"o'clock\" (em ponto) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "What time is it? — It is half past three. / 3:30"
     },
     {
       "id": "ex_a1_m7_l2_03",
       "level": "A1",
       "topic": "telling_time",
-      "ruleId": "a1-telling-time",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ past two.",
+      "question": "What does \"quarter past\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "em ponto",
+        "e meia",
+        "not used in this grammar",
+        "e quinze"
       ],
-      "answer": "is",
-      "explanation": "What time is it? — It is half past three. / 3:30"
+      "answer": "e quinze",
+      "explanation": "\"quarter past\" → e quinze."
     },
     {
       "id": "ex_a1_m7_l2_04",
@@ -55,12 +55,14 @@
       "topic": "telling_time",
       "ruleId": "a1-telling-time",
       "type": "fill_blank",
-      "question": "Complete: It is three ___.",
+      "question": "Complete: It ___ three o'clock.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "What time is it? — It is half past three. / 3:30"
     },
     {
       "id": "ex_a1_m7_l2_05",
@@ -68,12 +70,12 @@
       "topic": "telling_time",
       "ruleId": "a1-telling-time",
       "type": "fill_blank",
-      "question": "Complete: ___ past two.",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "What time is it? — It is half past three. / 3:30"
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a1_m7_l2_06",
@@ -81,12 +83,12 @@
       "topic": "telling_time",
       "ruleId": "a1-telling-time",
       "type": "fill_blank",
-      "question": "Complete: ___ past ten.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a1_m7_l2_07",
@@ -94,9 +96,9 @@
       "topic": "telling_time",
       "ruleId": "a1-telling-time",
       "type": "true_false",
-      "question": "True or false: \"It is three o'clock.\" is a correct example for this lesson.",
+      "question": "True or false: \"It is three o'clock.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a1_m7_l2_08",
@@ -104,7 +106,7 @@
       "topic": "telling_time",
       "ruleId": "a1-telling-time",
       "type": "true_false",
-      "question": "True or false: It WRONG three o'clock. is grammatically correct.",
+      "question": "True or false: \"It WRONG three o'clock.\" is correct English.",
       "answer": false,
       "explanation": "Review the rule for this lesson."
     },
@@ -114,7 +116,7 @@
       "topic": "telling_time",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "o'clock",
@@ -133,7 +135,7 @@
           "right": "menos quarto"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a1_m7_l2_10",
@@ -141,7 +143,7 @@
       "topic": "telling_time",
       "ruleId": "a1-telling-time",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "o'clock",
@@ -160,7 +162,7 @@
           "right": "menos quarto"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a1_m7_l2_11",
@@ -170,10 +172,16 @@
       "type": "ordering",
       "question": "Put the words in the correct order to make a sentence.",
       "items": [
+        "is",
         "o'clock",
+        "It",
+        "three"
+      ],
+      "correctOrder": [
+        "It",
         "is",
         "three",
-        "It"
+        "o'clock"
       ],
       "answer": [
         "It",
@@ -181,23 +189,23 @@
         "three",
         "o'clock"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a1_m7_l2_12",
       "level": "A1",
       "topic": "telling_time",
-      "ruleId": null,
+      "ruleId": "a1-telling-time",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"quarter past\"?",
+      "question": "From the reading \"Telling the Time — Reading\": Complete with a word from this skill: which form fits best in context?",
       "options": [
-        "e quinze",
-        "em ponto",
-        "e meia",
-        "none of these"
+        "o'clock",
+        "half past",
+        "quarter past",
+        "quarter to"
       ],
-      "answer": "e quinze",
-      "explanation": "\"quarter past\" means \"e quinze\"."
+      "answer": "o'clock",
+      "explanation": "Focus form: o'clock."
     }
   ]
 }

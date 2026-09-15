@@ -16,15 +16,15 @@
       "topic": "present_simple_aff",
       "ruleId": "a1-present-simple-aff",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Present Simple — Affirmative):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "I WRONG in an office.",
+        "The form is incomplete.",
         "I work in an office.",
-        "I work in an office.",
-        "No correct form.",
-        "office. an in work I"
+        "Me work in an office."
       ],
       "answer": "I work in an office.",
-      "explanation": "This follows the pattern taught in Present Simple — Affirmative."
+      "explanation": "Correct pattern for Present Simple — Affirmative: Daily routines and permanent situations: add -s for he/she/it."
     },
     {
       "id": "cp_a1_m4_l1_02",
@@ -32,12 +32,14 @@
       "topic": "present_simple_aff",
       "ruleId": "a1-present-simple-aff",
       "type": "fill_blank",
-      "question": "Complete: I ___ in an office.",
-      "answer": "is",
+      "question": "Complete: ___ work in an office.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Daily routines and permanent situations: add -s for he/she/it."
     },
     {
       "id": "cp_a1_m4_l1_03",
@@ -45,25 +47,25 @@
       "topic": "present_simple_aff",
       "ruleId": "a1-present-simple-aff",
       "type": "true_false",
-      "question": "True or false: \"I work in an office.\" is a correct example for this lesson.",
+      "question": "True or false: \"I work in an office.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a1_m4_l1_04",
       "level": "A1",
       "topic": "present_simple_aff",
-      "ruleId": null,
+      "ruleId": "a1-present-simple-aff",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Present Simple — Affirmative\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ live in London.",
       "options": [
-        "work",
-        "live",
-        "like",
-        "xyzabc"
+        "They",
+        "are",
+        "is",
+        "am"
       ],
-      "answer": "work",
-      "explanation": "\"work\" (trabalhar) is key vocabulary for this lesson."
+      "answer": "They",
+      "explanation": "Daily routines and permanent situations: add -s for he/she/it."
     },
     {
       "id": "cp_a1_m4_l1_05",
@@ -71,7 +73,7 @@
       "topic": "present_simple_aff",
       "ruleId": "a1-present-simple-aff",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "work",
@@ -90,7 +92,7 @@
           "right": "todos os dias"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

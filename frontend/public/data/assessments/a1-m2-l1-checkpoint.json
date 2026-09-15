@@ -16,15 +16,15 @@
       "topic": "possessives",
       "ruleId": "a1-possessives",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Possessive Adjectives):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
+        "She name is Ana.",
         "This is my house.",
-        "This XXX my house.",
-        "No correct form.",
-        "house. my is This"
+        "The form is incomplete.",
+        "This is my house."
       ],
       "answer": "This is my house.",
-      "explanation": "This follows the pattern taught in Possessive Adjectives."
+      "explanation": "Correct pattern for Possessive Adjectives: Possessive adjectives replace articles before nouns: my book, her car. Match the owner: his = a man/boy, her = a woman/g"
     },
     {
       "id": "cp_a1_m2_l1_02",
@@ -32,12 +32,14 @@
       "topic": "possessives",
       "ruleId": "a1-possessives",
       "type": "fill_blank",
-      "question": "Complete: This is ___ book.",
+      "question": "Complete: This ___ my house.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Possessive adjectives replace articles before nouns: my book, her car. Match the owner: his = a man/boy, her = a woman/girl, their = plural."
     },
     {
       "id": "cp_a1_m2_l1_03",
@@ -45,25 +47,25 @@
       "topic": "possessives",
       "ruleId": "a1-possessives",
       "type": "true_false",
-      "question": "True or false: \"This is my house.\" is a correct example for this lesson.",
+      "question": "True or false: \"This is my house.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a1_m2_l1_04",
       "level": "A1",
       "topic": "possessives",
-      "ruleId": null,
+      "ruleId": "a1-possessives",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Possessive Adjectives\"?",
+      "question": "Choose the word that correctly completes the sentence: Their children ___ young.",
       "options": [
-        "my",
-        "your",
-        "his",
-        "xyzabc"
+        "are",
+        "is",
+        "have",
+        "am"
       ],
-      "answer": "my",
-      "explanation": "\"my\" (meu/minha) is key vocabulary for this lesson."
+      "answer": "are",
+      "explanation": "Possessive adjectives replace articles before nouns: my book, her car. Match the owner: his = a man/boy, her = a woman/girl, their = plural."
     },
     {
       "id": "cp_a1_m2_l1_05",
@@ -71,7 +73,7 @@
       "topic": "possessives",
       "ruleId": "a1-possessives",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "my",
@@ -90,7 +92,7 @@
           "right": "dela"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

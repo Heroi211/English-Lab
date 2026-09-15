@@ -33,11 +33,14 @@ interface AppState {
   mistakes: Mistake[]
   reviewQueue: ReviewItem[]
   diagnostic: DiagnosticResult | null
+  /** Writing drafts keyed by lessonId — survives revisits via localStorage. */
+  writings: Record<string, string>
   setProgress: (partial: Partial<ProgressState>) => void
   setSettings: (partial: Partial<Settings>) => void
   setMistakes: (mistakes: Mistake[]) => void
   setReviewQueue: (queue: ReviewItem[]) => void
   setDiagnostic: (d: DiagnosticResult | null) => void
+  setWriting: (lessonId: string, text: string) => void
   patchMastery: (topic: string, score: number) => void
   markSectionComplete: (lessonId: string, section: string) => void
   unlockLesson: (lessonId: string) => void
@@ -82,12 +85,14 @@ export const useAppStore = create<AppState>()(
       mistakes: [],
       reviewQueue: [],
       diagnostic: null,
+      writings: {},
 
       setProgress: (partial) => set({ progress: { ...get().progress, ...partial } }),
       setSettings: (partial) => set({ settings: { ...get().settings, ...partial } }),
       setMistakes: (mistakes) => set({ mistakes }),
       setReviewQueue: (reviewQueue) => set({ reviewQueue }),
       setDiagnostic: (diagnostic) => set({ diagnostic }),
+      setWriting: (lessonId, text) => set({ writings: { ...get().writings, [lessonId]: text } }),
 
       patchMastery: (topic, score) => {
         const mastery = { ...get().progress.mastery, [topic]: score }
@@ -144,6 +149,7 @@ export const useAppStore = create<AppState>()(
             mistakes: get().mistakes,
             reviewQueue: get().reviewQueue,
             diagnostic: get().diagnostic,
+            writings: get().writings,
             exportedAt: new Date().toISOString(),
           },
           null,
@@ -158,6 +164,7 @@ export const useAppStore = create<AppState>()(
           mistakes: data.mistakes || [],
           reviewQueue: data.reviewQueue || [],
           diagnostic: data.diagnostic || null,
+          writings: data.writings || {},
         })
       },
 
@@ -167,6 +174,7 @@ export const useAppStore = create<AppState>()(
           mistakes: [],
           reviewQueue: [],
           diagnostic: null,
+          writings: {},
         }),
     }),
     { name: 'ej-learning-v1' },

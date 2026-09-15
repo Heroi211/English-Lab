@@ -7,47 +7,47 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Describing a Place):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "There is a mirror on the wall.",
-        "There XXX a mirror on the wall.",
-        "No correct form.",
-        "wall. the on mirror a is There"
+        "The form is incomplete.",
+        "The book is in the table.",
+        "There is a mirror on the wall."
       ],
       "answer": "There is a mirror on the wall.",
-      "explanation": "This follows the pattern taught in Describing Places."
+      "explanation": "Correct pattern for Describing Places: Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, i"
     },
     {
       "id": "ex_a1_m3_l4_02",
       "level": "A1",
       "topic": "describing_places",
-      "ruleId": null,
+      "ruleId": "a1-describing-places",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Describing a Place\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ keys in her bag.",
       "options": [
-        "in",
-        "on",
-        "under",
-        "xyzabc"
+        "is",
+        "am",
+        "has",
+        "are"
       ],
-      "answer": "in",
-      "explanation": "\"in\" (em / dentro de) is key vocabulary for this lesson."
+      "answer": "has",
+      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the door."
     },
     {
       "id": "ex_a1_m3_l4_03",
       "level": "A1",
       "topic": "describing_places",
-      "ruleId": "a1-describing-places",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ cup is on the table.",
+      "question": "What does \"under\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "em",
+        "not used in this grammar",
+        "debaixo de",
+        "em"
       ],
-      "answer": "is",
-      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the door."
+      "answer": "debaixo de",
+      "explanation": "\"under\" → debaixo de."
     },
     {
       "id": "ex_a1_m3_l4_04",
@@ -55,12 +55,14 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "fill_blank",
-      "question": "Complete: The keys are ___ the bag.",
+      "question": "Complete: There ___ a mirror on the wall.",
       "answer": "is",
       "answers": [
-        "is"
+        "is",
+        "is",
+        "Is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the do"
     },
     {
       "id": "ex_a1_m3_l4_05",
@@ -68,12 +70,14 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "fill_blank",
-      "question": "Complete: ___ cup is on the table.",
-      "answer": "are",
+      "question": "Complete: She ___ keys in her bag.",
+      "answer": "has",
       "answers": [
-        "are"
+        "has",
+        "has",
+        "Has"
       ],
-      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, i"
+      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the do"
     },
     {
       "id": "ex_a1_m3_l4_06",
@@ -81,12 +85,14 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "fill_blank",
-      "question": "Complete: ___ cat is under the bed.",
-      "answer": "am",
+      "question": "Complete: The keys ___ in the bag.",
+      "answer": "are",
       "answers": [
-        "am"
+        "are",
+        "are",
+        "Are"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the do"
     },
     {
       "id": "ex_a1_m3_l4_07",
@@ -94,9 +100,9 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "true_false",
-      "question": "True or false: \"There is a mirror on the wall.\" is a correct example for this lesson.",
+      "question": "True or false: \"There is a mirror on the wall.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a1_m3_l4_08",
@@ -104,7 +110,7 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "true_false",
-      "question": "True or false: The book is in the table. is grammatically correct.",
+      "question": "True or false: \"The book is in the table.\" is correct English.",
       "answer": false,
       "explanation": "On for surfaces; in for enclosed spaces."
     },
@@ -114,7 +120,7 @@
       "topic": "describing_places",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "in",
@@ -133,7 +139,7 @@
           "right": "ao lado de"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a1_m3_l4_10",
@@ -141,7 +147,7 @@
       "topic": "describing_places",
       "ruleId": "a1-describing-places",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "in",
@@ -160,7 +166,7 @@
           "right": "ao lado de"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a1_m3_l4_11",
@@ -170,13 +176,22 @@
       "type": "ordering",
       "question": "Put the words in the correct order to make a sentence.",
       "items": [
-        "a",
+        "is",
         "There",
-        "the",
+        "book",
+        "table",
+        "on",
+        "a",
+        "the"
+      ],
+      "correctOrder": [
+        "There",
+        "is",
+        "a",
         "book",
         "on",
-        "table",
-        "is"
+        "the",
+        "table"
       ],
       "answer": [
         "There",
@@ -187,23 +202,23 @@
         "the",
         "table"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a1_m3_l4_12",
       "level": "A1",
       "topic": "describing_places",
-      "ruleId": null,
+      "ruleId": "a1-describing-places",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"under\"?",
+      "question": "Apply the grammar: There ___ a mirror on the wall.",
       "options": [
-        "debaixo de",
-        "em / dentro de",
-        "em / sobre",
-        "none of these"
+        "am",
+        "are",
+        "I",
+        "is"
       ],
-      "answer": "debaixo de",
-      "explanation": "\"under\" means \"debaixo de\"."
+      "answer": "is",
+      "explanation": "Use there is/are for existence in a place; have/has for ownership. Add prepositions for precise location: on the wall, in the bag, at the door."
     }
   ]
 }

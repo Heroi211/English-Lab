@@ -113,15 +113,15 @@
     "questions": [
       {
         "id": "r1",
-        "question": "Which word is central to this lesson?",
+        "question": "Complete with a word from this skill: which form fits best in context?",
         "type": "multiple_choice",
         "answer": "Monday",
-        "explanation": "Focus word: Monday.",
+        "explanation": "Focus form: Monday.",
         "options": [
           "Monday",
           "Friday",
-          "xyz",
-          "abc"
+          "January",
+          "summer"
         ]
       },
       {

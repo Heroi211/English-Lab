@@ -16,15 +16,15 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Adverbs of Frequency):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "I always drink water.",
-        "I always drink water.",
-        "No correct form.",
-        "water. drink always I"
+        "Me always drink water.",
+        "The form is incomplete.",
+        "I always drink water."
       ],
       "answer": "I always drink water.",
-      "explanation": "This follows the pattern taught in Adverbs of Frequency."
+      "explanation": "Correct pattern for Adverbs of Frequency: Adverbs go BEFORE main verb: I always brush my teeth."
     },
     {
       "id": "cp_a1_m4_l4_02",
@@ -32,12 +32,14 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "fill_blank",
-      "question": "Complete: I ___ drink water.",
-      "answer": "is",
+      "question": "Complete: ___ always drink water.",
+      "answer": "I",
       "answers": [
-        "is"
+        "I",
+        "i",
+        "I"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Adverbs go BEFORE main verb: I always brush my teeth."
     },
     {
       "id": "cp_a1_m4_l4_03",
@@ -45,25 +47,25 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "true_false",
-      "question": "True or false: \"I always drink water.\" is a correct example for this lesson.",
+      "question": "True or false: \"I always drink water.\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "cp_a1_m4_l4_04",
       "level": "A1",
       "topic": "adverbs_frequency",
-      "ruleId": null,
+      "ruleId": "a1-adverbs-frequency",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Adverbs of Frequency\"?",
+      "question": "Choose the word that correctly completes the sentence: ___ usually walks.",
       "options": [
-        "always",
-        "usually",
-        "often",
-        "xyzabc"
+        "is",
+        "are",
+        "She",
+        "am"
       ],
-      "answer": "always",
-      "explanation": "\"always\" (sempre) is key vocabulary for this lesson."
+      "answer": "She",
+      "explanation": "Adverbs go BEFORE main verb: I always brush my teeth."
     },
     {
       "id": "cp_a1_m4_l4_05",
@@ -71,7 +73,7 @@
       "topic": "adverbs_frequency",
       "ruleId": "a1-adverbs-frequency",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "always",
@@ -90,7 +92,7 @@
           "right": "às vezes"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     }
   ]
 }

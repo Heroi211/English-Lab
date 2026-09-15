@@ -7,47 +7,47 @@
       "topic": "imperatives",
       "ruleId": "a1-imperatives",
       "type": "multiple_choice",
-      "question": "Choose the best sentence for this lesson (Imperatives):",
+      "question": "Which sentence is grammatically correct?",
       "options": [
         "Stop!",
         "Stop!",
-        "No correct form.",
-        "Stop!"
+        "Stop!",
+        "The form is incomplete."
       ],
       "answer": "Stop!",
-      "explanation": "This follows the pattern taught in Imperatives."
+      "explanation": "Correct pattern for Imperatives: Base verb for orders: Stop! Sit down. Open the book."
     },
     {
       "id": "ex_a1_m6_l4_02",
       "level": "A1",
       "topic": "imperatives",
-      "ruleId": null,
+      "ruleId": "a1-imperatives",
       "type": "multiple_choice",
-      "question": "Which word fits the lesson topic \"Imperatives\"?",
+      "question": "Choose the word that correctly completes the sentence: She ___ happy.",
       "options": [
-        "stop",
-        "wait",
-        "open",
-        "xyzabc"
+        "is",
+        "have",
+        "are",
+        "am"
       ],
-      "answer": "stop",
-      "explanation": "\"stop\" (pare) is key vocabulary for this lesson."
+      "answer": "is",
+      "explanation": "Base verb for orders: Stop! Sit down. Open the book."
     },
     {
       "id": "ex_a1_m6_l4_03",
       "level": "A1",
       "topic": "imperatives",
-      "ruleId": "a1-imperatives",
+      "ruleId": null,
       "type": "multiple_choice",
-      "question": "Complete using the lesson grammar: ___ wait.",
+      "question": "What does \"open\" mean?",
       "options": [
-        "is",
-        "are",
-        "am",
-        "be"
+        "espere",
+        "not used in this grammar",
+        "abrir",
+        "pare"
       ],
-      "answer": "is",
-      "explanation": "Base verb for orders: Stop! Sit down. Open the book."
+      "answer": "abrir",
+      "explanation": "\"open\" → abrir."
     },
     {
       "id": "ex_a1_m6_l4_04",
@@ -55,12 +55,12 @@
       "topic": "imperatives",
       "ruleId": "a1-imperatives",
       "type": "fill_blank",
-      "question": "Complete: ___!",
+      "question": "Complete: She ___ a teacher.",
       "answer": "is",
       "answers": [
         "is"
       ],
-      "explanation": "Use the grammar from this lesson to complete the gap."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a1_m6_l4_05",
@@ -68,12 +68,12 @@
       "topic": "imperatives",
       "ruleId": "a1-imperatives",
       "type": "fill_blank",
-      "question": "Complete: ___ wait.",
-      "answer": "are",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "are"
+        "is"
       ],
-      "explanation": "Base verb for orders: Stop! Sit down. Open the book."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a1_m6_l4_06",
@@ -81,12 +81,12 @@
       "topic": "imperatives",
       "ruleId": "a1-imperatives",
       "type": "fill_blank",
-      "question": "Complete: ___ the door.",
-      "answer": "am",
+      "question": "Complete: She ___ a teacher.",
+      "answer": "is",
       "answers": [
-        "am"
+        "is"
       ],
-      "explanation": "Check subject–verb agreement from this lesson."
+      "explanation": "Use is with he/she/it."
     },
     {
       "id": "ex_a1_m6_l4_07",
@@ -94,9 +94,9 @@
       "topic": "imperatives",
       "ruleId": "a1-imperatives",
       "type": "true_false",
-      "question": "True or false: \"Stop!\" is a correct example for this lesson.",
+      "question": "True or false: \"Stop!\" is correct English.",
       "answer": true,
-      "explanation": "This sentence follows the grammar taught in this lesson."
+      "explanation": "This sentence follows the target grammar."
     },
     {
       "id": "ex_a1_m6_l4_08",
@@ -104,7 +104,7 @@
       "topic": "imperatives",
       "ruleId": "a1-imperatives",
       "type": "true_false",
-      "question": "True or false: Stop! is grammatically correct.",
+      "question": "True or false: \"Stop!\" is correct English.",
       "answer": false,
       "explanation": "Review the rule for this lesson."
     },
@@ -114,7 +114,7 @@
       "topic": "imperatives",
       "ruleId": null,
       "type": "matching",
-      "question": "Match each word with its Portuguese translation.",
+      "question": "Match each English item with its Portuguese meaning.",
       "pairs": [
         {
           "left": "stop",
@@ -133,7 +133,7 @@
           "right": "fechar"
         }
       ],
-      "explanation": "Review key vocabulary from this lesson."
+      "explanation": "Review the core vocabulary for this skill."
     },
     {
       "id": "ex_a1_m6_l4_10",
@@ -141,7 +141,7 @@
       "topic": "imperatives",
       "ruleId": "a1-imperatives",
       "type": "matching",
-      "question": "Match each item with the correct category.",
+      "question": "Match the related forms or meanings.",
       "pairs": [
         {
           "left": "stop",
@@ -160,7 +160,7 @@
           "right": "fechar"
         }
       ],
-      "explanation": "These pairs reinforce the lesson topic."
+      "explanation": "These pairs reinforce the grammar or vocabulary of the skill."
     },
     {
       "id": "ex_a1_m6_l4_11",
@@ -172,26 +172,29 @@
       "items": [
         "Stop"
       ],
+      "correctOrder": [
+        "Stop"
+      ],
       "answer": [
         "Stop"
       ],
-      "explanation": "Word order follows standard English patterns from this lesson."
+      "explanation": "English word order is usually Subject + Verb + Complement."
     },
     {
       "id": "ex_a1_m6_l4_12",
       "level": "A1",
       "topic": "imperatives",
-      "ruleId": null,
+      "ruleId": "a1-imperatives",
       "type": "multiple_choice",
-      "question": "What is the correct translation of \"open\"?",
+      "question": "From the reading \"Imperatives — Reading\": Complete with a word from this skill: which form fits best in context?",
       "options": [
-        "abrir",
-        "pare",
-        "espere",
-        "none of these"
+        "stop",
+        "wait",
+        "open",
+        "close"
       ],
-      "answer": "abrir",
-      "explanation": "\"open\" means \"abrir\"."
+      "answer": "stop",
+      "explanation": "Focus form: stop."
     }
   ]
 }
